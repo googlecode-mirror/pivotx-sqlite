@@ -13,23 +13,15 @@ if (!isset($query_count)) { $query_count = 0; }
 if (!isset($query_log)) { $query_log = array(); }
 
 /**
- * Class SQL: a simple DB class.
+ * Class AbstractSQL: a simple DB class.
  *
- * For more information and instructions, see: http://www.twokings.eu/tools/
- *
- * This file is part of A Simple SQL Class. A Simple SQL Class and all its
- * parts are licensed under the GPL version 2. see:
- * http://www.twokings.eu/tools/license for more information.
-
- * @version 1.0
- * @author Bob den Otter, bob@twokings.nl
+ * @version 0.1
+ * @author Jean Paul Piccato, j2pguard-spam@yahoo.com
  * @copyright GPL, version 2
- * @link http://twokings.eu/tools/
  *
  */
-class sql {
+abstract class abstractSql {
 
-    // mysql database credentials
     var $dbhost;
     var $dbuser;
     var $dbpass;
@@ -46,14 +38,13 @@ class sql {
     var $return_silent;
     var $error_handler;
 
-    function sql($type="", $dbase="", $host="", $user="", $pass="") {
+    function sql($dbase="", $host="", $user="", $pass="") {
         global $cfg;
-
-        $this->type = $type;
+	
         $this->dbhost = $host;
         $this->dbuser = $user;
         $this->dbpass = $pass;
-        $this->dbase =$dbase;
+        $this->dbase = $dbase;
 
         $this->sql_link = 0;
         $this->sql_result = '';
@@ -72,119 +63,13 @@ class sql {
     /**
      * Set up the Database connection, depending on the selected DB model.
      */
-    function connection() {
-        global $return_silent;
-
-        /**
-         * If we had a connection error before, perhaps we should return
-         * quietly, to prevent the user's screen from overflowing with SQL
-         * errors. We use the global $return_silent, so it works if you have
-         * multiple instances of the sql object.
-         */
-        if ($return_silent == true) {
-            return false;
-        }
-
-
-
-        switch($this->type) {
-
-            case "mysql":
-
-                 /**
-                 * Set up a link for MySQL model
-                 */
-
-                // Set up the link, if not already done so.
-                if ($this->sql_link == 0) {
-
-                    // See if we can connect to the Mysql Database Engine.
-                    if ($this->sql_link = @mysql_connect($this->dbhost, $this->dbuser, $this->dbpass)) {
-                       // Yes, so now see if we can select the database.
-
-                       if (!mysql_select_db($this->dbase)) {
-
-                          // We couldn't connect to the database. Print an error.
-                          $this->error( "Can't select Database '<tt>". $this->dbase ."</tt>'" , '', mysql_errno($this->sql_link) );
-
-                          // If silent_after_failed_connect is set, from now on return without errors/warnings
-                          if($this->silent_after_failed_connect) {
-                              $return_silent = true;
-                          }
-
-
-                          return false;
-
-                       }
-                       
-                        // Set the DB to always use UTF-8, if we're on MySQL 4.1 or higher..
-                        $result = mysql_query("SELECT VERSION() as version;");
-                        $row = mysql_fetch_assoc($result);
-
-                        if (check_version($row['version'], "4.1.0")) {
-                            mysql_query("SET CHARACTER SET 'utf8'", $this->sql_link);
-                        }
-
-                    } else {
-
-                        // No, couldn't. So we print an error
-                        $this->error( "Can't connect to MySQL Database Engine", '', '' );
-
-                        // If silent_after_failed_connect is set, from now on return without errors/warnings
-                        if($this->silent_after_failed_connect) {
-                            $return_silent = true;
-                        }
-
-                        return false;
-
-                    }
-
-                }
-
-                return true;
-                break;
-
-            case "sqlite":
-
-                /**
-                 * Set up a link for SQLite model
-                 */
-
-                // .. TODO
-
-                break;
-
-
-            case "postgresql":
-
-                /**
-                 * Set up a link for PostgreSQL model
-                 */
-
-                // .. TODO
-
-                break;
-
-            default:
-
-                $this->error("Unknown Database Model!");
-                break;
-
-
-        }
-
-
-    }
+    abstract function connection();
 
 
     /**
-     * Close Mysql link
+     * Close sql link
      */
-    function close() {
-
-        mysql_close( $this->sql_link );
-
-    }
+    abstract function close();
 
 
     /**
@@ -192,15 +77,15 @@ class sql {
      *
      * @return string
      */
-    function get_server_info() {
+    abstract function get_server_info();
 
-        $version = mysql_get_server_info();
-        list($version) = split("_", $version);
-
-        return $version;
-
-    }
-
+    /**
+     * Gets the current MySQL version
+     *
+     * @return string
+     */
+    abstract function get_internal_error();
+    
     /**
      * If an error has occured, we print a message. If 'halt_on_sql_error' is
      * set, we die(), else we continue.
@@ -213,11 +98,10 @@ class sql {
     function error( $error_msg="", $sql_query, $error_no )  {
         global $cfg;
 
-        // if no error message was given, use the mysql error:
+        // if no error message was given, use the internal db error:
         if ( ($error_msg == "") && ($error_no != 0) ) {
-            $error_msg = mysql_error();
+            $error_msg = $this->get_internal_error();
         }
-
 
         /**
          * If we have a defined error_handler, we call that, else we'll print our own.
@@ -235,7 +119,7 @@ class sql {
             $error_page = "<div style='border: 1px solid #AAA; padding: 4px; background-color: #EEE; font-family: Consolas, Courier, \"Courier New\", monospace; font-size: 80%;'><strong>mySQL Error</strong>".
             "\n\nThere appears to be an error while trying to complete your request.\n\n".
             "<strong>Query: </strong>      ".htmlentities($sql_query)."\n".
-            "<strong>mySQL error:</strong> ".htmlentities($error_msg)."\n".
+            "<strong>SQL error:</strong> ".htmlentities($error_msg)."\n".
             "<strong>Error code:</strong>  {$error_no}\n".
             "<strong>Date:</strong>        {$error_date}\n</div>\n";
 
@@ -254,8 +138,13 @@ class sql {
 
     }
 
+		abstract function sql_affected_rows();
 
+		abstract function sql_doquery($query, $link_identifier);
+		
+		abstract function sql_errno($link_identifier);
 
+		abstract function getTableList($filter="");
 
     /**
      * Performs a query. Either pass the query to e executed as a parameter,
@@ -279,10 +168,10 @@ class sql {
         // Set the last_query
         $this->last_query = $query;
 
-		$now = timetaken('int');
+				$now = timetaken('int');
 
         // execute it.
-        $this->sql_result = @mysql_query( $query, $this->sql_link );
+        $this->sql_result = @$this->sql_doquery( $query, $this->sql_link );
 
         // If we're profiling, we use the following to get an array of all queries.
         // We also debug queries that took relatively long to perform.
@@ -292,7 +181,7 @@ class sql {
 
             if ((timetaken('int') - $now) > 0.4) {
                 debug("\nStart: ". $now ." - timetaken: " . $timetaken);
-			    debug(htmlentities($query)."\n\n");
+			    			debug(htmlentities($query)."\n\n");
                 debug_printbacktrace();
             }
 
@@ -314,10 +203,9 @@ class sql {
 
         
 
-        if (!$this->sql_result) {
-
+        if ($this->sql_result === false) {
             // If an error occured, we output the error.
-            $this->error('', $this->last_query, mysql_errno( $this->sql_link ) );
+            $this->error('', $this->last_query, $this->sql_errno($this->sql_link));
 
             $this->num_affected_rows = 0;
 
@@ -328,7 +216,7 @@ class sql {
             // Count the num of results, and raise the total query count.
             $GLOBALS['query_count']++;
 
-            $this->num_affected_rows = mysql_affected_rows();
+            $this->num_affected_rows = $this->affected_rows();
 
             return true;
 
@@ -357,38 +245,12 @@ class sql {
      *
      * @param  none
      */
-    function get_last_id() {
-
-        // If there's no DB connection yet, set one up if we can.
-        if(!$this->connection()) {
-            return false;
-        }
-
-
-        $this->query("SELECT LAST_INSERT_ID() AS id");
-
-        $row = $this->fetch_row();
-
-
-        return $row['id'];
-
-    }
+    abstract function get_last_id();
 
     /**
      * Gets the number of selected rows
      */
-    function num_rows()  {
-
-        // If there's no DB connection yet, set one up if we can.
-        if(!$this->connection()) {
-            return false;
-        }
-
-        $mysql_rows = mysql_num_rows( $this->sql_result );
-
-        return $mysql_rows;
-
-    }
+    abstract function num_rows();
 
 
     /**
@@ -401,15 +263,15 @@ class sql {
             return false;
         }
 
-        $mysql_affected_rows = mysql_affected_rows( $this->sql_link );
+        $sql_affected_rows = $this->sql_affected_rows( $this->sql_link );
 
-        return $mysql_affected_rows;
+        return $sql_affected_rows;
 
     }
 
 
 
-    /**
+   /**
      * Quote variable to make safe to use in a SQL query. If you pass
      * $skipquotes as true, the string will just have added slashes, otherwise it
      * will be wrapped in quotes for convenience
@@ -419,24 +281,12 @@ class sql {
      * @return string quoted value
      */
     function quote($value, $skipquotes=false) {
-
         // If there's no DB connection yet, set one up if we can.
         if(!$this->connection()) {
             return false;
         }
 
-        // Stripslashes
-        //if (get_magic_quotes_gpc()) {
-        //    $value = stripslashes($value);
-        //}
-
-        //check if this function exists
-        if( function_exists( "mysql_real_escape_string" ) ) {
-            $value = mysql_real_escape_string( $value );
-        }  else   {
-            //for PHP version < 4.3.0 use addslashes
-            $value = addslashes( $value );
-        }
+        $value = addslashes( $value );
 
         if(!$skipquotes) {
             $value = "'" . $value . "'";
@@ -445,7 +295,6 @@ class sql {
         return $value;
     }
 
-
     /**
      * Fetch a single row from the last results.
      *
@@ -453,28 +302,7 @@ class sql {
      * @return array row
      *
      */
-    function fetch_row($getnames="with_names") {
-
-        if ( $this->num_rows() > 0 ) {
-
-            if ($getnames != "no_names") {
-                $mysql_array = mysql_fetch_assoc( $this->sql_result );
-            } else {
-                $mysql_array = mysql_fetch_row( $this->sql_result );
-            }
-
-            if (!is_array( $mysql_array )) {
-                return false;
-            } else {
-                return $mysql_array;
-            }
-        } else {
-
-            return false;
-
-        }
-    }
-
+    abstract function fetch_row($getnames="with_names");
 
     /**
      * Fetch all rows from the last results.
@@ -483,40 +311,13 @@ class sql {
      * @return array rows
      *
      */
-    function fetch_all_rows($getnames="with_names") {
-
-        $results = array();
-
-        if ( $this->num_rows() > 0 ) {
-
-            if ($getnames!="no_names") {
-                while($row = mysql_fetch_assoc( $this->sql_result )) {
-                    $results[] = $row;
-                }
-            } else {
-                while($row = mysql_fetch_row( $this->sql_result )) {
-                    $results[] = $row;
-                }
-
-            }
-
-            return $results;
-
-        } else {
-
-            return false;
-
-        }
-
-    }
+    abstract function fetch_all_rows($getnames="with_names");
 
     /**
      * Returns the number of executed queries
      */
     function query_count() {
-
         return $GLOBALS['query_count'];
-
     }
 
 
@@ -728,7 +529,7 @@ class sql {
 
             foreach( $q['values'] as $key => $value) {
 
-                if($this->is_mysql_function($value)) {
+                if($this->is_sql_function($value)) {
                     $q['values'][$key] = $value;
                 } else {
                     $q['values'][$key] = $this->quote($value);
@@ -800,7 +601,7 @@ class sql {
                 $key = $q['fields'][$i];
                 $value =$q['values'][$i];
 
-                if($this->is_mysql_function($value)) {
+                if($this->is_sql_function($value)) {
                     $values[] = sprintf(" %s=%s ",$key, $value );
                 } else {
                     $values[] = sprintf(" %s=%s ",$key, $this->quote($value) );
@@ -904,28 +705,24 @@ class sql {
         return $output;
     }
 
-
     /**
-     * Checks if the parameter is an mysql function or not. used to determine
+     * Checks if the parameter is an sql function or not. used to determine
      * whether or not a parameter needs to be escaped.
      *
-     * $this->is_mysql_function("some value");
-     * // returns true
-     *
-     * $this->is_mysql_function("some value");
+     * $this->is_sql_function("some value");
      * // returns true
      *
      * @param string string
      * @return boolean
      */
-    function is_mysql_function($str) {
+    function is_sql_function($str) {
 
-        // Check if we're even allowed to use MySQL functions. If not, return right away..
+        // Check if we're even allowed to use SQL functions. If not, return right away..
         if (!$this->allow_functions) {
             return false;
         }
         
-        // Determine if value is a literal value, or a mysql function.
+        // Determine if value is a literal value, or a sql function.
         if(preg_match("/^([A-Z]{3,}\((.*)\))/", $str, $match)) {
             return true;
         } else {
@@ -933,10 +730,9 @@ class sql {
         }
 
     }
-
-
+    
     /**
-     * Set if we're allowed to use MySQL functions in our queries. This is disabled
+     * Set if we're allowed to use SQL functions in our queries. This is disabled
      * by default, for security reasons.
      *
      * @param boolean $value
@@ -948,17 +744,73 @@ class sql {
 
     /**
      * Sets whether or not execution of the script should stop when a
-     * mysql error has occured.
+     * sql error has occured.
      *
      *
      * @param boolean value
      */
     function set_halt_on_error($value) {
-
         $this->halt_on_sql_error = ($value ? true : false);
-
     }
-    
+ 
+
+/* Tables initializers */
+
+		/**
+		 * Create the SQL table for Entries.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makeEntriesTable();
+
+		/**
+		 * Create the SQL table for Comments.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makeCommentsTable();
+
+		/**
+		 * Create the SQL table for Trackbacks.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makeTrackbacksTable();
+
+		/**
+		 * Create the SQL table for Tags.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makeTagsTable();
+
+		/**
+		 * Create the SQL table for Categories.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makeCategoriesTable();
+		
+		/**
+		 * Create the SQL table for Pages.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makePagesTable();
+
+		/**
+		 * Create the SQL table for Chapters.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makeChaptersTable();
+		
+		/**
+		 * Create the SQL table for the Extra fields in Entries and Pages.
+		 *
+		 * @param link $sql
+		 */
+		abstract function makeExtrafieldsTable();
 }
 
 
