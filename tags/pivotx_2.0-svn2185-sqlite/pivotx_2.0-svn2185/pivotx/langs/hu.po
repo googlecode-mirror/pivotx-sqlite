@@ -1,0 +1,3869 @@
+# Translation of PivotX to Hungarian.
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the PivotX package.
+# Sevoir <sevoir@sevoir.hu>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0.0 beta 12\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: 2009-01-30 21:23+0100\n"
+"Last-Translator: Sevoir <sevoir@sevoir.hu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+
+msgid "About"
+msgstr "Névjegy"
+
+msgid "Last Comments"
+msgstr "Hozzászólások"
+
+msgid "Stuff"
+msgstr ""
+
+msgid "Archives"
+msgstr "Arhívok"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Links"
+msgstr "Linkek"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Linkdump"
+msgstr "Linktár"
+
+msgid "Home"
+msgstr "Főoldal"
+
+msgid "Tag Cloud"
+msgstr "Linkfelhő"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "Hozzászólás elküldése"
+
+msgid "Preview Comment"
+msgstr "Hozzászólás előnézete"
+
+msgid "Remember personal info?"
+msgstr "Személyes infomációk megjegyzése?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr "Igen, kérek egy cookie -t és emlékezz rám."
+
+msgid "Navigation"
+msgstr ""
+
+msgid "Jump to navigation"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "sorszám"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Hozzászólások"
+
+msgid "Pages"
+msgstr "Oldalak"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Hozzászólás"
+
+msgid "Notify"
+msgstr "Értesítés"
+
+msgid "Yes, send me email when someone replies."
+msgstr "Igen, kérek e-mail -t mikor valaki válaszol."
+
+msgid "Hide email"
+msgstr "E-mail rejtése"
+
+msgid "Yes, hide my email address."
+msgstr "Igen, rejtsd az e-mail címem."
+
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+
+msgid "Insert an Image"
+msgstr "Kép beillesztése"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"A kép kiválasztásához fel kell töltenie egyet vagy választani egy előzőleg "
+"feltöltöttet."
+
+msgid "Upload"
+msgstr "Feltöltés"
+
+msgid "Upload an image"
+msgstr "Kép feltöltése"
+
+msgid "Image name"
+msgstr "Kép neve"
+
+msgid "Select an image"
+msgstr "Válasszon képet"
+
+msgid "Select"
+msgstr "Választás"
+
+msgid "Alternate text"
+msgstr "Helyetessítő szöveg"
+
+msgid "Align"
+msgstr "Igazítás"
+
+msgid "Center (default)"
+msgstr "Középre (alapértelmezett)"
+
+msgid "Left"
+msgstr "Balra"
+
+msgid "Right"
+msgstr "Jobbra"
+
+msgid "Inline"
+msgstr "Egyvonalban"
+
+msgid "Border"
+msgstr "Keret"
+
+msgid "pixels"
+msgstr "képpont"
+
+msgid "Insert image!"
+msgstr "Kép beillesztése!"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+msgid "order"
+msgstr "sorszám"
+
+msgid "Timed Publish"
+msgstr "Publikálás ideje"
+
+msgid "Hold"
+msgstr "Tartás"
+
+msgid "Edit Page"
+msgstr "Oldal szerkesztése"
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr "Biztos benne, hogy törli ezt az oldalt?"
+
+msgid "Delete Page"
+msgstr "Oldal törlése"
+
+msgid "Write a new Page"
+msgstr "Új lap létrehozása"
+
+msgid "Edit Chapter"
+msgstr "Fejezet szerkesztése"
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr "Biztos benne, hogy törli ezt a fejezetet?"
+
+msgid "Delete Chapter"
+msgstr "Fejezet törlése"
+
+msgid "Add a Chapter"
+msgstr "Fejezet hozzáadása"
+
+msgid "The PivotX Team"
+msgstr "PivotX csapat"
+
+msgid "Core team members"
+msgstr "Fő csapattagok"
+
+msgid "aka"
+msgstr "mint"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "architecture"
+msgstr "felépítés"
+
+msgid "Contact"
+msgstr "Kapcsolat"
+
+msgid "Head of Support"
+msgstr "Támogatás vezetője"
+
+msgid "website maintenance"
+msgstr "weboldal karbantartás"
+
+msgid "contact"
+msgstr "kapcsolat"
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr "Hivatalos közreműködő"
+
+msgid "(support and additional coding)"
+msgstr "(támogatás és további kódolás)"
+
+msgid "Previous contributors"
+msgstr "Előző közreműködő"
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr "Használt könyvtárak / eszközök"
+
+msgid "website"
+msgstr "weboldal"
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+msgid "Comments waiting for moderation"
+msgstr "Hozzászólások várnak moderálásra"
+
+msgid "IP-address"
+msgstr "IP-cím"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Edit this comment"
+msgstr "Hozzászólás szerkesztése"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Delete this comment?"
+msgstr "Hozzászólás törlése"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "on"
+msgstr " "
+
+msgid "Check all"
+msgstr "Mind kijelölése"
+
+msgid "Check none"
+msgstr "Kijelölés visszavonása"
+
+msgid "Approve comments"
+msgstr "Hozzászólás jóváhagyása"
+
+msgid "Delete comments"
+msgstr "Hozzászólás törlése"
+
+msgid "There are no comments waiting for moderation"
+msgstr "Nincsenek moderálásra váró hozzászólások"
+
+msgid "The latest comments"
+msgstr "Utolsó hozzászólások"
+
+msgid "There are no latest comments"
+msgstr "Nincsenek utolsó hozzászólások"
+
+msgid "No comments"
+msgstr "Nincsenek hozzászólások"
+
+msgid "Welcome, unknown user."
+msgstr "Üdvözlet ismeretlen felhasználó."
+
+msgid "Welcome back"
+msgstr "Üdvözöljük újra"
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Utolsó bejegyzések"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Weblog neve"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "bejegyzés szerkesztése"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "bejegyzés szerkesztése"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Nincsenek utolsó hozzászólások"
+
+msgid "No trackbacks"
+msgstr ""
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "szerkesztés"
+
+msgid "Internal Name"
+msgstr "Belső név"
+
+msgid "Subtitle"
+msgstr "Alcím"
+
+msgid "Template"
+msgstr "Sablon"
+
+msgid "Introduction"
+msgstr "Bemutató"
+
+msgid "Body"
+msgstr "Törzs"
+
+msgid "Keywords"
+msgstr "Kulcsszavak"
+
+msgid "Tags"
+msgstr "Címkék"
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+"Válassza el a címkéket szóközzel. Pl.: filmek jedi startwars (nem 'star "
+"wars')"
+
+msgid "Post Page"
+msgstr "Oldal beküldése"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Post and Continue Editing"
+msgstr "Beküldés és a szerkesztés folytatása"
+
+msgid "Chapter"
+msgstr "Fejezet"
+
+msgid "Order"
+msgstr "Sorszám"
+
+msgid "Post Status"
+msgstr "Bejegyzés állapota"
+
+msgid "Publish"
+msgstr "Közzététel"
+
+msgid "Publish on"
+msgstr "Közzétéve"
+
+msgid "Allow comments"
+msgstr "Hozzászólások engedélyezése"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Created on"
+msgstr "Létrehozva"
+
+msgid "Last edited on"
+msgstr "Utoljára szerkesztve"
+
+msgid "Author"
+msgstr "Szerző"
+
+msgid "Active widgets"
+msgstr "Aktív widget -ek"
+
+msgid "Available Widgets"
+msgstr "Elérhető widget -ek"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "General"
+msgstr "Alap"
+
+msgid "Templates"
+msgstr "Sablonok"
+
+msgid "Subweblogs"
+msgstr "Alweblogok"
+
+msgid "XML feeds"
+msgstr "XML feed"
+
+msgid "Commenting"
+msgstr "Hozzászólás"
+
+msgid "Insert a Tag"
+msgstr "Címke beillesztése"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr "Címke"
+
+msgid "Insert tag!"
+msgstr "Címke beszúrása!"
+
+msgid "Suggested Tags"
+msgstr ""
+
+msgid "Via Link"
+msgstr ""
+
+msgid "Via Title"
+msgstr ""
+
+msgid "Trackback Ping"
+msgstr ""
+
+msgid "Post Entry"
+msgstr "Bejegyzés beküldése"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "Hozzászólás előnézete"
+
+msgid "View Trackbacks"
+msgstr ""
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "(none)"
+msgstr "(nem)"
+
+msgid "Insert a Download"
+msgstr "Letöltés beszúrása"
+
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+
+msgid "Upload a file"
+msgstr "Fájl feltöltése"
+
+msgid "File Name"
+msgstr "Fájl neve"
+
+msgid "Link Look"
+msgstr "Link kinézet"
+
+msgid "Use Icon"
+msgstr "Ikon használata"
+
+msgid "Use Text"
+msgstr "Szöveg használata"
+
+msgid "Link Title"
+msgstr "Link címe"
+
+msgid "Insert download!"
+msgstr "Letöltés beszúrása!"
+
+msgid "My Info"
+msgstr "Információim"
+
+msgid "Logout"
+msgstr "Kilépés"
+
+msgid "Dashboard"
+msgstr "Üzenetfal"
+
+msgid "Back to dashboard"
+msgstr "Vissza az üzenetfalhoz"
+
+msgid "View weblog"
+msgstr "Weblog megtekintése"
+
+msgid "view"
+msgstr "nézet"
+
+msgid "Configure Extensions"
+msgstr "Bővítmények konfigurálása"
+
+msgid "Maintenance"
+msgstr "Karbantartás"
+
+msgid "View debug logs"
+msgstr ""
+
+msgid "sec."
+msgstr "más."
+
+msgid "using"
+msgstr "használ"
+
+msgid "queries"
+msgstr "lekérdezés"
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Fájlnév"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Filesize"
+msgstr "Fájlméret"
+
+msgid "Image"
+msgstr "Kép"
+
+#, fuzzy
+msgid "Thumbnail"
+msgstr "Előnézet használata"
+
+msgid "Are you sure you wish to delete this file?"
+msgstr "Biztos benne, hogy törli ezt a fájlt?"
+
+msgid "Duplicate"
+msgstr "Másolat létrehozása"
+
+msgid "Create a new file"
+msgstr "Új fájl létrehozása"
+
+msgid "Create a new folder"
+msgstr "Új mappa létrehozása"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+msgid "Upload more files"
+msgstr "Több fájl feltöltése"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr "Válasszon fájl(oka)t feltöltéshez ebbe a mappába."
+
+msgid "Upload more"
+msgstr "További feltöltés"
+
+msgid "Add a new configuration option:"
+msgstr ""
+
+msgid "Key"
+msgstr "Kulcs"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "Add"
+msgstr "Hozzáadás"
+
+msgid "Edit options"
+msgstr "Opciók szekesztése"
+
+msgid "You should first select or upload an image"
+msgstr ""
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+
+msgid "For popup"
+msgstr ""
+
+msgid "Use Thumbnail"
+msgstr "Előnézet használata"
+
+msgid "edit thumbnail"
+msgstr "előnézeti kép szerkesztése"
+
+msgid "Insert popup!"
+msgstr ""
+
+msgid "Create New User"
+msgstr "Új felhasználó létrehozása"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "Nickname"
+msgstr "Álnév"
+
+msgid "Userlevel"
+msgstr "Felhasználói szint"
+
+msgid "Last Login"
+msgstr "Utolsó belépés"
+
+msgid "Edit User"
+msgstr "Felhasználó szerkesztése"
+
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr ""
+
+msgid "Verified"
+msgstr "Ellenőrzött"
+
+msgid "Disabled"
+msgstr "Tiltott"
+
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgid "Edit Visitor"
+msgstr "Látogató szerkesztése"
+
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "Arra készül hogy törölje látogató %1 -et. Biztos benne?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "Kép beillesztése"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "Címke beillesztése"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "Letöltés beszúrása"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "Címke beillesztése"
+
+msgid "The default category is:"
+msgstr "Alapértelmezett kategória:"
+
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr ""
+
+msgid "Create New Category"
+msgstr "Új kategória létrehozása"
+
+msgid "Display Name"
+msgstr "Megjelenő név"
+
+msgid "Users"
+msgstr "Felhasználók"
+
+msgid "Hidden Category"
+msgstr "Rejtett kategória"
+
+msgid "Sorting Order"
+msgstr "Sorszám rendezése"
+
+msgid "users"
+msgstr "felhasználó"
+
+msgid "Edit Category"
+msgstr "Kategória szerkesztése"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Biztos benne, hogy törli ezt a kategóriát?"
+
+msgid "New Weblog"
+msgstr "Új weblog"
+
+msgid "Weblog Name"
+msgstr "Weblog neve"
+
+msgid "categories"
+msgstr "kategória"
+
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr ""
+
+msgid "Export as theme"
+msgstr "Exportálás sablonként"
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Bejegyzés szerkesztése"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+"Hello, Üdvözli a PivotX 2.0! Ezalatt a kevés szöveg alatt láthatja a "
+"legújabb <egy href='index.php?page=entries'>bejegyzések</a> és <egy "
+"href='index.php?page=pagesoverview'>oldalak</a>  rövid áttekintését. Továbbá "
+"az <egy href='index.php?page=comments'>új hozzászólásokat</a> a moderációnál."
+
+msgid "New Entry"
+msgstr "Új bejegyzés"
+
+msgid "New Page"
+msgstr "Új oldal"
+
+msgid "Configuration"
+msgstr "Konfiguráció"
+
+msgid "Manage Media"
+msgstr "Média kezelése"
+
+msgid "The latest entries"
+msgstr "Utolsó bejegyzések"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Biztos benne, hogy törli ezt a bejegyzést?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "bejegyzés"
+
+msgid "delete"
+msgstr "törlés"
+
+msgid "The latest pages"
+msgstr "Utolsó oldalak"
+
+msgid "Warning!"
+msgstr "Figyelem!"
+
+msgid "PivotX News"
+msgstr "PivotX hírek"
+
+msgid "Visit the website"
+msgstr "Weboldal meglátogatása"
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Utolsó bejegyzések"
+
+msgid "Show more items"
+msgstr ""
+
+msgid "The latest Forum posts"
+msgstr "Utolsó fórum bejegyzések"
+
+msgid "Visit the forum"
+msgstr "Fórum meglátogatása"
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Bejegyzések"
+
+msgid "Suggestions"
+msgstr "Javaslatok"
+
+msgid "Show more tags"
+msgstr "Mutass több címkét"
+
+msgid "filter on (%name%)"
+msgstr "szűrő be (%name%)"
+
+msgid "first"
+msgstr "első"
+
+msgid "previous"
+msgstr "előző"
+
+msgid "next"
+msgstr "következő"
+
+msgid "last"
+msgstr "utolsó"
+
+msgid "jump to page (%num%)"
+msgstr "ugrás oldalra (%num%)"
+
+msgid "filter off"
+msgstr "szűrő ki"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Mind kijelölése"
+
+msgid "Uncheck All"
+msgstr "Kijelölések megszüntetése"
+
+msgid "With the checked entries, do:"
+msgstr "A kijelöltekkel végzendő művelet:"
+
+msgid "- select an option -"
+msgstr "- válasszon lehetőséget -"
+
+msgid "Set Status to \"publish\""
+msgstr "Állapot változtatása \"publikált\""
+
+msgid "Set Status to \"hold\""
+msgstr "Állapot változtatása \"fenntartott\""
+
+msgid "Delete them"
+msgstr "Törlés"
+
+msgid "Go!"
+msgstr "Végrehajt"
+
+#, fuzzy
+msgid "Published"
+msgstr "Közzététel"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Cím"
+
+#, fuzzy
+msgid "Held"
+msgstr "Tartás"
+
+msgid "edit this entry"
+msgstr "bejegyzés szerkesztése"
+
+msgid "Save and continue editing"
+msgstr "Mentés és a szerkesztés folytatása"
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Kész! Index generálva %num% másodperc alatt"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+msgid "Read on"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr "Hoppá! Azt hiszem, nem tudom olvasni a Hírek feed -et."
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr "Hoppá! Azt hiszem, nem tudom olvasni a Fórum feed -et."
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr "Hoppá! Azt hiszem nem tudom olvasni a Címke feed-et."
+
+msgid "Nothing on"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "Latest on"
+msgstr ""
+
+msgid "Current path"
+msgstr "Jelenlegi útvonal"
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+msgid "No comments are waiting to be approved."
+msgstr "Nincsenek jóváhagyásra váró hozzászólások."
+
+msgid "Entries &amp; Pages"
+msgstr "Bejegyzések &amp; Oldalak"
+
+msgid "Overview of Entries"
+msgstr "Bejegyzések átekintése"
+
+msgid "Manage and Upload Media"
+msgstr "Média feltöltése és kezelése"
+
+msgid "Administration"
+msgstr "Adminisztráció"
+
+msgid "Overview of Administrative functions"
+msgstr "Adminisztrációs feladatok áttekintése"
+
+msgid "Extensions"
+msgstr "Bővítmények"
+
+msgid "Manage installed Extensions"
+msgstr "Telepített bővítmények kezelése"
+
+msgid "Log in"
+msgstr "Belépés"
+
+msgid "Write and Publish a new Entry"
+msgstr "Új bejegyzés írása és publikálása"
+
+msgid "Overview of Pages"
+msgstr "Oldalak áttekintése"
+
+msgid "Write and Publish a new Page"
+msgstr "Új oldal írása és publikálása"
+
+msgid "Moderate Comments"
+msgstr "Hozzászólások moderálása"
+
+msgid "Trackbacks"
+msgstr ""
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "Bejegyzések átekintése"
+
+msgid "Edit the Configuration file"
+msgstr "Konfigurációs fájl szerkesztése"
+
+msgid "Advanced Configuration"
+msgstr "Haladó beállítások"
+
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Haladó konfiguráció opciók szerkesztése, létrehozása és törlése"
+
+msgid "Create, edit and delete Users"
+msgstr "Felhasználók létrehozása, szerkesztése és törlése"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Kategóriák létrehozása, szerkesztése és törlése"
+
+msgid "Weblogs"
+msgstr "Weblogok"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Weblogok létrehozása, szerkesztése és törlése"
+
+msgid "Registered Visitors"
+msgstr "Regisztrált felhasználók"
+
+msgid "View and edit Registered Visitors"
+msgstr "Regisztrált felhasználók megtekintése és szerkesztése"
+
+msgid "Spam Protection"
+msgstr "Spam védelem"
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+msgid "Backup"
+msgstr "Biztonsági mentés"
+
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr ""
+"Zip fájl letöltése ami tartalmazza a konfigurációs fájljait, sablonokat vagy "
+"a bejegyzések adatbázisát."
+
+msgid "Widgets"
+msgstr "Widget -ek"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Telepített widget bővítmények kezelése"
+
+msgid "Spam configuration"
+msgstr "Spam konfiguráció"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr "Spam napló"
+
+msgid "View and Reset the Spam Log."
+msgstr "Spam napló megtekintése és törlése."
+
+msgid "Backup of Configuration Files"
+msgstr "Konfigurációs fájlok biztonsági mentése"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr ""
+"Létre fog hozni egy zip fájlt ami tartalmazza a konfigurációs fájljait."
+
+msgid "Create, edit and delete Templates"
+msgstr "Sablon létrehozása, szerkesztése és törlése"
+
+msgid "Explore Database Files"
+msgstr "Adatbázis fájlok böngészése"
+
+msgid "View files (both text and database files)"
+msgstr "Fájlok megtekintése (szöveges és adatbázis fájlok)"
+
+msgid "Explore Files"
+msgstr "Fájlok böngészése"
+
+msgid "View files in the site's root"
+msgstr ""
+
+msgid "Explore Home folder"
+msgstr ""
+
+msgid "Rebuild the Index"
+msgstr "Index újraépítése"
+
+msgid "Rebuild the index of your Database"
+msgstr ""
+
+msgid "Rebuild Search Index"
+msgstr "Keresési index újraépítése"
+
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr ""
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Index újraépítése"
+
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr ""
+
+msgid "Welcome to"
+msgstr "Üdvözöljük"
+
+msgid "%n visitors on this page"
+msgstr "%n látogató az oldalon"
+
+msgid "Total visits"
+msgstr "Összes látogatás"
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr "Ebben a hónapban"
+
+msgid "This week"
+msgstr "Ezen a héten"
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "Keyword"
+msgstr "Kulcsszó"
+
+msgid "Frequency"
+msgstr "Ismétlődés"
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Kép feltöltése"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr "Hoppá! Azt hiszem, nem tudom olvasni a Google Naptár feed -et."
+
+msgid "Google Maps API key"
+msgstr "Google Maps API kulcs"
+
+msgid "Default width of map"
+msgstr "Térkép alapértelmezett szélessége"
+
+msgid "Default height of map"
+msgstr "Térkép alapértelmezett magassága"
+
+msgid "Default zoom for map"
+msgstr "Térkép alapértelmezett nagyítása"
+
+msgid "Default latitude for map"
+msgstr ""
+
+msgid "Default longitude for map"
+msgstr ""
+
+msgid "Red"
+msgstr "Piros"
+
+msgid "Blue"
+msgstr "Kék"
+
+msgid "Black"
+msgstr "Fekete"
+
+msgid "Grey"
+msgstr "Szürke"
+
+msgid "Select the color scheme to use for the widget."
+msgstr "Válassszon szín sémát a widget használatához."
+
+msgid "Your last.fm login name"
+msgstr "Last.fm login neve"
+
+msgid "That's not a proper login name!"
+msgstr ""
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+"Ezt a nevet használja a belépéshez a <a href='http://last.fm'>Last.fm</a> "
+"oldalon."
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+#, fuzzy
+msgid "Youtube video \"%basename%\"."
+msgstr "Youtube videó \\'%basename%\\'"
+
+#, fuzzy
+msgid "Vimeo video \"%basename%\"."
+msgstr "Youtube videó \\'%basename%\\'"
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "Ez nem megfelelő oldalnév!"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Belépés"
+
+msgid "That's not a proper username!"
+msgstr ""
+
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"A felhasználónév csak kisbetűket, számokat (a-z, 0-9) és alulvonást (_) "
+"tartalmazhat."
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+msgid "Stay logged in?"
+msgstr "Felhasználónév és jelszó megjegyzése?"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Elfelejtette jelszavát?"
+
+msgid "Send password"
+msgstr "Jelszó küldése"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Jelszó törlése"
+
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+
+msgid "Backup templates"
+msgstr "Sablonok biztonsági mentése"
+
+msgid "Backup entries database"
+msgstr "Bejegyzések adatbázisának biztonsági mentése"
+
+msgid "Backup configuration files"
+msgstr "Konfigurációs fájljainak biztonsági mentése"
+
+msgid "Reset Spam Log"
+msgstr "Spam log törlése"
+
+msgid "Save Comment"
+msgstr "Hozzászólás mentése"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Registered user"
+msgstr "regisztrált felhasználó"
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+msgid "Moderate Comment"
+msgstr "Hozzászólás moderálása"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+msgid "Save Trackback"
+msgstr ""
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Bejegyzés dátum"
+
+msgid "Excerpt"
+msgstr ""
+
+msgid "Continue"
+msgstr "Folytatás"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "Jelszó mégegyszer"
+
+msgid "The passwords do not match!"
+msgstr "A jelszavak nem egyeznek!"
+
+msgid "That's not a proper email address!"
+msgstr "Nem megfelelő e-mail cím!"
+
+msgid "That's not a proper Nickname!"
+msgstr "Nem megfelelő álnév!"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr "PivotX érzékelte, hogy a webszervere támogatja a MySQL adatbázisokat."
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr "Ha rendelkezik MySQL fiókkal és adatbázissal, állítsa be alul."
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+msgid "Database Model"
+msgstr "Adatbázis "
+
+msgid "Flat Files"
+msgstr "Sima fájlok"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr "MySQL felhasználónév"
+
+msgid "Your MySQL password"
+msgstr "MySQL jelszó"
+
+msgid "Database Name"
+msgstr "Adatbázisnév"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr "Haladó adatbázis beállítások"
+
+msgid "Hostname"
+msgstr "Hosztnév"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+msgid "Table Prefix"
+msgstr "Táblázat előtag"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Jelszavak nem egyeznek"
+
+msgid "That's not a valid email address"
+msgstr "Ez nem érvényes e-mail cím"
+
+msgid "That's not a proper filename!"
+msgstr "Nem megfelelő fájlnév!"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "You must select a language!"
+msgstr "Választania kell egy nyelvet!"
+
+msgid "Text editor"
+msgstr "Szövegszerkesztő"
+
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+
+msgid "Wysiwyg"
+msgstr "Wysiwyg"
+
+msgid "None (plain XHTML)"
+msgstr "Nem (sima XHTML)"
+
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "XHTML, Sortörések konvertálása &lt;br /&gt; kódra"
+
+msgid "Textile"
+msgstr "Mintázott"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Markdown and Smartypants"
+msgstr ""
+
+msgid "User last seen on"
+msgstr "Felhasználó utoljára belépve"
+
+msgid "Moblogger"
+msgstr "Modblogger"
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "Advanced"
+msgstr "Haladó"
+
+msgid "Administrator"
+msgstr "Adminisztrátor"
+
+msgid "Superadmin"
+msgstr "Szuperadmin"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr ""
+
+msgid "Allowed Categories"
+msgstr "Engedélyezett kategóriák"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr ""
+
+msgid "Last seen on"
+msgstr "Utoljára belépve"
+
+msgid "Create Category"
+msgstr "Kategória létrehozva"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Ehhez a kategóriához szükség van egy névre"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr ""
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+
+msgid "Chapter name"
+msgstr "Fejezet neve"
+
+msgid "The name of this chapter"
+msgstr "Ez a fejezet neve"
+
+msgid "A short description of this chapter"
+msgstr "Ez a fejezet rövid leírása"
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+msgid "Theme"
+msgstr "Kinézet"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+msgid "General Settings"
+msgstr "Fő beállítások"
+
+msgid "Payoff"
+msgstr ""
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr ""
+
+msgid "URL to Weblog"
+msgstr "URL a webloghoz"
+
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+
+msgid "\"Read More\" Text"
+msgstr "\"Tovább\" Text"
+
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+
+msgid "Frontpage Template"
+msgstr "Főoldal sablon"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr ""
+
+msgid "Archivepage Template"
+msgstr "Arhívoldal sablon"
+
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+
+msgid "Entrypage Template"
+msgstr "Bejegyzésoldal sablon"
+
+msgid "The Template which determines the layout of single entries."
+msgstr ""
+
+msgid "Extra Template"
+msgstr "Extra sablon"
+
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr ""
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Oldal sablon"
+
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr ""
+
+msgid "Number of Entries"
+msgstr "Bejegyzések száma"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr ""
+
+msgid "Offset"
+msgstr ""
+
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+
+msgid "Publish these categories"
+msgstr ""
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS és Atom konfiguráció"
+
+msgid "Generate Feeds"
+msgstr "Feed -ek létrehozása"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr ""
+
+msgid "RSS URL"
+msgstr "RSS URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Atom URL"
+msgstr "Atom URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Teljes feed -ek létrehozása"
+
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+
+msgid "Feed Link"
+msgstr "Feed link"
+
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+
+msgid "Feed Image"
+msgstr "Feed kép"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+
+msgid "Commenting Settings"
+msgstr "Hozzászólás beállítások"
+
+msgid "Send Mail?"
+msgstr ""
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr ""
+
+msgid "Mail to"
+msgstr ""
+
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+
+msgid "Text to links"
+msgstr "Szöveg a linkekhez"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr ""
+
+msgid "Wrap comments after"
+msgstr ""
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+
+#, fuzzy
+msgid "Comments Popup?"
+msgstr "Hozzászólások"
+
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+
+msgid "Width of Popup"
+msgstr ""
+
+msgid "Height of Width"
+msgstr ""
+
+msgid "The width (in pixels) of the comments popup."
+msgstr ""
+
+msgid "Height of Popup"
+msgstr ""
+
+msgid "The height (in pixels) of the comments popup."
+msgstr ""
+
+msgid "Allow Textile?"
+msgstr ""
+
+msgid "Allow Textile"
+msgstr ""
+
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+
+msgid "Allow Emoticons?"
+msgstr ""
+
+msgid "Allow Emoticons"
+msgstr ""
+
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+
+msgid "Site Name"
+msgstr "Oldalnév"
+
+msgid "That's not a proper sitename!"
+msgstr "Ez nem megfelelő oldalnév!"
+
+msgid "Weblog"
+msgstr "Weblog"
+
+msgid "Page"
+msgstr "Oldal"
+
+msgid "Site Homepage"
+msgstr "Oldal főoldal"
+
+msgid "Please select an option"
+msgstr "Kérem válasszon lehetőséget"
+
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+
+msgid "Default language"
+msgstr "Alapértelmezett nyelv"
+
+msgid "Please select a language!"
+msgstr "Kérem válasszon nyelvet!"
+
+msgid "Allow XML-RPC"
+msgstr "XML-RPC engedélyezése"
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr "Igen, így szeretném: /arhív/2005/04/28/bejegyzés-címe"
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr "Igen, így szeretném: /arhív/2005-04-28/bejegyzés-címe"
+
+msgid "Yes, like /entry/1234"
+msgstr "Igen, így szeretném: /bejegyzés/1234"
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr "Igen, így szeretném: /bejegyzés/1234/bejegyzés-címe"
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr "Igen, így szeretném: /2005/04/28/bejegyzés-címe"
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr "Igen, így szeretném: /2005-04-28/bejegyzés-címe"
+
+msgid "Use Mod_rewrite"
+msgstr "Mod_rewrite használata"
+
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+
+msgid "Allow comments by default"
+msgstr "Hozzászólások engedélyezése alapértelmezés szerint"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr ""
+
+msgid "Moderate comments"
+msgstr "Hozzászólások moderálása"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+msgid "Cache Settings"
+msgstr "Gyorsítótár beállításai"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr "Kimeneti gyorsítótár használata"
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Show Flickr Images"
+msgstr "Flickr képek mutatása"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+msgid "Number of images"
+msgstr "Képek száma"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+msgid "Show feeds"
+msgstr "Feed mutatása"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+msgid "Number of items"
+msgstr "Elemek száma"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+msgid "Cloud size"
+msgstr "Felhő méret"
+
+msgid "Minimum size"
+msgstr "Minimum méret"
+
+msgid "Maximum size"
+msgstr "Maximum méret"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Hibakereső mód"
+
+msgid "Show random debug information, every here and there.."
+msgstr ""
+
+msgid "Log Queries"
+msgstr "Lekérdezések naplója"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr ""
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+
+msgid "Chmod Files To"
+msgstr "Fájlok jogosultságának beállítása erre: "
+
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+
+msgid "File Upload Path"
+msgstr "Fájl feltöltés útvonal"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Felülírás"
+
+msgid "Increment Filename"
+msgstr ""
+
+msgid "Maximum Filesize"
+msgstr "Maximum fájlméret"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Automatikus előnézeti képek"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr "Előnézet létrehozása automatikusan kép feltöltésekor."
+
+msgid "Thumbnail width"
+msgstr "Előnézet szélessége"
+
+msgid "Thumbnail height"
+msgstr "Előnézet magassága"
+
+msgid "Thumbnail quality"
+msgstr "Előnézet minőség"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Engedélyezett fájltípusok"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Teljes dátum formátuma"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+
+msgid "Entry Date"
+msgstr "Bejegyzés dátum"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr ""
+
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+
+msgid "Current server time"
+msgstr "Jelenlegi szerveridő"
+
+msgid "Time Offset Unit"
+msgstr ""
+
+msgid "Year"
+msgstr "Év"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "Day"
+msgstr "Nap"
+
+msgid "Hour"
+msgstr "Óra"
+
+msgid "Minute"
+msgstr "Perc"
+
+msgid "Time Offset"
+msgstr ""
+
+msgid "Activate"
+msgstr "Aktiválás"
+
+msgid "Mail server"
+msgstr "Levelező szerver"
+
+msgid "Please give a proper domain name!"
+msgstr "Kérem helyes domain nevet adjon meg!"
+
+msgid "Default author"
+msgstr "Alapértelmezett szerző"
+
+msgid "Please select a user"
+msgstr "Válasszon felhasználót"
+
+msgid "Select a user"
+msgstr "Válasszon felhasználót"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+msgid "Default category"
+msgstr "Alapértelmezett kategória"
+
+msgid "Please select a category"
+msgstr "Kérem válasszon kategóriát"
+
+msgid "Select a category"
+msgstr "Válasszon kategóriát"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr "IMAP bővítmény használata"
+
+msgid "What protocol"
+msgstr "Protokoll típusa"
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+msgid "Allowed senders"
+msgstr "Jóváhagyott küldők"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+msgid "Number of links"
+msgstr "Linkek száma"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+
+msgid "SpamQuiz"
+msgstr "SpamQuiz"
+
+msgid "Use SpamQuiz"
+msgstr "SpamQuiz használata"
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+msgid "Question"
+msgstr "Kérdés"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr "Válasz"
+
+msgid "Example: <b>sp</b>"
+msgstr "Például: <b>sp</b>"
+
+msgid "Age"
+msgstr "Kor"
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+msgid "Admin Page Extensions"
+msgstr "Admin oldal bővítmények"
+
+msgid "Hook Extensions"
+msgstr ""
+
+msgid "Snippet Extensions"
+msgstr ""
+
+msgid "Widget Extensions"
+msgstr "Widget bővítmények"
+
+msgid "By"
+msgstr "Kiadta: "
+
+msgid "version"
+msgstr "verzió"
+
+msgid "last updated"
+msgstr "utoljára frissítve"
+
+msgid "site link"
+msgstr "oldal link"
+
+msgid "edit configuration"
+msgstr "konfiguráció szerkesztése"
+
+msgid "Insert an image"
+msgstr "Kép beillesztése"
+
+msgid "Insert a popup image"
+msgstr "Felugró kép beillesztése"
+
+msgid "all"
+msgstr "összes"
+
+msgid "Send Pings"
+msgstr "Ping küldése"
+
+msgid "Oops."
+msgstr "Hoppá."
+
+msgid "PivotX encountered an error"
+msgstr ""
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+"PivotX jelenleg 'csökkentett mód' -ban fut. Ez az összes bővítményt letiltja "
+"amíg Ön el nem távolítja a <tt>pivotxsafemode.txt</tt> fájlt a <tt>pivotx/</"
+"tt> mappából."
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+msgid "PivotX error"
+msgstr "PivotX hiba"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr "A(z) '<tt>%s</tt>' felhasználó nem létezik."
+
+#, fuzzy, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr "A(z) '<tt>%s</tt>' felhasználó nem létezik."
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "PivotX hiba"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr "URL a PivotX mappához ismeretlen"
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+msgid "PivotX is not allowed to read this folder."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "A felhasználó törölve"
+
+#, php-format
+msgid "The file has been copied: %s to %s."
+msgstr ""
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "A felhasználó törölve"
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "A felhasználó törölve"
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "Előnézet készítése"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Fájl feltöltések"
+
+msgid "(Select a template)"
+msgstr "(Sablon választása)"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Értesítések"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+msgid "Password reset"
+msgstr "Jelszó törlése"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr "pár perce"
+
+msgid "less than ten minutes ago"
+msgstr "kevesebb mint tíz perce"
+
+msgid "15 minutes ago"
+msgstr "15 perce"
+
+msgid "half an hour ago"
+msgstr "fél órája"
+
+msgid "about an hour ago"
+msgstr "egy órája"
+
+msgid "an hour and a half ago"
+msgstr "másfél órája"
+
+msgid "about two hours ago"
+msgstr "két órája"
+
+msgid "%value% hours ago"
+msgstr "%value% órája"
+
+#, fuzzy
+msgid "this morning"
+msgstr "Ebben a hónapban"
+
+#, fuzzy
+msgid "yesterday morning"
+msgstr "tegnap"
+
+#, fuzzy
+msgid "this evening"
+msgstr "ez az ablak"
+
+#, fuzzy
+msgid "yesterday evening"
+msgstr "tegnap"
+
+msgid "this afternoon"
+msgstr ""
+
+#, fuzzy
+msgid "yesterday afternoon"
+msgstr "tegnap"
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr "1 hete"
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr "egy hónapja"
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr "egy éve"
+
+msgid "%value% years ago"
+msgstr "%value% éve"
+
+msgid "a very long time ago"
+msgstr "nagyon hosszú ideje"
+
+msgid "Write"
+msgstr "Írás"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Írás hiba. Nem tudom megnyitni a fájlt írásra"
+
+msgid "Write Error. Could not write to file"
+msgstr "Írás hiba. Nem tudom írni a fájlt"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr ""
+
+msgid "View this entry"
+msgstr "Bejegyzés megtekintése"
+
+msgid "View this comment"
+msgstr "Hozzászólás megtekintése"
+
+#, php-format
+msgid "New comment on entry \"%s\""
+msgstr ""
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr "A teljes bejegyzés megtekintése"
+
+msgid "View your settings"
+msgstr "Beállításai megtekintése"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Új bejegyzés"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr "Új felhasználó regisztráció - %s"
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr "Új látogató jóváhagyva - %s"
+
+msgid "View visitor information"
+msgstr "Felhasználói fiók információk megtekintése."
+
+msgid "%num% comment"
+msgstr "%num% hozzászólás"
+
+msgid "%num% comments"
+msgstr "%num% hozzászólás"
+
+msgid "%num% trackback"
+msgstr ""
+
+msgid "%num% trackbacks"
+msgstr ""
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr ""
+
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr ""
+
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr ""
+
+msgid "Your comment has been stored."
+msgstr "Hozzászólását tároltuk."
+
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr ""
+
+msgid "Moderate this comment"
+msgstr "Hozzászólás moderálása"
+
+msgid "PivotX thumbnail creator"
+msgstr "PivotX előnézeti kép készítő"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+msgid "PivotX Image Cropper"
+msgstr ""
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Felhő méret"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+msgid "Fixed Proportions"
+msgstr ""
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+msgid "Target thumbnail will be"
+msgstr ""
+
+msgid "Create Thumbnail"
+msgstr "Előnézet készítése"
+
+msgid "Go"
+msgstr "Végrehajt"
+
+msgid "Back"
+msgstr "Vissza"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr "ha az előnézeti kép nem kielégítő"
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "this window"
+msgstr "ez az ablak"
+
+msgid "Sunday"
+msgstr "Vasárnap"
+
+msgid "Monday"
+msgstr "Hétfő"
+
+msgid "Tuesday"
+msgstr "Kedd"
+
+msgid "Wednesday"
+msgstr "Szerda"
+
+msgid "Thursday"
+msgstr "Csütörtök"
+
+msgid "Friday"
+msgstr "Péntek"
+
+msgid "Saturday"
+msgstr "Szombat"
+
+msgid "S_Sunday_initial"
+msgstr "Vasárnap"
+
+msgid "M_Monday_initial"
+msgstr "Hétfő"
+
+msgid "T_Tuesday_initial"
+msgstr "Kedd"
+
+msgid "W_Wednesday_initial"
+msgstr "Szerda"
+
+msgid "T_Thursday_initial"
+msgstr "Csütörtök"
+
+msgid "F_Friday_initial"
+msgstr "Péntek"
+
+msgid "S_Saturday_initial"
+msgstr "Szombat"
+
+msgid "Sun"
+msgstr "Vas"
+
+msgid "Mon"
+msgstr "Hét"
+
+msgid "Tue"
+msgstr "Ked"
+
+msgid "Wed"
+msgstr "Sze"
+
+msgid "Thu"
+msgstr "Csü"
+
+msgid "Fri"
+msgstr "Pén"
+
+msgid "Sat"
+msgstr "Szo"
+
+msgid "January"
+msgstr "Január"
+
+msgid "February"
+msgstr "Február"
+
+msgid "March"
+msgstr "Március"
+
+msgid "April"
+msgstr "Április"
+
+msgid "May"
+msgstr "Május"
+
+msgid "June"
+msgstr "Június"
+
+msgid "July"
+msgstr "Július"
+
+msgid "August"
+msgstr "Augusztus"
+
+msgid "September"
+msgstr "Szeptember"
+
+msgid "October"
+msgstr "Október"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Jan_January_abbreviation"
+msgstr "Január"
+
+msgid "Feb_February_abbreviation"
+msgstr "Február"
+
+msgid "Mar_March_abbreviation"
+msgstr "Március"
+
+msgid "Apr_April_abbreviation"
+msgstr "Április"
+
+msgid "May_May_abbreviation"
+msgstr "Május"
+
+msgid "Jun_June_abbreviation"
+msgstr "Június"
+
+msgid "Jul_July_abbreviation"
+msgstr "Július"
+
+msgid "Aug_August_abbreviation"
+msgstr "Augusztus"
+
+msgid "Sep_September_abbreviation"
+msgstr "Szeptember"
+
+msgid "Oct_October_abbreviation"
+msgstr "Október"
+
+msgid "Nov_November_abbreviation"
+msgstr "November"
+
+msgid "Dec_December_abbreviation"
+msgstr "December"
+
+msgid "am"
+msgstr "de"
+
+msgid "pm"
+msgstr "du"
+
+msgid "AM"
+msgstr "DE"
+
+msgid "PM"
+msgstr "DU"
+
+msgid "zero"
+msgstr "nulla"
+
+msgid "one"
+msgstr "egy"
+
+msgid "two"
+msgstr "kettő"
+
+msgid "three"
+msgstr "három"
+
+msgid "four"
+msgstr "négy"
+
+msgid "five"
+msgstr "öt"
+
+msgid "six"
+msgstr "hat"
+
+msgid "seven"
+msgstr "hét"
+
+msgid "eight"
+msgstr "nyolc"
+
+msgid "nine"
+msgstr "kilenc"
+
+msgid "ten"
+msgstr "tíz"
+
+msgid "eleven"
+msgstr "tizenegy"
+
+msgid "twelve"
+msgstr "tizenkettő"
+
+msgid "thirteen"
+msgstr "tizenhárom"
+
+msgid "fourteen"
+msgstr "tizennégy"
+
+msgid "fifteen"
+msgstr "tizenöt"
+
+msgid "sixteen"
+msgstr "tizenhat"
+
+msgid "seventeen"
+msgstr "tizenhét"
+
+msgid "eigthteen"
+msgstr "tizennyolc"
+
+msgid "nineteen"
+msgstr "tizenkilenc"
+
+msgid "twenty"
+msgstr "húsz"
+
+msgid "zeroth"
+msgstr "nulladik"
+
+msgid "second"
+msgstr "második"
+
+msgid "third"
+msgstr "harmadik"
+
+msgid "forth"
+msgstr "negyedik"
+
+msgid "fifth"
+msgstr "ötödik"
+
+msgid "sixth"
+msgstr "hatodik"
+
+msgid "seventh"
+msgstr "hetedik"
+
+msgid "eighth"
+msgstr "nyolcadik"
+
+msgid "ninth"
+msgstr "kilencedik"
+
+msgid "tenth"
+msgstr "tizedik"
+
+msgid "eleventh"
+msgstr "tizenegyedik"
+
+msgid "twelfth"
+msgstr "tizenkettedik"
+
+msgid "thirteenth"
+msgstr "tizenharmadik"
+
+msgid "fourteenth"
+msgstr "tizennegyedik"
+
+msgid "fifteenth"
+msgstr "tizenötödik"
+
+msgid "sixteenth"
+msgstr "tizenhatodik"
+
+msgid "seventeenth"
+msgstr "tizenhetedik"
+
+msgid "eighteenth"
+msgstr "tizennyolcadik"
+
+msgid "nineteenth"
+msgstr "tizenkilencedik"
+
+msgid "twentieth"
+msgstr "huszadik"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+"A szerver aktuális PHP változata %s, ami egy öregebb verzió mint amit a "
+"PivotX igényel (%s). Legvalószínűbb, hogy a PivotX nem működik helyesen, "
+"amíg a szerveren frissítik egy újabb verzióra."
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+"A szerver safe_mode -ja engedélyezett. Ez ténylegesen nem teszi "
+"biztonságosabbá a dolgokat, csak sokkal bosszantóbbá. Kérje meg a szerver "
+"szolgáltatóját, hogy kapcsolja ki. Több információért nézze meg a "
+"dokumentációt: <egy href='http://docs.pivotx.net/doku.php?"
+"id=dealing_with_safe_mode'>Kapcsolat a safe_mode -dal</a>."
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+"A PivotX telepítő szkript \"pivotx-setup.php\" még mindig a szülőmappában "
+"van. Körültekintőnek kell lennie, mert ez egy potenciális biztonsági "
+"kockázat. Azt tanácsoljuk, hogy távolítsa el, vagy állítson be egy üres "
+"jelszót, hogy azt ne hajthassa végre bárki rossz szándékkal."
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+msgid "folder "
+msgstr "mappa"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+"A nyitott mappák közül az egyikben van egy végrehajtható állomány. Azonnal "
+"el kellene távolítanod ezt a fájlt: <tt>%s</tt>."
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, php-format
+msgid ".. and %s more files."
+msgstr ".. és további %s fájl."
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Flickr képek ehhez:"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr "Oldal nem található (404-es hiba)"
+
+msgid "The page isn't published or doesn't exist."
+msgstr "Az oldal nem publikált vagy nem létezik."
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr "Weblog nem található (404-es hiba)"
+
+msgid "Category not found (404 error)"
+msgstr "Kategória nem található (404-es hiba)"
+
+msgid "Not found (404 error)"
+msgstr "Nem található (404-es hiba)"
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr "Bejegyzés nem található (404-es hiba)"
+
+msgid "The entry isn't published or doesn't exist."
+msgstr "A bejegyzés nincs publikálva vagy nem létezik."
+
+msgid "Tag cloud for"
+msgstr "Címke felhő ehhez"
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr "Feed hiba - a(z) %s nem létezik!"
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+msgid "weblog"
+msgstr "weblog"
+
+msgid "category"
+msgstr "kategória"
+
+msgid "entry"
+msgstr "bejegyzés"
+
+msgid "for comments"
+msgstr "hozzászólásokhoz"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "Keresési eredmény"
+
+msgid "Page matches for \"%name%\":"
+msgstr "Oldal találatok erre: \"%name%\";"
+
+msgid "Entry matches for \"%name%\":"
+msgstr "Bejegyzés találatok erre: \"%name%\";"
+
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "Nincs találat erre: \"%name%\". Próbálja ki mással."
+
+msgid "Search for words used in entries on this website"
+msgstr ""
+
+msgid "Enter the word[s] to search for here:"
+msgstr ""
+
+msgid "Enter searchterms"
+msgstr "Keresés erre"
+
+msgid "Search!"
+msgstr "Keress!"
+
+msgid "XML: Atom Feed"
+msgstr "XML: Atom Feed"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "One comment"
+msgstr "Egy hozzászólás"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr ""
+
+msgid "You need to specify an URL to a feed"
+msgstr "Meg kell határoznia egy URL -t a feed -hez"
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr "Hoppá! Nem tudom olvasni a címkét."
+
+msgid "CSS file (stylesheet)"
+msgstr "CSS fájl (stylesheet)"
+
+msgid "PivotX weblog theme"
+msgstr "PivotX weblog téma"
+
+msgid "XML Feed template"
+msgstr "XML címke sablon"
+
+msgid "Text file"
+msgstr "Szöveges fájl"
+
+msgid "PHP script"
+msgstr "PHP szkript"
+
+msgid "PivotX cache file"
+msgstr "PivotX gyorsítótár fájl"
+
+msgid "Javascript file"
+msgstr "Javascript fájl"
+
+msgid "MagpieRSS cache file"
+msgstr "MagpieRSS gyorsítótár fájl"
+
+msgid "PivotX Tag file"
+msgstr "PivotX címke fájl"
+
+msgid "PivotX Tag relations"
+msgstr ""
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Speedy gyorsítótár fájl"
+
+msgid "HTML template"
+msgstr "HTML sablon"
+
+msgid "Include template"
+msgstr ""
+
+msgid "Frontpage template"
+msgstr "Főoldali sablon"
+
+msgid "Archive template"
+msgstr "Arhív sablon"
+
+msgid "Entry template"
+msgstr "Bejegyzés sablon"
+
+msgid "Page template"
+msgstr "Oldal sablon"
+
+msgid "Searchpage template"
+msgstr "Keresőoldali sablon"
+
+msgid "Apache configuration"
+msgstr "Apache konfiguráció"
+
+msgid "PivotX 'not found' template"
+msgstr "PivotX 'nincs találat' sablon"
+
+msgid "PivotX error page"
+msgstr "PivotX hibaoldal"
+
+msgid "(more)"
+msgstr "(tovább)"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS feed"
+
+msgid "Used tags"
+msgstr "Használt címkék"
+
+msgid "One trackback"
+msgstr ""
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+msgid "Click to view the trackback url"
+msgstr ""
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+msgid "account"
+msgstr "fiók"
+
+msgid "register/login"
+msgstr "regisztráció/bejelentkezés"
+
+msgid "words"
+msgstr "szavak"
+
+msgid "image"
+msgstr "kép"
+
+msgid "images"
+msgstr "képek"
+
+msgid "file"
+msgstr "fájl"
+
+msgid "files"
+msgstr "fájlok"
+
+msgid "Self-registration"
+msgstr ""
+
+msgid "Vote \"%val%\" on this entry"
+msgstr ""
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr "Ebben az üzenetben használt címkék"
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr "Címke áttekintése ehhez:"
+
+msgid "Entries on this site with "
+msgstr ""
+
+msgid "Related tags"
+msgstr ""
+
+msgid "External feeds for"
+msgstr "Külső feed -ek ehhez:"
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr "Flickr képek ehhez:"
+
+msgid "No related tags"
+msgstr "Nincsenek kapcsolódó címkék"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr ""
+
+#, php-format
+msgid "New trackback on entry \"%s\""
+msgstr ""
+
+msgid "Log in as a registered visitor"
+msgstr "Belépés regisztrált felhasználóként"
+
+msgid "Forgotten your password?"
+msgstr "Elfelejtette jelszavát?"
+
+msgid "Register a new username."
+msgstr "Új felhasználónév regisztrálása"
+
+msgid "Logged in as"
+msgstr "Belépve mint"
+
+msgid "Log out."
+msgstr "Kilépés"
+
+msgid "Delete account."
+msgstr "Fiók törlése."
+
+msgid "Edit your preferences"
+msgstr ""
+
+msgid "User disabled"
+msgstr "Felhasználó tiltva"
+
+msgid "Incorrect password or username"
+msgstr "Érvénytelen jelszó vagy felhasználónév"
+
+msgid "Logged in"
+msgstr "Belépve"
+
+msgid "Register"
+msgstr "Regisztráció"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"Töltse ki a következő információt. <strong>Érvényes e-mail címet adjon meg</"
+"strong>, mert egy ellenőrző e-mailt fogunk küldeni erre a címre."
+
+msgid "Options"
+msgstr "Opciók"
+
+msgid "Back to login"
+msgstr "Vissza a bejelentkezéshez"
+
+msgid "Show my email address with comments"
+msgstr "Mutasd e-mail címem a hozzászólásokkal"
+
+msgid "Notify me via email of new entries"
+msgstr "Figyelmeztetést kérek az új bejegyzésekről e-mailben."
+
+msgid "Default notification of replies"
+msgstr "Válaszok alapértelmezett figyelmeztetése"
+
+msgid "Here you can change your information."
+msgstr "Itt megváltoztathatja a saját információit."
+
+msgid "Change preferences"
+msgstr ""
+
+msgid "The new password is <q>%pass%</q>."
+msgstr "Az új jelszó: <q>%pass%</q>."
+
+msgid "Oops"
+msgstr "Hoppá"
+
+msgid "Password reset request failed."
+msgstr "Jelszó törlési kérelem nem sikerült."
+
+msgid "Reset password"
+msgstr "Jelszó törlése"
+
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+
+msgid "User already exists... Please pick another name."
+msgstr "A felhasználó létezik... Kérem válasszon másik nevet."
+
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "E-mail cím létezik... Kérem válasszon másikat."
+
+msgid "Password must be at least 4 letters long."
+msgstr "A jelszónak legalább 4 karakter hosszúnak kell lennie."
+
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+
+msgid "The changes have been stored"
+msgstr "Változtatásokat elmentve"
+
+msgid "Your account is verified. Please log in.."
+msgstr "Fiókja ellenőrizve. Kérem lépjen be..."
+
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr ""
+
+msgid "A link to reset your password was sent to your mailbox."
+msgstr ""
+
+msgid "Account deleted."
+msgstr "Fiók törölve."
+
+msgid "Logged out"
+msgstr "Kilépve"
+
+msgid "Back to"
+msgstr "Vissza"
+
+msgid "User stored!"
+msgstr "Felhasználó tárolva!"
+
+msgid "Could not store new user!!"
+msgstr "Nem tudok tárolni új felhasználót!!"
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+"Fiókja ellenőrzéséhez kattintson a következő linkre:\n"
+"%s\n"
+"\n"
+
+msgid "Registration confirmation"
+msgstr "Regisztráció jóváhagyása"
+
+msgid "Verify your account"
+msgstr "Ellenőrizze fiókja"
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Érvénytelen felhasználónév/jelszó"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "Felhasználónév és jelszó megjegyzése?"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr "Következő oldal"
+
+msgid "Previous page"
+msgstr "Előző oldal"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Belépve"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "Kilépve"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted weblog '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Alapértelmezett kategória:"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+#, fuzzy
+msgid "Your new password is %pass%."
+msgstr "Az új jelszó: <q>%pass%</q>."
+
+msgid "About PivotX"
+msgstr "PivotX névjegye"
+
+msgid "Setup user"
+msgstr "Felhasználó beállítása"
+
+msgid "Setup a new user"
+msgstr "Új felhasználó beállítása"
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+msgid "The entries were published."
+msgstr "Publikált bejegyzések."
+
+msgid "The entries could not be published."
+msgstr ""
+
+msgid "The entries were put on hold."
+msgstr "A bejegyzés fenntartásra tárolva."
+
+msgid "The entries could not be put on hold."
+msgstr "A bejegyzést nem tudtom fenntartásra tárolni."
+
+msgid "The entries were deleted."
+msgstr "Törölt bejegyzések."
+
+msgid "The entries could not be deleted."
+msgstr "A bejegyzés nem tudom törölni."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "Nincs jogosultsága a bejegyzés szerkesztéséhez."
+
+msgid "The entry has been deleted"
+msgstr "A bejegyzés törölve"
+
+msgid "Your Extension settings have been stored."
+msgstr "A bővítmény beállításai tároltva."
+
+msgid "Manage installed Widget extensions"
+msgstr "Telepített widget bővítmények kezelése"
+
+msgid "Edit Entry"
+msgstr "Bejegyzés szerkesztése"
+
+msgid "You are not allowed to edit this entry."
+msgstr "Nincs jogosultsága a bejegyzés szerkesztéséhez."
+
+#, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "A \"%s\" bejegyzése sikeresen mentve. "
+
+#, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "A \"%s\" bejegyzésének mentése SIKERTELEN."
+
+#, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr ""
+
+msgid "Log out"
+msgstr "Kilépés"
+
+msgid "You are now logged out of PivotX"
+msgstr "Kiléptél a PivotX -ből"
+
+msgid "My Settings"
+msgstr "Beállításaim"
+
+msgid "Add a Bookmarklet"
+msgstr ""
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+msgid "Your settings have been updated."
+msgstr "Beállítások frissítve."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "PivotX névjegye"
+
+msgid "Edit my personal Settings"
+msgstr "Személyes beállításaim módosítása"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+msgid "You are not allowed to edit this page."
+msgstr "Nincs jogosultsága az oldal szerkesztéséhez."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "Nincs jogosultsága az oldal szerkesztéséhez."
+
+msgid "The Chapter has been deleted."
+msgstr "A fejezet törölve."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "Nincs jogosultsága az oldal szerkesztéséhez."
+
+msgid "The Page has been deleted."
+msgstr "Az oldal törölve."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "Nincs jogosultsága az oldal szerkesztéséhez."
+
+#, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "A '%s' fejezet beállításai frissítve."
+
+#, fuzzy
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+"Bejegyzés hozzászólásainak szerkesztése vagy törlése %number% - %editlink%"
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Kategória törölve."
+
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr ""
+
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+"Bejegyzés hozzászólásainak szerkesztése vagy törlése %number% - %editlink%"
+
+msgid "The comment was deleted."
+msgstr "A hozzászólás törölve."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+"Hozzászólások szerkesztése vagy törlése a moderációs igényekben és az utolsó "
+"hozzászólásokban."
+
+msgid "Edit or Delete Comments"
+msgstr "Hozzászólás szerkesztése vagy törlése"
+
+msgid "The Comment was saved!"
+msgstr "Hozzászólás mentve!"
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks"
+msgstr "Hozzászólás szerkesztése vagy törlése"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Hozzászólás mentve!"
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Fájlok feltöltése"
+
+msgid "The visitor account has been deleted."
+msgstr "Felhasználói fiók törölve."
+
+msgid "Failed to deleted the visitor account."
+msgstr "Látogató fiók törlése sikertelen."
+
+msgid "The category was deleted."
+msgstr "Kategória törölve."
+
+msgid "The weblog has been deleted."
+msgstr "A weblog törölve."
+
+msgid "The weblog was exported as a Theme file."
+msgstr "A weblog exportálva Sablon fájlként."
+
+msgid "Create New Weblog"
+msgstr "Új weblog létrehozása"
+
+msgid "Common settings"
+msgstr "Általános beállítások"
+
+msgid "Database"
+msgstr "Adatbázis"
+
+msgid "Debug"
+msgstr "Hibakeresés"
+
+msgid "File Uploads"
+msgstr "Fájl feltöltések"
+
+msgid "Date / Time"
+msgstr "Dátum / Idő"
+
+msgid "Moblogging"
+msgstr "Modblogging"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr ""
+
+msgid "Rebuild the Search Index"
+msgstr ""
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr ""
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Index újraépítése"
+
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+msgid "Backup of Database"
+msgstr "Adatbázis biztonsági mentése"
+
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+
+msgid "Explore files"
+msgstr "Fájlok böngészése"
+
+msgid "Spam configuration saved."
+msgstr "Spam konfiguráció mentve."
+
+msgid "Blocked Phrases"
+msgstr ""
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr ""
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP blokkolások"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Kizárt IP címek megtekintése és szerkesztése."
+
+msgid "Spam log reset."
+msgstr "Spam log törlése"
+
+msgid "Perform routine maintenance on PivotX's files"
+msgstr ""
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr "A(z) '<tt>%s</tt>' felhasználó nem létezik."
+
+msgid "The user was deleted"
+msgstr "A felhasználó törölve"
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "A felhasználónév már használatban"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "A felhasználónév már használatban"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "A '%s' fejezet beállításai frissítve."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "A felhasználónév már használatban"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "A bejegyzés törölve"
+
+msgid "No account found for visitor."
+msgstr "Nincs fiók a látogatóhoz"
+
+msgid "Visitor account updated."
+msgstr "Látogató fiók frissítve"
+
+msgid "A category by this name already exists"
+msgstr "Ezen a néven már lé"
+
+#, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "A(z) '%s' kategória beállításai frissítve."
+
+msgid "Edit Weblog"
+msgstr "Weblog szerkesztése"
+
+#~ msgid "MP3 file \\'%basename%\\'"
+#~ msgstr "MP3 fájl \\'%basename%\\'"
+
+#~ msgid "this "
+#~ msgstr "ez"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "Felugró kép beillesztése"
+
+#~ msgid "# Comm"
+#~ msgstr "# Hozzász."
+
+#~ msgid "[Notification]"
+#~ msgstr "[Figyelmeztetés]"
+
+#~ msgid "[Comment]"
+#~ msgstr "[Hozzászólás]"
+
+#~ msgid "search"
+#~ msgstr "keresés"
+
+#~ msgid "go back"
+#~ msgstr "vissza"
+
+#~ msgid "user"
+#~ msgstr "felhasználó"
+
+#~ msgid "date"
+#~ msgstr "dátum"
+
+#~ msgid "chapter"
+#~ msgstr "fejezet"

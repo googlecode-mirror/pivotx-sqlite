@@ -1,0 +1,5849 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Last Comments"
+msgstr "Siste innspel"
+
+msgid "Stuff"
+msgstr "Ymist"
+
+msgid "Archives"
+msgstr "Arkiv"
+
+msgid "Categories"
+msgstr "Teigar"
+
+msgid "Links"
+msgstr "Lenker"
+
+#, fuzzy
+msgid "Search"
+msgstr "Søk!"
+
+msgid "Linkdump"
+msgstr "Lenkdunge"
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "Namn på"
+
+msgid "Email"
+msgstr "Netpost"
+
+msgid "URL"
+msgstr "Netstad"
+
+msgid "Post Comment"
+msgstr "Gjev innspel"
+
+msgid "Preview Comment"
+msgstr "Føreåtvis innspelet"
+
+msgid "Remember personal info?"
+msgstr "Hugsa opplysningene om deg?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "Styr"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "Bosverk-val"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "framhald"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Siste innspel"
+
+#, fuzzy
+msgid "Pages"
+msgstr "bilete"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Innspel"
+
+msgid "Notify"
+msgstr "Meld frå"
+
+msgid "Yes, send me email when someone replies."
+msgstr "Ja, send netpost dersom nokon gjev innspel."
+
+msgid "Hide email"
+msgstr "Løyn netpost"
+
+msgid "Yes, hide my email address."
+msgstr "Ja, løyn netposttilskrifti."
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Med liti skrift:</b> Ingi HTML-taggar forutan &lt;b&gt; og &lt;i&gt; kjem "
+"med i innspel. Lenker legg ein inn ved å berre skriva netstad- eller "
+"netposttilskrift."
+
+msgid "Insert an Image"
+msgstr "Set inn bilete"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"Innset av bilete krev at du løder opp eit biletblad eller vel eit som alt er "
+"opplødd."
+
+msgid "Upload"
+msgstr "Lød opp"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "Lød opp nytt blad:"
+
+msgid "Image name"
+msgstr "biletnamn"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "Biletval"
+
+msgid "Select"
+msgstr "Vel"
+
+msgid "Alternate text"
+msgstr "I staden for-tekst"
+
+msgid "Align"
+msgstr "Stilling"
+
+msgid "Center (default)"
+msgstr "Midstilt (fast)"
+
+msgid "Left"
+msgstr "Vinstrestilt"
+
+msgid "Right"
+msgstr "Høgrestilt"
+
+msgid "Inline"
+msgstr "Innbunde"
+
+msgid "Border"
+msgstr "Bord"
+
+msgid "pixels"
+msgstr "biletpunkt"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "Set inn bilete"
+
+msgid "Cancel"
+msgstr "Avlys"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "Bord"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "På den"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "Stell"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "Ingi innspel ventar godkjenning."
+
+msgid "IP-address"
+msgstr "IP-tilskrift"
+
+msgid "Date"
+msgstr "På den"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr "Endra på"
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "Sletta innspelet"
+
+msgid "Delete"
+msgstr "Sletta"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "Haka av alle"
+
+#, fuzzy
+msgid "Check none"
+msgstr "Haka av alle"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "Utan innspel"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "Sletta innspelet"
+
+#, fuzzy
+msgid "There are no comments waiting for moderation"
+msgstr "%1 innspel ventar på godkjenning."
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Siste nye om Pivot"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "Innlegg utan innspel."
+
+msgid "No comments"
+msgstr "Utan innspel"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Siste nye om Pivot"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Vevbladnamn"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "Endra på attendespeli"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "Sletta attendespel"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Innlegg utan innspel."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "Utan attendespel"
+
+msgid "Title"
+msgstr "Tittel"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "Endra på"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Tilleggsnamn"
+
+#, fuzzy
+msgid "Template"
+msgstr "Sideoppset"
+
+msgid "Introduction"
+msgstr "Innleiing"
+
+msgid "Body"
+msgstr "Brødtekst"
+
+msgid "Keywords"
+msgstr "Nykelord"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "bilete"
+
+#, fuzzy
+msgid "Preview"
+msgstr "Føreåtvising"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "I teigen"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Gjerning"
+
+#, fuzzy
+msgid "Publish"
+msgstr "På den"
+
+msgid "Publish on"
+msgstr "På den"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "Innspel"
+
+msgid "Yes"
+msgstr "Med"
+
+msgid "No"
+msgstr "Utan"
+
+msgid "Created on"
+msgstr "Utgjeve den"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "Siste etterførsel"
+
+msgid "Author"
+msgstr "Av"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "Arkivinnstilling"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "Sideoppset"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Vevblad"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS-kringkasting"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "Innspel"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "Set inn bilete"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "Set inn bilete"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "Viser til-lenk"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "Viser til-tittel"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Attendespel-pling"
+
+msgid "Post Entry"
+msgstr "Send innlegget"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "Føreåtvis innspelet"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "Attendespel"
+
+msgid "Category"
+msgstr "I teigen"
+
+#, fuzzy
+msgid "(none)"
+msgstr "Eitt"
+
+msgid "Insert a Download"
+msgstr "Set inn til nedløding"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"For å setja inn eit blad som kan lødast ned, bør du fyrste løda eit blad opp "
+"eller velja eit alt opplødd blad. So vel du anten eit bilete, ei tekst eller "
+"ei tommelnagl som nedlødingsutløysar."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "Lød opp nytt blad:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "Bladnamn"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "Med bilete"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "Med tekst"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "Viser til-tittel"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "Set inn til nedløding"
+
+msgid "My Info"
+msgstr "Ditt"
+
+#, fuzzy
+msgid "Logout"
+msgstr "Gakk ut."
+
+msgid "Dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "Back to dashboard"
+msgstr "Attende til inngang"
+
+#, fuzzy
+msgid "View weblog"
+msgstr "Nytt vevblad"
+
+#, fuzzy
+msgid "view"
+msgstr "Føreåtvising"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "Fast etterlekk"
+
+msgid "Maintenance"
+msgstr "Stell"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "Nytt vevblad"
+
+#, fuzzy
+msgid "sec."
+msgstr "sekund"
+
+#, fuzzy
+msgid "using"
+msgstr "Spørsmål"
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Bladnamn"
+
+msgid "Description"
+msgstr "Omtala"
+
+msgid "Filesize"
+msgstr "Bladstorleik"
+
+#, fuzzy
+msgid "Image"
+msgstr "bilete"
+
+msgid "Thumbnail"
+msgstr "Tommelnagl"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "Veit du visst at du vil sletta innlegget?"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "På den"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "Set opp ny brukar"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "Set opp ny brukar"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "Lød opp blad"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "Lød opp"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "Endra på oppsetsbladet"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "Smiletryne"
+
+msgid "You should first select or upload an image"
+msgstr "Du bør helst fyrst velja eller løda opp eit bilete"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"Å skapa eit sprett opp-bilete krev at du løder up eit biletblad eller vel "
+"eit som alt er opplødd. Dinæst vel du ei tekst eller tommelnagl til "
+"utløysing av biletet."
+
+msgid "For popup"
+msgstr "Til sprett opp"
+
+msgid "Use Thumbnail"
+msgstr "Med tommmelnagl"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "Endra på tommelnagli"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "Set inn sprett opp-bilete"
+
+msgid "Create New User"
+msgstr "Set opp ny brukar"
+
+msgid "Username"
+msgstr "Kontonamn"
+
+msgid "Nickname"
+msgstr "Klengjenamn"
+
+msgid "Userlevel"
+msgstr "Bruksløyve"
+
+msgid "Last Login"
+msgstr "Sist innom"
+
+msgid "Edit User"
+msgstr "Brukarendring"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr ""
+"Du er ved å taka burt tilgjenget for %s. Er du viss på at du ynskjer det?"
+
+msgid "Verified"
+msgstr "Stadfest"
+
+msgid "Disabled"
+msgstr "Stengd"
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Smiletryne"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "Endra registerførd gjest"
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "Du er ved å sletta vevbladet %1. Vil du det?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "Set inn bilete"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "Set inn bilete"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "Set inn til nedløding"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "Set inn bilete"
+
+msgid "The default category is:"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr "Brukaren har løyve til å senda inn innlegg til dei utvalde teigane"
+
+msgid "Create New Category"
+msgstr "Set opp ny teig"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "Brukarar"
+
+msgid "Hidden Category"
+msgstr "Løynt teiginnsyn"
+
+msgid "Sorting Order"
+msgstr "Radfylgd"
+
+#, fuzzy
+msgid "users"
+msgstr "Brukarar"
+
+msgid "Edit Category"
+msgstr "Endra på teigen"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Vel «Med» dersom du vil sletta denne teigen"
+
+msgid "New Weblog"
+msgstr "Nytt vevblad"
+
+msgid "Weblog Name"
+msgstr "Vevbladnamn"
+
+#, fuzzy
+msgid "categories"
+msgstr "Teigar"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "Du er ved å sletta vevbladet %1. Vil du det?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Endra på innlegget"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "Skrivesida"
+
+#, fuzzy
+msgid "New Page"
+msgstr "bilete"
+
+msgid "Configuration"
+msgstr "Styr"
+
+msgid "Manage Media"
+msgstr "Ilegg"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Siste nye om Pivot"
+
+msgid "more"
+msgstr "framhald"
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Veit du visst at du vil sletta innlegget?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "Skrivesida"
+
+#, fuzzy
+msgid "delete"
+msgstr "Sletta"
+
+#, fuzzy
+msgid "The latest pages"
+msgstr "Siste nye om Pivot"
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Pivot &#8674; Skrivesida med lenk i"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Siste nye om Pivot"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Syn sîste"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Siste nye om Pivot"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Innlegg"
+
+#, fuzzy
+msgid "Suggestions"
+msgstr "Spørsmål"
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Syn sîste"
+
+msgid "filter on (%name%)"
+msgstr "vis alt i teigen (%name%)"
+
+msgid "first"
+msgstr "fyrste"
+
+msgid "previous"
+msgstr "førre"
+
+msgid "next"
+msgstr "næste"
+
+msgid "last"
+msgstr "siste"
+
+msgid "jump to page (%num%)"
+msgstr "hoppa til sida (%num%)"
+
+msgid "filter off"
+msgstr "utsiling av"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "Gjerning"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Haka av alle"
+
+msgid "Uncheck All"
+msgstr "Utan avhakingar"
+
+msgid "With the checked entries, do:"
+msgstr "Med desse innleggi,"
+
+msgid "- select an option -"
+msgstr "Vel gjerning"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "Lat dei vera «Utgjevne»"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "Lat dei vera «Atthaldne»"
+
+msgid "Delete them"
+msgstr "Sletta dei"
+
+msgid "Go!"
+msgstr "Køyr!"
+
+#, fuzzy
+msgid "Published"
+msgstr "På den"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Tittel"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "Endra på dette innlegget"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Gjort! Å skapa innhaldsremsa tok %num% sekund"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "Utgjeve den"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "Inkje"
+
+#, fuzzy
+msgid "for"
+msgstr "Fire"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "Sist innom"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr "%1 innspel ventar på godkjenning."
+
+msgid "No comments are waiting to be approved."
+msgstr "Ingi innspel ventar godkjenning."
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "Innleggsplass"
+
+msgid "Overview of Entries"
+msgstr "Handsaming og skriving av innlegg"
+
+msgid "Manage and Upload Media"
+msgstr "Handsaming og opplegg av ilegg"
+
+msgid "Administration"
+msgstr "Styr og stell"
+
+msgid "Overview of Administrative functions"
+msgstr "Styretavla"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Fast etterlekk"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "Fast etterlekk"
+
+#, fuzzy
+msgid "Log in"
+msgstr "Inngang"
+
+msgid "Write and Publish a new Entry"
+msgstr "Skriv og send inn eit nytt innlegg"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "Handsaming og skriving av innlegg"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "Skriv og send inn eit nytt innlegg"
+
+msgid "Moderate Comments"
+msgstr "Vurder innspel"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "Attendespel"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "Handsaming og skriving av innlegg"
+
+msgid "Edit the Configuration file"
+msgstr "Endra på oppsetsbladet"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "Bosverk-val"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Endra på oppsetsbladet"
+
+msgid "Create, edit and delete Users"
+msgstr "Set opp, endra på eller sletta brukarar"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Set opp, endra på eller sletta teigar"
+
+msgid "Weblogs"
+msgstr "Vevblad"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Set opp, endra på eller sletta vevblad"
+
+msgid "Registered Visitors"
+msgstr "Innskrivne gjester"
+
+msgid "View and edit Registered Visitors"
+msgstr "Vis og endra på innskrivne gjester"
+
+msgid "Spam Protection"
+msgstr "Bosverk"
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr "Ulike vern mot bos i vevbladi"
+
+#, fuzzy
+msgid "Backup"
+msgstr "Tryggleikskopi"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr "For nedløding av zip-pakka oppsetsblad"
+
+#, fuzzy
+msgid "Widgets"
+msgstr "bilete"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Fast etterlekk"
+
+msgid "Spam configuration"
+msgstr "Bosverk-val"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr "Oppset av bosverk (t.d. HashCash og SpamQuiz)."
+
+msgid "Spam Log"
+msgstr "Boslogg"
+
+msgid "View and Reset the Spam Log."
+msgstr "Vis og tøm bosloggen."
+
+msgid "Backup of Configuration Files"
+msgstr "Tak tryggleikskopi av oppsetsbladi"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr "For nedløding av zip-pakka oppsetsblad"
+
+msgid "Create, edit and delete Templates"
+msgstr "Set opp, endra på eller sletta sideoppset"
+
+msgid "Explore Database Files"
+msgstr "Bladvisar"
+
+msgid "View files (both text and database files)"
+msgstr "Syn blad (både tekstblad og tilfangslagerblad)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "Bladvisar"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "Lød opp blad"
+
+msgid "Rebuild the Index"
+msgstr "Bygg om innhaldsremsa"
+
+msgid "Rebuild the index of your Database"
+msgstr "Bygg om innhaldslagerremsa"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "Bygg om søkjeremsa"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "Bygg om søkjeremsa, for søk i innleggi"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Bygg om innhaldsremsa"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "Bygg om søkjeremsa, for søk i innleggi"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "Velkomen til innsida av %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "mondag"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "Nykelord"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Lød opp nytt blad:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Red"
+msgstr "ons"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "Tryggleikskopi"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Inngang"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr "Namet må skrivast med bokstavar og tal og understrik (A-Z,0-9 og _)."
+
+msgid "Password"
+msgstr "Løysnord"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+#, fuzzy
+msgid "Stay logged in?"
+msgstr "Innkomen"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Gløymd løysnord?"
+
+msgid "Send password"
+msgstr "Send løysnordet"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Send løysnordet"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+"Dersom du har gløydm løysnordet, kan du fylla ut brukarnamn og netpost, og "
+"so kjem Pivot til det til deg. "
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "Gøym sideoppsetet!"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "Gøym sideoppsetet!"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "Tak tryggleikskopi av oppsetsbladi"
+
+msgid "Reset Spam Log"
+msgstr "Tøm bosloggen"
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "Gøym på innspelet"
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Registered user"
+msgstr "Registerførd"
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+"Innspelsvurdering er på på denne staden. Dette tyder at innspel ikkje kjem "
+"ut før dei er godkjende av ein endringsbrukar."
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "Vurder innspel"
+
+#, fuzzy
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+"Innspelsvurdering er på på denne staden. Dette tyder at innspel ikkje kjem "
+"ut før dei er godkjende av ein endringsbrukar."
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "Gøym attendespeli"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Innleggstidspunkt"
+
+msgid "Excerpt"
+msgstr "Utdrag"
+
+msgid "Continue"
+msgstr "Hald fram"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "Løysnord (stadfest)"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "Løysnordi ikkje like"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "På den"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "Lød opp blad"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+#, fuzzy
+msgid "Your MySQL password"
+msgstr "Send løysnordet"
+
+#, fuzzy
+msgid "Database Name"
+msgstr "På den"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "Kontonamn"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "SSI-førelekk"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Løysnordi ikkje like"
+
+msgid "That's not a valid email address"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+msgid "Language"
+msgstr "Målform"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Tekstlet"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Avgjer tekshandsamar for dei utan grafisk teksthandsamar.  «Gjer om "
+"lineskift»  set einast om lineskift til <a href=\"http://www.w3.org/TR/html4/"
+"struct/text.html#edef-BR\" title=\"Forklåring av BR-taggen\" target=\"_blank"
+"\">BR</a>-taggar. <a href=\"http://www.textism.com/tools/textile/\" target="
+"\"_blank\" title=\"Forklåring av Textile\">Textile</a> er eit kraftigt men "
+"lettvint og lettlærd tekstmerkjingsopplegg."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Gjer om lineskift til &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Markdown and Smartypants"
+msgstr "Markdown med Smartypants"
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "Siste etterførsel"
+
+msgid "Moblogger"
+msgstr "Mobiltlf"
+
+msgid "Normal"
+msgstr "Vanleg"
+
+msgid "Advanced"
+msgstr "Auka"
+
+msgid "Administrator"
+msgstr "Stort"
+
+msgid "Superadmin"
+msgstr "Høgaste"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "Bruksløyvet avgjer kva ting ein har løyve til å gjera i Pivot."
+
+msgid "Allowed Categories"
+msgstr "Løyvde teigar"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr "Brukaren har løyve til å senda inn innlegg til dei utvalde teigane"
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "Siste etterførsel"
+
+msgid "Create Category"
+msgstr "Set opp teigen"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Teigen lyt ha eit namn"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "Vel kven som kan senda inn innlegg til teigen"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"Teig med lægre radtal kjem høgare opp på remsa. Dersom nokon fær same "
+"radtalet, kjem dei i bokstavfylgd i staden"
+
+#, fuzzy
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr "Val av «Med» tek teigen ut or arkivremsa (berre for «Radt ut»-sidor)."
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "I teigen"
+
+#, fuzzy
+msgid "The name of this chapter"
+msgstr "Teigen på søkjeremsa"
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+msgid "Theme"
+msgstr "Fast fellesutsjånad"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "Innleggsoppset"
+
+msgid "Payoff"
+msgstr "Slagord"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr ""
+"Slagordet kan vera eit tilleggsnamn/undertittel eller ei stutt omtala av "
+"vevbladet"
+
+msgid "URL to Weblog"
+msgstr "URL til vevbladet"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Pivot avgjer URL-en til vevbladet dersom du leiver denne posten tom. Dersom "
+"vevbladet er deild av eit råmeset, ellder eit tenarside-ilegg, kan du nytta "
+"desse til å skriva over det."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"Målformi avgjer skrivemåten for tidspunkt, tal og tekstomkoding (dvs t.d. "
+"iso-8859-1 og koi8-r)."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "«Framhald»"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"Ord som skal fortelja at teksti held fram på ei onnor sida. Ved å leiva "
+"posten tom, kjem Pivot til å nytta det faste, slike det er sett opp i "
+"målforminnstillingane"
+
+msgid "Frontpage Template"
+msgstr "Framsideoppset"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "Sideoppsetet som avgjer oppsetet av framsida til vevbladet."
+
+msgid "Archivepage Template"
+msgstr "Arkivsideoppset"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"Sideoppset for oppset av arkivi dykkar. Ein kan òg nytta «Framsideoppsetet»."
+
+msgid "Entrypage Template"
+msgstr "Innleggssideoppset"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "Sideoppset for oppset av eittinnleggssida."
+
+msgid "Extra Template"
+msgstr "Tilleggssideoppset"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr "Oppset som avgjer koss arkiv- og søkssida (search.php) skal sjå ut."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Gøym sideoppsetet!"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr "Oppset som avgjer koss arkiv- og søkssida (search.php) skal sjå ut."
+
+msgid "Number of Entries"
+msgstr "Tal innlegg"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "Tal innlegg i denne vevbladdeildi som skal visast på framsida."
+
+msgid "Offset"
+msgstr "Avvik"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"Dersom avviket er sett til eit tal, vert so mange innlegg hoppa over når "
+"sida vert sett opp. Ein kan nytta dette for å skipa listor med «Eldre "
+"innlegg», t.d."
+
+msgid "Publish these categories"
+msgstr "Gjev desse teigane ut"
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS & Atom-kringkastingsoppset"
+
+msgid "Generate Feeds"
+msgstr "Kringkasting"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr "Avgjer om Pivot skal kringkasta vevbladet som RSS- og Atom-sendingar."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "Stad-URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "Stad-URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Fullkringkasting"
+
+#, fuzzy
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"Avgjer om Pivot skipar fulle Atom- og RSS-kringkastingar. Med «Utan» sender "
+"Pivot berre ut innleggsomtalor i staden for heile innlegg."
+
+msgid "Feed Link"
+msgstr "Kringkastingslenk"
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"Lenken som fylgjer med sendingi og som peikar til hovudsida. Dersom tom, "
+"fyller Pivot berre inn ein lenk til framsida av vevbladet."
+
+msgid "Feed Image"
+msgstr "Kringkastingsbilete"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"Du kan setja opp eit bilete til utsendingi. Sume leseprogram kan visa "
+"biletet saman med sendingi. Leiv det tomt eller legg inn ein heil URL."
+
+msgid "Commenting Settings"
+msgstr "Innspel-innstillingar"
+
+msgid "Send Mail?"
+msgstr "Senda netpost?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr "Når det er kome innspel, kan vevbladeigaren få netpost."
+
+msgid "Mail to"
+msgstr "Netpost til"
+
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"Set inn tilskrifti åt vedkomande som skal få netpost. Set komma mellom "
+"dersom det er fleire tilskrifter."
+
+msgid "Text to links"
+msgstr "Tekst på lenker"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr "Avgjer om innskrivne URL-ar og netposttilskrifter skal kunna klikkast."
+
+msgid "Wrap comments after"
+msgstr "Linebrot etter"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"Til førebyggjing mot lange tekststrenger som øydelegg oppsetet, vert "
+"tekstene brotne etter eit visst tal teikn."
+
+msgid "Comments Popup?"
+msgstr "Innspel-sprett opp?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"Avgjer om innspel-sida (eller «eittinnleggssida») skal visast i eit sprett "
+"opp-vindauga, eller i gjeldande vindauga."
+
+msgid "Width of Popup"
+msgstr "Sprett opp-breidd"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "Sprett opp-høgd"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "Set inn breidd og høgd (i biletpunkt) for innspel-sprett opp."
+
+msgid "Height of Popup"
+msgstr "Sprett opp-høgd"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "Set inn breidd og høgd (i biletpunkt) for innspel-sprett opp."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Textile-handsamar"
+
+msgid "Allow Textile"
+msgstr "Textile-handsamar"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"Valet «Med» gjev vitjande høve til å nytta <a href=\"http://www.textism.com/"
+"tools/textile/\" target=\"_blank\" title=\"forklåring av Textile\">Textile</"
+"a> i innspel."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "Smiletryne"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "Smiletryne"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"Valet «Med» gjev vitjande høve til å nytta <a href=\"http://www.textism.com/"
+"tools/textile/\" target=\"_blank\" title=\"forklåring av Textile\">Textile</"
+"a> i innspel."
+
+msgid "Site Name"
+msgstr "Stadnamn"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Vevblad"
+
+#, fuzzy
+msgid "Page"
+msgstr "bilete"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "Stadnamn"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "Vel gjerning"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr "Avgjer lenkoppsetet på innspel til tidlegare innspel."
+
+msgid "Default language"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "Hovudmål"
+
+msgid "Allow XML-RPC"
+msgstr "Tillat XML-RPC"
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+"Med godtaking av dette, kan du skriva i vevbladet frå eit skrivebordsprogram "
+"for vevbladskriving (MetaWeblog-grensesnittet)."
+
+#, fuzzy
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr "Med /archive/2005/04/28/namn_på_innlegg"
+
+#, fuzzy
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr "Med /archive/2005-04-28/namn_på_innlegg"
+
+msgid "Yes, like /entry/1234"
+msgstr "Med /entry/1234"
+
+#, fuzzy
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr "Med /entry/1234/namn_på_innlegg"
+
+#, fuzzy
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr "Med /archive/2005/04/28/namn_på_innlegg"
+
+#, fuzzy
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr "Med /archive/2005-04-28/namn_på_innlegg"
+
+msgid "Use Mod_rewrite"
+msgstr "Mod_rewrite-val"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"Med Apache mod_rewrite, vert URL-ane slik: www.minstad.no/arkiv/2003/05/30/"
+"fint_vêr, i staden for www.minstad.no/pivot/innlegg.php?id=134. Ikkje alle "
+"vevtenarar er i stand til dette - sjå i handboki."
+
+msgid "Allow comments by default"
+msgstr "Høve til innspel"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "Avgjer om innleggi skal vera oppsette med høve til innspel."
+
+msgid "Moderate comments"
+msgstr "Vurder innspel"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr "Valet avgjer om innspel lyt godkjennast førr dei kjem ut på netstaden."
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "Gøym oppsetet"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Syn sîste"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "Tal innlegg"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS-kringkasting"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "Tal innlegg"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "Kode"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "Bladstorleik på det mesta"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "Bladstorleik på det mesta"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Lusframvisar"
+
+msgid "Show random debug information, every here and there.."
+msgstr "Syner tilfellelege lyser, då og då."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "Loggblad"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "Bladutkopling"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"På sume vevtenarar med det gyslege «safe_mode» påslege, lyt ein gjerne leika "
+"seg med denne innstillingi. Oftast har dette valet inkje å segja"
+
+msgid "Chmod Files To"
+msgstr "CHMOD-val"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"Sume vevtenarar lyt ha blad som er chmod-handsama slik og slik. Dei vanlege "
+"verdi er «0644» og «0755». Minder du veit kva du lyt gjera, bør du ikkje "
+"tenkja på saki."
+
+msgid "File Upload Path"
+msgstr "Bladopplødingsplass"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Ved overskrivingsfåre"
+
+msgid "Increment Filename"
+msgstr "Auka namnelengdi"
+
+msgid "Maximum Filesize"
+msgstr "Bladstorleik på det mesta"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Sjølvhjulpen tommelnagl"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Tommelnaglbreidd"
+
+msgid "Thumbnail height"
+msgstr "Tommelnaglbreidd"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Tommelnaglbreidd"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Godtekne slag"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Fullt tidsstempel"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"Avgjer oppsetet på det fulle tidsstempelet. Stend oftast øvst på ei "
+"eittinnleggssida"
+
+msgid "Entry Date"
+msgstr "Innleggstidspunkt"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Ulike-tidspunkt"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"«Ulike-tidspunkt» vert oftast nytta i lag med «Innleggstidspunkt». "
+"Innleggstidspunktet stend ved kvart innlegg i vevbladet, medan Ulike-"
+"tidspunkt berre kjem fram dersom tidspunktet er ulikt førre innlegget."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "Tidsavvikseining"
+
+msgid "Year"
+msgstr "år"
+
+msgid "Month"
+msgstr "månad"
+
+msgid "Day"
+msgstr "dag"
+
+msgid "Hour"
+msgstr "time"
+
+msgid "Minute"
+msgstr "minutt"
+
+msgid "Time Offset"
+msgstr "Tidsavvik"
+
+#, fuzzy
+msgid "Activate"
+msgstr "Arkiv"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "Lægste b.løyve"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "Det er ikkje ei sætande netposttilskrift"
+
+#, fuzzy
+msgid "Default author"
+msgstr "Din eigen avatar"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "Hovudmål"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "Biletval"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "Sletta teigen"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "Vel gjerning"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "Sletta teigen"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "Løyvde teigar"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr "Med HashCash"
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+"HashCash er det mest kraftfulle og usynlege bosverket som er, og krev at "
+"vevlesaren har javascript påslege. Skulde det vera ulagomt, so slær du det "
+"berre ikkje på."
+
+msgid "Number of links"
+msgstr "Lenkjartal i innspel"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+"Tal hyperlenker på det mesta i innspel. Ei hjelp for å verta kvitt "
+"bosinnspel. Skriv 0 for eit utal lenker."
+
+#, fuzzy
+msgid "SpamQuiz"
+msgstr "Med SpamQuiz"
+
+msgid "Use SpamQuiz"
+msgstr "Med SpamQuiz"
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+"Før vevbladet tek i mot innspel, lyt brukaren svara rett på eit einfeldt "
+"spørsmål alle (i lesarkrinsen) veit svaret på. Dumme «bosprogram» skjønar "
+"ikkje dei ulike spørsmåli på norsk, dialekt, med rare skrivemåtar, rar "
+"logikk osb."
+
+msgid "Question"
+msgstr "Spørsmål"
+
+#, fuzzy
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr "Døme: Kva er dei tvo fyrste bokstavane i ordet «bos»?"
+
+msgid "Answer"
+msgstr "Svar"
+
+msgid "Example: <b>sp</b>"
+msgstr "Døme: <b>bo</b>"
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr "Forklåring"
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+"Døme: Til vern mot innspelsbos-program, krev me at du svarar på dette dumme "
+"spørsmålet"
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "biletnamn"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "Fast etterlekk"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "Fast etterlekk"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "Fast etterlekk"
+
+#, fuzzy
+msgid "By"
+msgstr "Brødtekst"
+
+#, fuzzy
+msgid "version"
+msgstr "Omskaping"
+
+#, fuzzy
+msgid "last updated"
+msgstr "Siste etterførsel"
+
+#, fuzzy
+msgid "site link"
+msgstr "Set inn lenk"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "Bosverk-val"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "Set inn bilete"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "Set inn bilete"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Send pling"
+
+#, fuzzy
+msgid "Oops."
+msgstr "Hoisann!"
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Pivot brukarinngang"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Pivot brukarinngang"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Pivot brukarinngang"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "Du har ikkje løyve til å gjera det med innlegget «%title%»!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "Innspelet er stroke."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "Bladet er no opplødd som «%s»."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "Innspelet er stroke."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "Det nye vevbladet er sett opp."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Set opp tommelnagl)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Bladopplødingsplass"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "Kringkastingsblad"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Smiletryne"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "Løysnord"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "Trettan"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "Skriv"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Skreiveveila. Fekk ikkje opna bladet for skriving"
+
+msgid "Write Error. Could not write to file"
+msgstr "Skriveveila. Fekk ikkje skrive til bladet"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "Avgjer innspelsoppsetet på innleggssidone."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "Endra på dette innlegget"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "Sletta innspelet"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "Avgjer innspelsoppsetet på innleggssidone."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "Ulike val"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Skrivesida"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "Registerføringa stadfest"
+
+msgid "%num% comment"
+msgstr "%num% innspel"
+
+msgid "%num% comments"
+msgstr "%num% innspel"
+
+msgid "%num% trackback"
+msgstr "%num% attendespel"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "%num% attendespel"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"Du føreåtsyner innspelet. Hugsa på å trykkja «Send innspel» for å arkivera "
+"det."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr "Innspeler er ikkje arkivera då det verkar som ein kopi av sist innlegg"
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr "Innspeler er ikkje arkivera då det verkar som ein kopi av sist innlegg"
+
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr ""
+"Innspelet ditt er arkivera. Avdi alle innspel vert vurderte fyrst, lyt det "
+"no venta på ein endringsbrukar."
+
+msgid "Your comment has been stored."
+msgstr "Innspelet ditt er arkivera."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"Du kannn skriva inn namnet ditt (eller aliaset) i «namne»-teigen. Ver viss på "
+"trykkja  «Send innspelet» for trygg arkivering."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"Du bør skriva noko i «Innspel»-teigen. Hugsa på å trykkja «Send innspelet», "
+"for trygg arkivering."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr "Lenkjartalgrensa nådd. Stogga boset."
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "Vurder innspel"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "Endra på tommelnagli"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Pivot brukarinngang"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Kode"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "Smiletryne"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "Endra på tommelnagli"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Set opp tommelnagl)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Køyr!"
+
+#, fuzzy
+msgid "Back"
+msgstr "Tryggleikskopi"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "Kode"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "sundag"
+
+msgid "Monday"
+msgstr "mondag"
+
+msgid "Tuesday"
+msgstr "tysdag"
+
+msgid "Wednesday"
+msgstr "onsdag"
+
+msgid "Thursday"
+msgstr "torsdag"
+
+msgid "Friday"
+msgstr "fredag"
+
+msgid "Saturday"
+msgstr "laurdag"
+
+msgid "S_Sunday_initial"
+msgstr "s"
+
+msgid "M_Monday_initial"
+msgstr "m"
+
+msgid "T_Tuesday_initial"
+msgstr "t"
+
+msgid "W_Wednesday_initial"
+msgstr "o"
+
+msgid "T_Thursday_initial"
+msgstr "t"
+
+msgid "F_Friday_initial"
+msgstr "f"
+
+msgid "S_Saturday_initial"
+msgstr "l"
+
+msgid "Sun"
+msgstr "sun"
+
+msgid "Mon"
+msgstr "mon"
+
+msgid "Tue"
+msgstr "tys"
+
+msgid "Wed"
+msgstr "ons"
+
+msgid "Thu"
+msgstr "tors"
+
+msgid "Fri"
+msgstr "fre"
+
+msgid "Sat"
+msgstr "laur"
+
+msgid "January"
+msgstr "januar"
+
+msgid "February"
+msgstr "februar"
+
+msgid "March"
+msgstr "mars"
+
+msgid "April"
+msgstr "april"
+
+msgid "May"
+msgstr "mai"
+
+msgid "June"
+msgstr "juni"
+
+msgid "July"
+msgstr "juli"
+
+msgid "August"
+msgstr "august"
+
+msgid "September"
+msgstr "september"
+
+msgid "October"
+msgstr "oktober"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "desember"
+
+msgid "Jan_January_abbreviation"
+msgstr "jan"
+
+msgid "Feb_February_abbreviation"
+msgstr "feb"
+
+msgid "Mar_March_abbreviation"
+msgstr "mar"
+
+msgid "Apr_April_abbreviation"
+msgstr "apr"
+
+msgid "May_May_abbreviation"
+msgstr "mai"
+
+msgid "Jun_June_abbreviation"
+msgstr "jun"
+
+msgid "Jul_July_abbreviation"
+msgstr "jul"
+
+msgid "Aug_August_abbreviation"
+msgstr "aug"
+
+msgid "Sep_September_abbreviation"
+msgstr "sep"
+
+msgid "Oct_October_abbreviation"
+msgstr "okt"
+
+msgid "Nov_November_abbreviation"
+msgstr "nov"
+
+msgid "Dec_December_abbreviation"
+msgstr "des"
+
+#, fuzzy
+msgid "am"
+msgstr "Namn på"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "Utan"
+
+msgid "one"
+msgstr "Eitt"
+
+msgid "two"
+msgstr "Tvo"
+
+msgid "three"
+msgstr "Tri"
+
+msgid "four"
+msgstr "Fire"
+
+msgid "five"
+msgstr "Fem"
+
+msgid "six"
+msgstr "Seks"
+
+msgid "seven"
+msgstr "Sju"
+
+msgid "eight"
+msgstr "Åtte"
+
+msgid "nine"
+msgstr "Nie"
+
+msgid "ten"
+msgstr "Tie"
+
+msgid "eleven"
+msgstr "Elleve"
+
+msgid "twelve"
+msgstr "Tolv"
+
+msgid "thirteen"
+msgstr "Trettan"
+
+msgid "fourteen"
+msgstr "Fjortan"
+
+msgid "fifteen"
+msgstr "Femtan"
+
+msgid "sixteen"
+msgstr "Sekstan"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "Sju"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "Åtte"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "Nie"
+
+#, fuzzy
+msgid "twenty"
+msgstr "Skrivesida"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "Utan"
+
+#, fuzzy
+msgid "second"
+msgstr "sekund"
+
+#, fuzzy
+msgid "third"
+msgstr "Trettan"
+
+#, fuzzy
+msgid "forth"
+msgstr "Fire"
+
+#, fuzzy
+msgid "fifth"
+msgstr "Femtan"
+
+#, fuzzy
+msgid "sixth"
+msgstr "Seks"
+
+#, fuzzy
+msgid "seventh"
+msgstr "Sju"
+
+#, fuzzy
+msgid "eighth"
+msgstr "Åtte"
+
+#, fuzzy
+msgid "ninth"
+msgstr "Nie"
+
+#, fuzzy
+msgid "tenth"
+msgstr "Tie"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "Elleve"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "Tolv"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "Trettan"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "Fjortan"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "Femtan"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "Sekstan"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "Sju"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "Åtte"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "Nie"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "Tie"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+"Pivot-oppsetsskrivet 'pivot-setup.php' ligg framleis i modermappa. Du bør "
+"vera merksam på at dette er ein mogeleg tryggleiksfåre. Det beste er å taka "
+"det burt eller setja nytt namn på so illviljugt folk ikkje kan fara ille åt "
+"med det."
+
+#, fuzzy
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+"Pivot-oppsetsskrivet 'pivot-setup.php' ligg framleis i modermappa. Du bør "
+"vera merksam på at dette er ein mogeleg tryggleiksfåre. Det beste er å taka "
+"det burt eller setja nytt namn på so illviljugt folk ikkje kan fara ille åt "
+"med det."
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "Bord"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "Lød opp blad"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Syn sîste"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "Innspelet er stroke."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Vevblad"
+
+#, fuzzy
+msgid "category"
+msgstr "I teigen"
+
+#, fuzzy
+msgid "entry"
+msgstr "Skrivesida"
+
+#, fuzzy
+msgid "for comments"
+msgstr "Utan innspel"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "Funn"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "Tilslag for '%name%':"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "Tilslag for '%name%':"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "Utan tilslag for '%name%'. Freista noko annat."
+
+msgid "Search for words used in entries on this website"
+msgstr "Leit i innleggi"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "Set inn søkjeord:"
+
+msgid "Enter searchterms"
+msgstr "Vel søkjeord"
+
+msgid "Search!"
+msgstr "Søk!"
+
+msgid "XML: Atom Feed"
+msgstr "XML: Atom-kringkasting"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "%num% innspel"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr "Minst eit innspel ventar på godkjenning av ein endringsbrukar."
+
+msgid "Emoticons"
+msgstr "Smiletryne"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Pivot brukarinngang"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "Set opp sideoppset"
+
+msgid "Text file"
+msgstr "Tekst-oppset"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Pivot &#8674; Skrivesida med lenk i"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "Lød opp nytt blad:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Pivot &#8674; Skrivesida med lenk i"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "Endra på tommelnagli"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Lød opp nytt blad:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "Sideoppset"
+
+#, fuzzy
+msgid "Include template"
+msgstr "Gøym sideoppsetet!"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "Framsideoppset"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "Arkivsideoppset"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "Innleggssideoppset"
+
+#, fuzzy
+msgid "Page template"
+msgstr "Gøym sideoppsetet!"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "Arkivsideoppset"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "Bosverk-val"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Pivot brukarinngang"
+
+#, fuzzy
+msgid "(more)"
+msgstr "framhald"
+
+msgid "Powered by"
+msgstr "Køyrer på"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS-kringkasting"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "Set inn bilete"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "Utan attendespel"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr "Ver gild å slå på Javascript for å få ein attendespel-URL"
+
+#, fuzzy
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+"Merk: URL-en gjeld berre i femtan minuttar. Javascript må vera påslege!"
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "Trykk for å få ein attendespel-URL"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Sletta innspelet"
+
+#, fuzzy
+msgid "register/login"
+msgstr "Registerfør deg"
+
+msgid "words"
+msgstr "ord"
+
+msgid "image"
+msgstr "bilete"
+
+msgid "images"
+msgstr "bilete"
+
+msgid "file"
+msgstr "blad"
+
+msgid "files"
+msgstr "blad"
+
+msgid "Self-registration"
+msgstr "Sjølvinnskriving"
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "Røysta «%val%» til innlegget"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+"Innspelsvurdering er på på denne staden. Dette tyder at innspel ikkje kjem "
+"ut før dei er godkjende av ein endringsbrukar."
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+"Ver gild og slå på Javascript (og henta sida på nytt) for skriving av "
+"innspel."
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+#, fuzzy
+msgid "Related tags"
+msgstr "Siste nye om Pivot"
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Syn sîste"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "Avgjer oppsetet på innleggsside-attendespel."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "Avgjer oppsetet på innleggsside-attendespel."
+
+msgid "Log in as a registered visitor"
+msgstr "Kom inn som innskriven gjest"
+
+msgid "Forgotten your password?"
+msgstr "Gløymd løysnord?"
+
+msgid "Register a new username."
+msgstr "Skriv deg inn med nytt brukarnamn."
+
+msgid "Logged in as"
+msgstr "Komm inn som"
+
+msgid "Log out."
+msgstr "Gakk ut."
+
+#, fuzzy
+msgid "Delete account."
+msgstr "Sletta innspelet"
+
+msgid "Edit your preferences"
+msgstr "Endra på innstillingane dine"
+
+msgid "User disabled"
+msgstr "Stengd brukar"
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "Gali løysnord"
+
+msgid "Logged in"
+msgstr "Innkomen"
+
+msgid "Register"
+msgstr "Registerfør deg"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"Ver gild og fyll ut fylgjande opplysningar. <strong>Ver nøgje med å skriva "
+"rett netposttilskrift</strong> då me kjem til å senda eit stadfestingsbrev "
+"dit."
+
+msgid "Options"
+msgstr "Tilval"
+
+msgid "Back to login"
+msgstr "Attende til inngang"
+
+msgid "Show my email address with comments"
+msgstr "Syn netposttilsskrifti attmed innspel"
+
+msgid "Notify me via email of new entries"
+msgstr "Meld frå med netpost ved nye innspel"
+
+msgid "Default notification of replies"
+msgstr "Vår faste skikk ved innspel"
+
+msgid "Here you can change your information."
+msgstr "Her kan du stilla opplysningane dine."
+
+msgid "Change preferences"
+msgstr "Byt innstillingar"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr "Hoisann!"
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Send løysnordet"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+"Dersom du har gløydm løysnordet, kan du fylla ut brukarnamn og netpost, og "
+"so kjem Pivot til det til deg. "
+
+#, fuzzy
+msgid "User already exists... Please pick another name."
+msgstr "Brukar som alt finst. Ver gild og vel eit annat namn."
+
+#, fuzzy
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "Brukar som alt finst. Ver gild og vel eit annat namn."
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"Du lyt koma med netposttilskrifti di, elles kan ikkje kontoen stadfestast. "
+"Dessutan kan du stilla inn at netposttilskrifti di ikkje skal visast til "
+"andre."
+
+msgid "The changes have been stored"
+msgstr "Endra påa er vorte lagde til"
+
+msgid "Your account is verified. Please log in.."
+msgstr "Kontoen din er stadfest. Du kan no kokma inn."
+
+#, fuzzy
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr "Den koden verkar galen. Divverre, dette kan eg ikkje stadfesta."
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr "Løysnordet vart send til oppgjevne postkassa."
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr "Ute"
+
+msgid "Back to"
+msgstr "Attende til"
+
+msgid "User stored!"
+msgstr "Brukaren lagd til!"
+
+msgid "Could not store new user!!"
+msgstr "Fekk ikkej lagd til ny brukar!!"
+
+#, fuzzy, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr "Du har registerførd deg som Pivot-brukar '%s'"
+
+#, fuzzy, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr "For å stadfesta kontoen lyt du trykkja  på fylgjande lenk: %s"
+
+msgid "Registration confirmation"
+msgstr "Registerføringa stadfest"
+
+msgid "Verify your account"
+msgstr "Stadfest kontoen din"
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+"Netpoststadfesting sendt til %s. Ver gild å sjå etter brevet for å stadfesta "
+"kontoen din."
+
+#, fuzzy
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+"Ver gild og slå på Javascript (og henta sida på nytt) for skriving av "
+"innspel."
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Gali brukarnamn/løysnord"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "Innkomen"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "Førre arkiv"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Innkomen"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "Ute"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "Endra på vevbladoppsetet for "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "Sletta dette vevbladet."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Sletta teigen"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+#, fuzzy
+msgid "About PivotX"
+msgstr "Om"
+
+#, fuzzy
+msgid "Setup user"
+msgstr "Sletta brukaren"
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "Skriv deg inn med nytt brukarnamn."
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "Du har ikkje løyve til å gjera det med innlegget «%title%»!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "Vevbladet er etterførd."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "Fast etterlekk"
+
+msgid "Edit Entry"
+msgstr "Endra på innlegget"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "Du har ikkje løyve til å gjera det med innlegget «%title%»!"
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "Gøymde utan vanskar  innlegget  «%s»."
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "Gøymde utan vanskar  innlegget  «%s»."
+
+#, fuzzy, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "Sende ein attendespel-ping til «%s»."
+
+#, fuzzy
+msgid "Log out"
+msgstr "Gakk ut."
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "Du har ikkje løyve å leggja ut i teigen «%s»."
+
+msgid "My Settings"
+msgstr "Ditt"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Legg til skrivebokmerke."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "Vevbladet er etterførd."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "Om"
+
+msgid "Edit my personal Settings"
+msgstr "Innstillingar for deg sjølv"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "Du har ikkje løyve å leggja ut i teigen «%s»."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "Du har ikkje løyve å leggja ut i teigen «%s»."
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "Du har ikkje løyve å leggja ut i teigen «%s»."
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "Vevbladet er stroke."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "Du har ikkje løyve å leggja ut i teigen «%s»."
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "Vevbladet er etterførd."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Attendespelet er gøymd."
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr "Endra på og sletta attendespel"
+
+msgid "Comments"
+msgstr "Innspel"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "Innspelet er stroke."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "Endra på eller sletta innspel"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "Innspelet er gøymd."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+msgid "Edit or Delete Trackbacks"
+msgstr "Endra på og sletta attendespel"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Attendespelet er gøymd."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Lød opp blad"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "Attendespelet er stroke."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "Innspelet er stroke."
+
+msgid "The weblog has been deleted."
+msgstr "Vevbladet er stroke."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "Vevbladet er stroke."
+
+msgid "Create New Weblog"
+msgstr "Set opp nytt vevblad"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "Innspel-innstillingar"
+
+#, fuzzy
+msgid "Database"
+msgstr "På den"
+
+#, fuzzy
+msgid "Debug"
+msgstr "Lusframvisar"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "Bladopplødingsplass"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "Dag og tid"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Mobiltlf"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr ""
+"Byggjer no innhaldsremsa. Dette tek gjerne ei liti stund, berre venta lite "
+"grann."
+
+msgid "Rebuild the Search Index"
+msgstr "Bygg om søkjeremsa"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "Bygg om søkjeremsa, for søk i innleggi"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Byggjer no søkjeremsa. Dette tek gjerne ei liti stund, berre venta lite "
+"grann."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Bygg om innhaldsremsa"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Byggjer no innhaldsremsa. Dette tek gjerne ei liti stund, berre venta lite "
+"grann."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "På den"
+
+#, fuzzy
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr "For nedløding av zip-pakka oppsetsblad"
+
+#, fuzzy
+msgid "Explore files"
+msgstr "Lød opp blad"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "Bosverk-val"
+
+msgid "Blocked Phrases"
+msgstr "Forbodne ordlag"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "Syn og endra på ordlag som er forbodne pga bostilvising."
+
+#, fuzzy
+msgid "Update the Global Phrases List"
+msgstr "Tak burt forbodsremsa"
+
+#, fuzzy
+msgid "Update the global phrases list from pivotx.net"
+msgstr "Etterfør forbodsremsa frå pivotlog.net"
+
+msgid "Spam Washer"
+msgstr "Bosreinsk"
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr "Finn bos og sletta det alt saman frå innleggi og attendespeli dine."
+
+msgid "IP blocks"
+msgstr "IP-talrekkjor"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Syn og endra på IP-tilskriftene."
+
+#, fuzzy
+msgid "Spam log reset."
+msgstr "Bosloggen tømd"
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Vanleg stell av Pivot-bladi"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "Innspelet er stroke."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "Brukarnamnet er oppteke"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "Brukarnamnet er oppteke"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "Vevbladet er etterførd."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "Brukarnamnet er oppteke"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "Det nye vevbladet er sett opp."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "Attendespelet er stroke."
+
+msgid "A category by this name already exists"
+msgstr "Ein teig med det namnet finst alt"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "Vevbladet er etterførd."
+
+msgid "Edit Weblog"
+msgstr "Endra på vevbladet"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "Trettan"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "Set inn bilete"
+
+#~ msgid "# Comm"
+#~ msgstr "Innspel #"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "Innspel"
+
+#~ msgid "search"
+#~ msgstr "søk"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "Set istand att"
+
+#~ msgid ""
+#~ "Specify the email address(es) to whom mail will be sent. seperate "
+#~ "multiple addresses with a comma."
+#~ msgstr ""
+#~ "Skriv netposttilskriftene som skal få brev. Nytta komma til skiljeteikn."
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "Brukarar"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "På den"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "I teigen"
+
+#, fuzzy
+#~ msgid "Format of \"reply ..\""
+#~ msgstr "Oppset av 'Innspel ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr "Avgjer lenkoppsetet på innspel til tidlegare innspel."
+
+#, fuzzy
+#~ msgid "Format of \"reply by ..\""
+#~ msgstr "Oppset av 'Innspel frå ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+#~ msgstr "Avgjer innspelstekstoppsetet på innspel med andre innspel til."
+
+#, fuzzy
+#~ msgid "Format of \"reply on ..\""
+#~ msgstr "Oppset av 'Innspel til ...'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr "Avgjer innspelstekstoppsetet på innspel til andre innspel."
+
+#~ msgid "Trackback Settings"
+#~ msgstr "Attendespel-oppset"
+
+#~ msgid "Format of Trackbacks"
+#~ msgstr "Attendespel-oppset"
+
+#~ msgid "This specifies the formatting of trackbacks on the entry pages."
+#~ msgstr "Avgjer oppsetet på innleggsside-attendespel."
+
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Attendespel-lenk-oppset"
+
+#, fuzzy
+#~ msgid ""
+#~ "This specifies the formatting of the trackback link on the entry pages.)"
+#~ msgstr "Avgjer oppsetet på innleggsside-attendespel."
+
+#~ msgid "Allow self-registration"
+#~ msgstr "Sjølvinnskriving"
+
+#~ msgid ""
+#~ "Setting this to yes enables people to register as (normal) users and "
+#~ "hence post entries. (This is not a \"comment\" user.)"
+#~ msgstr ""
+#~ "Med sjølvinnskriving kan lesarane sjølve setja seg opp som (vanlege) "
+#~ "brukarar som kan koma med innlegg. (Ikkje det same som ein «innspel-"
+#~ "brukar».)"
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "Brukarnamn og postadressa tykkjest ikkje høyra saman."
+
+#~ msgid "File Mappings"
+#~ msgstr "Bladvisar"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr ""
+#~ "Syn kva blad som er vortne til for vevstaden og vevbladi til denne Pivoten"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "Lød opp nytt blad:"
+
+#~ msgid "Configure Spam Protection tools"
+#~ msgstr "Set opp bosverk"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "Nedan finn du ei oversyn over kvart vevblad i dette Pivot-oppsetet, saman "
+#~ "med kva for nokre blad som vart sette opp av Pivot og kva sideoppset som "
+#~ "vart nytta for på setja dei opp. Dette kan og vera sers nyttugt når ein "
+#~ "freistar setja fingen på noko gali i bladoppseti."
+
+#~ msgid "Verify this visitor account for the user."
+#~ msgstr "Stadfest denne gjestekontoen."
+
+#~ msgid ""
+#~ "Disable this visitor account (so no comments can be made with this name)."
+#~ msgstr ""
+#~ "Steng denne gjestekontoen (så ingi innspel kan gjerast med dette namnet)."
+
+#~ msgid "Delete registered visitor"
+#~ msgstr "Sletta innskriven gjest"
+
+#~ msgid ""
+#~ "You can delete this registered visitor if you would like. All of their "
+#~ "comments will remain"
+#~ msgstr ""
+#~ "Du kan sletta denne innskrivne gjesten dersom du vil. Innspeli hans vert "
+#~ "vertande"
+
+#~ msgid "Change"
+#~ msgstr "Skift"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "Stadfest sletting"
+
+#~ msgid ""
+#~ "You're about to remove the account for %s. Are you sure you want to do "
+#~ "this?"
+#~ msgstr "Du er ved å taka burt kontoen til %s. Held du fram med det?"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IP-tilskriftene er gøymde."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Gøym på desse IP-tilskriftene"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "Det forbodne ordlaget er gøymd."
+
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "Forbodsremsa er gøymd."
+
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "Forbodsremsa vart stroki."
+
+#~ msgid "The Global Phrases list is empty"
+#~ msgstr "Forbodsremsa er tom"
+
+#~ msgid ""
+#~ "Items marked with an asterisk ( * ) will be used only to block referers. "
+#~ "All other items will be used to block referers, comments and trackbacks "
+#~ "alike."
+#~ msgstr ""
+#~ "Ordlag med stjerneteikn ( * ) er einast for å stengja for bostilvising. "
+#~ "Alta anna vert nytta både for stengjing av tilvisingar, innspel og "
+#~ "attendespel."
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Gøym desse forbodne ordllagi"
+
+#~ msgid "Globally blocked phrases."
+#~ msgstr "Heilt forbodne ordlag."
+
+#~ msgid ""
+#~ "Apart from the Blocked Phrases mentioned above, you can also use an up-to-"
+#~ "date list that your Pivot can fetch from the pivotlog.net server. "
+#~ "Currently this list contains the following phrases:"
+#~ msgstr ""
+#~ "Forutan dei heilt forbodne ordlagi nemnde ovan, kan du og ha ei etterførd "
+#~ "ordremsa som Pivot sankar i hop frå pivotlog-tenaren. For tidi ligg desse "
+#~ "ordlagi i remsa:"
+
+#~ msgid "Update the Global Phrases list from pivotlog.net"
+#~ msgstr "Etterfør forbodsremsa frå pivotlog.net"
+
+#~ msgid "Remove the Global Phrases list"
+#~ msgstr "Tak burt forbodsremsa"
+
+#~ msgid "Displaying the Spam Log"
+#~ msgstr "Viser bosloggen"
+
+#~ msgid "Spam Log is empty."
+#~ msgstr "Bosloggen er tom."
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "Namnet lyt ha tri bokstavar eller meir"
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "Utesteng IP %s"
+
+#~ msgid "[Trackback] Re:"
+#~ msgstr "[Trackback] Til:"
+
+#~ msgid "No TrackBack ID (tb_id)"
+#~ msgstr "Utan attendespel-ID (tb_id)"
+
+#~ msgid "No URL (url)"
+#~ msgstr "Utan URL (url)"
+
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr ""
+#~ "Attendespelet vart ikkje gøymd då det verkar som ein kopi av førre innlegg"
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "minutt"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "Merk: Vedkomande som driv netstaden <br /> vil kunna sjå løysnordet. Vel "
+#~ "<em>ikkje</em> eit løysnord<br /> du nyttar andre stader!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your forgotten password for PivotX \"%name%\" is: \n"
+#~ "\n"
+#~ "%pass%\n"
+#~ "\n"
+#~ "Don't forget it again, please!\n"
+#~ "\n"
+#~ "To log in to your account, click the following link:\n"
+#~ " %link%"
+#~ msgstr ""
+#~ "Pivot-løysnet du gløymde, '%name%', er: %pass%Ver gild å ikkje gløma det "
+#~ "att!For å komma inn i kontoen din, trykkjer du på fylgjande lenk: %link%"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "Løysnord"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "Set inn sprett opp-bilete"
+
+#~ msgid "No such user.."
+#~ msgstr "Ukjend brukar."
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "Utan innspel"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "Innspel"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "Innspel"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "Gøym på innspelet"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "Set istand att"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "Smiletryne"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "Utan innspel"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Siste nye om Pivot"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Køyrer på"
+
+#, fuzzy
+#~ msgid "(more...)"
+#~ msgstr "framhald"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "Innspel"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "Innspel"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "Innspel"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "Førre arkiv"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Etterføringssporingspling"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "Avgjer om Pivot av seg sjølv skal senda melding til etterføringssporarar, "
+#~ "slik som t.d. weblogs.com, kvar gong du kjem med nye innlegg. Tenestor so "
+#~ "som blogrolling.com, byggjer på desse plingi."
+
+#~ msgid "URLs to ping"
+#~ msgstr "URL-ar å plinga"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "Ein kan ha fleire URL-ar å plinga. Tak ikkje med http://-deildi, for då "
+#~ "verkar det ikkje. Set kvar tenar på ei ny lina, eller skil dei med "
+#~ "røyrteiknet (|). Tenarar det er gjengs å plinga er:<br /><b>rpc.weblogs."
+#~ "com/RPC2</b> (weblogs.com-plingaren er mest nytta)<br /><b>pivotlog.net/"
+#~ "pinger</b> (pivotlog-plingaren er ikkje i stand enno)<br /><b>rcs."
+#~ "datashed.net/RPC2</b> (euro.weblogs.com-plingaren)<br /><b>ping.blo.gs</"
+#~ "b> (blo.gs-plingaren)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Pling-oppset"
+
+#, fuzzy
+#~ msgid "stuff"
+#~ msgstr "Ymist"
+
+#~ msgid "upload"
+#~ msgstr "lød opp"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "Bladet vart ikkje opplødd. Fylgjande veilor kom føre:"
+
+#~ msgid "or select"
+#~ msgstr "eller vel"
+
+#~ msgid "Select File"
+#~ msgstr "Bladval"
+
+#, fuzzy
+#~ msgid "Use text"
+#~ msgstr "Med tekst"
+
+#, fuzzy
+#~ msgid "Spamscore Threshold"
+#~ msgstr "Ombyggingsterskel"
+
+#~ msgid "Use Hardened Trackback"
+#~ msgstr "Med tyngre attendespel"
+
+#~ msgid ""
+#~ "Hardened Trackback is a powerful trackback spam protection. It requires "
+#~ "javascript to be enabled on the client. If this is unacceptable for you, "
+#~ "then don't enable it."
+#~ msgstr ""
+#~ "Tyngre attendespel er eit kraftfult vern mot attendespel-bos som krev at "
+#~ "vevlesaren har javascript påslege. Skulde det vera ulagomt, so slær du "
+#~ "det berre ikkje på."
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "biletnamn"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Grafisk teksthandsamar"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "Avgjer om den grafiske teksthandsamaren er fast føreval eller ikkje. Kvar "
+#~ "kan sjølv stilla dette i «Ditt»-innstillingane."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "Oppset av Siste innspel"
+
+#~ msgid "Show how many"
+#~ msgstr "Syn kor mange"
+
+#~ msgid "Cut at length"
+#~ msgstr "Lengdekutting"
+
+#~ msgid "Format"
+#~ msgstr "Oppset"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr "Innstillingar av utsjånaden på «Siste innspel» på vevbladframsida."
+
+#, fuzzy
+#~ msgid "Use \"Nofollow\""
+#~ msgstr "Med «Nofollow»"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+#~ msgstr ""
+#~ "I kampen mot boset og bostilvisingane kan du velja å ha rel=\"nofollow\" "
+#~ "i alle tilvisings- og innspel-lenker, sidan dette hindrar at bos-tømarane "
+#~ "fær høgare rangering i Google."
+
+#~ msgid "Next Archive"
+#~ msgstr "Næste arkiv"
+
+#~ msgid "Previous Archive"
+#~ msgstr "Førre arkiv"
+
+#~ msgid "Archive type"
+#~ msgstr "Arkivtype"
+
+#~ msgid "No Archives"
+#~ msgstr "Utan arkiv"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "Vekearkiv"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Månadsarkiv"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "Årsarkiv"
+
+#~ msgid "Archive Link"
+#~ msgstr "Arkivlenk"
+
+#~ msgid "Archive List format"
+#~ msgstr "Arkivremseoppset"
+
+#~ msgid "Archive Order"
+#~ msgstr "Arkivfylgd"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "Stigande (eldste øvst)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "Søkkjande (nyaste øvst)"
+
+#~ msgid "Magic quotes enabled"
+#~ msgstr "Magic quotes påslege"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your server has a PHP option set that's called \"Magic quotes\" enabled. "
+#~ "This might cause Pivot to run sub-optimally.  Look on <a href=\"http://"
+#~ "www.pivotlog.net/docs/doku.php?id=servers_with_magic_quotes\">this page</"
+#~ "a> to remedy the situation."
+#~ msgstr ""
+#~ "Vevtenaren din køyrer med PHP-valet «Magic quotes» påslege. Dette kan føra "
+#~ "til at Pivot køyrer mindre godt. Sjå på <a href='http://www.pivotlog.net/"
+#~ "docs/doku.php?id=servers_with_magic_quotes'>denne sida</a> for bøta på "
+#~ "stoda."
+
+#~ msgid "Pivot installer script present"
+#~ msgstr "Pivot-oppsetsskrivet er tilstades"
+
+#~ msgid "Register Globals enabled"
+#~ msgstr "Register Globals påslege"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your server has a PHP option set that's called \"register globals\" "
+#~ "enabled. This is a potentially unsafe setting, and therefore you should "
+#~ "really try to get this fixed. To remedy this situation, look at the <a "
+#~ "href=\"http://www.pivotlog.net/docs/doku.php?"
+#~ "id=servers_with_register_globals\">Servers with register_globals</a> in "
+#~ "the Pivot documentation."
+#~ msgstr ""
+#~ "Vevtenaren køyrer med PHP-valet 'register globals' påslege. Dete kan vera "
+#~ "ei mogeleg utryggt oppset, og difor burde du verkeleg freista å få dette "
+#~ "vølt. For å bøta på stoda kan du sjå på '<a href='http://www.pivotlog.net/"
+#~ "docs/doku.php?id=servers_with_register_globals'>Tenarar med "
+#~ "register_globals</a>' i Pivot-dokumentasjonen."
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "Fører handlingslogg i ymsne loggblad"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "merkjelapp for «utan innspel»"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "merkjelapp for  «eitt innspel»"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "merkjelapp for  «X innspel»"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Teksti som vert nytta til å syna kor mange innspel som er komne til. "
+#~ "Leiver du det tomt, vel Pivot det som stend i målformoppsetet"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "Merkjelapp for «utan attendespel»"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "Merkjelapp for «ei attendespel»"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "Merkjelapp for «X attendespel»"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many trackbacks there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Teksti som viser kor mange attendespel det er. Dersom tomt, kjem Pivot "
+#~ "med den faste teksti i målformsoppsetet"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "%num% innspel"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "%num% innspel"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "Utan attendespel"
+
+#, fuzzy
+#~ msgid "%num% trackbacks."
+#~ msgstr "%num% attendespel"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "Du har ikkje tilgangsløyve til denne Pivot-deildi"
+
+#~ msgid "Further Options"
+#~ msgstr "Innstillingar elles"
+
+#~ msgid "Basic View"
+#~ msgstr "Vanleg skrivesida"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "Med vanleg skrivesida"
+
+#~ msgid "Extended View"
+#~ msgstr "Utvida skrivesida"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "Med utvida skrivesida"
+
+#~ msgid "Toggle between basic and extended view"
+#~ msgstr "Skift mellom vanleg og utvida skrivesida"
+
+#~ msgid "Approve"
+#~ msgstr "Godkjenn"
+
+#~ msgid "Done!"
+#~ msgstr "Gjort!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Snarvegar"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "Du har ikkje løyve til å sletta innlegget «%title%»!"
+
+#~ msgid ""
+#~ "You can not delete the last entry. You must first post a new entry, "
+#~ "before deleting this entry"
+#~ msgstr ""
+#~ "Du kan ikkje sletta førre innlegget. Du lyt fyrst leggja inne eit nytt "
+#~ "føre du kan sletta dette."
+
+#~ msgid "Week"
+#~ msgstr "vika"
+
+#~ msgid "Remember"
+#~ msgstr "Hugsing"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "Dersom du veit at namnet og løysnordet er rett jamvel om du ikkje kjem "
+#~ "deg inn, <br />kan du freista øydeleggja kaka (infokapslane) for denne "
+#~ "netstaden:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "Øydelegg kakone"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "Du har no freista koma inn 10 gonger på rad. No er IP-tilskrifti di "
+#~ "utestengd i 12 timar."
+
+#~ msgid "Overview"
+#~ msgstr "Innsida"
+
+#~ msgid "Modify Entries"
+#~ msgstr "Retting"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Skrivebokmerke"
+
+#~ msgid "Statistics"
+#~ msgstr "Taloppgåvor"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "På innsida av Pivot"
+
+#~ msgid "Modify Entry"
+#~ msgstr "Endra på innlegg"
+
+#~ msgid "View my personal Info"
+#~ msgstr "Opplysingar om ditt"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Gjer skrivebokmerke"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "Bladet er opplødd"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "Syn loggar og tal."
+
+#~ msgid "Recent Entries"
+#~ msgstr "Siste innlegg"
+
+#~ msgid "Recent Comments"
+#~ msgstr "Siste innspel"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "Bygg om alt"
+
+#~ msgid "Verify the Database"
+#~ msgstr "Stadfest tilfangslageret"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "Bygg om framsida(-or)"
+
+#~ msgid "User Information Fields"
+#~ msgstr "Postar med brukaropplysningar"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "Set opp, endra på eller sletta brukaropplysningar"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Bygg om bladi og arkivi som Pivot byggjer opp"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "Stadfest at innhaldslageret er heilt"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr "Bygg om framsida, seinste arkiv og RSS-blad for kvart vevblad."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "Tak tryggleikskopi av innleggi"
+
+#~ msgid "The Global Phrases could not be stored. Please try again later!"
+#~ msgstr "Fekk ikkje gøymd forbodsremsa. Prøv seinare!"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Send pling til etterføringssporarar."
+
+#~ msgid "Open Debug window"
+#~ msgstr "Opna avlusarvindauga"
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "Set opp eit sideoppset for Pivot frå botnen"
+
+#~ msgid "Comment*"
+#~ msgstr "Innspel*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr ""
+#~ "(*Merk: Innspel vert berre gøymde etter gøyming av <b>fyrste</b> endring "
+#~ "eller tilskiping.)"
+
+#~ msgid "Editing"
+#~ msgstr "Endra på"
+
+#~ msgid "Save changes!"
+#~ msgstr "Gøym endringane!"
+
+#~ msgid "Auxillary template"
+#~ msgstr "Tilleggsoppset"
+
+#~ msgid "Subtemplate"
+#~ msgstr "Postteig-oppset"
+
+#~ msgid "Normal template"
+#~ msgstr "Vanleg sideoppset"
+
+#~ msgid "CSS file"
+#~ msgstr "CSS-oppset"
+
+#~ msgid "PHP file"
+#~ msgstr "PHP-oppset"
+
+#~ msgid "Generate Archive"
+#~ msgstr "Skipa arkiv"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "Skipa om arkivi dine"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "Stadfest XML-blad"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "Stadfest (og vøl etter torv) at XML-bladi er heile"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Tak tryggleikskopi av alle viktuge pivot-blad"
+
+#~ msgid "HashCash Options"
+#~ msgstr "HashCash-val"
+
+#~ msgid "SpamQuiz Options"
+#~ msgstr "SpamQuiz-val"
+
+#~ msgid "Age Limit"
+#~ msgstr "Aldersgrensa"
+
+#~ msgid ""
+#~ "Enable SpamQuiz only for entries older than this many days. Normally "
+#~ "automated commentspam is only sent to old entries and hence it might not "
+#~ "be necessary to burden your regular users (who comment within, e.g., a "
+#~ "week)."
+#~ msgstr ""
+#~ "Lat SpamQuiz berre gjelda for innlegg eldre enn eit visst tal dagar. "
+#~ "Innspelsbos kjem ofast  til gamle innlegg og difor er det gjerne ikkje "
+#~ "turvande å lata den jamne lesar (som helst kjem med innspel når innleggi "
+#~ "er nye)."
+
+#~ msgid "Hardened Trackback Options"
+#~ msgstr "Tyngre attendespel-val"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 tilvisingar"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 tilvisingar"
+
+#~ msgid "all referrers"
+#~ msgstr "alle tilvisingar"
+
+#~ msgid "only non-blocked lines"
+#~ msgstr "berre linor m. ustengde"
+
+#~ msgid "both blocked and non-blocked lines"
+#~ msgstr "både linor m. avstengde og ustengde"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Etterfør tilvisingi med titteloversynet"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "Verts-tilskrift (ip-tilskrift)"
+
+#~ msgid "Which page"
+#~ msgstr "Kva sida"
+
+#~ msgid "Getting new titles"
+#~ msgstr "Henta nye titlar"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "Dette tek gjerne ei stund, brot ikkje av."
+
+#~ msgid "First pass"
+#~ msgstr "Fyrste gjenomgang"
+
+#~ msgid "Second pass"
+#~ msgstr "Andre gjenomgang"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "Titteloversynet for tilvisingane er no etterførde."
+
+#~ msgid "Finished"
+#~ msgstr "Gjort"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "Endra på postane i Ditt-sidone"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr "Endra på postane brukarane kan stilla sjølve"
+
+#~ msgid "Edit User Info"
+#~ msgstr "Endra på brukaropplysing"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "Skipa ny Pivot-brukarkonto, med innleggsløyve til eit av vevbladi."
+
+#~ msgid "Create"
+#~ msgstr "Set opp"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "Stadfest oppset av bladstyrar"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "Med Stort løyve til å endra på, fær ein alle rettar på pivot og kan endra "
+#~ "på alle innlegg, alle innspel og alle oppset. Er du viss på at du vil gje "
+#~ "%s Stortendringsløyve?"
+
+#~ msgid "Use encoding"
+#~ msgstr "Tekstomkoding"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "Dette avgjer kva tekstomkoding som skal nyttast (so som utf-8 eller iso-"
+#~ "8859-1). Berre leiv dette tomt, minder du veit kva du gjer. Leiver du det "
+#~ "tomt, vert det valt som er nytta i hovudmålet."
+
+#~ msgid "File Info"
+#~ msgstr "Bladopplysing"
+
+#~ msgid "Local Path"
+#~ msgstr "Datamaskinstad"
+
+#~ msgid "Debug Options"
+#~ msgstr "Avlusing"
+
+#~ msgid "File Upload settings"
+#~ msgstr "Bladopplødingsval"
+
+#~ msgid "Clean Filename"
+#~ msgstr "Reinska bladnamnet"
+
+#~ msgid "Use Basic View"
+#~ msgstr "Vanleg skrivesida"
+
+#~ msgid ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+#~ msgstr "Avgjer om «Skrivesida» skal opna vanleg eller utvida skrivesida."
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Fast teksthandsamar"
+
+#~ msgid "Text Processing"
+#~ msgstr "Teksthandsamar"
+
+#~ msgid "None"
+#~ msgstr "utan"
+
+#~ msgid ""
+#~ "You can delete this user if you would like. All of their posts will "
+#~ "remain, but they will no longer be able to login"
+#~ msgstr ""
+#~ "Du kan sletta denne brukaren dersom du ynskjer. Innleggi åt strokne "
+#~ "brukarar vert verande, men dei misser tilgjenge til Pivot"
+
+#~ msgid "Trackback Setup"
+#~ msgstr "Attendespel-oppset"
+
+#~ msgid ""
+#~ "If set, an email will be sent to this address when a Tracback is added."
+#~ msgstr ""
+#~ "Dersom valt, vert det send brev til denne tilskrifti når ei Attendespel "
+#~ "vert lagd til."
+
+#~ msgid "Open links in new window"
+#~ msgstr "Opnar lenker i nytt vindauga"
+
+#~ msgid "Use emoticons"
+#~ msgstr "Med smiletryne"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "Koda om netposttilskrifter?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr ""
+#~ "Avgjer om innleggslenkene skal opnast i same eller eit nytt vindauga."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "Etterføring av søkjeremsa"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "Dette avgjer om Søkjeremsa vert etterførd for kvart nytt innlegg/"
+#~ "innleggsendring."
+
+#~ msgid ""
+#~ "The number of seconds rebuilding takes, before Pivot refreshes the page. "
+#~ "The default is 28, but if you are having problems with rebuilding, try "
+#~ "lowering this number to 10."
+#~ msgstr ""
+#~ "Avgjer kor lenge etter ombyggjing Pivot skal etterføra sida. Fastoppsetet "
+#~ "er 28, men ved ombyggjingsvanskar , kan du freista med 10."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Fast innleiings-/brødtekstsoppset"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "Dette avgjer dei faste verdi for Innleiing og Brødtekst, dersom ein "
+#~ "brukar skriv eit nytt innlegg. Til vanleg er dette eit tomt avsned, det "
+#~ "gjev best meining semantiskt sett."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Bortskjeringsskriv"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "Dersom tenaren ikkje har nadusynlege bibliotek for bilettilskjering, kan "
+#~ "ein nytta eit fjerntilskjeringsskriv i staden."
+
+#~ msgid "Extensions directory"
+#~ msgstr "Tilleggsmappa"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "I mappa «extensions» kan du ha Pivot-tilleggi dine.\t\tSlik vert "
+#~ "etterføring av Pivot mykje lettare. Sjå om dette i handboki."
+
+#~ msgid "Extensions directory path"
+#~ msgstr "Tilleggsmappeplass"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "Endra på vevbladi"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "Set opp nytt vevblad"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "Sletta vevbladet"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "For kvar av vevbladdeildene i sideoppseti, kan du setja opp kva for "
+#~ "oppset dei skal nytta, so vel som kva teigar som kjem ut i dei"
+
+#~ msgid "Finish"
+#~ msgstr "Gjer ferdug"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "Set opp / endra på vevblad, steg 1 av 3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "Set opp / endra på vevblad, steg 2 av 3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "Set opp / endra på vevblad, steg 3 av 3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "Framside-/indexblad"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "Namn på framsidebladet. Oftast ord på index med etterlekk; helst «index."
+#~ "html» eller «index.php»."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "Dersom vevbladet nyttar SSI (noko som ikkje er tilrådd), kan du nytta "
+#~ "dette som førelekk i Pivot-bladnamni, med bladnamnet til bruk i SSI. T.d. "
+#~ "«index.shtml?p=». Du bør berre leiva det tomt, minder du veit kva du gjer."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "Framsideplass"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr ""
+#~ "Relativ eller absolutt plassering av mappa der Pivot set opp framsida til "
+#~ "dette vevbladet."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "Relativ eller absolutt plassering av mappa der Pivot set opp "
+#~ "eittinnleggssidone (dersom du vel å ikkje nytta «Innleggi radt ut»)."
+
+#~ msgid "Live entries"
+#~ msgstr "Innleggi radt ut"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "Med «Innleggi radt ut» er ikkje Pivot nøydd å skipa sidor for kvar "
+#~ "eittinnleggssida. Dette er den føredregne innstillingi."
+
+#~ msgid "Index File"
+#~ msgstr "Innhaldsblad"
+
+#~ msgid "Archive Path"
+#~ msgstr "Arkivstad"
+
+#~ msgid "Archive Amount"
+#~ msgstr "Arkivstorleik"
+
+#~ msgid "Archive Format"
+#~ msgstr "Arkivoppset"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Stuttinnleggssideoppset"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr ""
+#~ "Sideoppset for oppset av eittinnleggssidor, slik dei visest i vevbladet "
+#~ "eller i arkivi."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "Løyv innspel?"
+
+#~ msgid ""
+#~ "Determines whether users will be able to leave comments on the entries in "
+#~ "this subweblog."
+#~ msgstr ""
+#~ "Avgjer om lesarane skal få koma med innspel til innleggi i denne "
+#~ "vevbladdeildi."
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSS-bladnamn"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atom-bladnamn"
+
+#~ msgid "Feed Path"
+#~ msgstr "Utgåveplass"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr ""
+#~ "Relativ eller absolutt plass for mappa der Pivot skipar "
+#~ "kringkastingssidone."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Innstilling av Siste tilvisingar"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Innstillingar av utsjånaden på «Siste tilvisingar» i vevbladframsida."
+
+#~ msgid "Use graphics"
+#~ msgstr "Med grafikk"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr ""
+#~ "Avgjer om dei siste tilvisingane skal ha småbilete for die vanlegaste "
+#~ "søkjemotorane lesarane kan koma gjenom."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "Burttilvising"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "I kampen mot boset kan du visa burt utgangande lenker til tilvisingar, då "
+#~ "dette ikkje hindar bospostaren i å få høgare siderangering hjå Google."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Med smiletryne"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ "Avgjer om smiletryne, so som :-), skal bytast ut med tilsvarande bilete."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "Omkoding av netposttilskrifter"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "Avgjer om netposttilskrifter skal kodast om i Javascript, til vern mot "
+#~ "tilskriftshaustarar."
+
+#~ msgid "Target Blank"
+#~ msgstr "Tomt lenkmål"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML-omveg"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "Med «Med», vert alle lenker i innleggi dine opna i nye vindaugo. Med «XHTML-"
+#~ "omveg», fær då alle lenker tillegget rel=\"external\", so dei ikkje skal "
+#~ "bryta mot reglane for velformulera XHTML"
+
+#~ msgid "Date display settings"
+#~ msgstr "Tidsvisings-innstillingar"
+
+#~ msgid "Format of Comments"
+#~ msgstr "Innspelsoppset"
+
+#~ msgid "URL to the default Gravatar image. Start with http://"
+#~ msgstr "URL til ditt eige avatar-bilete. Byrja med http://"
+
+#~ msgid "Gravatar HTML"
+#~ msgstr "Avatar-HTML"
+
+#~ msgid ""
+#~ "HTML to insert for a gravatar. %img% will be substituted by the url to "
+#~ "the image."
+#~ msgstr "HTML for innset av avatar. Byt ut %img% med URL-en til biletet."
+
+#~ msgid "Gravatar size"
+#~ msgstr "Avatar-storleik"
+
+#~ msgid "Size (in pixels) of the gravatar. The default is 48."
+#~ msgstr "Storleiken (i biletpunkt) til avataren. Det faste er 48."
+
+#~ msgid ""
+#~ "After a trackback has been placed, mail can be sent to maintainers of "
+#~ "this weblog."
+#~ msgstr ""
+#~ "Etter at ei attendespel har vorte  plassera, kan det sendast netpost til "
+#~ "dei som driv dette vevbladet."
+
+#~ msgid "Trackbacks Popup?"
+#~ msgstr "Attendespel-sprett opp?"
+
+#~ msgid ""
+#~ "determines whether the trackbacks page (or 'single entry') will be shown "
+#~ "in a popup window, or in the original browser window."
+#~ msgstr ""
+#~ "avgjer om attendespel-sida (eller «eineinnlegg») skal visast i eit sprett "
+#~ "opp-vindauga eller i det opphavlege lesevindauga."
+
+#~ msgid "Specify the width and height (in pixels) of the trackbacks pop-up."
+#~ msgstr "Set inn breidd og høgd (i biletpunkt) på attendespel-sprett opp."
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Vevbladrull-innstilling"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Vevbladrull-ID-nr"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "Ved høve kan du leggja inn vevbladrullaren <a href=\"http://www."
+#~ "blogrolling.com\" target=\"_blank\" title=\"Ei vevbladrull-tenesta"
+#~ "\">blogrolling.com</a> i vevbladet ditt. Vevbladrulling er ei utmerkt "
+#~ "tenesta for stell av ei lenkremsa, som syner kva tid dei vart etterførde. "
+#~ "Dersom du ikkje ynskjer dette, kan du berre sletta dess "
+#~ "utfyllingspostane. Elles, kan du, inne i blogrolling.com, velja «get "
+#~ "code», for å finna lenker med nett ditt blogroll-ID-nummer. Det ser "
+#~ "nokonlunde soleis ut: 2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "Bakgrunnlet"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Fyrstelinelet"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Andrelinelet"
+
+#~ msgid "Color 1"
+#~ msgstr "Let 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Let 2"
+
+#~ msgid "Color 3"
+#~ msgstr "Let 3"
+
+#~ msgid "Color 4"
+#~ msgstr "Let 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "Desse letene avgjer koss vevbladrullen skal sjå ut. Letene 1 til 4 gjev "
+#~ "med fargevalet eit synleg vink om kor lenge sidan det er at vedkomande "
+#~ "lenk vart etterførd."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "Full listevising"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "Tommelnaglvising"
+
+#~ msgid "Files"
+#~ msgstr "Blad"
+
+#~ msgid "Width x Height"
+#~ msgstr "Breidd og høgd"
+
+#~ msgid "Delete Image"
+#~ msgstr "Sletta bilete"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "Er du viss på at du vil sletta %s?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "Sletting av biletet?"
+
+#~ msgid "create"
+#~ msgstr "Set opp"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "Set inn lenk ved innskrift av URL i posten nedan. Lesarane fær fram lenk-"
+#~ "tittelen ved å peika på lenken med musi."
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "Endra på kven som kan senda inn innlegg til teigen «%s»"
+
+#~ msgid "Allowed"
+#~ msgstr "Løyvd"
+
+#~ msgid "Allow"
+#~ msgstr "Løyv"
+
+#~ msgid "Denied"
+#~ msgstr "Uløyvd"
+
+#~ msgid "Deny"
+#~ msgstr "Løyva ikkje"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "I dette Pivot-bygget, vert einast teignamnet teke burt. I seinare bygg "
+#~ "kjem du til å få velja kva som skal henda med teiginnleggi."
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr "Val av «Utan» hindrar lesarane i å søkja i teigen."
+
+#~ msgid "Index Category"
+#~ msgstr "Teiginnhald"
+
+#~ msgid "Public Category"
+#~ msgstr "Ope teiginnsyn"
+
+#~ msgid ""
+#~ "If set to 'No', this category will only be viewable for registered "
+#~ "visitors. (applies only to live pages)"
+#~ msgstr ""
+#~ "Val av «Utan» hindrar at andre enn innskrivne gjester får lesa (berre for "
+#~ "«Radt ut»-sidor)"
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Ktrl-klikk for val av fleire teigar)"
+
+#~ msgid "# Track"
+#~ msgstr "Attendespel #"
+
+#~ msgid "Delete Entry"
+#~ msgstr "Sletta innlegg"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "Sletta innlegget og innspeli til "
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr "Veit du visst at du vil sletta desse innleggi?"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Gjer om lineskift"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(Stødt avslege i grafisk teksthandsamar)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(Ver varsam med dette!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "Endra på innspel"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "Endra på innspeli som er komnne til dette innlegget"
+
+#~ msgid "Edit Comment"
+#~ msgstr "Endra på innspelet"
+
+#~ msgid "Report Comment"
+#~ msgstr "Meld innspelet"
+
+#~ msgid "Edit the trackbacks that have been posted to this entry"
+#~ msgstr "Endra på attendespeli som er komne for dette innlegget"
+
+#~ msgid "Report Trackback"
+#~ msgstr "Meld attendespel"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "Utesteng IP-rekkja %s"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "Opna for IP-en %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "Opna for IP-rekkja %s"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "Send attendespelpling til fylgjande URL(-ar). For å senda fleire URL-ar "
+#~ "set ein kvar URL på ei eigi lina."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "Her kan ein setja opp nykelord som kan nyttast for å finna innlegget, "
+#~ "eller for å skapa ein lettvint-URL til innlegget."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "Skriv lenk til utspel som dette innlegget svarar/viser attende på."
+
+#~ msgid ""
+#~ "You are writing this entry in %s, while at least one of your weblogs uses "
+#~ "another encoding. To prevent problems with this, you should ensure that "
+#~ "all users and weblogs use the same encoding."
+#~ msgstr ""
+#~ "Du skriv dette innlegg i %s, medan resten av vevbladi dine nyttar ei "
+#~ "onnor omkoding. For å førebyggja vanskar pga. dette, burde du sett til at "
+#~ "alle lesarar/brukarar og vevblad nyttar same omkoding."
+
+#~ msgid "Publish and generate"
+#~ msgstr "Gjev ut og skipa til"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "Med desse bladi,"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "Med avmerkte sideoppset,"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "fær kje opna mappa - sjå på rettane dine."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "fær kje lese mappa - sjå på rettane dine."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "fær kje skrive mappa - sjå på rettane dine."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "fær kje opna bladet - sjå på rettane dine."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "fær kje lese bladet - sjå på rettane dine."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "fær kje opna bladet - sjå på rettane dine."
+
+#~ msgid "This entry has no trackbacks."
+#~ msgstr "Innlegg utan innspel."
+
+#~ msgid "Good"
+#~ msgstr "Godt"
+
+#~ msgid "Bad"
+#~ msgstr "Låkt"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "Du he alt røyst på innlegget/avrøystingi"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "Røysti «%val%» er tald ned"
+
+#~ msgid "Delete with one click."
+#~ msgstr "Sletta med eitt klikk."
+
+#~ msgid "Report and delete with one click."
+#~ msgstr "Meld og sletta med eitt klikk."
+
+#~ msgid "Moderated"
+#~ msgstr "Med vurdering"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Siste tilvising"
+
+#~ msgid "Calendar"
+#~ msgstr "Almanakk"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Opna smiletryneordboki"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Opna Textile-ordboki"
+
+#~ msgid "Register your username / Log in"
+#~ msgstr "Set opp brukarnamnet / Gakk inn"
+
+#~ msgid "This comment is not yet moderated."
+#~ msgstr "Innspel som ikkje er vurdert."
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Endra på brukarpostar"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "Det indre nament er namnet på denne tingen slik han kjem til synes når du "
+#~ "bed pivot visa honom i eit sideoppset."
+
+#~ msgid "Size"
+#~ msgstr "Storleik"
+
+#~ msgid "Rows"
+#~ msgstr "Rader"
+
+#~ msgid "Columns"
+#~ msgstr "Rekkjor"
+
+#~ msgid "Maximum Length"
+#~ msgstr "Lengste lengd"
+
+#~ msgid "Filter by"
+#~ msgstr "Finn alt på"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "Med filtreing på denne tingen avgrensar du kva som kan skrivast i han"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "Å sletta brukarposten (<b>%s</b>) kjem og til å øydeleggja alt som "
+#~ "vedkomande har arkivera med honom, og gjera at alle innslag med honom i "
+#~ "sideoppseti, ser tome ut."
+
+#~ msgid "This name is already in use"
+#~ msgstr "Namnet er alt i bruk"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "Indre namn lyt vera på meir enn 3 bokstavar"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "Synt namn lyt vera på meir enn 3 bokstavar"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "Skrivebokmerke som opnar ei Skrivesida med ein lenk til sida du las då du "
+#~ "opna skrivesida."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "Skrivebokmerke som opnar ei tom Skrivesida."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "Med skrivebokmerke kan ein lettvint skriva nye innlegg i Pivot. For å "
+#~ "leggja til eit nytt skrivebokmerke i vevlesaren, har du tvo val: (sjølve "
+#~ "teksti ymsar etter som kva for vevlesar du nyttar)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Klikka og drag skrivebokmerket til «Bokmerke»-radi eller «Bokmerke»-knappen."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr ""
+#~ "Klikka med høgre musknapp på skrivebokmerket og vel «Legg til Bokmerke»."
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr ""
+#~ "Denne tabellen hyser ein innleggskalender for vevbladet, med lenker og "
+#~ "innleggsdag."
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr "Kalenderen er ein måte å få tilgjenge til vevblad-innleggi på."
+
+#~ msgid "en"
+#~ msgstr "nn"
+
+#~ msgid "Your trackback has been stored."
+#~ msgstr "Attendespelet ditt er gøymd."
+
+#~ msgid "Tracked"
+#~ msgstr "Attendespelt"

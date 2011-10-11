@@ -1,0 +1,35 @@
+<hr size="1" noshade="noshade" />
+
+<h2 id="navigation">[[t]]Navigation[[/t]]</h2>
+
+[[ pagelist
+  chapterbegin="<h3>%chaptername%</h3><ul>"
+  pages="<li %active%><a href='%link%' title='%subtitle%'>%title%</a></li>"
+  chapterend="</ul>"
+  isactive="id='active'"
+]]          
+
+<h3>[[t]]Archives[[/t]]</h3>
+<ul>
+[[archive_list
+  unit="month"
+  order="asc"
+  format="<li><a href='%url%'>%st_monname% %st_year%</a></li>"
+]]
+</ul>
+
+<h3>[[t]]Categories[[/t]]</h3>
+<ul>
+[[category_list format="<li><a href='%url%'>%display%</a></li>"]]
+</ul>
+
+<h3>[[t]]Stuff[[/t]]</h3>
+[[rssbutton]]
+[[atombutton]]
+[[pivotxbutton]]
+
+<hr size="1" noshade="noshade" />
+<p><a href="#top">Top</a></p>
+
+</body>
+</html>
