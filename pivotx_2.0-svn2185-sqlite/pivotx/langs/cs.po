@@ -1,0 +1,5853 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr "O ..."
+
+msgid "Last Comments"
+msgstr "Poslední komentáře"
+
+msgid "Stuff"
+msgstr "Personál"
+
+msgid "Archives"
+msgstr "Archivy"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Links"
+msgstr "Odkazy"
+
+#, fuzzy
+msgid "Search"
+msgstr "Hledat!"
+
+msgid "Linkdump"
+msgstr "Linkdump"
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "Vložit komentář"
+
+msgid "Preview Comment"
+msgstr "Prohlédnout komentář"
+
+msgid "Remember personal info?"
+msgstr "Zapamatovat osobní informace?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "Konfigurace"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "Konfigurace spamu"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "více"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Poslední komentáře"
+
+#, fuzzy
+msgid "Pages"
+msgstr "obrázek"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Komentář"
+
+msgid "Notify"
+msgstr "Oznamovat"
+
+msgid "Yes, send me email when someone replies."
+msgstr "Ano, pošlete mi email když někdo odpoví."
+
+msgid "Hide email"
+msgstr "Skrývat email"
+
+msgid "Yes, hide my email address."
+msgstr "Ano, skryj moji emailovou adresu"
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Malé upozornění:</b> všechny HTML tagy kromě &lt;b&gt; a &lt;i&gt; budou "
+"odstraněny. Odkazy a maily stačí vložit zapsáním prostého textu."
+
+msgid "Insert an Image"
+msgstr "Vložit obrázek"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"Abyste mohli obrázek vložit, musíte ho nejdříve uploadovat nebo vybrat."
+
+msgid "Upload"
+msgstr "Upload"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "Upload nového souboru:"
+
+msgid "Image name"
+msgstr "Jméno obrázku"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "Vyberte obrázek"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "Alternate text"
+msgstr "Alternativní text"
+
+msgid "Align"
+msgstr "Zarovnat"
+
+msgid "Center (default)"
+msgstr "Centrovat (předvolené)"
+
+msgid "Left"
+msgstr "Doleva"
+
+msgid "Right"
+msgstr "Doprava"
+
+msgid "Inline"
+msgstr "V řadě"
+
+msgid "Border"
+msgstr "Okraje"
+
+msgid "pixels"
+msgstr "bodů"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "Vložit obrázek"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "Okraje"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "Publikováno"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "Údržba"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "Na vaše potvrzení nečekají žádné komentáře."
+
+msgid "IP-address"
+msgstr "IP-adresa"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr "Editovat"
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "Smazat komentář"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "Vybrat vše"
+
+#, fuzzy
+msgid "Check none"
+msgstr "Vybrat vše"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "Žádné komentáře"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "Smazat komentář"
+
+#, fuzzy
+msgid "There are no comments waiting for moderation"
+msgstr "Na vaše potvrzení čeká %1 komentář(ů)."
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Poslední novinky Pivotu"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "Žádné komentáře k tomuto záznamu."
+
+msgid "No comments"
+msgstr "Žádné komentáře"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Poslední novinky Pivotu"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Jméno weblogu"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "Editovat trackback"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "Smazat trackback"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Žádné komentáře k tomuto záznamu."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "Trackbacky"
+
+msgid "Title"
+msgstr "Titulek"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "editovat"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Podtitulek"
+
+#, fuzzy
+msgid "Template"
+msgstr "Šablony"
+
+msgid "Introduction"
+msgstr "Úvod"
+
+msgid "Body"
+msgstr "Tělo"
+
+msgid "Keywords"
+msgstr "Klíčová slova"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "obrázek"
+
+#, fuzzy
+msgid "Preview"
+msgstr "Prohlédnout záznam"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "Kategorie"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Stav vložení"
+
+#, fuzzy
+msgid "Publish"
+msgstr "Publikováno"
+
+msgid "Publish on"
+msgstr "Publikováno"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "Povolit komentáře"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Created on"
+msgstr "Vytvořeno"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "Naposledy změněno"
+
+msgid "Author"
+msgstr "Autor"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "Nastavení archivu"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "Šablony"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Weblogy"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML kanál (RSS 1.0)"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "Komentář"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "Vložit obrázek"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "Vložit obrázek"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "Skrz odkaz"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "Skrz titulek"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Zpětné sledování"
+
+msgid "Post Entry"
+msgstr "Vložit záznam"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "Prohlédnout komentář"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "Trackbacky"
+
+msgid "Category"
+msgstr "Kategorie"
+
+#, fuzzy
+msgid "(none)"
+msgstr "jeden"
+
+msgid "Insert a Download"
+msgstr "Vložit download"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"Pokud chcete dát soubor ke stažení, musíte ho buď nejdříve přenést na "
+"server, nebo vybrat již uložený soubor. Poté vyberte co má download spustit, "
+"zda ikona, text nebo malý obrázek."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "Upload nového souboru:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "Jméno souboru"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "Použij ikonu"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "Použít text"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "Skrz titulek"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "Vložit download"
+
+msgid "My Info"
+msgstr "Moje info"
+
+#, fuzzy
+msgid "Logout"
+msgstr "Odhlásit"
+
+msgid "Dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "Back to dashboard"
+msgstr "Zpět na přihlášení"
+
+#, fuzzy
+msgid "View weblog"
+msgstr "Nový weblog"
+
+#, fuzzy
+msgid "view"
+msgstr "Prohlédnout záznam"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "Předvolená přípona"
+
+msgid "Maintenance"
+msgstr "Údržba"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "Nový weblog"
+
+#, fuzzy
+msgid "sec."
+msgstr "Sekunda"
+
+#, fuzzy
+msgid "using"
+msgstr "Otázka"
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Jméno souboru"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Filesize"
+msgstr "Velikost souboru"
+
+#, fuzzy
+msgid "Image"
+msgstr "obrázek"
+
+msgid "Thumbnail"
+msgstr "Náhled"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "Jste si jisti, že chcete tento záznam smazat?"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Datum"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "Vytvořit nového uživatele"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "Vytvořit nového uživatele"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "Upload souborů"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "Upload"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "Editace konfiguračních souborů"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "Emotikony"
+
+msgid "You should first select or upload an image"
+msgstr "Nejříve musíte vybrat nebo uploadovat obrázek"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"Abyste mohli vytvořit okno, musíte uploadovat obrázek nebo vybrat již "
+"exitujíci. Poté vyberte text nebo náhled, který bude umístěn v okně."
+
+msgid "For popup"
+msgstr "Do popup okna"
+
+msgid "Use Thumbnail"
+msgstr "Použít náhled"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "editovat náhled"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "Vložit okno s obrázkem"
+
+msgid "Create New User"
+msgstr "Vytvořit nového uživatele"
+
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+msgid "Nickname"
+msgstr "Přezdívka"
+
+msgid "Userlevel"
+msgstr "Úroveň uživatele"
+
+msgid "Last Login"
+msgstr "Poslední přihlášení"
+
+msgid "Edit User"
+msgstr "Editovat uživatele"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr "Chystáte se oderat přístup pro %s. Jste si tím jist?"
+
+msgid "Verified"
+msgstr "Ověřeno"
+
+msgid "Disabled"
+msgstr "Zakázáno"
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Emotikony"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "Editovat registrované návštěvníky"
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "Chystáte se smazat weblog %1. Jste si jist?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "Vložit obrázek"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "Vložit obrázek"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "Vložit download"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "Vložit obrázek"
+
+msgid "The default category is:"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr "Uživateli je povoleno přidávat příspěvky do vybrané kategorie"
+
+msgid "Create New Category"
+msgstr "Vytvořit novou kategorii"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "Uživatelé"
+
+msgid "Hidden Category"
+msgstr "Skrytá kategorie"
+
+msgid "Sorting Order"
+msgstr "Zařazení"
+
+#, fuzzy
+msgid "users"
+msgstr "Uživatelé"
+
+msgid "Edit Category"
+msgstr "Editovat kategorii"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Zvolte 'Ano', pokud chcete smazat tuto kategorii"
+
+msgid "New Weblog"
+msgstr "Nový weblog"
+
+msgid "Weblog Name"
+msgstr "Jméno weblogu"
+
+#, fuzzy
+msgid "categories"
+msgstr "Kategorie"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "Chystáte se smazat weblog %1. Jste si jist?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Editovat záznam"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "Nový záznam"
+
+#, fuzzy
+msgid "New Page"
+msgstr "obrázek"
+
+msgid "Configuration"
+msgstr "Konfigurace"
+
+msgid "Manage Media"
+msgstr "Správa médií"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Poslední novinky Pivotu"
+
+msgid "more"
+msgstr "více"
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Jste si jisti, že chcete tento záznam smazat?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "Nový záznam"
+
+#, fuzzy
+msgid "delete"
+msgstr "Smazat"
+
+#, fuzzy
+msgid "The latest pages"
+msgstr "Poslední novinky Pivotu"
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Nový Pivot"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Poslední novinky Pivotu"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Ukaž posledních"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Poslední novinky Pivotu"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Záznamy"
+
+#, fuzzy
+msgid "Suggestions"
+msgstr "Otázka"
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Ukaž posledních"
+
+msgid "filter on (%name%)"
+msgstr "filtrovat (%name%)"
+
+msgid "first"
+msgstr "první"
+
+msgid "previous"
+msgstr "předchozí"
+
+msgid "next"
+msgstr "další"
+
+msgid "last"
+msgstr "poslední"
+
+msgid "jump to page (%num%)"
+msgstr "skočit na stránku (%num%)"
+
+msgid "filter off"
+msgstr "filtr vyp."
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Vybrat vše"
+
+msgid "Uncheck All"
+msgstr "Zrušit výběr"
+
+msgid "With the checked entries, do:"
+msgstr "S vybranými záznamy proveď:"
+
+msgid "- select an option -"
+msgstr "- vyberte možnost -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "Nastavit stav 'publikováno'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "Nastavit stav 'pozdrženo'"
+
+msgid "Delete them"
+msgstr "Smazat"
+
+msgid "Go!"
+msgstr "Proveď!"
+
+#, fuzzy
+msgid "Published"
+msgstr "Publikováno"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Titulek"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "Editace tohoto záznamu"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Dokončeno! Vytvoření indexu trvalo %num% sekund"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "Vytvořeno"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "Nic"
+
+#, fuzzy
+msgid "for"
+msgstr "čtyři"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "Poslední přihlášení"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr "Na vaše potvrzení čeká %1 komentář(ů)."
+
+msgid "No comments are waiting to be approved."
+msgstr "Na vaše potvrzení nečekají žádné komentáře."
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "Cesta k záznamům"
+
+msgid "Overview of Entries"
+msgstr "Přehled záznamů"
+
+msgid "Manage and Upload Media"
+msgstr "Správa a upload médií"
+
+msgid "Administration"
+msgstr "Administrace"
+
+msgid "Overview of Administrative functions"
+msgstr "Přehled administrace"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Předvolená přípona"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "Předvolená přípona"
+
+#, fuzzy
+msgid "Log in"
+msgstr "Přihlášení"
+
+msgid "Write and Publish a new Entry"
+msgstr "Nový záznam"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "Přehled záznamů"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "Nový záznam"
+
+msgid "Moderate Comments"
+msgstr "Moderovat komentáře"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "Trackbacky"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "Přehled záznamů"
+
+msgid "Edit the Configuration file"
+msgstr "Editace konfiguračních souborů"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "Konfigurace spamu"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Editace konfiguračních souborů"
+
+msgid "Create, edit and delete Users"
+msgstr "Vytvoření, editace a mazání uživatelů"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Vytvoření, editace a mazání kategorií"
+
+msgid "Weblogs"
+msgstr "Weblogy"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Vytvoření, editace a mazání weblogů"
+
+msgid "Registered Visitors"
+msgstr "Registrovaní návštěvníci"
+
+msgid "View and edit Registered Visitors"
+msgstr "Prohlížení a editace registrovaných návštěvníků"
+
+msgid "Spam Protection"
+msgstr "Ochrana proti spamu"
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr "Přehled různých nástrojů umožňujících zbavit váš weblog spamu."
+
+#, fuzzy
+msgid "Backup"
+msgstr "Záloha"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr "Umožní vám stáhnout si zip archiv obsahující vaše konfigurační soubory"
+
+#, fuzzy
+msgid "Widgets"
+msgstr "obrázky"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Předvolená přípona"
+
+msgid "Spam configuration"
+msgstr "Konfigurace spamu"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+"Konfigurace nástrojů pro ochranu před spamem (HashCash, SpamQuiz apod.)."
+
+msgid "Spam Log"
+msgstr "Záznamy o Spam"
+
+msgid "View and Reset the Spam Log."
+msgstr "Prohlížení vyčištění záznamů o spamu."
+
+msgid "Backup of Configuration Files"
+msgstr "Vytvoření zálohy konfiguračních souborů"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr "Umožní vám stáhnout si zip archiv obsahující vaše konfigurační soubory"
+
+msgid "Create, edit and delete Templates"
+msgstr "Vytvoření, editace a mazání šablon"
+
+msgid "Explore Database Files"
+msgstr "Prohlížeč souborů"
+
+msgid "View files (both text and database files)"
+msgstr "Prohlížení souborů (textových i databázových)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "Prohlížeč souborů"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "Upload souborů"
+
+msgid "Rebuild the Index"
+msgstr "Sestavit index"
+
+msgid "Rebuild the index of your Database"
+msgstr "Sestavení indexu databáze"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "Sestavit prohledávací index"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "Sestavení indexu pro prohledávání záznamů"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Sestavit index"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "Sestavení indexu pro prohledávání záznamů"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "Vítejte v %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "Pondělí"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "Klíčová slova"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Upload nového souboru:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Red"
+msgstr "St"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "Záloha"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "Neplatná emailová adresa"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "Neplatná emailová adresa"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Přihlášení"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "Neplatná emailová adresa"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"Uživatelské jméno může obsahovat pouze alfanumerické znaky (A-Z, 0-9) a "
+"podtržítko (_)."
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+#, fuzzy
+msgid "Stay logged in?"
+msgstr "Přihlášen"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Zapoměli jste heslo?"
+
+msgid "Send password"
+msgstr "Poslat heslo"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Poslat heslo"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+"Pokud jste zapoměli heslo, vyplňte vaše uživatelské jméno a emailovou "
+"adresu. Pivot vám zašle vaše heslo na daný email."
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "Uložit šablonu!"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "Zazálohovat databázy"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "Vytvoření zálohy konfiguračních souborů"
+
+msgid "Reset Spam Log"
+msgstr "Vymazat záznamy o spamu"
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "Uložit komentář"
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Registered user"
+msgstr "Registrovaný"
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+"Na tomto webu je povoleno moderování komentářů. To znamená, že váš komentář "
+"nebude vidět dokud nebude potvrzen editorem."
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "Moderovat komentáře"
+
+#, fuzzy
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+"Na tomto webu je povoleno moderování komentářů. To znamená, že váš komentář "
+"nebude vidět dokud nebude potvrzen editorem."
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "Trackbacky"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Čas záznamu"
+
+msgid "Excerpt"
+msgstr "Výňatek"
+
+msgid "Continue"
+msgstr "Pokračovat"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "Heslo (potvrzení)"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "Hesla se neshodují"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "Neplatná emailová adresa"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "Neplatná emailová adresa"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "Zazálohovat databázy"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "Upload souborů"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+#, fuzzy
+msgid "Your MySQL password"
+msgstr "Poslat heslo"
+
+#, fuzzy
+msgid "Database Name"
+msgstr "Zazálohovat databázy"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "Uživatelské jméno"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "Prefix SSI"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Hesla se neshodují"
+
+msgid "That's not a valid email address"
+msgstr "Neplatná emailová adresa"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "Neplatná emailová adresa"
+
+msgid "Language"
+msgstr "Jazyk"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Barva textu"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Určuje způsob zpracování textu při nepoužití WYSIWYG editoru. 'Konvertovat "
+"konce řádků' nedělá nic jiného, než že mění konce řádků na  &lt;br&gt;-tag. "
+"<a href=\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</"
+"a> je kvalitní, ale snadno ovladatelný značkovací styl."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Konvertuj konce řádek na &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Markdown and Smartypants"
+msgstr "Markdown a Smartypants"
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "Naposledy změněno"
+
+msgid "Moblogger"
+msgstr "Moblogger"
+
+msgid "Normal"
+msgstr "Běžný"
+
+msgid "Advanced"
+msgstr "Pokročilý"
+
+msgid "Administrator"
+msgstr "Administrátor"
+
+msgid "Superadmin"
+msgstr "Superadmin"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "Úroveň uživatele určuje, jaké akce bude mít uživatel povoleny."
+
+msgid "Allowed Categories"
+msgstr "Povolené kategorie"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr "Uživateli je povoleno přidávat příspěvky do vybrané kategorie"
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "Naposledy změněno"
+
+msgid "Create Category"
+msgstr "Vytvořit kategorii"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Kategorie potřebuje jméno"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "Vyberte uživatele, kterým dáte právo přispívat do této kategorie"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"Kategorie s menším zařazením se budou objevovat v seznamu výše. Pokud "
+"necháte všechna čísla stejná, budou řazeny abecedně."
+
+#, fuzzy
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+"Pokud je nastaveno na 'Ano', tato kategorie bude ve výpisu archivu skryta. "
+"(aplikuje se pouze na živé stránky)"
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "Kategorie"
+
+#, fuzzy
+msgid "The name of this chapter"
+msgstr "Prohledat tuto kategorii"
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+msgid "Theme"
+msgstr "Téma vzhledu"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "Nastavení záznamů"
+
+msgid "Payoff"
+msgstr "Přínos"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr "Přínos může být použit jako podtitulek nebo krátký popis weblogu"
+
+msgid "URL to Weblog"
+msgstr "URL weblogu"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Pokud necháte políčko prázdné, Pivot sám určí URL weblogu. Pokud používáte "
+"weblog jako součást rámců, nebo jako serverside include, použijte toto "
+"nastavení."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"Určuje, v jakém jazyce se budou zobrazovat datumy a jaké bude kódování "
+"stránky (např. iso-8859-1, koi8-r atd.)."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'Více...'"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"Text použitý k upozornění na pokračování textu záznamu. Pokud necháte "
+"nastavení nevyplněné, Pivot použije nastavení z příslušného jazyka."
+
+msgid "Frontpage Template"
+msgstr "Šablony úvodní stránky"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "Šablona určující vzhled úvodní stránky weblogu."
+
+msgid "Archivepage Template"
+msgstr "Šablona stránky s archivy"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"Šablona určující vzhled archivů. Může být stejná jako 'Šablona úvodní "
+"stránky'."
+
+msgid "Entrypage Template"
+msgstr "Šablona záznamu"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "Šablona určující vzhled jednotlivých záznamů."
+
+msgid "Extra Template"
+msgstr "Další šablony"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr "Šablona určující vzhled stránky pro prohledávání archivu."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Uložit šablonu!"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr "Šablona určující vzhled stránky pro prohledávání archivu."
+
+msgid "Number of Entries"
+msgstr "Počet záznamů"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "Počet záznamů subweblogu na úvodní stránce."
+
+msgid "Offset"
+msgstr "Posun"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"Posun určuje počet záznamů, které budou přeskočeny při generování stránky. "
+"Využití např. pro vytvoření seznamu 'Předchozí záznamy'."
+
+msgid "Publish these categories"
+msgstr "Publikuj tyto kategorie"
+
+msgid "RSS and Atom Configuration"
+msgstr "Konfigurace RSS a Atomů"
+
+msgid "Generate Feeds"
+msgstr "Vytvářet kanály"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr ""
+"Určuje, zda bude Pivot automaticky generovat kanály RSS a Atom pro tento "
+"weblog."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "URL webu"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "URL webu"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Vytářet kompletní Feeds"
+
+#, fuzzy
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"Určuje zda bude Pivot vytářet kompletní Atom a RSS feeds. Pokud je nastaveno "
+"'ne' bude Pivot vytvářet feeds které obsahují pouze zkrácený popis."
+
+msgid "Feed Link"
+msgstr "Odkaz Feed"
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"Odkaz, který se posílá s feedem a ukazuje na hlavní stránku. Pokud toto pole "
+"necháte prázdné Pivot bude odesílat hlavní stránku weblogu."
+
+msgid "Feed Image"
+msgstr "Obrázek Feed"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"Obrázek, který se posíla s feedem. Některé čtečky feedů dokáží tento obrázek "
+"zobrazit společně s feedem. Nechte buď prázné nebo zadejte plné URL."
+
+msgid "Commenting Settings"
+msgstr "Nastavení komentářů"
+
+msgid "Send Mail?"
+msgstr "Posílat maily"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr "Poté, co byl vložen komentář, může být správci weblogu zaslán mail."
+
+msgid "Mail to"
+msgstr "Poslat na"
+
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"Určete emailovou adresu(y) kam se má mail odeslat. Více adres oddělte čárkou."
+
+msgid "Text to links"
+msgstr "Konvertovat text na odkazy"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr "Určuje, zda budou URL vložená do textu konvertována na klikací odkazy."
+
+msgid "Wrap comments after"
+msgstr "Zalamovat komentáře po"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"Abyste se vyhnuli dlouhým řádkům v komentářích, které by mohly poškodit "
+"vzhled stránky, určete počet znaků pro zalomení."
+
+msgid "Comments Popup?"
+msgstr "Komentáře v popup okně"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"Určuje, zda se komentáře budou zobrazovat v původním okně prohlížeče nebo v "
+"popup (vyskakovacím) okně."
+
+msgid "Width of Popup"
+msgstr "Šířka okna"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "Výška okna"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "Určení rozměrů popup okna."
+
+msgid "Height of Popup"
+msgstr "Výška okna"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "Určení rozměrů popup okna."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Povolit Textile"
+
+msgid "Allow Textile"
+msgstr "Povolit Textile"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"Pokud nastavíte 'Ano' , návštěvníci mohou v komentářích používat <a href="
+"\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</a>."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "Emotikony"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "Emotikony"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"Pokud nastavíte 'Ano' , návštěvníci mohou v komentářích používat <a href="
+"\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</a>."
+
+msgid "Site Name"
+msgstr "Jméno webu"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "Neplatná emailová adresa"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Weblogy"
+
+#, fuzzy
+msgid "Page"
+msgstr "obrázek"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "Jméno webu"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- vyberte možnost -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+"Určuje formátování odkazu, který mohou návštěvníci použít k odpovědi na "
+"konkrétní komentář."
+
+msgid "Default language"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "Předvolený jazyk"
+
+msgid "Allow XML-RPC"
+msgstr "Povolit XML-RPC"
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+"Nastavení na Ano vám umožní přidávat záznamy na weblog z desktopové aplikace "
+"(využívající MetaWeblog API)."
+
+#, fuzzy
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr "Ano, jako /archive/2005/04/28/titulek_záznamu"
+
+#, fuzzy
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr "Ano, jako /archive/2005-04-28/titulek_záznamu"
+
+msgid "Yes, like /entry/1234"
+msgstr "Ano, jako /zaznam/1234"
+
+#, fuzzy
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr "Ano, jako /zaznam/1234/titulek_záznamu"
+
+#, fuzzy
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr "Ano, jako /archive/2005/04/28/titulek_záznamu"
+
+#, fuzzy
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr "Ano, jako /archive/2005-04-28/titulek_záznamu"
+
+msgid "Use Mod_rewrite"
+msgstr "Porovnávej soubory"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"Pokud používáte porovnávání souborů z Apache, Pivot vytvoří URL jako www."
+"mysite.com/archive/2003/05/30/nice_weather, místo www.mysite.com/pivot/entry."
+"php?id=134. Ne všechny servery to podporují. Podívejte se do manuálu."
+
+msgid "Allow comments by default"
+msgstr "Vždy povolit komentáře"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "Určuje zda je povoleno k záznamům vkládat komentáře."
+
+msgid "Moderate comments"
+msgstr "Moderovat komentáře"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+"Určuje zda mají být komentáře potvrzeny před tím, než jsou viditelné na webu."
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "Uložit nastavení"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Ukaž posledních"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "Počet záznamů"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML kanál (RSS 1.0)"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "Počet záznamů"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "Kód"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "Maximální velikost souboru"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "Maximální velikost souboru"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Mód debugování"
+
+msgid "Show random debug information, every here and there.."
+msgstr "Ukaž sem tam náhodné debugovací informace.."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "Logovací soubory"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "Mazání souborů"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"Některé servery, používající safe_mode, mohou vyžadovat použití tohoto "
+"nastavení. Na většině serverů však nebude potřeba žádná změna."
+
+msgid "Chmod Files To"
+msgstr "Změň práva souborů na"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"Některé servery vyžadují změnit práva vytvářených souborů na určitou "
+"hodnotu. Obvyklé hodnoty jsou '0644' a '0755'. Neměňte tyto hodnoty pokud si "
+"nejste jist, co děláte."
+
+msgid "File Upload Path"
+msgstr "Cesta k uploadovaným souborům"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Přepisovat"
+
+msgid "Increment Filename"
+msgstr "Číslování souborů"
+
+msgid "Maximum Filesize"
+msgstr "Maximální velikost souboru"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Automaticky vytvářet náhledy"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Šířka náhledu"
+
+msgid "Thumbnail height"
+msgstr "Výška náhledu"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Šířka náhledu"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Přijímané typy"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Formát plného datumu"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"Určuje formát plného datumu a času. Nejčastěji je použit na začátku stránky "
+"s jedním záznamem"
+
+msgid "Entry Date"
+msgstr "Čas záznamu"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Datum změny"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'Datum změny' souvisí s 'časem záznamu'. Zatímco čas je zobrazen u každého "
+"záznamu, datum je zobrazeno jen pokud se liší od předchozího."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "Jednotka časového posunu"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "Day"
+msgstr "Den"
+
+msgid "Hour"
+msgstr "Hodina"
+
+msgid "Minute"
+msgstr "Minuta"
+
+msgid "Time Offset"
+msgstr "Časový posun"
+
+#, fuzzy
+msgid "Activate"
+msgstr "Archivy"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "Min. úroveň uživatele"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "Neplatná emailová adresa"
+
+#, fuzzy
+msgid "Default author"
+msgstr "Předvolený Gavatar"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "Předvolený jazyk"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "Vyberte obrázek"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "Smazat kategorii"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- vyberte možnost -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "Smazat kategorii"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "Povolené kategorie"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr "Používat HashCash"
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+"HashCash je jedna z nejlepších a zcela neviditelných ochran proti spamu, "
+"které jsou dostupné. Požaduje u klienta povolený javascript. Pokud je to pro "
+"vás nepřijatelné, nezapínejte ji."
+
+msgid "Number of links"
+msgstr "Počet odkazů"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+"Maximální počet odkazů povolených v komentáři. Užitečný způsob jak se zbavit "
+"obtěžujících komentářů s odkazy. Nastavte na 0 pro neomezeně."
+
+#, fuzzy
+msgid "SpamQuiz"
+msgstr "Používat SpamQuiz"
+
+msgid "Use SpamQuiz"
+msgstr "Používat SpamQuiz"
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+"Před odesláním komentáře musí každý uživatel správně odpovědět na "
+"jednoduchou otázku, na kterou každý zná odpověď. To kompletně zmate "
+"spamovací roboty, protože každý blogger může použít vlasní otázku."
+
+msgid "Question"
+msgstr "Otázka"
+
+#, fuzzy
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr "Příklad: Jaká jsou dvě první písmena slova 'spam'?"
+
+msgid "Answer"
+msgstr "Odpověď"
+
+msgid "Example: <b>sp</b>"
+msgstr "Příklad: <b>sp</b>"
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr "Vysvětlení"
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+"Příklad: K ověření že nejste spamovací robot potřebujeteme abyste odpovědeli "
+"na tuto jednoduchou otázku."
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "Jméno obrázku"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "Předvolená přípona"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "Předvolená přípona"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "Předvolená přípona"
+
+#, fuzzy
+msgid "By"
+msgstr "Tělo"
+
+#, fuzzy
+msgid "version"
+msgstr "Konverze"
+
+#, fuzzy
+msgid "last updated"
+msgstr "Naposledy změněno"
+
+#, fuzzy
+msgid "site link"
+msgstr "Vložit odkaz"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "Konfigurace spamu"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "Vložit obrázek"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "Vložit obrázek"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Poslat pingy"
+
+#, fuzzy
+msgid "Oops."
+msgstr "Oops"
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Přihlásit uživatele Pivotu"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Přihlásit uživatele Pivotu"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Přihlásit uživatele Pivotu"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "Není vám dovoleno toto provádět se záznamem %title%!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "Komentáře byly smazány."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "Váš soubor byl uložen jako '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "Komentáře byly smazány."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "Nový weblog byl vytvořen."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Vytvořit náhled)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Cesta k uploadovaným souborům"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "Šablona Feed"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Emotikony"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "Heslo"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "třináct"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "Zápis"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Chyba zápisu. Nemohu otevřít soubor pro zápis"
+
+msgid "Write Error. Could not write to file"
+msgstr "Chyba zápisu. Nemohu zapisovat do souboru"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "Specifikuje způsob formátování komentářů k záznamu."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "Editace tohoto záznamu"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "Smazat komentář"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "Specifikuje způsob formátování komentářů k záznamu."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "Další nastavení"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Nový záznam"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "Potvrzení registrace"
+
+msgid "%num% comment"
+msgstr "Jeden komentář"
+
+msgid "%num% comments"
+msgstr "Komentářů: %num%"
+
+#, fuzzy
+msgid "%num% trackback"
+msgstr "Trackbacky"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "Trackbacky"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"Prohlížení vašeho komentáře. Nezapomeňte kliknout na 'Vložit komentář', aby "
+"se skutečně uložil."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr "Váš komentář nebyl uložen, protože je kopií předchozího záznamu."
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr "Váš komentář nebyl uložen, protože je kopií předchozího záznamu."
+
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr "Jeden nebo více komentářů čeká na potvrzení editorem."
+
+msgid "Your comment has been stored."
+msgstr "Váš komentář byl uložen."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"Měli byste vložit vaše jméno nebo přezdívku do políčka 'jméno'. Nezapomeňte "
+"kliknout na 'Vložit komentář', aby se skutečně uložil."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"Měli byste něco napsat do políčka 'komentář'. Nezapomeňte kliknout na "
+"'Vložit komentář', aby se skutečně uložil."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr ""
+"Překročeno maximální povolené množství odkazů. Přestaňte nás prosím spamovat."
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "Moderovat komentáře"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "editovat náhled"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Přihlásit uživatele Pivotu"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Kód"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "Emotikony"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "editovat náhled"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Vytvořit náhled)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Proveď!"
+
+#, fuzzy
+msgid "Back"
+msgstr "Záloha"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "Kód"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "Neděle"
+
+msgid "Monday"
+msgstr "Pondělí"
+
+msgid "Tuesday"
+msgstr "Úterý"
+
+msgid "Wednesday"
+msgstr "Středa"
+
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+msgid "Friday"
+msgstr "Pátek"
+
+msgid "Saturday"
+msgstr "Sobota"
+
+msgid "S_Sunday_initial"
+msgstr "N"
+
+msgid "M_Monday_initial"
+msgstr "P"
+
+msgid "T_Tuesday_initial"
+msgstr "Ú"
+
+msgid "W_Wednesday_initial"
+msgstr "S"
+
+msgid "T_Thursday_initial"
+msgstr "Č"
+
+msgid "F_Friday_initial"
+msgstr "Á"
+
+msgid "S_Saturday_initial"
+msgstr "S"
+
+msgid "Sun"
+msgstr "Ne"
+
+msgid "Mon"
+msgstr "Po"
+
+msgid "Tue"
+msgstr "Út"
+
+msgid "Wed"
+msgstr "St"
+
+msgid "Thu"
+msgstr "Čt"
+
+msgid "Fri"
+msgstr "Pá"
+
+msgid "Sat"
+msgstr "So"
+
+msgid "January"
+msgstr "Leden"
+
+msgid "February"
+msgstr "Únor"
+
+msgid "March"
+msgstr "Březen"
+
+msgid "April"
+msgstr "Duben"
+
+msgid "May"
+msgstr "Květen"
+
+msgid "June"
+msgstr "Červen"
+
+msgid "July"
+msgstr "Červenec"
+
+msgid "August"
+msgstr "Srpen"
+
+msgid "September"
+msgstr "Září"
+
+msgid "October"
+msgstr "Říjen"
+
+msgid "November"
+msgstr "Listopad"
+
+msgid "December"
+msgstr "Prosinec"
+
+msgid "Jan_January_abbreviation"
+msgstr "Led"
+
+msgid "Feb_February_abbreviation"
+msgstr "Úno"
+
+msgid "Mar_March_abbreviation"
+msgstr "Bře"
+
+msgid "Apr_April_abbreviation"
+msgstr "Dub"
+
+msgid "May_May_abbreviation"
+msgstr "Kvě"
+
+msgid "Jun_June_abbreviation"
+msgstr "Čer"
+
+msgid "Jul_July_abbreviation"
+msgstr "Čec"
+
+msgid "Aug_August_abbreviation"
+msgstr "Srp"
+
+msgid "Sep_September_abbreviation"
+msgstr "Zář"
+
+msgid "Oct_October_abbreviation"
+msgstr "Říj"
+
+msgid "Nov_November_abbreviation"
+msgstr "Lis"
+
+msgid "Dec_December_abbreviation"
+msgstr "Pro"
+
+#, fuzzy
+msgid "am"
+msgstr "Jméno"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "žádný"
+
+msgid "one"
+msgstr "jeden"
+
+msgid "two"
+msgstr "dva"
+
+msgid "three"
+msgstr "tři"
+
+msgid "four"
+msgstr "čtyři"
+
+msgid "five"
+msgstr "pět"
+
+msgid "six"
+msgstr "šest"
+
+msgid "seven"
+msgstr "sedm"
+
+msgid "eight"
+msgstr "osm"
+
+msgid "nine"
+msgstr "devět"
+
+msgid "ten"
+msgstr "deset"
+
+msgid "eleven"
+msgstr "jedenáct"
+
+msgid "twelve"
+msgstr "dvanáct"
+
+msgid "thirteen"
+msgstr "třináct"
+
+msgid "fourteen"
+msgstr "čtrnáct"
+
+msgid "fifteen"
+msgstr "patnáct"
+
+msgid "sixteen"
+msgstr "šestnáct"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "sedm"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "osm"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "devět"
+
+#, fuzzy
+msgid "twenty"
+msgstr "Nový záznam"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "žádný"
+
+#, fuzzy
+msgid "second"
+msgstr "Sekunda"
+
+#, fuzzy
+msgid "third"
+msgstr "třináct"
+
+#, fuzzy
+msgid "forth"
+msgstr "čtyři"
+
+#, fuzzy
+msgid "fifth"
+msgstr "patnáct"
+
+#, fuzzy
+msgid "sixth"
+msgstr "šest"
+
+#, fuzzy
+msgid "seventh"
+msgstr "sedm"
+
+#, fuzzy
+msgid "eighth"
+msgstr "osm"
+
+#, fuzzy
+msgid "ninth"
+msgstr "devět"
+
+#, fuzzy
+msgid "tenth"
+msgstr "deset"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "jedenáct"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "dvanáct"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "třináct"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "čtrnáct"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "patnáct"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "šestnáct"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "sedm"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "osm"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "devět"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "deset"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+"Instalační skript Pivotu 'pivot-setup.php' je stále v nadřazeném adresáři. "
+"Upozorňujeme, že se jedná o potenciální bezpečností riziko. Doporučujeme ho "
+"odstranit nebo přejmenovat, aby nemohl být zneužit lidmi se špatnými úmysly."
+
+#, fuzzy
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+"Instalační skript Pivotu 'pivot-setup.php' je stále v nadřazeném adresáři. "
+"Upozorňujeme, že se jedná o potenciální bezpečností riziko. Doporučujeme ho "
+"odstranit nebo přejmenovat, aby nemohl být zneužit lidmi se špatnými úmysly."
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "Okraje"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "Upload souborů"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Ukaž posledních"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "Komentáře byly smazány."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Weblogy"
+
+#, fuzzy
+msgid "category"
+msgstr "Kategorie"
+
+#, fuzzy
+msgid "entry"
+msgstr "Nový záznam"
+
+#, fuzzy
+msgid "for comments"
+msgstr "Žádné komentáře"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "Výsledky hledání"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "Výsledky pro '%name%':"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "Výsledky pro '%name%':"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "Pro '%name%' nebylo nic nalezeno. Zkuste vložit něco jiného."
+
+msgid "Search for words used in entries on this website"
+msgstr "Hledání slov v záznamech"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "Zde vložte hledaná slova:"
+
+msgid "Enter searchterms"
+msgstr "hledaný termín"
+
+msgid "Search!"
+msgstr "Hledat!"
+
+msgid "XML: Atom Feed"
+msgstr "XML: Atom Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "Jeden komentář"
+
+#, fuzzy
+msgid "One or more comments are waiting for approval by an editor."
+msgstr "Na vaše potvrzení nečekají žádné komentáře."
+
+msgid "Emoticons"
+msgstr "Emotikony"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Přihlásit uživatele Pivotu"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "Vytvořit šablonu"
+
+msgid "Text file"
+msgstr "Textový soubor"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Nový Pivot"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "Upload nového souboru:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Nový Pivot"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "editovat náhled"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Upload nového souboru:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "Šablony"
+
+#, fuzzy
+msgid "Include template"
+msgstr "Uložit šablonu!"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "Šablony úvodní stránky"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "Šablona stránky s archivy"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "Šablona záznamu"
+
+#, fuzzy
+msgid "Page template"
+msgstr "Uložit šablonu!"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "Šablona stránky s archivy"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "Konfigurace spamu"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Přihlásit uživatele Pivotu"
+
+#, fuzzy
+msgid "(more)"
+msgstr "více"
+
+msgid "Powered by"
+msgstr "Využívá"
+
+msgid "XML: RSS Feed"
+msgstr "XML kanál (RSS 1.0)"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "Vložit obrázek"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "Uložit trackback"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr "Prosím povolte javascript aby se dalo trackback url vygenerovat"
+
+#, fuzzy
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr "Pozn.: vygenerované url je platné jen 15 minut a vyžaduje javascript."
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "Klikněte pro vygenerování trackback url"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Smazat komentář"
+
+#, fuzzy
+msgid "register/login"
+msgstr "Registovat"
+
+msgid "words"
+msgstr "slova"
+
+msgid "image"
+msgstr "obrázek"
+
+msgid "images"
+msgstr "obrázky"
+
+msgid "file"
+msgstr "soubor"
+
+msgid "files"
+msgstr "soubory"
+
+msgid "Self-registration"
+msgstr "Samo-registrace"
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "Hlasů '%val%' pro tento záznam"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+"Na tomto webu je povoleno moderování komentářů. To znamená, že váš komentář "
+"nebude vidět dokud nebude potvrzen editorem."
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+"Prosím, abyste mohli přidat komentář, povolte javascript (a obnovte stránku)."
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+#, fuzzy
+msgid "Related tags"
+msgstr "Poslední novinky Pivotu"
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Ukaž posledních"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "Určuje formátování trackbacků na stránce záznamu."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "Určuje formátování trackbacků na stránce záznamu."
+
+msgid "Log in as a registered visitor"
+msgstr "Přihlasit registrovaného návštěvníka"
+
+msgid "Forgotten your password?"
+msgstr "Zapoměli jste heslo?"
+
+msgid "Register a new username."
+msgstr "Registrovat nového uživatele."
+
+msgid "Logged in as"
+msgstr "Přihlášen jako"
+
+msgid "Log out."
+msgstr "Odhlásit"
+
+#, fuzzy
+msgid "Delete account."
+msgstr "Smazat komentář"
+
+msgid "Edit your preferences"
+msgstr "Editovat nastavení"
+
+msgid "User disabled"
+msgstr "Uživatel zakázán"
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "Nesprávné heslo"
+
+msgid "Logged in"
+msgstr "Přihlášen"
+
+msgid "Register"
+msgstr "Registovat"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"Prosím vyplňte následující informace. <strong>Ujistěte se, že jste zadali "
+"platnou emailovou adresu</strong>, protože na ni bude odeslána žádost o "
+"potvrzení."
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Back to login"
+msgstr "Zpět na přihlášení"
+
+msgid "Show my email address with comments"
+msgstr "Ukázat moji emailovou adresu s komentářem"
+
+msgid "Notify me via email of new entries"
+msgstr "Upozorňovat na nové příspěvky emailem"
+
+msgid "Default notification of replies"
+msgstr "Forma upozorňování na odpovědi"
+
+msgid "Here you can change your information."
+msgstr "Zde můžete změnit své informace."
+
+msgid "Change preferences"
+msgstr "Změnit nastavení"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr "Oops"
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Poslat heslo"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+"Pokud jste zapoměli heslo, vyplňte vaše uživatelské jméno a emailovou "
+"adresu. Pivot vám zašle vaše heslo na daný email."
+
+#, fuzzy
+msgid "User already exists... Please pick another name."
+msgstr "Uživatel již existuje.. Prosím vyberte si jiné jméno."
+
+#, fuzzy
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "Uživatel již existuje.. Prosím vyberte si jiné jméno."
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"Musíte zadat emailovou adresu, jinak nebude možné ověřit váš účet. Vždy "
+"můžete vybrat neukazovat adresu ostatním návštěvníkům."
+
+msgid "The changes have been stored"
+msgstr "Změny byly uloženy"
+
+msgid "Your account is verified. Please log in.."
+msgstr "Váš účet je ověřen. Prosím přihlašte se.."
+
+#, fuzzy
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr "Nesprávný kód. Bohužel není možné provést ověření."
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr "Heslo bylo odesláno do vaší schránky."
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr "Odhlášen"
+
+msgid "Back to"
+msgstr "Zpět na"
+
+msgid "User stored!"
+msgstr "Uživatel uložen"
+
+msgid "Could not store new user!!"
+msgstr "Uložení uživatele se nezdařilo!"
+
+#, fuzzy, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr "Jste v Pivotu registrován jako uživatel '%s'"
+
+#, fuzzy, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr "K ověření vašeho účtu klikněte na následující odkaz: %s"
+
+msgid "Registration confirmation"
+msgstr "Potvrzení registrace"
+
+msgid "Verify your account"
+msgstr "Ověření vašeho účtu"
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+"Ověření pomocí emailu bylo odesláno na %s. Prosím zkontrolujte během pár "
+"minut svou poštu k ověření vašeho účtu."
+
+#, fuzzy
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+"Prosím, abyste mohli přidat komentář, povolte javascript (a obnovte stránku)."
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Špatné jméno/heslo"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "Přihlášen"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "Předchozí archiv"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Přihlášen"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "Odhlášen"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "Editace nastavení weblogu "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "Smazat tento weblog."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Smazat kategorii"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+#, fuzzy
+msgid "About PivotX"
+msgstr "O ..."
+
+#, fuzzy
+msgid "Setup user"
+msgstr "Smazat uživatele"
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "Registrovat nového uživatele."
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "Není vám dovoleno toto provádět se záznamem %title%!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "Weblog byl aktualizován."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "Předvolená přípona"
+
+msgid "Edit Entry"
+msgstr "Editovat záznam"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "Není vám dovoleno toto provádět se záznamem %title%!"
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "Váš záznam '%s' byl úspěšně uložen."
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "Váš záznam '%s' byl úspěšně uložen."
+
+#, fuzzy, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "Stopovací ping byl odeslán na '%s'."
+
+#, fuzzy
+msgid "Log out"
+msgstr "Odhlásit"
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "Není vám dovoleno přispívat do kategorie:'%s'."
+
+msgid "My Settings"
+msgstr "Moje nastavení"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Přidat bookmarklet."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "Weblog byl aktualizován."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "O ..."
+
+msgid "Edit my personal Settings"
+msgstr "Editace osobních nastavení"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "Není vám dovoleno přispívat do kategorie:'%s'."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "Není vám dovoleno přispívat do kategorie:'%s'."
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "Není vám dovoleno přispívat do kategorie:'%s'."
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "Weblog byl smazán."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "Není vám dovoleno přispívat do kategorie:'%s'."
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "Weblog byl aktualizován."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Trackback byl uložen."
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr "Editovace nebo Smazání trackbacků"
+
+msgid "Comments"
+msgstr "Komentáře"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "Komentáře byly smazány."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "Editace nebo mazání komentáře"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "Komentáře byly uloženy."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+msgid "Edit or Delete Trackbacks"
+msgstr "Editovace nebo Smazání trackbacků"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Trackback byl uložen."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Upload souborů"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "Trackback byl vymazán."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "Komentáře byly smazány."
+
+msgid "The weblog has been deleted."
+msgstr "Weblog byl smazán."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "Weblog byl smazán."
+
+msgid "Create New Weblog"
+msgstr "Vytvořit nový weblog"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "Nastavení komentářů"
+
+#, fuzzy
+msgid "Database"
+msgstr "Zazálohovat databázy"
+
+#, fuzzy
+msgid "Debug"
+msgstr "Mód debugování"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "Cesta k uploadovaným souborům"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "Datum/čas"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Moblogger"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr "Vytvářím index. Může to chvilku trvat, nepřerušujte tento proces."
+
+msgid "Rebuild the Search Index"
+msgstr "Sestavit prohledávací index"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "Sestavení indexu pro prohledávání záznamů"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Vytvářím prohledávací index. Může to chvilku trvat, nepřerušujte tento "
+"proces."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Sestavit index"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "Vytvářím index. Může to chvilku trvat, nepřerušujte tento proces."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+msgid "Backup of Database"
+msgstr "Zazálohovat databázy"
+
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+"Umožní vám stáhnout zip soubor obsahující databázy se všemi příspěvnky."
+
+#, fuzzy
+msgid "Explore files"
+msgstr "Upload souborů"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "Konfigurace spamu"
+
+msgid "Blocked Phrases"
+msgstr "Ignorované domény"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "Prohlížení a editace ignorovaných domén."
+
+#, fuzzy
+msgid "Update the Global Phrases List"
+msgstr "Odstranit seznam globálních frází"
+
+#, fuzzy
+msgid "Update the global phrases list from pivotx.net"
+msgstr "Aktualizovat seznam frází z pivotlog.net"
+
+msgid "Spam Washer"
+msgstr "Čistič spamu"
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr "Vyhledání a odstraní spamu ze všech záznamů a trackbacků."
+
+msgid "IP blocks"
+msgstr "Blokované IP"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Prohlížení a editace blokovaných IP adres"
+
+#, fuzzy
+msgid "Spam log reset."
+msgstr "Záznamy o spamu byly vymazány"
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Provedení běžné údržby souborů Pivotu"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "Komentáře byly smazány."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "Uživatelské jméno již existuje"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "Uživatelské jméno již existuje"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "Weblog byl aktualizován."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "Uživatelské jméno již existuje"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "Nový weblog byl vytvořen."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "Trackback byl vymazán."
+
+msgid "A category by this name already exists"
+msgstr "Kategorie tohoto jména již existuje"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "Weblog byl aktualizován."
+
+msgid "Edit Weblog"
+msgstr "Editovat weblog"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "třináct"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "Vložit obrázek"
+
+#~ msgid "# Comm"
+#~ msgstr "Počet kom."
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "Komentář"
+
+#~ msgid "search"
+#~ msgstr "hledat"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "Vrátit zpět"
+
+#~ msgid ""
+#~ "Specify the email address(es) to whom mail will be sent. seperate "
+#~ "multiple addresses with a comma."
+#~ msgstr ""
+#~ "Vepište adresy, na které bude mail odeslán. Více adres oddělte čárkou."
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "Uživatelé"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "Datum"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "Kategorie"
+
+#, fuzzy
+#~ msgid "Format of \"reply ..\""
+#~ msgstr "Formát 'odpovědi ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr ""
+#~ "Určuje formátování odkazu, který mohou návštěvníci použít k odpovědi na "
+#~ "konkrétní komentář."
+
+#, fuzzy
+#~ msgid "Format of \"reply by ..\""
+#~ msgstr "Formát 'odpovězeno ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+#~ msgstr ""
+#~ "Určuje formát textu, který je zobrazen pokud je komentář komentován jiným "
+#~ "komentářem."
+
+#, fuzzy
+#~ msgid "Format of \"reply on ..\""
+#~ msgstr "Formát 'odpověď na ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr ""
+#~ "Určuje formátování textu, který je zobrazen pokud je komentář komentářem "
+#~ "k jinému komentáři."
+
+#~ msgid "Trackback Settings"
+#~ msgstr "Nastavení trackbacků"
+
+#~ msgid "Format of Trackbacks"
+#~ msgstr "Formát trackbacku"
+
+#~ msgid "This specifies the formatting of trackbacks on the entry pages."
+#~ msgstr "Určuje formátování trackbacků na stránce záznamu."
+
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Formát trackback odkazu"
+
+#, fuzzy
+#~ msgid ""
+#~ "This specifies the formatting of the trackback link on the entry pages.)"
+#~ msgstr "Určuje formátování trackbacků na stránce záznamu."
+
+#~ msgid "Allow self-registration"
+#~ msgstr "Povolit samo-registraci"
+
+#~ msgid ""
+#~ "Setting this to yes enables people to register as (normal) users and "
+#~ "hence post entries. (This is not a \"comment\" user.)"
+#~ msgstr ""
+#~ "Nastavení na Ano umožňí uživatelům registrovate se jako normální uživatel "
+#~ "a přídávat záznamy. (Toto nejsou 'komentářový' uživatelé.)"
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "Tento uživatel a emailová adresa si neodpovídají."
+
+#~ msgid "File Mappings"
+#~ msgstr "Mapování souborů"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr "Přehled souborů, vytvořených Pivotem pro weblogy na tomto webu"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "Upload nového souboru:"
+
+#~ msgid "Configure Spam Protection tools"
+#~ msgstr "Konfigurace nástrojů ochrany proti spamu"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "Níže můžete vidět přehled všech weblogů této instalace Pivotu společně se "
+#~ "soubory a šablonami, použitými Pivotem k jejich vytvoření. Velmi užitečné "
+#~ "pro hledání přesného místa vzniku problémů při vytváření souborů."
+
+#~ msgid "Verify this visitor account for the user."
+#~ msgstr "Ověřit uživatelský účet tohoto návštěvníka."
+
+#~ msgid ""
+#~ "Disable this visitor account (so no comments can be made with this name)."
+#~ msgstr ""
+#~ "Zakázat účet tohoto návštěvníka (pod tímto jménem nemohou být přidány "
+#~ "žádné komentáře)."
+
+#~ msgid "Delete registered visitor"
+#~ msgstr "Smazat registrovaného návštěvníka"
+
+#~ msgid ""
+#~ "You can delete this registered visitor if you would like. All of their "
+#~ "comments will remain"
+#~ msgstr ""
+#~ "Pokud chcete, můžete smazat tohoto registrovaného návštěvníka. Všechny "
+#~ "jeho komentáře zůstanou zachovány."
+
+#~ msgid "Change"
+#~ msgstr "Změnit"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "Potvrdit smazání"
+
+#~ msgid ""
+#~ "You're about to remove the account for %s. Are you sure you want to do "
+#~ "this?"
+#~ msgstr "Chystáte se odebrat účet %s. JSte si jisti, že to chcete udělat?"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IP-adresa byla uložena."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Uložit tyto IP adresy"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "Ignorované domény byly uloženy."
+
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "Globální fráze byly uloženy"
+
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "Globální fráze byly vymazány."
+
+#~ msgid "The Global Phrases list is empty"
+#~ msgstr "Seznam globálních frází je prázdný"
+
+#~ msgid ""
+#~ "Items marked with an asterisk ( * ) will be used only to block referers. "
+#~ "All other items will be used to block referers, comments and trackbacks "
+#~ "alike."
+#~ msgstr ""
+#~ "Položky označené hvězdičkou ( * ) budou použity k blokování odkazujících "
+#~ "stránek. Ostatní budou použity k blokování odkazů, komentářů i trackbacků."
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Uložit tyto ignorované domény"
+
+#~ msgid "Globally blocked phrases."
+#~ msgstr "Globálně blokované fráze."
+
+#~ msgid ""
+#~ "Apart from the Blocked Phrases mentioned above, you can also use an up-to-"
+#~ "date list that your Pivot can fetch from the pivotlog.net server. "
+#~ "Currently this list contains the following phrases:"
+#~ msgstr ""
+#~ "Kromě blokování frází s předchozího seznamu můžete použít i aktualizovaný "
+#~ "i seznam který Pivot získá ze serveru pivotlog.net. Momentálně tento "
+#~ "seznam obsahuje:"
+
+#~ msgid "Update the Global Phrases list from pivotlog.net"
+#~ msgstr "Aktualizovat seznam frází z pivotlog.net"
+
+#~ msgid "Remove the Global Phrases list"
+#~ msgstr "Odstranit seznam globálních frází"
+
+#~ msgid "Displaying the Spam Log"
+#~ msgstr "Zobrazení záznamů o spamu."
+
+#~ msgid "Spam Log is empty."
+#~ msgstr "Záznamy o spamu jsou prázdné"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "Jméno musí mít alespoň 3 znaky."
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "Blokovat IP %s"
+
+#~ msgid "[Trackback] Re:"
+#~ msgstr "[Stopování] nové stopování"
+
+#~ msgid "No TrackBack ID (tb_id)"
+#~ msgstr "Žádné stopovací ID (tb_id)"
+
+#~ msgid "No URL (url)"
+#~ msgstr "Žádné URL (url)"
+
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr ""
+#~ "Váš trackback nebyl uložen, protože vypadá jako kopie předchozího záznamu."
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "Minuta"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "Pozn.: Správce těchto stránek má možnost<br /> vidět vaše heslo.. "
+#~ "<em>Nepoužívejte</em> heslo,<br /> které používáte jinde!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your forgotten password for PivotX \"%name%\" is: \n"
+#~ "\n"
+#~ "%pass%\n"
+#~ "\n"
+#~ "Don't forget it again, please!\n"
+#~ "\n"
+#~ "To log in to your account, click the following link:\n"
+#~ " %link%"
+#~ msgstr ""
+#~ "Vaše zapomenuté heslo pro uživatelské jméno '%name%' v Pivotu je: %pass%"
+#~ "Nezapomeňte ho znovu prosím!.Pro přihlášení klikněte na následující "
+#~ "odkaz:  %link%"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "Heslo"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "Vložit okno s obrázkem"
+
+#~ msgid "No such user.."
+#~ msgstr "Neexistující uživatel.."
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "Bez komentáře"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "Komentář"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "Komentáře"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "Uložit komentář"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "Vrátit zpět"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "Emotikony"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "Žádné komentáře"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Poslední novinky Pivotu"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Využívá"
+
+#, fuzzy
+#~ msgid "(more...)"
+#~ msgstr "více"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "Komentáře"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "Komentáře"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "Komentáře"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "Předchozí archiv"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Aktualizace stopování pingu"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "Určuje, zda stopovače jako weblogs.com budou automaticky informovány "
+#~ "Pivotem, pokud přidáte nový příspěvek. Služby jako blogrolling.com jsou "
+#~ "na tom přímo závislé."
+
+#~ msgid "URLs to ping"
+#~ msgstr "URL kam pingat"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "Zde můžete zadat několik adres, na které se bude posílat ping. "
+#~ "Nevkládejte řetězec http://, jinak to nebude fungovat. Pouze vložte "
+#~ "adresu - na každý řádek jednu, nebo je oddělte znakem roury (|). Některé "
+#~ "oblíbené servery:<br /><b>rpc.weblogs.com/RPC2</b> (weblogs.com ping, "
+#~ "jeden z nejpoužívanějších)<br /><b>pivotlog.net/pinger</b> (pivotlog "
+#~ "ping, ještě nefunkční)<br /><b>rcs.datashed.net/RPC2</b> (euro.weblogs."
+#~ "com ping)<br /><b>ping.blo.gs</b> (blo.gs pinger)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Nastavení pingu"
+
+#, fuzzy
+#~ msgid "stuff"
+#~ msgstr "Personál"
+
+#~ msgid "upload"
+#~ msgstr "upload"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "Váš soubor nebyl uložen. Nastala následující chyba:"
+
+#~ msgid "or select"
+#~ msgstr "nebo vybrat"
+
+#~ msgid "Select File"
+#~ msgstr "Vyberte soubor"
+
+#, fuzzy
+#~ msgid "Use text"
+#~ msgstr "Použít text"
+
+#, fuzzy
+#~ msgid "Spamscore Threshold"
+#~ msgstr "Práh sestavení"
+
+#~ msgid "Use Hardened Trackback"
+#~ msgstr "Používat zocelený trackback"
+
+#~ msgid ""
+#~ "Hardened Trackback is a powerful trackback spam protection. It requires "
+#~ "javascript to be enabled on the client. If this is unacceptable for you, "
+#~ "then don't enable it."
+#~ msgstr ""
+#~ "Zocelený trackback je účinná ochrana proti spamu v trackbacích. Vyžaduje "
+#~ "povolený javascript u klienta. Pokud je to pro vás nepřijatelné, "
+#~ "nezapínejte jej."
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "Jméno obrázku"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Používat WYSIWYG editor"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "Určuje, zda je předvolený editor WYSIWYG. Jednotliví uživatelé si toto "
+#~ "nastavení mohou změnit v nastavení 'Moje informace'."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "Nastavení posledních komentářů"
+
+#~ msgid "Show how many"
+#~ msgstr "Počet"
+
+#~ msgid "Cut at length"
+#~ msgstr "Délka"
+
+#~ msgid "Format"
+#~ msgstr "Formát"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Tato nastavení určují vzhled seznamu 'Posledních komentářů' na úvodní "
+#~ "stránce weblogu."
+
+#, fuzzy
+#~ msgid "Use \"Nofollow\""
+#~ msgstr "Použít 'Nofollow'"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+#~ msgstr ""
+#~ "Pro účinnější boj s odkazovacím spamem můžete vybrat doplnění atributu "
+#~ "rel=\"nofollow\" do všech odkazů v komentářích. Takovými odkazy se pak "
+#~ "nebude zvyšovat hodnocení odkazovaných stránek v Google."
+
+#~ msgid "Next Archive"
+#~ msgstr "Další archiv"
+
+#~ msgid "Previous Archive"
+#~ msgstr "Předchozí archiv"
+
+#~ msgid "Archive type"
+#~ msgstr "Typ archivů"
+
+#~ msgid "No Archives"
+#~ msgstr "Žádné archivy"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "Týdenní archivy"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Měsíční archivy"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "Roční archivy"
+
+#~ msgid "Archive Link"
+#~ msgstr "Odkaz na archiv"
+
+#~ msgid "Archive List format"
+#~ msgstr "Formát seznamu archivů"
+
+#~ msgid "Archive Order"
+#~ msgstr "Pořadí archivů"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "Vzestupně (nejstarší první)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "Sestupně (nejnovější první)"
+
+#~ msgid "Magic quotes enabled"
+#~ msgstr "Magic quotes povoleny"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your server has a PHP option set that's called \"Magic quotes\" enabled. "
+#~ "This might cause Pivot to run sub-optimally.  Look on <a href=\"http://"
+#~ "www.pivotlog.net/docs/doku.php?id=servers_with_magic_quotes\">this page</"
+#~ "a> to remedy the situation."
+#~ msgstr ""
+#~ "Váš PHP server má povoleny 'Magic quotes'. To může způsobovat že Pivot "
+#~ "nepoběží optimálne. Podívejte se na <a href='http://www.pivotlog.net/docs/"
+#~ "doku.php?id=servers_with_magic_quotes'>tuto stránku</a> k objasnění "
+#~ "situace."
+
+#~ msgid "Pivot installer script present"
+#~ msgstr "Nalezen instalační skript Pivotu"
+
+#~ msgid "Register Globals enabled"
+#~ msgstr "Register Globals povoleny"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your server has a PHP option set that's called \"register globals\" "
+#~ "enabled. This is a potentially unsafe setting, and therefore you should "
+#~ "really try to get this fixed. To remedy this situation, look at the <a "
+#~ "href=\"http://www.pivotlog.net/docs/doku.php?"
+#~ "id=servers_with_register_globals\">Servers with register_globals</a> in "
+#~ "the Pivot documentation."
+#~ msgstr ""
+#~ "Váš PHP server má povoleny 'register globals'. To je potenciálně "
+#~ "nebezpečné nastavení, proto byste měli žádat nápravu. K objasnení situace "
+#~ "navštivte <a href='http://www.pivotlog.net/docs/doku.php?"
+#~ "id=servers_with_register_globals'>tuto stránku</a>."
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "Uchovávej logy různých aktivit"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "označení pro 'žádný komentář'Žádný komentář"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "označení pro 'jeden komentář'Jeden komentář"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "označení pro 'X komentářů'Komentářů: "
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Text, který bude indikovat počet komentářů k záznamu. Pokud necháte "
+#~ "volné, Pivot použije nastavení podle jazyka."
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "Označení pro 'žádné trackbacky'"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "Označení pro 'jeden trackback'"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "Označení pro 'X trackbacků'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many trackbacks there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Text, který je použit k oznámení kolik je zde trackbacků. Pokud tato pole "
+#~ "nevyplníte, použíje Pivot předovlené nastavení pro daný jazyk."
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "Jeden komentář"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "Komentářů: %num%"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "Trackbacky"
+
+#, fuzzy
+#~ msgid "%num% trackbacks."
+#~ msgstr "Trackbacky"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "Nemáte oprávnění ke vstupu do této oblasti Pivotu"
+
+#~ msgid "Further Options"
+#~ msgstr "Další nastavení"
+
+#~ msgid "Basic View"
+#~ msgstr "Základní pohled"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "Prohlížení nejobvyklejších polí"
+
+#~ msgid "Extended View"
+#~ msgstr "Rozšířený pohled"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "Prohlížení všech editovatelných polí"
+
+#~ msgid "Toggle between basic and extended view"
+#~ msgstr "Přepnout mezi základním a rozšířeným pohledem"
+
+#~ msgid "Approve"
+#~ msgstr "Potvrdit"
+
+#~ msgid "Done!"
+#~ msgstr "Hotovo!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Zkratky"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "Není vám dovoleno mazat záznam %title%!"
+
+#~ msgid ""
+#~ "You can not delete the last entry. You must first post a new entry, "
+#~ "before deleting this entry"
+#~ msgstr "Nemůžete smazat poslední záznam. Nejdříve přidejte nový záznam."
+
+#~ msgid "Week"
+#~ msgstr "Týden"
+
+#~ msgid "Remember"
+#~ msgstr "Zapamatovat"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "Pokud jste si jist, že používáte správné jméno a heslo, <br />ale stále "
+#~ "máte problémy s přihlášením, zkuste smazat cookies domény weblogu."
+
+#~ msgid "Delete cookies"
+#~ msgstr "Smazat cookies"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "Desetkrát se vám nepodařilo přihlásit. IP adresa, ze které byly tyto "
+#~ "pokusy vedeny, bude 12 hod. zablokována."
+
+#~ msgid "Overview"
+#~ msgstr "Přehled"
+
+#~ msgid "Modify Entries"
+#~ msgstr "Změnit záznamy"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Bookmarklety"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistiky"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "Globální přehled Pivotu"
+
+#~ msgid "Modify Entry"
+#~ msgstr "Změna záznamu"
+
+#~ msgid "View my personal Info"
+#~ msgstr "Prohlížení osobních informací"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Vytvoření bookmarkletu"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "Soubor byl uploadován"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "Prohlížení logů a statistik"
+
+#~ msgid "Recent Entries"
+#~ msgstr "Poslední záznamy"
+
+#~ msgid "Recent Comments"
+#~ msgstr "Poslední komentáře"
+
+#~ msgid ""
+#~ "Immediately approve comments by these Registered Visitors in the future."
+#~ msgstr ""
+#~ "Okamžitě potvrzovat v budoucnu komentáře těchto registrovaných uživatelů."
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "Sestavit všechny soubory"
+
+#~ msgid "Verify the Database"
+#~ msgstr "Zkontroluj databázi"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "Sestavit úvodní stránku(y)"
+
+#~ msgid "User Information Fields"
+#~ msgstr "Informace o uživateli"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "Vytvoření, editace a mazání informací o uživateli"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Sestavení souborů a archivů generovaných Pivotem"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "Kontrola integrity databáze"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr ""
+#~ "Sestavení úvodní stránky, posledního archivu a RSS pro všechny weblogy."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "Vytvoření zálohy vašich záznamů"
+
+#~ msgid "The Global Phrases could not be stored. Please try again later!"
+#~ msgstr ""
+#~ "Seznam globálních frází nemůže být uložen, prosím zkuste to později znovu."
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Posílání pingů pro obnovení stopování."
+
+#~ msgid "Open Debug window"
+#~ msgstr "Otevřít debugovací okno"
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "Vytvoření šablony Pivotu od začátku"
+
+#~ msgid "Comment*"
+#~ msgstr "Komentář*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr ""
+#~ "(*Pozn.: Komentáře mohou být uloženy pouze při <b>prvním</b> uložení změn "
+#~ "nebo při vytvoření)"
+
+#~ msgid "Editing"
+#~ msgstr "Editace"
+
+#~ msgid "Save changes!"
+#~ msgstr "Uložit změny!"
+
+#~ msgid "Auxillary template"
+#~ msgstr "Pomocná šablona"
+
+#~ msgid "Subtemplate"
+#~ msgstr "Podřazená šablona"
+
+#~ msgid "Normal template"
+#~ msgstr "Normální šablona"
+
+#~ msgid "CSS file"
+#~ msgstr "CSS soubor"
+
+#~ msgid "PHP file"
+#~ msgstr "PHP soubor"
+
+#~ msgid "Generate Archive"
+#~ msgstr "Generování archivu"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "Regenerace všech vašich archivů"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "Kontrola XML souborů"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "Kontrola (a pokud je to nutné i oprava) integrity XML souborů"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Vytvoření zálohy všech důležitých souborů Pivotu"
+
+#~ msgid "HashCash Options"
+#~ msgstr "Nastavení HashCash"
+
+#~ msgid "SpamQuiz Options"
+#~ msgstr "Nastavení SpamQuiz"
+
+#~ msgid "Age Limit"
+#~ msgstr "Limit stáří"
+
+#~ msgid ""
+#~ "Enable SpamQuiz only for entries older than this many days. Normally "
+#~ "automated commentspam is only sent to old entries and hence it might not "
+#~ "be necessary to burden your regular users (who comment within, e.g., a "
+#~ "week)."
+#~ msgstr ""
+#~ "Povolit SpamQuiz pouze pro záznamy starší tento počet dní. Běžně se "
+#~ "komentářový spam objevuje jen u starších příspěvků. Není tedy potřeba "
+#~ "obtěžovat běžné uživatele, kteří odpovídají například během týdne po "
+#~ "zveřejnení."
+
+#~ msgid "Hardened Trackback Options"
+#~ msgstr "Zocelená ochrana trackbacků"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 odkazů"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 odkazů"
+
+#~ msgid "all referrers"
+#~ msgstr "všechny odkazy"
+
+#~ msgid "only non-blocked lines"
+#~ msgstr "Pouze neblokované řádky"
+
+#~ msgid "both blocked and non-blocked lines"
+#~ msgstr "oboje, jak blokované tak neblokované řádky"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Aktualizace mapování odkazů na titulky"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "Hostitelské adresy (IP)"
+
+#~ msgid "Which page"
+#~ msgstr "Jaká stránka"
+
+#~ msgid "Getting new titles"
+#~ msgstr "Získej nové titulky"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "Může to chvíli trvat, nepřerušujte tento proces."
+
+#~ msgid "First pass"
+#~ msgstr "První průchod"
+
+#~ msgid "Second pass"
+#~ msgstr "Druhý průchod"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "Vaše mapování odkaz-titulek je aktualizováno."
+
+#~ msgid "Finished"
+#~ msgstr "Ukončeno"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "Editovat položky uživatele"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr "Editace položek pro popis uživatelů"
+
+#~ msgid "Edit User Info"
+#~ msgstr "Editovat informace o uživateli"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "Vytvoření nového účtu v Pivotu, umožňujícího přispívat do weblogu."
+
+#~ msgid "Create"
+#~ msgstr "Vytvořit"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "Potvrďte vytvoření aministrátora"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "Uživatel Administrátor má plný přistup k Pivotu, může editovat všechny "
+#~ "nové položky, komentáře a měnit nastavení. Jste si jist, že chcete aby %s "
+#~ "byl Administrátor?"
+
+#~ msgid "Use encoding"
+#~ msgstr "Použij kódování"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "Definuje použité kódování (jako utf-8 nebo iso-8859-1). Pokud si nejste "
+#~ "jisti k čemu volba je, ponechte toto pole prázdné. V tom případě se "
+#~ "použije kódování podle zvoleného jazyka."
+
+#~ msgid "File Info"
+#~ msgstr "Soubor informací"
+
+#~ msgid "Local Path"
+#~ msgstr "Místní cesta"
+
+#~ msgid "Debug Options"
+#~ msgstr "Možnost debugovat"
+
+#~ msgid "File Upload settings"
+#~ msgstr "Nastavení pro upload"
+
+#~ msgid "Clean Filename"
+#~ msgstr "Vyčistit jméno souboru"
+
+#~ msgid "Use Basic View"
+#~ msgstr "Použij základní pohled"
+
+#~ msgid ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+#~ msgstr ""
+#~ "Určuje zda se 'Nový záznam' otevře v základním nebo rozšířeném pohledu."
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Předvolený způsob zpracování textu"
+
+#~ msgid "Text Processing"
+#~ msgstr "Zpracování textu"
+
+#~ msgid "None"
+#~ msgstr "Nic"
+
+#~ msgid ""
+#~ "You can delete this user if you would like. All of their posts will "
+#~ "remain, but they will no longer be able to login"
+#~ msgstr ""
+#~ "Pokud chete můžete tohoto uživatele smazat. Všechny jeho příspěvky "
+#~ "zůstanou, pouze se uživatel nadále nebude moci přihlásit"
+
+#~ msgid "Trackback Setup"
+#~ msgstr "Nastavení stopování"
+
+#~ msgid ""
+#~ "If set, an email will be sent to this address when a Tracback is added."
+#~ msgstr "Na tuto adresu bude odeslána zpráva pokud je přidáno stopování."
+
+#~ msgid "Open links in new window"
+#~ msgstr "Otevírat linky v nových oknech"
+
+#~ msgid "Use emoticons"
+#~ msgstr "Používat emotikony"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "Kódovat emailové adresy?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr ""
+#~ "Určuje, zda všechny linky v záznamech budou otevírat nové okno prohlížeče."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "Automaticky aktualizovat prohledávací index"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "Určuje, zda prohledávací index bude aktualizován pokaždé, když vložíte "
+#~ "nový záznam nebo změníte existující."
+
+#~ msgid ""
+#~ "The number of seconds rebuilding takes, before Pivot refreshes the page. "
+#~ "The default is 28, but if you are having problems with rebuilding, try "
+#~ "lowering this number to 10."
+#~ msgstr ""
+#~ "Počet sekund, které trvá sestavení, než Pivot obnoví stránku. Nastaveno "
+#~ "je 28, pokud ale máte problém se sestavováním, zkuste hodnotu snížit na "
+#~ "10."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Předvolený úvod/tělo"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "Určuje předvolený obsah úvodu a těla záznamu. Normálně je to prázdný "
+#~ "odstavec."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Externí ořezávací skript"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "Pokud váš server nemá potřebné knihovny pro ořezávání obrázků, můžete "
+#~ "použít externí skript."
+
+#~ msgid "Extensions directory"
+#~ msgstr "Adresář pro rozšíření"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "Adresář pro 'rozšíření' je místo kde se budou ukládat vaše přídavky k "
+#~ "Pivotu.\t        Zavedení tohoto adresáře výrazně zjednoduší přechod na "
+#~ "nové verze. Více informací v dokumentaci."
+
+#~ msgid "Extensions directory path"
+#~ msgstr "Cesta k adresáři s rozšířeními"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "Editovat blog"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "Přidat nový weblog"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "Smazat weblog"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "Pro každý založený subweblog můžete nastavit použitou šablonu stejně jako "
+#~ "kategorii, ve které má být publikován"
+
+#~ msgid "Finish"
+#~ msgstr "Dokončit"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "Vytvoření / editace weblogu, krok 1 z 3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "Vytvoření / editace weblogu, krok 2 z 3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "Vytvoření / editace weblogu, krok 3 z 3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "Úvodní stránka (Index)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "Jméno index souboru. Obvykle je to něco jako 'index.html' nebo 'index."
+#~ "php'."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "Pokud váš webolog používá SSI (což není doporučeno), použijte nastavení "
+#~ "prefixu jmen souborů Pivotu pro SSI. Např. 'index.shtml?p='. Pokud nevíte "
+#~ "k čemu nastavení je, nechte ho prázdné."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "Cesta k úvodní stránce"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr ""
+#~ "Relativní nebo absolutní cesta, kde Pivot vytvoří úvodní stránku weblogu."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "Relativní nebo absolutní cesta, kde Pivot vytvoří záznam stránky, pokud "
+#~ "nepoužijete  'živé vstupy'."
+
+#~ msgid "Live entries"
+#~ msgstr "Živé vstupy"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "Pokud používáte 'živé vstupy', Pivot nebude vytvářet soubory pro "
+#~ "jednotlivé záznamy. Preferované nastavení."
+
+#~ msgid "Index File"
+#~ msgstr "Soubor indexu"
+
+#~ msgid "Archive Path"
+#~ msgstr "Cesta k archivům"
+
+#~ msgid "Archive Amount"
+#~ msgstr "Počet archivů"
+
+#~ msgid "Archive Format"
+#~ msgstr "Formát archivu"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Šablona zkráceného záznamu"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr "Šablona určující vzhled zkráceného záznamu pro weblog a archiv."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "Povolit komentáře?"
+
+#~ msgid ""
+#~ "Determines whether users will be able to leave comments on the entries in "
+#~ "this subweblog."
+#~ msgstr ""
+#~ "Určuje, zda uživatelé budou mít možnost připojovat komentáře k záznamům "
+#~ "subweblogu"
+
+#~ msgid "RSS Filename"
+#~ msgstr "Soubor pro RSS"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Soubor pro Atom"
+
+#~ msgid "Feed Path"
+#~ msgstr "Cesta k RSS kanálu"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr ""
+#~ "Relativní nebo absolutní cesta k adresáři, kde Pivot vytvoří soubor pro "
+#~ "RSS kanál."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Nastavení posledních odkazů"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Tato nastavení určují vzhled seznamu 'Posledních odkazů' na úvodní "
+#~ "stránce weblogu."
+
+#~ msgid "Use graphics"
+#~ msgstr "Používat grafiku"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr ""
+#~ "Určuje, zda poslední odkazy budou zvýrazněny malou ikonkou podle "
+#~ "vyhledávačů, přes které návštěvníci přicházeji."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "Přesměrovávat odkazy"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "Pro účinnější boj se spamem můžete odkazy přesměrovávat. To ztíží "
+#~ "spamerům zvyšování ohodnocení v Googlu."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Používat emotikony"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ "Určuje, zda emotikony jako :-) budou přetransformovány na grafické "
+#~ "ekvivalenty."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "Kódovat emailové adresy"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "Určuje, zda emailové adresy budou kódovány pomocí javascriptu, aby byly "
+#~ "chráněny před spamem."
+
+#~ msgid "Target Blank"
+#~ msgstr "Otevřít v novém okně"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML kódování"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "Pokud zvolíte 'Ano', všechny odkazy vložené do záznamů se budou otvírat v "
+#~ "novém okně prohlížeče. Pokud zvolíte 'XHTML kódování', budou mít odkazy "
+#~ "příznak rel=\"external\", což neporuší správný XHTML kód."
+
+#~ msgid "Date display settings"
+#~ msgstr "Nastavení zobrazení datumu"
+
+#~ msgid "Format of Comments"
+#~ msgstr "Formát komentářů"
+
+#~ msgid "URL to the default Gravatar image. Start with http://"
+#~ msgstr "URL k předvolenému obrázku Gavataru, začínající http://"
+
+#~ msgid "Gravatar HTML"
+#~ msgstr "Gavatar HTML"
+
+#~ msgid ""
+#~ "HTML to insert for a gravatar. %img% will be substituted by the url to "
+#~ "the image."
+#~ msgstr "HTML pro voložení Gavataru. %img% bude nahrazeno za url obrázku."
+
+#~ msgid "Gravatar size"
+#~ msgstr "Velikost Gavataru"
+
+#~ msgid "Size (in pixels) of the gravatar. The default is 48."
+#~ msgstr "Velikost Gavateru v bode. Přednastaveno na 48."
+
+#~ msgid ""
+#~ "After a trackback has been placed, mail can be sent to maintainers of "
+#~ "this weblog."
+#~ msgstr ""
+#~ "Poté co byl u vás umístěn trackback může být správci weblogu poslán email."
+
+#~ msgid "Trackbacks Popup?"
+#~ msgstr "Vyskakovací okna trackbacků?"
+
+#~ msgid ""
+#~ "determines whether the trackbacks page (or 'single entry') will be shown "
+#~ "in a popup window, or in the original browser window."
+#~ msgstr ""
+#~ "Určuje, zda bude stránka s trackbacky otevřena v novém okně nebo v "
+#~ "původním okně prohlížeče."
+
+#~ msgid "Specify the width and height (in pixels) of the trackbacks pop-up."
+#~ msgstr "Zadejte šířku a výšku (v bodech) vyskakovacího okna trackbacků."
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Nastavení služby Blogroll"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "Zde můžete nastavit <a href=\"http://www.blogrolling.com\" target=\"_blank"
+#~ "\">blogrolling.com</a> jako službu blogroll. Je to výborná služba pro "
+#~ "správu odkazů, která ukazuje, kdy byly naposled aktualizovány. Pokud tuto "
+#~ "službu nepoužíváte, jednoduše nastavení přeskočte. Po přihlášení na "
+#~ "blogrolling.com zvolte 'get code', kde najdete odkaz, obsahující vaše ID. "
+#~ "Vypadá nějak takto: 2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "Barva pozadí"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Barva řádku 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Barva řádku 2"
+
+#~ msgid "Color 1"
+#~ msgstr "Barva 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Barva 2"
+
+#~ msgid "Color 3"
+#~ msgstr "Barva 3"
+
+#~ msgid "Color 4"
+#~ msgstr "Barva 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "Tyto barvy určují, jak bude vypadat váš blogroll. Barvy 1 až 4 indikují "
+#~ "aktuálnost odkazu."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "Kompletní seznam"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "Náhled"
+
+#~ msgid "Files"
+#~ msgstr "Soubory"
+
+#~ msgid "Width x Height"
+#~ msgstr "Šířka x Výška"
+
+#~ msgid "Delete Image"
+#~ msgstr "Smazat obrázek"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "Jste si jisti, že chcete smazat soubor %s?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "Smazat teto obrázek?"
+
+#~ msgid "create"
+#~ msgstr "vytvořit"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "Vložte text do políčka níže. Návštěvníci vašich stránek uvidí tento text "
+#~ "při přejetí myší přes odkaz."
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "Zvolte, kdo může přispívat do kategorie '%s'"
+
+#~ msgid "Allowed"
+#~ msgstr "Povoleno"
+
+#~ msgid "Allow"
+#~ msgstr "Povolit"
+
+#~ msgid "Denied"
+#~ msgstr "Zakázáno"
+
+#~ msgid "Deny"
+#~ msgstr "Zakázat"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "V této verzi Pivotu budou smazány pouze jména kategorií. V příštích "
+#~ "verzích bude možné vybrat, co se má provést se záznamy, které do této "
+#~ "kategorie patří."
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr ""
+#~ "Nastavte na 'Ne' pouze pokud chcete, aby návštěvníci nemohli prohledávat "
+#~ "tuto kategorii."
+
+#~ msgid "Index Category"
+#~ msgstr "Prohledat kategorii"
+
+#~ msgid "Public Category"
+#~ msgstr "Veřejná kategorie"
+
+#~ msgid ""
+#~ "If set to 'No', this category will only be viewable for registered "
+#~ "visitors. (applies only to live pages)"
+#~ msgstr ""
+#~ "Pokud nastavíte 'Ne', bude tato kategorie viditelná pouze registrovaným "
+#~ "návštěvníkům. (aplikovatelné pouze na aktuální stránky)"
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Ctrl-klik pro výběr více kategorií)"
+
+#~ msgid "# Track"
+#~ msgstr "# Track"
+
+#~ msgid "Delete Entry"
+#~ msgstr "Smazat záznam"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "Smaže tento záznam a příslušné komentáře."
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr "Jste si jisti, že chcete tyto záznamy smazat?"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Konvertovat konce řádek"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(Vždy vypnuto, pokud používáte WYSIWYG mód)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(Používejte opatrně!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "Editovat komentáře"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "Editace komentářů k tomuto záznamu"
+
+#~ msgid "Edit Comment"
+#~ msgstr "Editovat komentář"
+
+#~ msgid "Report Comment"
+#~ msgstr "Oznámit komentář"
+
+#~ msgid "Edit the trackbacks that have been posted to this entry"
+#~ msgstr "Editace trackbacku, který byl přidán k tomuto záznamu"
+
+#~ msgid "Report Trackback"
+#~ msgstr "Oznámi trackback"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "Blokovat IP v rozsahu %s"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "Odblokovat IP %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "Odblokovat IP v rozsahu %s"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "Posílat stopovací pingu na následující URL. Posílat na více URL lze "
+#~ "vložením jedné URL na jednu řádku."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "Použijte pro označení záznamu klíčovým slovem, nebo pro vytvoření "
+#~ "jedinečného URL záznamu."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "Použijte k vytvoření odkazu na zdroj tohoto záznamu."
+
+#~ msgid ""
+#~ "You are writing this entry in %s, while at least one of your weblogs uses "
+#~ "another encoding. To prevent problems with this, you should ensure that "
+#~ "all users and weblogs use the same encoding."
+#~ msgstr ""
+#~ "Píšete tento záznam v %s, zatímco aspoň jeden váš weblog používá jiné "
+#~ "kódování. K odstranění tohoto problému se ujistěte, že všichni uživatelé "
+#~ "a weblogy používají stejné kódování."
+
+#~ msgid "Publish and generate"
+#~ msgstr "Publikovat a generovat"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "S vybranými soubory proveď:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "S vybranými šablonami proveď:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "nemohu otevřít adresář, zkontrolujte práva."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "nemohu číst adresář, zkontrolujte práva."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "nemohu zapisovat do adresáře, zkontrolujte práva."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "nemohu otevřít soubor, zkontrolujte práva."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "nemohu číst soubor, zkontrolujte práva."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "nemohu zapisovat do souboru, zkontrolujte práva."
+
+#~ msgid "Registration required"
+#~ msgstr "Vyžadována registrace"
+
+#~ msgid "Entry Does not Exist!"
+#~ msgstr "Záznam neexistuje!"
+
+#~ msgid "That entry either doesn't exist, or it isn't published yet."
+#~ msgstr "Tento záznam neexistuje nebo není publikován."
+
+#~ msgid "This entry has no trackbacks."
+#~ msgstr "Tento záznam nemá žádný trackback."
+
+#~ msgid "Good"
+#~ msgstr "Dobrý"
+
+#~ msgid "Bad"
+#~ msgstr "Špatný"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "Už jste pro tento záznam hlasoval/a"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "Váš hlas pro '%val%' byl zaznamenán"
+
+#~ msgid "Delete with one click."
+#~ msgstr "Smazat jedním kliknutím"
+
+#~ msgid "Report and delete with one click."
+#~ msgstr "Oznámit a smazat jedním kliknutím"
+
+#~ msgid "Moderated"
+#~ msgstr "Moderováno"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Poslední odkazy"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalendář"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Otevřít seznam emotikonů"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Otevřít nápovědu Textile"
+
+#~ msgid "Register your username / Log in"
+#~ msgstr "Registrace/Přihlášení pod vaším jménem"
+
+#~ msgid "This comment is not yet moderated."
+#~ msgstr "Tento komentář ještě nebyl moderován."
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Editovat uživatelská pole"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "Vnitřní jméno je jméno položky, které bude zobrazeno, pokud požádáte "
+#~ "Pivot o zobrazení šablony."
+
+#~ msgid "Size"
+#~ msgstr "Velikost"
+
+#~ msgid "Rows"
+#~ msgstr "Řádky"
+
+#~ msgid "Columns"
+#~ msgstr "Sloupce"
+
+#~ msgid "Maximum Length"
+#~ msgstr "Maximální délka"
+
+#~ msgid "Filter by"
+#~ msgstr "Filtrovat podle"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "Filtrováním podle této položky můžete omezit vstup, který v něm může být."
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "Smazání políčka (<b>%s</b>) uživatelského záznamu smaže také všechny "
+#~ "záznamy, které v něm uživatel uložil, a místo něj bude v šablonách prázné "
+#~ "místo."
+
+#~ msgid "This name is already in use"
+#~ msgstr "Toto jméno je již používáno"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "Vnitřní jméno musí být delší než 3 znaky"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "Zobrazené jméno musí být delší než 3 znaky"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "Bookmarklet otevře nové okno se záznamem, který bude obsahovat odkaz na "
+#~ "stránku, ze které byl otevřen."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "Bookmarklet otevře okno s prázdným záznamem."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "Bookmarklety můžete použít k rychlému vkládání nových záznamů do Pivotu. "
+#~ "Pro vložení bookmarkletu do vašeho prohlížeče postupujte následovně "
+#~ "(postup se může mírně lišit podle použitého prohlížeče)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Klikněte a přetáhněte bookmarklet do vaší lišty s odkazy nebo na tlačítko "
+#~ "'Bookmarks' (Záložky)."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr ""
+#~ "Pravým myšítkem klikněte na bookmarklet a vyberte 'Add to "
+#~ "Bookmarks' (Přidat do záložek)."
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr ""
+#~ "Tato tabulka reprezentuje záznmy kalendáře pro weblog s odkazy na záznamy "
+#~ "příslušící k datům."
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr "Kalendář slouží k přístupu k záznamům weblogu."
+
+#~ msgid "en"
+#~ msgstr "cs"
+
+#~ msgid "Your trackback has been stored."
+#~ msgstr "Váš trackback byl uložen."
+
+#~ msgid "Tracked"
+#~ msgstr "Stopován"

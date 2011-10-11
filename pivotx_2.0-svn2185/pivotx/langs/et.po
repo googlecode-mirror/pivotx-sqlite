@@ -1,0 +1,5474 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr "About"
+
+msgid "Last Comments"
+msgstr "Viimased kommentaarid "
+
+msgid "Stuff"
+msgstr "Stuff"
+
+msgid "Archives"
+msgstr "Arhiivid"
+
+msgid "Categories"
+msgstr "Kategooriad"
+
+msgid "Links"
+msgstr "Lingid"
+
+#, fuzzy
+msgid "Search"
+msgstr "Otsi!"
+
+msgid "Linkdump"
+msgstr "Linkdump"
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "URL"
+msgstr "Aadress"
+
+msgid "Post Comment"
+msgstr "Saada kommentaar "
+
+msgid "Preview Comment"
+msgstr "Kommentaari eelvaade "
+
+msgid "Remember personal info?"
+msgstr "Jäta info meelde?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "Seaded"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "Seaded"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "Piir"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Viimased kommentaarid "
+
+#, fuzzy
+msgid "Pages"
+msgstr "image"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Kommentaar"
+
+msgid "Notify"
+msgstr ""
+
+msgid "Yes, send me email when someone replies."
+msgstr "Yes, send me email when someone replies."
+
+msgid "Hide email"
+msgstr ""
+
+msgid "Yes, hide my email address."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Small print:</b> All html tags except &lt;b&gt; and &lt;i&gt; will be "
+"removed from your comment. You can make links by just typing the url or mail-"
+"address."
+
+msgid "Insert an Image"
+msgstr "Siseta pilt"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"Pildi sisestamiseks tuleb pilt enne üles laadida või valida üleslaetud pilt."
+
+msgid "Upload"
+msgstr "Üleslaadimine"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "Lae uus fail:"
+
+msgid "Image name"
+msgstr "Pildi nimi"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "Vali pilt"
+
+msgid "Select"
+msgstr "Vali"
+
+msgid "Alternate text"
+msgstr "Alt tekst"
+
+msgid "Align"
+msgstr "Joondu"
+
+msgid "Center (default)"
+msgstr "Keskel (vaikimisi)"
+
+msgid "Left"
+msgstr "Vasakul"
+
+msgid "Right"
+msgstr "Paremal"
+
+msgid "Inline"
+msgstr "Teksti sees"
+
+msgid "Border"
+msgstr "Piir"
+
+msgid "pixels"
+msgstr "pikselid"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "Siseta pilt"
+
+msgid "Cancel"
+msgstr "Katkesta"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "Piir"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "Avalda"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "Kood"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "Haldus"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "Kommentaariseaded"
+
+msgid "IP-address"
+msgstr "IP-aadress"
+
+msgid "Date"
+msgstr "Kuupäev"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "Kustuta kommentaar"
+
+msgid "Delete"
+msgstr "Kustuta"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "Vali kõik"
+
+#, fuzzy
+msgid "Check none"
+msgstr "Vali kõik"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "Kommentaare pole "
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "Kustuta kommentaar"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Viimatised postitused"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "Siin pole kommentaare."
+
+msgid "No comments"
+msgstr "Kommentaare pole "
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Viimatised postitused"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Ajaveebi nimi"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Siin pole kommentaare."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+msgid "Title"
+msgstr "Pealkiri"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "muuda"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "alapealkiri"
+
+#, fuzzy
+msgid "Template"
+msgstr "Vorm"
+
+msgid "Introduction"
+msgstr "Tutvustus"
+
+msgid "Body"
+msgstr "Sisu"
+
+msgid "Keywords"
+msgstr "Keywords"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "image"
+
+#, fuzzy
+msgid "Preview"
+msgstr "Postituse eelvaade "
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "Kategooria"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Postituse staatus"
+
+#, fuzzy
+msgid "Publish"
+msgstr "Avalda"
+
+msgid "Publish on"
+msgstr "Avalda"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "Luba kommentaare"
+
+msgid "Yes"
+msgstr "Jah"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "Created on"
+msgstr "Loodud"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "Viimati muudetud"
+
+msgid "Author"
+msgstr "Autor"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "Arhiiviseaded"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "Vorm"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Ajaveebid"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "Kommentaar"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "Siseta pilt"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "Siseta pilt"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "Via link"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "Via title"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Trackback ping"
+
+msgid "Post Entry"
+msgstr "Sisesta postitus "
+
+#, fuzzy
+msgid "View Comments"
+msgstr "Kommentaari eelvaade "
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+msgid "Category"
+msgstr "Kategooria"
+
+#, fuzzy
+msgid "(none)"
+msgstr "üks"
+
+msgid "Insert a Download"
+msgstr "Insert a Download"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or a text or a thumbnail "
+"that triggers the download."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "Lae uus fail:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "Failinimi"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "Use icon"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "Kasuta teksti"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "Via title"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "Insert a Download"
+
+msgid "My Info"
+msgstr "Minu info"
+
+#, fuzzy
+msgid "Logout"
+msgstr "Log out."
+
+msgid "Dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "Back to dashboard"
+msgstr "Back to login"
+
+#, fuzzy
+msgid "View weblog"
+msgstr "Uus ajaveeb"
+
+#, fuzzy
+msgid "view"
+msgstr "Postituse eelvaade "
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "Vaikimisi laiend"
+
+msgid "Maintenance"
+msgstr "Haldus"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "Uus ajaveeb"
+
+#, fuzzy
+msgid "sec."
+msgstr "sekund"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Failinimi"
+
+msgid "Description"
+msgstr "Kirjeldus"
+
+msgid "Filesize"
+msgstr "Faili suurus"
+
+#, fuzzy
+msgid "Image"
+msgstr "image"
+
+msgid "Thumbnail"
+msgstr "Väikepilt"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "Are you sure you want to delete this entry?"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Kuupäev"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "Loo uus kasutaja"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "Loo uus kasutaja"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "Lae üles faile"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "Üleslaadimine"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "Muuda seadete faili"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "Smailid"
+
+msgid "You should first select or upload an image"
+msgstr "Vali kõigepealt või lae pilt üles"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"Et sisestada pildi hüpikakent, peab olema pilt üles laetud või tuleb valida "
+"juba üleslaetud pilt. Seejärel vali tekst või väikepilt, mis hüpikakna "
+"tekitab."
+
+msgid "For popup"
+msgstr "Hüpikaknale"
+
+msgid "Use Thumbnail"
+msgstr "Kasuta väikepilti"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "Muuda väikepilti"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "Sisesta pildi hüpikaken"
+
+msgid "Create New User"
+msgstr "Loo uus kasutaja"
+
+msgid "Username"
+msgstr "Kasutaja"
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Userlevel"
+msgstr "Kasutaja tase"
+
+msgid "Last Login"
+msgstr "Last Login"
+
+msgid "Edit User"
+msgstr "Muuda kasutajat"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr ""
+"You're about to remove access for %s. Are you sure you want to do this?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Smailid"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "Register a new username."
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "Sa hakkad kustutama ajaveebi %1. Oled kindel?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "Siseta pilt"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "Siseta pilt"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "Insert a Download"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "Siseta pilt"
+
+msgid "The default category is:"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr "This user is allowed to post entries in the selected categories"
+
+msgid "Create New Category"
+msgstr "Loo uus kategooria"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "Kasutajad"
+
+msgid "Hidden Category"
+msgstr ""
+
+msgid "Sorting Order"
+msgstr "Sorting Order"
+
+#, fuzzy
+msgid "users"
+msgstr "Kasutajad"
+
+msgid "Edit Category"
+msgstr "Muuda kategooriat"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Vali 'jah', kui soovid kustutada seda kategooriat"
+
+msgid "New Weblog"
+msgstr "Uus ajaveeb"
+
+msgid "Weblog Name"
+msgstr "Ajaveebi nimi"
+
+#, fuzzy
+msgid "categories"
+msgstr "Kategooriad"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "Sa hakkad kustutama ajaveebi %1. Oled kindel?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Muuda postitust"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "Uus postitus"
+
+#, fuzzy
+msgid "New Page"
+msgstr "image"
+
+msgid "Configuration"
+msgstr "Seaded"
+
+msgid "Manage Media"
+msgstr "Majanda meediaga"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Viimatised postitused"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Are you sure you want to delete this entry?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "Uus postitus"
+
+#, fuzzy
+msgid "delete"
+msgstr "Kustuta"
+
+msgid "The latest pages"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Piv » Uus"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Viimatised postitused"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Näita viimaseid "
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Viimatised postitused"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Postitused"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Näita viimaseid "
+
+msgid "filter on (%name%)"
+msgstr "fitreeri (%name%)"
+
+msgid "first"
+msgstr "esimene"
+
+msgid "previous"
+msgstr "eelmine"
+
+msgid "next"
+msgstr "järgmine"
+
+msgid "last"
+msgstr "viimane"
+
+msgid "jump to page (%num%)"
+msgstr "mine leheküljele (%num%)"
+
+msgid "filter off"
+msgstr "filter väljas"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "Staatus"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Vali kõik"
+
+msgid "Uncheck All"
+msgstr "Ära vali ühtegi"
+
+msgid "With the checked entries, do:"
+msgstr "Valitud sisestustega tee:"
+
+msgid "- select an option -"
+msgstr "- Vali tegevus -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "Muuda staatus 'avalda'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "Muuda staatus 'säilita'"
+
+msgid "Delete them"
+msgstr "Kustuta need"
+
+msgid "Go!"
+msgstr "Minek!"
+
+#, fuzzy
+msgid "Published"
+msgstr "Avalda"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Pealkiri"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "Kustuta kommentaar"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Valmis! Ehitamine võttis %num% sekundit"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "Loodud"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "Ei midagi"
+
+#, fuzzy
+msgid "for"
+msgstr "neli"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "Last Login"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "Kommentaariseaded"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "Postituste teerada (path)"
+
+msgid "Overview of Entries"
+msgstr "Postituste üldvaade"
+
+msgid "Manage and Upload Media"
+msgstr "Majanda meediat või lae seda üles"
+
+msgid "Administration"
+msgstr "Administratsioon"
+
+msgid "Overview of Administrative functions"
+msgstr "Administreerimise üldvaade"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Vaikimisi laiend"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "Vaikimisi laiend"
+
+#, fuzzy
+msgid "Log in"
+msgstr "Login"
+
+msgid "Write and Publish a new Entry"
+msgstr "Uus sisestus"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "Postituste üldvaade"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "Uus sisestus"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "Kustuta kommentaar"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "Postituste üldvaade"
+
+msgid "Edit the Configuration file"
+msgstr "Muuda seadete faili"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "Seaded"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Muuda seadete faili"
+
+msgid "Create, edit and delete Users"
+msgstr "Loo, muuda ja kustuta kasutajaid"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Create, edit and delete the Categories"
+
+msgid "Weblogs"
+msgstr "Ajaveebid"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Loo, muuda ja kustuta ajaveebe"
+
+#, fuzzy
+msgid "Registered Visitors"
+msgstr "Register a new username."
+
+#, fuzzy
+msgid "View and edit Registered Visitors"
+msgstr "Log in as a registered visitor"
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "Varukoopia"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr ""
+"This will let you download a zip file containing your configuration files"
+
+#, fuzzy
+msgid "Widgets"
+msgstr "images"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Vaikimisi laiend"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "Seaded"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+msgid "Backup of Configuration Files"
+msgstr "Backup of configuration files"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr ""
+"This will let you download a zip file containing your configuration files"
+
+msgid "Create, edit and delete Templates"
+msgstr "Loo, muuda ja kustuta vorme"
+
+msgid "Explore Database Files"
+msgstr "Failivaatleja"
+
+msgid "View files (both text and database files)"
+msgstr "Vaata faile"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "Failivaatleja"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "Lae üles faile"
+
+msgid "Rebuild the Index"
+msgstr "Ehita indeks"
+
+msgid "Rebuild the index of your Database"
+msgstr "Ehita andmebaasi indeks"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "Ehita otsinguindeks"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "Ehita otsinguindeks"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Ehita indeks"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "Ehita otsinguindeks"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "Tere tulemast %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "esmaspäev"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "Keywords"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Lae uus fail:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Red"
+msgstr "K"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "Varukoopia"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "See pole kehtiv e-posti aadress"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "See pole kehtiv e-posti aadress"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Login"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "See pole kehtiv e-posti aadress"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"Kasutajanimedes võib olla ainult tähed ja numbrid (A-Z, 0-9) ja alakriips "
+"(_)."
+
+msgid "Password"
+msgstr "Parool"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+#, fuzzy
+msgid "Stay logged in?"
+msgstr "Logged in"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Forgotten your password?"
+
+msgid "Send password"
+msgstr "Send password"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Send password"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+"If you've forgotten your password, fill in your username and e-mail address, "
+"and Pivot will send your password to your email address. "
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "Loo vorm"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "Loo vorm"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "Backup of configuration files"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "Kommentaari eelvaade "
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Registered user"
+msgstr "Register a new username."
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "Kustuta kommentaar"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Sisestuskuupäev"
+
+msgid "Excerpt"
+msgstr ""
+
+#, fuzzy
+msgid "Continue"
+msgstr "üheksa"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "Parool veelkord"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "Paroolid ei ühildu"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "See pole kehtiv e-posti aadress"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "See pole kehtiv e-posti aadress"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "Kuupäev"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "Lae üles faile"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+#, fuzzy
+msgid "Your MySQL password"
+msgstr "Send password"
+
+#, fuzzy
+msgid "Database Name"
+msgstr "Kuupäev"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "Kasutaja"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "SSI prefiks"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Paroolid ei ühildu"
+
+msgid "That's not a valid email address"
+msgstr "See pole kehtiv e-posti aadress"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "See pole kehtiv e-posti aadress"
+
+msgid "Language"
+msgstr "Keel"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Teksti värv"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Märgib, milline on vaikimisi tekstitöötlusprgramm, kui ei kasutata WYSIWYG "
+"editori."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Muuda reavahed &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Markdown and Smartypants"
+msgstr ""
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "Viimati muudetud"
+
+msgid "Moblogger"
+msgstr "Moblogger"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Superadmin"
+msgstr "Superadmin"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "Kasutaja tase märgib, mida kasutaja saab Pivotis teha."
+
+msgid "Allowed Categories"
+msgstr "Allowed Categories"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr "This user is allowed to post entries in the selected categories"
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "Viimati muudetud"
+
+msgid "Create Category"
+msgstr "Loo kategooria"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Pane sellele kategooriale nimi"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "Vali kasutajad, kes tohivad sellesse kategooriasse postitada"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+
+#, fuzzy
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+"If set to 'No', this category will only be viewable for registered visitors. "
+"(applies only to live pages)"
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "Kategooria"
+
+#, fuzzy
+msgid "The name of this chapter"
+msgstr "Index this category"
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+#, fuzzy
+msgid "Theme"
+msgstr "Vorm"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "Postitusseaded"
+
+msgid "Payoff"
+msgstr "Alapealkiri"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr "Saad oma ajaveebile panna alapealkirja või lühikese kirjelduse"
+
+msgid "URL to Weblog"
+msgstr "Ajaveebi aadress"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Pivot püüab ise leida su ajaveebi aadressi, kui sa jätad selle välja tühjaks."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"The Language determines in what language the dates and numbers will be "
+"output, and also determines the page's charset encoding (like iso-8859-1 or "
+"koi8-r, for example)."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'Loe edasi' tekst"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"Tekst, mis märgib, et postitus on pikem, kui esilehel näha. Kui sa jätad "
+"selle tühjaks, näitab Pivot vaikimisi keeleseadetes märgitut"
+
+msgid "Frontpage Template"
+msgstr "Esilehevorm"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "See vorm kirjeldab esilehe väljanägemist."
+
+msgid "Archivepage Template"
+msgstr "Arhiivilehe vorm"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"See vorm kirjeldab arhiivilehe väljanägemist. Võib olla sama, mis esilehe "
+"vorm."
+
+msgid "Entrypage Template"
+msgstr "Üksikpostituse vorm"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "See vorm kirjeldab üksikpostituse väljanägemist."
+
+msgid "Extra Template"
+msgstr "Extra Template"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr ""
+"The Template that defines what your archive and search.php will look like."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Loo vorm"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr ""
+"The Template that defines what your archive and search.php will look like."
+
+msgid "Number of Entries"
+msgstr "Postituste arv"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "Postituste arv, mida esilehel näidatakse."
+
+msgid "Offset"
+msgstr "Offset"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"Kui Offset on number, siis nii palju postitusi jäetakse vahele esilehe "
+"loomisel."
+
+msgid "Publish these categories"
+msgstr "Publish these categories"
+
+msgid "RSS and Atom Configuration"
+msgstr "RSSi ja Atomi seaded"
+
+msgid "Generate Feeds"
+msgstr "Loo fiidid"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr "See märgib, kas Pivot loob automaatselt RSSi ja Atomi fiidid."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "Saidi aadress"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "Saidi aadress"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Create Full Feeds"
+
+#, fuzzy
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"Determines whether Pivot creates full Atom and RSS feeds. If set to 'no' "
+"Pivot will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+
+msgid "Feed Link"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"Seda teksti kasutatakse näitamaks, mitu kommentaari on. Kui sa jätad selle "
+"tühjaks, näitab Pivot seda nii, nagu on keeleseadetes kirjas"
+
+msgid "Feed Image"
+msgstr "Feed Image"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+
+msgid "Commenting Settings"
+msgstr "Kommentaariseaded"
+
+msgid "Send Mail?"
+msgstr "Saada e-kiri?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr ""
+"Kui kommentaar on kirjutatud, võib ajaveebi omanik saada selle kohta e-kirja."
+
+msgid "Mail to"
+msgstr "Kuhu kiri saata"
+
+#, fuzzy
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"Märgi e-posti aadress, kuhu kiri läheb. Kui paned mitu aadressi, erista nad "
+"komadega."
+
+msgid "Text to links"
+msgstr "Tekst linkideks"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr "Märgi, kas aadressid ja e-posti aadressid on klikitavad."
+
+msgid "Wrap comments after"
+msgstr "Paki kommentaarid kokku"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"Et pikad täheread ei läheks katki, saab teksti kokku pakkida, piirates seda "
+"kindla arvu tähtedeni."
+
+msgid "Comments Popup?"
+msgstr "Kommentaaride hüpikaken?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr "Märgib, kas kommentaare näeb hüpikaknas või samas lehitsejaaknas."
+
+msgid "Width of Popup"
+msgstr "Hüpikakna laius"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "Hüpikakna kõrgus"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "Märgi kommentaaride hüpikakna laius ja kõrgus pikselites."
+
+msgid "Height of Popup"
+msgstr "Hüpikakna kõrgus"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "Märgi kommentaaride hüpikakna laius ja kõrgus pikselites."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Luba Textile"
+
+msgid "Allow Textile"
+msgstr "Luba Textile"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"Kui sa paned selle seadesse 'Jah', saavad külastajad kasutada kommentaarides "
+"<a href=\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</"
+"a>."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "Smailid"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "Smailid"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"Kui sa paned selle seadesse 'Jah', saavad külastajad kasutada kommentaarides "
+"<a href=\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</"
+"a>."
+
+msgid "Site Name"
+msgstr "Saidi nimi"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "See pole kehtiv e-posti aadress"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Ajaveebid"
+
+#, fuzzy
+msgid "Page"
+msgstr "image"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "Saidi nimi"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- Vali tegevus -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+"This determines the formatting of the link that visitors can use to reply on "
+"a specific comment."
+
+msgid "Default language"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "Keel vaikimisi"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /entry/1234"
+msgstr ""
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Use Mod_rewrite"
+msgstr "Kasuta Filesmatchi"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"Kui sa kasutad Apache'i Filesmatchi, teeb Pivot urlid selliseks: www.mysite."
+"com/archive/2003/05/30/nice_weather, mitte aga selliseks: www.mysite.com/"
+"pivot/entry.php?id=134. Kõik serverid paraku ei toeta seda."
+
+#, fuzzy
+msgid "Allow comments by default"
+msgstr "Luba kommentaare"
+
+#, fuzzy
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "Märgib, kas kasutajad saavad postitusi kommenteerida."
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "Kustuta kommentaar"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "Salvesta seaded"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Näita viimaseid "
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "Postituste arv"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS Feed"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "Postituste arv"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "Kood"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "Maksimaalne failisuurus"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "Maksimaalne failisuurus"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Silumistase"
+
+msgid "Show random debug information, every here and there.."
+msgstr "Näita suvalist silumisinfot.."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "Logifailid"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "Unlink Files"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+
+msgid "Chmod Files To"
+msgstr "Chmod Files To"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are '0644' and '0755'. Do not change this, unless you know "
+"what you're doing."
+
+msgid "File Upload Path"
+msgstr "Kuhu fail laadida (path)"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Kirjuta üle"
+
+msgid "Increment Filename"
+msgstr "Ülimlik failinimi"
+
+msgid "Maximum Filesize"
+msgstr "Maksimaalne failisuurus"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Automaatsed väikepildid"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Väikepildi laius"
+
+msgid "Thumbnail height"
+msgstr "Väikepildi kõrgus"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Väikepildi laius"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Aktsepteeritud failitüübid"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Terve kuupäeva formaat"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr "See märgib, kuidas näidata tervet kuupäeva."
+
+msgid "Entry Date"
+msgstr "Sisestuskuupäev"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Erikuupäev"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'Erikuupäeva' kasutatakse koos sisestuskuupäevaga. Sisestuskuupäeva "
+"näidatakse iga postituse juures, erikuupäeva aga siis, kui kuupäev on "
+"eelmisest postitusest erinev."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "Aja tasakaalustusühik"
+
+msgid "Year"
+msgstr "aasta"
+
+msgid "Month"
+msgstr "kuu"
+
+msgid "Day"
+msgstr "päev"
+
+msgid "Hour"
+msgstr "tund"
+
+msgid "Minute"
+msgstr "minut"
+
+msgid "Time Offset"
+msgstr "Aja tasakaalustamine"
+
+#, fuzzy
+msgid "Activate"
+msgstr "Arhiivid"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "Minimaalne kasutajatase"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "See pole kehtiv e-posti aadress"
+
+#, fuzzy
+msgid "Default author"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "Keel vaikimisi"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "Vali pilt"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "Kustuta kategooria"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- Vali tegevus -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "Kustuta kategooria"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "Allowed Categories"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+msgid "Number of links"
+msgstr "Number of links"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "Muutmine"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "Pildi nimi"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "Vaikimisi laiend"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "Vaikimisi laiend"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "Vaikimisi laiend"
+
+#, fuzzy
+msgid "By"
+msgstr "Sisu"
+
+#, fuzzy
+msgid "version"
+msgstr "Muutmine"
+
+#, fuzzy
+msgid "last updated"
+msgstr "Viimati muudetud"
+
+#, fuzzy
+msgid "site link"
+msgstr "Sisesta link"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "Seaded"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "Siseta pilt"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "Siseta pilt"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Saada pinge"
+
+#, fuzzy
+msgid "Oops."
+msgstr "Oops"
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Pivot user login"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Pivot user login"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Pivot user login"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "Sul pole õigust %title% 'ga seda teha!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "Kommentaar kustutati."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "Su fail on üles laetud '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "Kommentaar kustutati."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "See ajaveeb on loodud."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Loo väikepilt)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Kuhu fail laadida (path)"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "Salveta vorm!"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Smailid"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "Parool"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "thirteen"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "Kirjuta"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Write Error. Could not open file for writing"
+
+msgid "Write Error. Could not write to file"
+msgstr "Write Error. Could not write to file"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "See täpsustab kommentaaride formaati postituslehel."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "Hääleta '%val%' seda postitust"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "Kustuta kommentaar"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "See täpsustab kommentaaride formaati postituslehel."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "Erinevad seaded"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Uus postitus"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "Seaded"
+
+msgid "%num% comment"
+msgstr "%num% kommentaar"
+
+msgid "%num% comments"
+msgstr "%num% kommentaari "
+
+#, fuzzy
+msgid "%num% trackback"
+msgstr "Tekst, kui on 'üks kommentaar'"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"Sa näed kommentaari eelvaadet. Vajuta kindlasti 'Saada kommentaar' nuppu "
+"salvestamiseks."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr "Su kommentaari ei salvestatud, sest see on eelmise postituse koopia"
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr "Su kommentaari ei salvestatud, sest see on eelmise postituse koopia"
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr "Su kommentaari ei salvestatud, sest see on eelmise postituse koopia"
+
+msgid "Your comment has been stored."
+msgstr "Su kommentaar on salvestatud."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr "Kirjuta oma nimi vormi 'nimi'."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr "Kirjuta midagi vormi 'ommentaar'."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr "The maximum number of hyperlinks was exceeded. Stop spamming."
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "Kommentaaride formaat "
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "Muuda väikepilti"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Pivot user login"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Kood"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "Smailid"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "Muuda väikepilti"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Loo väikepilt)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Minek!"
+
+#, fuzzy
+msgid "Back"
+msgstr "Varukoopia"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "Kood"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "pühapäev"
+
+msgid "Monday"
+msgstr "esmaspäev"
+
+msgid "Tuesday"
+msgstr "teisipäev"
+
+msgid "Wednesday"
+msgstr "kolmapäev"
+
+msgid "Thursday"
+msgstr "neljapäev"
+
+msgid "Friday"
+msgstr "reede"
+
+msgid "Saturday"
+msgstr "laupäev"
+
+msgid "S_Sunday_initial"
+msgstr "S"
+
+msgid "M_Monday_initial"
+msgstr "M"
+
+msgid "T_Tuesday_initial"
+msgstr "T"
+
+msgid "W_Wednesday_initial"
+msgstr "W"
+
+msgid "T_Thursday_initial"
+msgstr "T"
+
+msgid "F_Friday_initial"
+msgstr "F"
+
+msgid "S_Saturday_initial"
+msgstr "S"
+
+msgid "Sun"
+msgstr "P"
+
+msgid "Mon"
+msgstr "E"
+
+msgid "Tue"
+msgstr "T"
+
+msgid "Wed"
+msgstr "K"
+
+msgid "Thu"
+msgstr "N"
+
+msgid "Fri"
+msgstr "R"
+
+msgid "Sat"
+msgstr "L"
+
+msgid "January"
+msgstr "jaanuar"
+
+msgid "February"
+msgstr "veebruar"
+
+msgid "March"
+msgstr "märts"
+
+msgid "April"
+msgstr "aprill"
+
+msgid "May"
+msgstr "mai"
+
+msgid "June"
+msgstr "juuni"
+
+msgid "July"
+msgstr "juuli"
+
+msgid "August"
+msgstr "august"
+
+msgid "September"
+msgstr "september"
+
+msgid "October"
+msgstr "oktoober"
+
+msgid "November"
+msgstr "november"
+
+msgid "December"
+msgstr "detsember"
+
+msgid "Jan_January_abbreviation"
+msgstr "jaan"
+
+msgid "Feb_February_abbreviation"
+msgstr "veeb"
+
+msgid "Mar_March_abbreviation"
+msgstr "märts"
+
+msgid "Apr_April_abbreviation"
+msgstr "apr"
+
+msgid "May_May_abbreviation"
+msgstr "mai"
+
+msgid "Jun_June_abbreviation"
+msgstr "juuni"
+
+msgid "Jul_July_abbreviation"
+msgstr "juuli"
+
+msgid "Aug_August_abbreviation"
+msgstr "aug"
+
+msgid "Sep_September_abbreviation"
+msgstr "sept"
+
+msgid "Oct_October_abbreviation"
+msgstr "okt"
+
+msgid "Nov_November_abbreviation"
+msgstr "nov"
+
+msgid "Dec_December_abbreviation"
+msgstr "dets"
+
+#, fuzzy
+msgid "am"
+msgstr "Nimi"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "null"
+
+msgid "one"
+msgstr "üks"
+
+msgid "two"
+msgstr "kaks"
+
+msgid "three"
+msgstr "kolm"
+
+msgid "four"
+msgstr "neli"
+
+msgid "five"
+msgstr "viis"
+
+msgid "six"
+msgstr "kuus"
+
+msgid "seven"
+msgstr "seitse"
+
+msgid "eight"
+msgstr "kaheksa"
+
+msgid "nine"
+msgstr "üheksa"
+
+msgid "ten"
+msgstr "kümme"
+
+msgid "eleven"
+msgstr "eleven"
+
+msgid "twelve"
+msgstr "twelve"
+
+msgid "thirteen"
+msgstr "thirteen"
+
+msgid "fourteen"
+msgstr "fourteen"
+
+msgid "fifteen"
+msgstr "fifteen"
+
+msgid "sixteen"
+msgstr "sixteen"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "seitse"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "kaheksa"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "üheksa"
+
+#, fuzzy
+msgid "twenty"
+msgstr "Uus postitus"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "null"
+
+#, fuzzy
+msgid "second"
+msgstr "sekund"
+
+#, fuzzy
+msgid "third"
+msgstr "thirteen"
+
+#, fuzzy
+msgid "forth"
+msgstr "neli"
+
+#, fuzzy
+msgid "fifth"
+msgstr "fifteen"
+
+#, fuzzy
+msgid "sixth"
+msgstr "kuus"
+
+#, fuzzy
+msgid "seventh"
+msgstr "seitse"
+
+#, fuzzy
+msgid "eighth"
+msgstr "kaheksa"
+
+#, fuzzy
+msgid "ninth"
+msgstr "üheksa"
+
+#, fuzzy
+msgid "tenth"
+msgstr "kümme"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "eleven"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "twelve"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "thirteen"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "fourteen"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "fifteen"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "sixteen"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "seitse"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "kaheksa"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "üheksa"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "kümme"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "Piir"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "Lae üles faile"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Näita viimaseid "
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "Kommentaar kustutati."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Ajaveebid"
+
+#, fuzzy
+msgid "category"
+msgstr "Kategooria"
+
+#, fuzzy
+msgid "entry"
+msgstr "Uus postitus"
+
+#, fuzzy
+msgid "for comments"
+msgstr "Kommentaare pole "
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "Otsingutulemused"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "'%name%' vasted:"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "'%name%' vasted:"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "'%name%' polnud vasteid. Otsi midagi muud."
+
+msgid "Search for words used in entries on this website"
+msgstr "Search for words used in entries on this website"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "Enter the word[s] to search for here:"
+
+msgid "Enter searchterms"
+msgstr "Enter searchterms"
+
+msgid "Search!"
+msgstr "Otsi!"
+
+msgid "XML: Atom Feed"
+msgstr "XML: Atom Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "%num% kommentaar"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "Smailid"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Pivot user login"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "Loo vorm"
+
+#, fuzzy
+msgid "Text file"
+msgstr "Textile"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Piv » Uus"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "Lae uus fail:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Piv » Uus"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "Muuda väikepilti"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Lae uus fail:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "Vorm"
+
+#, fuzzy
+msgid "Include template"
+msgstr "Loo vorm"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "Esilehevorm"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "Arhiivilehe vorm"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "Üksikpostituse vorm"
+
+#, fuzzy
+msgid "Page template"
+msgstr "Loo vorm"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "Arhiivilehe vorm"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "Seaded"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Pivot user login"
+
+#, fuzzy
+msgid "(more)"
+msgstr "üks"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "Siseta pilt"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "Tekst, kui on 'üks kommentaar'"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Kustuta kommentaar"
+
+#, fuzzy
+msgid "register/login"
+msgstr "Register"
+
+msgid "words"
+msgstr "words"
+
+msgid "image"
+msgstr "image"
+
+msgid "images"
+msgstr "images"
+
+msgid "file"
+msgstr "file"
+
+msgid "files"
+msgstr "files"
+
+msgid "Self-registration"
+msgstr ""
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "Hääleta '%val%' seda postitust"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+msgid "Related tags"
+msgstr ""
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Näita viimaseid "
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "See täpsustab kommentaaride formaati postituslehel."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "See täpsustab kommentaaride formaati postituslehel."
+
+msgid "Log in as a registered visitor"
+msgstr "Log in as a registered visitor"
+
+msgid "Forgotten your password?"
+msgstr "Forgotten your password?"
+
+msgid "Register a new username."
+msgstr "Register a new username."
+
+msgid "Logged in as"
+msgstr "Logged in as"
+
+msgid "Log out."
+msgstr "Log out."
+
+#, fuzzy
+msgid "Delete account."
+msgstr "Kustuta kommentaar"
+
+msgid "Edit your preferences"
+msgstr "Edit your preferences"
+
+msgid "User disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "Incorrect password"
+
+msgid "Logged in"
+msgstr "Logged in"
+
+msgid "Register"
+msgstr "Register"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Back to login"
+msgstr "Back to login"
+
+msgid "Show my email address with comments"
+msgstr "Show my email address with comments"
+
+msgid "Notify me via email of new entries"
+msgstr "Notify me via email of new entries"
+
+msgid "Default notification of replies"
+msgstr "Default notification of replies"
+
+msgid "Here you can change your information."
+msgstr "Here you can change your information."
+
+msgid "Change preferences"
+msgstr "Change preferences"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr "Oops"
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Send password"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+"If you've forgotten your password, fill in your username and e-mail address, "
+"and Pivot will send your password to your email address. "
+
+#, fuzzy
+msgid "User already exists... Please pick another name."
+msgstr "User already exists.. Please pick another name."
+
+#, fuzzy
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "User already exists.. Please pick another name."
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"You must give your email address, since it'll be impossible to verify your "
+"account. You can always choose not to show your address to other visitors."
+
+msgid "The changes have been stored"
+msgstr "The changes have been stored"
+
+msgid "Your account is verified. Please log in.."
+msgstr "Your account is verified. Please log in.."
+
+#, fuzzy
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr "That Code seems to incorrect. I'm sorry, but I can't verify."
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr "Your password was sent to the mailbox given.."
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr "Logged out"
+
+msgid "Back to"
+msgstr "Back to"
+
+#, fuzzy
+msgid "User stored!"
+msgstr "Kasuta teksti"
+
+msgid "Could not store new user!!"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "Seaded"
+
+msgid "Verify your account"
+msgstr ""
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Vale kasutajanimi või parool"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "Logged in"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "Eelmine arhiiv "
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Logged in"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "Logged out"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "Muuda ajaveebi seadeid "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "Kustuta see ajaveeb."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Kustuta kategooria"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+#, fuzzy
+msgid "About PivotX"
+msgstr "About"
+
+#, fuzzy
+msgid "Setup user"
+msgstr "Delete user"
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "Register a new username."
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "Sul pole õigust %title% 'ga seda teha!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "See ajaveeb on uuendatud."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "Vaikimisi laiend"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "Muuda postitust"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "Sul pole õigust %title% 'ga seda teha!"
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "Your entry '%s' was successfully saved."
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "Your entry '%s' was successfully saved."
+
+#, fuzzy, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "A trackback ping has been sent to '%s'."
+
+#, fuzzy
+msgid "Log out"
+msgstr "Log out."
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "You are not allowed to post in category:'%s'."
+
+msgid "My Settings"
+msgstr "Minu seaded"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Lisa lemmik."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "See ajaveeb on uuendatud."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "About"
+
+msgid "Edit my personal Settings"
+msgstr "Muuda mu isiklikke seadeid"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "You are not allowed to post in category:'%s'."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "You are not allowed to post in category:'%s'."
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "You are not allowed to post in category:'%s'."
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "See ajaveeb on kustutatud."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "You are not allowed to post in category:'%s'."
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "See ajaveeb on uuendatud."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Kommentaar kustutati."
+
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr ""
+
+msgid "Comments"
+msgstr "Kommentaarid"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "Kommentaar kustutati."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "Muuda ja kustuta kommentaare"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "Kommentaar salvestati."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks"
+msgstr "Tekst, kui on 'X kommentaari'"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Kommentaar salvestati."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Lae üles faile"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "Kommentaar kustutati."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "Kommentaar kustutati."
+
+msgid "The weblog has been deleted."
+msgstr "See ajaveeb on kustutatud."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "See ajaveeb on kustutatud."
+
+msgid "Create New Weblog"
+msgstr "Loo uus ajaveeb"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "Kommentaariseaded"
+
+#, fuzzy
+msgid "Database"
+msgstr "Kuupäev"
+
+#, fuzzy
+msgid "Debug"
+msgstr "Silumistase"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "Kuhu fail laadida (path)"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "Kuupäev/kellaaeg"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Moblogger"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr "Toimub indeksi ehitamine, see võib võtta veidi aega, ära sega vahele."
+
+msgid "Rebuild the Search Index"
+msgstr "Ehita otsinguindeks"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "Ehita otsinguindeks"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Toimub otsinguindeksi ehitamine, see võib võtta veidi aega, ära sega vahele."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Ehita indeks"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "Toimub indeksi ehitamine, see võib võtta veidi aega, ära sega vahele."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "Kuupäev"
+
+#, fuzzy
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+"This will let you download a zip file containing your configuration files"
+
+#, fuzzy
+msgid "Explore files"
+msgstr "Lae üles faile"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "Seaded"
+
+msgid "Blocked Phrases"
+msgstr "Ignored Domains"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "View and Edit the Ignored Domains."
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP blokeeringud"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Vaata ja muuda blokeeritud IPsid."
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Hoolda Pivoti faile"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "Kommentaar kustutati."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "Kasutajanimi on juba kasutusel"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "Kasutajanimi on juba kasutusel"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "See ajaveeb on uuendatud."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "Kasutajanimi on juba kasutusel"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "See ajaveeb on loodud."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "Kommentaar kustutati."
+
+msgid "A category by this name already exists"
+msgstr "Selle nimega kategooria on juba olemas"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "See ajaveeb on uuendatud."
+
+msgid "Edit Weblog"
+msgstr "Muuda ajaveebi"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "thirteen"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "Siseta pilt"
+
+#~ msgid "# Comm"
+#~ msgstr "# Komm"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "Kommentaar"
+
+#~ msgid "search"
+#~ msgstr "search"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "Tagasikerimine"
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "Kasutajad"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "Kuupäev"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "Kategooria"
+
+#, fuzzy
+#~ msgid "Format of \"reply ..\""
+#~ msgstr "Format of 'reply ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+
+#, fuzzy
+#~ msgid "Format of \"reply by ..\""
+#~ msgstr "Format of 'reply by ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+#~ msgstr ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+
+#, fuzzy
+#~ msgid "Format of \"reply on ..\""
+#~ msgstr "Format of 'reply on ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+
+#, fuzzy
+#~ msgid "Trackback Settings"
+#~ msgstr "Trackback ping"
+
+#, fuzzy
+#~ msgid "Format of Trackbacks"
+#~ msgstr "Tekst, kui on 'X kommentaari'"
+
+#, fuzzy
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Trackback ping"
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "That username and email address do not seem to match."
+
+#~ msgid "File Mappings"
+#~ msgstr "File Mappings"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "Lae uus fail:"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+
+#, fuzzy
+#~ msgid "Delete registered visitor"
+#~ msgstr "Log in as a registered visitor"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can delete this registered visitor if you would like. All of their "
+#~ "comments will remain"
+#~ msgstr ""
+#~ "You can delete this user if you would like. All of their posts will "
+#~ "remain, but they will no longer be able to login"
+
+#~ msgid "Change"
+#~ msgstr "Muuda"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "Kinnita kustutus"
+
+#, fuzzy
+#~ msgid ""
+#~ "You're about to remove the account for %s. Are you sure you want to do "
+#~ "this?"
+#~ msgstr ""
+#~ "You're about to remove access for %s. Are you sure you want to do this?"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IP-aadressid on salvestatud."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Salvesta need IP-aadressid"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "The Ignored Domains have been stored."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "The Ignored Domains have been stored."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "The Ignored Domains have been stored."
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Store these Ignored Domains"
+
+#, fuzzy
+#~ msgid "Globally blocked phrases."
+#~ msgstr "Ignored Domains"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "Nimes peab olema vähemalt neli märki"
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "Blokeeri IP %s"
+
+#~ msgid "[Trackback] Re:"
+#~ msgstr "[Trackback] new Trackback"
+
+#~ msgid "No TrackBack ID (tb_id)"
+#~ msgstr "No TrackBack ID (tb_id)"
+
+#~ msgid "No URL (url)"
+#~ msgstr "No URL (url)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr "Su kommentaari ei salvestatud, sest see on eelmise postituse koopia"
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "minut"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "Note: It's possible for the maintainer of this site <br /> to see your "
+#~ "password.. Do <em>not</em> use a password<br /> that you use for other "
+#~ "websites / accounts!"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "Parool"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "Sisesta pildi hüpikaken"
+
+#~ msgid "No such user.."
+#~ msgstr "No such user.."
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "Info puudub"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "Kommentaar"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "Kommentaarid"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "Kommentaari eelvaade "
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "Tagasikerimine"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "Smailid"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "Kommentaare pole "
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Viimatised postitused"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "Kommentaarid"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "Kommentaarid"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "Kommentaarid"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "Eelmine arhiiv "
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Pingi uuendused"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "See märgib, milliseid uuendusi nagu weblogs.com Pivot automaatselt "
+#~ "märgib, kui sa sisestad uue postituse. Teenused nagu blogrolling.com "
+#~ "sõltuvad nendest pingidest"
+
+#~ msgid "URLs to ping"
+#~ msgstr "Aadressid pingimiseks"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "Sa võid panna mitmeid aadresse, mida pingida. Ära lisa http:// muidu see "
+#~ "ei tööta. Mõned tuntumad pingserverid:<br /><b>rpc.weblogs.com/RPC2</b> "
+#~ "(weblogs.com pinger)<br /><b>pivotlog.net/pinger</b> (pivotlog pinger)"
+#~ "<br /><b>rcs.datashed.net/RPC2</b> (euro.weblogs.com pinger)<br /><b>ping."
+#~ "blo.gs</b> (blo.gs pinger)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Pingi seaded"
+
+#, fuzzy
+#~ msgid "stuff"
+#~ msgstr "Stuff"
+
+#~ msgid "upload"
+#~ msgstr "lae üles"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "Su faili ei laetud üles, tekkis järgnev viga:"
+
+#~ msgid "or select"
+#~ msgstr "või vali"
+
+#~ msgid "Select File"
+#~ msgstr "Select File"
+
+#, fuzzy
+#~ msgid "Spamscore Threshold"
+#~ msgstr "Rebuild Threshold"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "Pildi nimi"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Kasuta WYSIWYG'd vaikimisi"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "Märgib, kas WYSIWYG (what you see is what you get) editor on vaikimisi "
+#~ "töös. Iga kasutaja saab seda Info seadete alt muuta."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "Viimatiste kommentaaride seaded"
+
+#~ msgid "Show how many"
+#~ msgstr "Mitut näidata"
+
+#~ msgid "Cut at length"
+#~ msgstr "Lõigata"
+
+#~ msgid "Format"
+#~ msgstr "Formaat"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr "Need seaded näitavad esilehe viimatiste kommentaaride olekut."
+
+#, fuzzy
+#~ msgid "Use \"Nofollow\""
+#~ msgstr "Use 'Nofollow'"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+#~ msgstr ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+
+#~ msgid "Next Archive"
+#~ msgstr "Järgmine arhiiv "
+
+#~ msgid "Previous Archive"
+#~ msgstr "Eelmine arhiiv "
+
+#~ msgid "Archive type"
+#~ msgstr "Arhiivi tüüp"
+
+#~ msgid "No Archives"
+#~ msgstr "Arhiive pole"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "Nädalased arhiivid"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Kuised arhiivid"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "Yearly Archives"
+
+#~ msgid "Archive Link"
+#~ msgstr "Arhiivi link"
+
+#~ msgid "Archive List format"
+#~ msgstr "Arhiivi nimekirja formaat"
+
+#~ msgid "Archive Order"
+#~ msgstr "Arhiivi järjekord"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "Vanemad enne"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "Uuemad enne"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "Jäta tegevusest logifailid"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "Tekst, kui 'kommentaare pole'"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "Tekst, kui on 'üks kommentaar'"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "Tekst, kui on 'X kommentaari'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Seda teksti kasutatakse näitamaks, mitu kommentaari on. Kui sa jätad "
+#~ "selle tühjaks, näitab Pivot seda nii, nagu on keeleseadetes kirjas"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "Tekst, kui 'kommentaare pole'"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "Tekst, kui on 'üks kommentaar'"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "Tekst, kui on 'X kommentaari'"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "%num% kommentaar"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "%num% kommentaari "
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "Tekst, kui on 'X kommentaari'"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "Sul pole õigust seda muuta"
+
+#~ msgid "Further Options"
+#~ msgstr "Muud seaded"
+
+#~ msgid "Basic View"
+#~ msgstr "Tavaline vaade"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "Vaata ainult tavalisi välju"
+
+#~ msgid "Extended View"
+#~ msgstr "Laiendatud vaade"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "Vaata kõiki muudetavaid välju"
+
+#~ msgid "Done!"
+#~ msgstr "Valmis!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Otseteed"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "Sul pole õigust %title% kustutada!"
+
+#~ msgid "Week"
+#~ msgstr "nädal"
+
+#~ msgid "Remember"
+#~ msgstr "Pea meeles"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "Kustuta küpsised"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+
+#~ msgid "Overview"
+#~ msgstr "Üldvaade"
+
+#~ msgid "Modify Entries"
+#~ msgstr "Muuda postitusi"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Lemmikud"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistika"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "Pivoti üldvaade"
+
+#~ msgid "View my personal Info"
+#~ msgstr "Vaata minu infot"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Loo lemmikuid"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "Fail on üles laetud"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "Vaata logisid ja statistikat."
+
+#~ msgid "Recent Comments"
+#~ msgstr "Viimatised kommentaarid"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "Ehita kõik failid"
+
+#~ msgid "Verify the Database"
+#~ msgstr "Kinnita andmebaasi"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "Ehita esileht"
+
+#~ msgid "User Information Fields"
+#~ msgstr "Kasutaja info väljad"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "Loo, muuda ja kustuta kasutaja info välju"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Ehita üles falid ja arhiivid, mida Pivot loob"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "Kontrolli andmebaasi õigsust"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr "Ehita esileht, arhiivid ja RSS."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "Tee oma sisestustest varukoopia"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Saada pinge."
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "Loo vorm valgelt lehelt"
+
+#~ msgid "Comment*"
+#~ msgstr "Info*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr "(*Märkus: Infot saab salvestada vaid <b>esimesel</b> salvestusel)"
+
+#~ msgid "Editing"
+#~ msgstr "Muutmine"
+
+#~ msgid "Save changes!"
+#~ msgstr "Salvesta muutused!"
+
+#~ msgid "Generate Archive"
+#~ msgstr "Loo arhiiv"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "Taasloo kõik arhiivid"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "Kontrolli XML-faile"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "Kontrolli ja paranda XML-failide õigsust"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Loo varukoopia kõigist Pivoti olulistest failidest"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 viitajat "
+
+#~ msgid "50 referrers"
+#~ msgstr "50 viitajat "
+
+#~ msgid "all referrers"
+#~ msgstr "Kõik viitajad "
+
+#~ msgid "both blocked and non-blocked lines"
+#~ msgstr "both blocked and non-blocked lines"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Update the referer to title mappings"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "Peremees-aadress (ip-aadress)"
+
+#~ msgid "Which page"
+#~ msgstr "Milline lehekülg"
+
+#~ msgid "Getting new titles"
+#~ msgstr "Uute pealkirjade saamine"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "See võib võtta aega, ära sega vahele."
+
+#~ msgid "First pass"
+#~ msgstr "Esimene"
+
+#~ msgid "Second pass"
+#~ msgstr "Teine"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "Viitajate nimekiri on nüüd õige."
+
+#~ msgid "Finished"
+#~ msgstr "Tehtud"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "Muuda kasutajate välju"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr "Muuda välju, mida kasutajad saavad kasutada enda kirjeldamiseks"
+
+#~ msgid "Edit User Info"
+#~ msgstr "Muuda kasutaja infot"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "Loo uus kasutajakonto Pivotisse, lubades tal posititada ajaveebi."
+
+#~ msgid "Create"
+#~ msgstr "Loo"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "Kinnita administraatori loomine"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "Administrator saab kogu kontrolli Pivoti üle, ta saab muuta uudiseid, "
+#~ "kommentaare ja muta seadeid. Oled sa kindel, et panid kasutajataseme "
+#~ "õigesti?"
+
+#~ msgid "Use encoding"
+#~ msgstr "Use encoding"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+
+#~ msgid "File Info"
+#~ msgstr "Faili info"
+
+#~ msgid "Local Path"
+#~ msgstr "Kohalik teerada (path)"
+
+#~ msgid "Debug Options"
+#~ msgstr "Silumisseaded"
+
+#~ msgid "File Upload settings"
+#~ msgstr "Faili üleslaadimine"
+
+#~ msgid "Clean Filename"
+#~ msgstr "Tühista failinimi"
+
+#~ msgid "Use Basic View"
+#~ msgstr "Use Basic View"
+
+#~ msgid ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+#~ msgstr ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Vaikimisi tekstitöötlus"
+
+#~ msgid "Text Processing"
+#~ msgstr "Tekstitöötlus"
+
+#~ msgid "None"
+#~ msgstr "Mite ühtegi"
+
+#~ msgid "Trackback Setup"
+#~ msgstr "Trackback Setup"
+
+#~ msgid ""
+#~ "If set, an email will be sent to this address when a Tracback is added."
+#~ msgstr ""
+#~ "If set, an email will be sent to this address when a Tracback is added."
+
+#~ msgid "Open links in new window"
+#~ msgstr "Ava lingid uues aknas"
+
+#~ msgid "Use emoticons"
+#~ msgstr "Kasuta smailisid"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "Kodeeri e-postiaadress?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr "Märgib, kas linke tuleb avada uues brauseriaknas või -tabis."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "Otsinguindeks automaatne uuendus"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "See märgib, kas otsinguindeksit uuendatakse kohe, kui teed uue postituse "
+#~ "või muudad olemasolevat."
+
+#~ msgid ""
+#~ "The number of seconds rebuilding takes, before Pivot refreshes the page. "
+#~ "The default is 28, but if you are having problems with rebuilding, try "
+#~ "lowering this number to 10."
+#~ msgstr ""
+#~ "The number of seconds rebuilding takes, before Pivot refreshes the page. "
+#~ "The default is 28, but if you are having problems with rebuilding, try "
+#~ "lowering this number to 10."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Default Introduction/Body"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Kroppimisskript"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "Kui su serveril pole vajalikke teeke, et pilti kroppida, saad kasutada "
+#~ "välist kroppimisskripti."
+
+#~ msgid "Extensions directory"
+#~ msgstr "Extensions directory"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\r\t\tThis makes updating a lot easier. See the Docs for more info."
+
+#~ msgid "Extensions directory path"
+#~ msgstr "Extensions directory path"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "Muuda ajaveebe"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "Lisa uude ajaveebi"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "Kustuta ajaveeb"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "Igale alamajaveebile, mis on vormides kirjas, saab luua eraldi vormid "
+#~ "jakategooriad"
+
+#~ msgid "Finish"
+#~ msgstr "Valmis"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "Loo / muuda ajaveebi, 1. samm kolmest"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "Loo / muuda ajaveebi, 2. samm kolmest"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "Loo / muuda ajaveebi, 3. samm kolmest"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "Esilehekülg (indeks)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr "Indeks-faili nimi. Tavaliselt on see index.html või index.php."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "Kui su ajaveeb kasutab SSI-d (see pole soovitav), saad kasutada seda "
+#~ "failinimede prefiksiteks nende failide jaoks, mida kasutatakse SSI jaoks. "
+#~ "Jäta see väli tühjaks, kui sa ei tea, mida teed."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "Esilehe teerada (path)"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr "Teerada sinna, kuhu Pivot selle ajaveebi esilehe loob."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "Teerada kataloogi, kuhu Pivot loob sisetuslehekülje (kui sa ei kasta "
+#~ "otsest sisestust)"
+
+#~ msgid "Live entries"
+#~ msgstr "Otsene sisestus"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "Kui sa kasutad otsest sisestust, ei pea Pivot iga postituse puhul faile "
+#~ "genereerima. See on eelistatud seade."
+
+#~ msgid "Index File"
+#~ msgstr "Indeksifail"
+
+#~ msgid "Archive Path"
+#~ msgstr "Arhiivi teerada (path)"
+
+#~ msgid "Archive Amount"
+#~ msgstr "Arhiivi maht"
+
+#~ msgid "Archive Format"
+#~ msgstr "Arhiivi formaat"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Lühipostituse vorm"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr ""
+#~ "See vorm kirjeldab üksikpostituse väljangemist, mida näeb ajaveebist või "
+#~ "arhiivist."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "Lubada kommentaare?"
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSSi failinimi"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atomi failinimi"
+
+#~ msgid "Feed Path"
+#~ msgstr "Fiidi teerada (path)"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr "Kataloog, kuhu Pivot loob fiidi failid."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Viimaste viitajate seaded"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr "Need seaded näitavad esilehe viimatiste viitajate olekut."
+
+#~ msgid "Use graphics"
+#~ msgstr "Use graphics"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "Redirect Referers"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Kasuta smailisid"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr "Märgib, kas smailid nagu :) muudetakse graafilisteks."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "Kodeeri e-posti aadressid"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "Märgib, kas e-posti aadressid kodeeritakse ümber, et spämmerid ei saaks "
+#~ "neid korjata."
+
+#~ msgid "Target Blank"
+#~ msgstr "Avada uues aknas"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML Workaround"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "Kui sa paned selle tööle, siis avatakse kõik lingid uues aknas. Kui sa "
+#~ "sead tööle 'XHTML workaround', on kõigil linkidel rel=\"external\" märge, "
+#~ "mis ei murdu XHTMLis"
+
+#~ msgid "Date display settings"
+#~ msgstr "Kuupäeva seaded"
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Blogrolli seades"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "Sa võid lisada <a href=\"http://www.blogrolling.com\" target=\"_blank"
+#~ "\">blogrolling.com</a> blogrolli oma ajaveebi. Blogrolling on teenus "
+#~ "linginimekirja säilitamiseks."
+
+#~ msgid "Background Color"
+#~ msgstr "Tausta värv"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Joone värv 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Joone värv 2"
+
+#~ msgid "Color 1"
+#~ msgstr "Värv 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Värv 2"
+
+#~ msgid "Color 3"
+#~ msgstr "Värv 3"
+
+#~ msgid "Color 4"
+#~ msgstr "Värv 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr "Need värvid näitavad, kuidas su blogroll välja näeb."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "Täielik nimekirja eelvaade"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "Väikepildi eelvaade"
+
+#~ msgid "Files"
+#~ msgstr "Failid"
+
+#~ msgid "Width x Height"
+#~ msgstr "Laius x kõrgus"
+
+#~ msgid "Delete Image"
+#~ msgstr "Kustuta pilt"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "Oled sa kindel, et soovid faili %s kustutada?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "Kustua see pilt?"
+
+#~ msgid "create"
+#~ msgstr "loo"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "Sisesta link, kirjutades aadress. Külalised näevad pealkirja, kui nad "
+#~ "viivad hiire lingile."
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "Muuda, kes saab '%s' kategooriasse postitada"
+
+#~ msgid "Allowed"
+#~ msgstr "Lubatud"
+
+#~ msgid "Allow"
+#~ msgstr "Luba"
+
+#~ msgid "Denied"
+#~ msgstr "Keelatud"
+
+#~ msgid "Deny"
+#~ msgstr "Keela"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr "Selles Pivoti versioonis kustutatakse ainult kategooria nimi."
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+
+#~ msgid "Index Category"
+#~ msgstr "Index Category"
+
+#~ msgid "Public Category"
+#~ msgstr "Public Category"
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Ctrl-klikk mitme kategooria valimiseks)"
+
+#~ msgid "Delete Entry"
+#~ msgstr "Delete Entry"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "Delete this Entry and the corresponding Comments "
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr "Are you sure you want to delete these entries?"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Convert Linebreaks"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(Kui kasutad WYSIWYGd, siis on see alati väljas)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(Ole sellega ettevaatlik!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "Muuda kommentaare"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "Muuda sellele postitusele lisatud kommentaare"
+
+#~ msgid "Edit Comment"
+#~ msgstr "Muuda kommentaari"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "Blokeeri IP ulatus %s"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "Võta blokeering maha IP %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "Võta blokeering maha IP ulatuselt %s"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "Use this to set a link to the source of this entry."
+
+#~ msgid "Publish and generate"
+#~ msgstr "Avalda ja genereeri"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "Valitud failidega tee:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "Valitud vormidega tee:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "Ei saa avada, kontrolli oma õigusi."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "Ei saa lugeda, kontrolli oma õigusi."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "Ei saa kirjutada, kontrolli oma õigusi."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "Ei saa avada, kontrolli oma õigusi."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "Ei saa lugeda, kontrolli oma õigusi."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "Ei saa kirjutada, kontrolli oma õigusi."
+
+#~ msgid "Good"
+#~ msgstr "Hea"
+
+#~ msgid "Bad"
+#~ msgstr "Halb"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "Sa juba hääletasid seda sisestust või küsitlust"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "Su hääl '%val%' registreeriti"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Viimased viitajad"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalender"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Ava smailide esitus "
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Ava Textile esitus "
+
+#~ msgid "Register your username / Log in"
+#~ msgstr "Register your username / Log in"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Muuda kasutajavälja"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "Pärisnimi on selle eseme nimi, kui ta ilmub siis, kui sa palud Pivotil "
+#~ "seda näidata vormis."
+
+#~ msgid "Size"
+#~ msgstr "Suurus"
+
+#~ msgid "Rows"
+#~ msgstr "Read"
+
+#~ msgid "Columns"
+#~ msgstr "Veerud"
+
+#~ msgid "Maximum Length"
+#~ msgstr "Maksimaalne pikkus"
+
+#~ msgid "Filter by"
+#~ msgstr "Filter"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr "Seda eset filtreerides piirad sa sisestuse tüüpi"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "Kustutades selle kasutajavälja (<b>%s</b>) kaotad ka kõik andmed, mida "
+#~ "need kasutajad on säilitanud.."
+
+#~ msgid "This name is already in use"
+#~ msgstr "See nimi on juba kasutusel"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "Pärisnimi peab olema pikem kui 3 tähte"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "Näidatav nimi peab olema pikem kui 3 tähte"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "See lemmik avab akna uue postitusega, millel on link sellele lehele."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "See lemmik avab akna tühja uue postitusega."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "Kasuta seda lemmikut, et kirjutada kiiresti uus postitus. Lemmiku "
+#~ "lisamiseks oma lehitsejasse kasuta järgmisi variante: (täpne tekst on "
+#~ "erinev olenevalt lehitsejast)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr "Kliki ja tiri see lemmik oma 'Linkide' tööristaribale."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr "Parem klikk lemmikul ja vali 'Lisa lemmikutesse'."
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr "The calendar provides a means to access entries in this weblog"
+
+#~ msgid "en"
+#~ msgstr "et"
+
+#~ msgid "Tracked"
+#~ msgstr "Tracked"

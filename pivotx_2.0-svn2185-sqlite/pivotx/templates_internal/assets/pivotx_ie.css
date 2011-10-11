@@ -1,0 +1,10 @@
+#nav a { width: 6em; }
+
+#nav ul ul a { width: 12em; }
+
+#nav li ul { margin-top: 0px; }
+
+/* don't display borders on the outside of checkboxes */
+.formclass .noborder {
+    border: 0px !important;
+}

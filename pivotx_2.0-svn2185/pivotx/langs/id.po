@@ -1,0 +1,5731 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "Last Comments"
+msgstr "Komentar Terakhir"
+
+msgid "Stuff"
+msgstr "Stuff"
+
+msgid "Archives"
+msgstr "Arsip"
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Links"
+msgstr "Link"
+
+#, fuzzy
+msgid "Search"
+msgstr "Cari!"
+
+msgid "Linkdump"
+msgstr "Linkdump"
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "Kirim Komentar"
+
+msgid "Preview Comment"
+msgstr "Preview Komentar"
+
+msgid "Remember personal info?"
+msgstr "Ingat informasi pribadi?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "Konfigurasi"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "Konfigurasi"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "Border"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Komentar Terakhir"
+
+#, fuzzy
+msgid "Pages"
+msgstr "gambar"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Notify"
+msgstr "Ingatkan"
+
+msgid "Yes, send me email when someone replies."
+msgstr "Ya, kirimi saya email jika ada yang membalas."
+
+msgid "Hide email"
+msgstr ""
+
+msgid "Yes, hide my email address."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Catatan kecil:</b> Semua tag html kecuali &lt;b&gt; dan &lt;i&gt; akan "
+"dihilangkan dari komentar. Anda dapat membuat link hanya dengan mengetikkan "
+"URL atau alamat email."
+
+msgid "Insert an Image"
+msgstr "Sisipkan sebuah gambar"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"Untuk menyisipkan sebuah gambar, Anda harus meng-upload sebuah gambar, atau "
+"memilih gambar yang telah di-upload sebelumnya."
+
+msgid "Upload"
+msgstr "Upload"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "Upload sebuah File Baru:"
+
+msgid "Image name"
+msgstr "Nama Gambar"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "Pilih Gambar"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Alternate text"
+msgstr "Teks alternatif"
+
+msgid "Align"
+msgstr "Align"
+
+msgid "Center (default)"
+msgstr "Tengah (default)"
+
+msgid "Left"
+msgstr "Kiri"
+
+msgid "Right"
+msgstr "Kanan"
+
+msgid "Inline"
+msgstr "Sejajar"
+
+msgid "Border"
+msgstr "Border"
+
+msgid "pixels"
+msgstr "pixel"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "Sisipkan sebuah gambar"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "Border"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "Publikasi aktif"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "Pemeliharaan"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "Setting Proses Komentar"
+
+msgid "IP-address"
+msgstr "Alamat IP"
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "Hapus Komentar"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "Centang semua"
+
+#, fuzzy
+msgid "Check none"
+msgstr "Centang semua"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "Tidak ada komentar"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "Hapus Komentar"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Berita Pivot Terbaru"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "Entri ini tidak mempunyai komentar."
+
+msgid "No comments"
+msgstr "Tidak ada komentar"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Berita Pivot Terbaru"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Nama Weblog"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "Ubah Trackback"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "Hapus Trackback"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Entri ini tidak mempunyai komentar."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "Tidak ada trackback"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "Ubah"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Sub Judul"
+
+#, fuzzy
+msgid "Template"
+msgstr "Template"
+
+msgid "Introduction"
+msgstr "Pendahuluan"
+
+msgid "Body"
+msgstr "Isi"
+
+msgid "Keywords"
+msgstr "Kata Kunci"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "gambar"
+
+#, fuzzy
+msgid "Preview"
+msgstr "Preview Entri"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "Kategori"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Kirim Status"
+
+#, fuzzy
+msgid "Publish"
+msgstr "Publikasi aktif"
+
+msgid "Publish on"
+msgstr "Publikasi aktif"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "Ijinkan Komentar"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "Created on"
+msgstr "Dibuat pada"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "Terakhir diubah pada"
+
+msgid "Author"
+msgstr "Penulis"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "Setting Arsip"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "Template"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Weblog"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "Komentar"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "Sisipkan sebuah gambar"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "Sisipkan sebuah gambar"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "Via link"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "Via judul"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Trackback ping"
+
+msgid "Post Entry"
+msgstr "Kirim Entri"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "Preview Komentar"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "Trackback"
+
+msgid "Category"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "(none)"
+msgstr "satu"
+
+msgid "Insert a Download"
+msgstr "Masukkan hasil download"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"Untuk membuat sebuah download file, Anda harus meng-upload sebuah file, atau "
+"memilih file yang telah di-upload sebelumnya. Lalu pilih apakah Anda ingin "
+"icon atau teks atau tumbnail yang memicu pen-download-an.."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "Upload sebuah File Baru:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "Nama File"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "Gunakan icon"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "Gunakan Teks"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "Via judul"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "Masukkan hasil download"
+
+msgid "My Info"
+msgstr "Info-ku"
+
+#, fuzzy
+msgid "Logout"
+msgstr "Log out."
+
+msgid "Dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "Back to dashboard"
+msgstr "Kembali login"
+
+#, fuzzy
+msgid "View weblog"
+msgstr "Weblog Baru"
+
+#, fuzzy
+msgid "view"
+msgstr "Preview Entri"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "Extensi Default"
+
+msgid "Maintenance"
+msgstr "Pemeliharaan"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "Weblog Baru"
+
+#, fuzzy
+msgid "sec."
+msgstr "Detik"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Nama File"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Filesize"
+msgstr "Ukuran File"
+
+#, fuzzy
+msgid "Image"
+msgstr "gambar"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "Anda yakin ingin menghapus entri ini?"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Tanggal"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "Buat Pengguna Baru"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "Buat Pengguna Baru"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "Upload File"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "Upload"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "Ubah File Konfigurasi"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "Emoticon"
+
+msgid "You should first select or upload an image"
+msgstr "Anda harus memilih atau meng-upload sebuah gambar terlebih dahulu"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"Untuk membuat popup pada sebuah gambar, Anda harus meng-upload sebuah "
+"gambar, atau memilih gambar yang telah di-upload sebelumnya. Lalu pilih teks "
+"atau thumbnail yang memicu popup."
+
+msgid "For popup"
+msgstr "Untuk popup"
+
+msgid "Use Thumbnail"
+msgstr "Gunakan Thumbnail"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "Ubah Thumbnail"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "Sisipkan sebuah Popup Gambar"
+
+msgid "Create New User"
+msgstr "Buat Pengguna Baru"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Nickname"
+msgstr "Nama Kecil"
+
+msgid "Userlevel"
+msgstr "Tingkatan Pengguna"
+
+msgid "Last Login"
+msgstr "Login Terakhir"
+
+msgid "Edit User"
+msgstr "Ubah Pengguna"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr ""
+"Anda sedang menghilangkan akses untuk %s. Anda yakin ingin melakukan ini?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Emoticon"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "Daftar username baru."
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "Anda akan menghapus weblog %1. Anda yakin?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "Sisipkan sebuah gambar"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "Sisipkan sebuah gambar"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "Masukkan hasil download"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "Sisipkan sebuah gambar"
+
+msgid "The default category is:"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr ""
+"Pengguna ini diperbolehkan untuk mengirim entri dalam kategori yang terpilih"
+
+msgid "Create New Category"
+msgstr "Buat Kategori Baru"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "User"
+
+msgid "Hidden Category"
+msgstr "Kategori tersembunyi"
+
+msgid "Sorting Order"
+msgstr "Susunan pengurutan"
+
+#, fuzzy
+msgid "users"
+msgstr "User"
+
+msgid "Edit Category"
+msgstr "Ubah Kategori"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Pilih 'ya', jika Anda ingin menghapus kategori ini"
+
+msgid "New Weblog"
+msgstr "Weblog Baru"
+
+msgid "Weblog Name"
+msgstr "Nama Weblog"
+
+#, fuzzy
+msgid "categories"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "Anda akan menghapus weblog %1. Anda yakin?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Ubah Entri"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "Entri Baru"
+
+#, fuzzy
+msgid "New Page"
+msgstr "gambar"
+
+msgid "Configuration"
+msgstr "Konfigurasi"
+
+msgid "Manage Media"
+msgstr "Atur Media"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Berita Pivot Terbaru"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Anda yakin ingin menghapus entri ini?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "Entri Baru"
+
+#, fuzzy
+msgid "delete"
+msgstr "Hapus"
+
+#, fuzzy
+msgid "The latest pages"
+msgstr "Berita Pivot Terbaru"
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Pivot » Baru"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Berita Pivot Terbaru"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Tampilkan yang terakhir"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Berita Pivot Terbaru"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Entri"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Tampilkan yang terakhir"
+
+msgid "filter on (%name%)"
+msgstr "saring berdasarkan (%name%)"
+
+msgid "first"
+msgstr "pertama"
+
+msgid "previous"
+msgstr "sebelumnya"
+
+msgid "next"
+msgstr "berikutnya"
+
+msgid "last"
+msgstr "terakhir"
+
+msgid "jump to page (%num%)"
+msgstr "lompat ke halaman (%num%)"
+
+msgid "filter off"
+msgstr "saringan tidak aktif"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "Status"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Centang semua"
+
+msgid "Uncheck All"
+msgstr "Hilangkan semua centang"
+
+msgid "With the checked entries, do:"
+msgstr "Dengan entri yang dicentang, lakukan:"
+
+msgid "- select an option -"
+msgstr "- Pilih sebuah opsi -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "Atur Status ke 'publikasi'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "Atur Status ke 'hold'"
+
+msgid "Delete them"
+msgstr "Hapus"
+
+msgid "Go!"
+msgstr "Lanjut!"
+
+#, fuzzy
+msgid "Published"
+msgstr "Publikasi aktif"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Judul"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "Hapus Komentar"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Selesai! Pembuatan index memerlukan %num% detik"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "Dibuat pada"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "Tidak ada"
+
+#, fuzzy
+msgid "for"
+msgstr "empat"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "Login Terakhir"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "Setting Proses Komentar"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "Path Entri"
+
+msgid "Overview of Entries"
+msgstr "Overview Entri"
+
+msgid "Manage and Upload Media"
+msgstr "Atur dan Upload Media"
+
+msgid "Administration"
+msgstr "Administrasi"
+
+msgid "Overview of Administrative functions"
+msgstr "Overview dari Administrasi"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Extensi Default"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "Extensi Default"
+
+#, fuzzy
+msgid "Log in"
+msgstr "Login"
+
+msgid "Write and Publish a new Entry"
+msgstr "Tulis dan Publikasikan sebuah entri baru"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "Overview Entri"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "Tulis dan Publikasikan sebuah entri baru"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "Simpan Komentar"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "Trackback"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "Overview Entri"
+
+msgid "Edit the Configuration file"
+msgstr "Ubah File Konfigurasi"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "Konfigurasi"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Ubah File Konfigurasi"
+
+msgid "Create, edit and delete Users"
+msgstr "Buat, Ubah dan Hapus Pengguna"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Buat, Ubah dan Hapus Kategori"
+
+msgid "Weblogs"
+msgstr "Weblog"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Buat, Ubah dan Hapus Weblog"
+
+#, fuzzy
+msgid "Registered Visitors"
+msgstr "Daftar username baru."
+
+#, fuzzy
+msgid "View and edit Registered Visitors"
+msgstr "Log in sebagai pengunjung terdaftar"
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "Backup"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr ""
+"Ini akan memungkinkan Anda men-download sebuah file zip yang berisi "
+"konfigurasi file Anda"
+
+#, fuzzy
+msgid "Widgets"
+msgstr "gambar-gambar"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Extensi Default"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "Konfigurasi"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+msgid "Backup of Configuration Files"
+msgstr "Backup dari Konfigurasi File"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr ""
+"Ini akan memungkinkan Anda men-download sebuah file zip yang berisi "
+"konfigurasi file Anda"
+
+msgid "Create, edit and delete Templates"
+msgstr "Buat, Ubah dan Hapus Template"
+
+msgid "Explore Database Files"
+msgstr "File Explorer"
+
+msgid "View files (both text and database files)"
+msgstr "Lihat file (baik file teks maupun database)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "File Explorer"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "Upload File"
+
+msgid "Rebuild the Index"
+msgstr "Buat Kembali Index"
+
+msgid "Rebuild the index of your Database"
+msgstr "Buat Kembali Index Database Anda"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "Buat Kembali Index Pencarian"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "Buat Kembali Index Pencarian, untuk memungkinkan pencarian entri"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Buat Kembali Index"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "Buat Kembali Index Pencarian, untuk memungkinkan pencarian entri"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "Selamat Datang di %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "Senin"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "Kata Kunci"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Upload sebuah File Baru:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Red"
+msgstr "Rab"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "Backup"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "Alamat email Anda tidak valid"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "Alamat email Anda tidak valid"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Login"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "Alamat email Anda tidak valid"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"Nama pengguna hanya dapat berisi karakter alfanumerik (A-Z, 0-9) dan garis "
+"bawah (_)."
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+#, fuzzy
+msgid "Stay logged in?"
+msgstr "Sudah Log in"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Lupa password Anda?"
+
+msgid "Send password"
+msgstr "Kirim Password"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Kirim Password"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+"Jika Anda lupa password, isikan username dan alamat email, dan Pivot akan "
+"mengirimkan password ke alamat email Anda. "
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "Simpan template!"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "Simpan template!"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "Backup dari Konfigurasi File"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "Preview Komentar"
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Registered user"
+msgstr "Daftar username baru."
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "Simpan Komentar"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "Simpan Trackback"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Tanggal Entri"
+
+msgid "Excerpt"
+msgstr "Excerpt"
+
+#, fuzzy
+msgid "Continue"
+msgstr "sembilan"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "Password (konfirmasi)"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "Password tidak cocok"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "Alamat email Anda tidak valid"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "Alamat email Anda tidak valid"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "Tanggal"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "Upload File"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+#, fuzzy
+msgid "Your MySQL password"
+msgstr "Kirim Password"
+
+#, fuzzy
+msgid "Database Name"
+msgstr "Tanggal"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "Username"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "Prefix SSI"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Password tidak cocok"
+
+msgid "That's not a valid email address"
+msgstr "Alamat email Anda tidak valid"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "Alamat email Anda tidak valid"
+
+msgid "Language"
+msgstr "Bahasa"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Warna Teks"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Tentukan pengolah teks default, ketika pengguna menggunakan editor non-"
+"wysiwyg. 'Ubah Linebreak' hanya mengubah linebreak ke sebuah &lt;br&gt;-tag. "
+"<a href=\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</"
+"a> adalah sebuah markup style yang sangat berguna, juga mudah dipelajari."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Ubah Linebreak ke &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Markdown and Smartypants"
+msgstr "Markdown dan Smartypants"
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "Terakhir diubah pada"
+
+msgid "Moblogger"
+msgstr "Moblogger"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Superadmin"
+msgstr "Superadmin"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr ""
+"Tingkatan Pengguna akan menentukan apa yang dapat dilakukan pengguna dalam "
+"Pivot."
+
+msgid "Allowed Categories"
+msgstr "Kategori yang diperbolehkan"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr ""
+"Pengguna ini diperbolehkan untuk mengirim entri dalam kategori yang terpilih"
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "Terakhir diubah pada"
+
+msgid "Create Category"
+msgstr "Buat Kategori"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Anda belum memberi nama kategori ini"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "Pilih pengguna yang Anda beri ijin untuk mengirim ke kategori ini"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"Kategori dengan urutan yang lebih rendah akan ditampilkan di bagian atas "
+"dari daftar. Jika urutannya sama, maka akan diurutkan menurut abjad"
+
+#, fuzzy
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+"Jika diatur ke 'Ya', kategori ini akan tersembunyi dalam daftar arsip. "
+"(hanya berlaku untuk halaman yang aktif)"
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "The name of this chapter"
+msgstr "Buat indeks untuk kategori ini"
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "Setting Entri"
+
+msgid "Payoff"
+msgstr "Payoff"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr ""
+"Payoff dapat digunakan sebagai sub judul atau deskripsi singkat dari weblog "
+"Anda"
+
+msgid "URL to Weblog"
+msgstr "URL ke Weblog"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Pivot akan menentukan URL weblog Anda jika Anda membiarkan field ini kosong. "
+"Jika Anda menggunakan weblog Anda sebagai bagian dari frameset, atau yang "
+"termasuk dalam serverside, Anda dapat menggunakan ini untuk mengatasinya."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"Bahasa menentukan dalam bahasa apa, tanggal dan angka akan ditampilkan, dan "
+"juga menentukan charset encoding (seperti iso-8859-1 atau koi8-r, misalnya) "
+"halaman itu."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'Baca Tambahan' Teks"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"Teks yang digunakan untuk menandakan adanya teks tambahan dalam entri ini "
+"dibanding yang terlihat pada halaman depan. Jika Anda membiarkannya kosong, "
+"Pivot akan menggunakan default seperti yang didefinisikan dalam Setting "
+"Bahasa"
+
+msgid "Frontpage Template"
+msgstr "Template Halaman Depan"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "Template yang menentukan tampilan dari halaman index weblog ini."
+
+msgid "Archivepage Template"
+msgstr "Template Halaman Arsip"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"Template yang menentukan tampilan arsip Anda. Ini bisa sama dengan 'Template "
+"Halaman Depan'."
+
+msgid "Entrypage Template"
+msgstr "Template Halaman Entri"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "Template yang menentukan layout dari setiap entri."
+
+msgid "Extra Template"
+msgstr "Template ekstra"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr "Template yang menentukan tampilan arsip Anda dan halaman search.php ."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Simpan template!"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr "Template yang menentukan tampilan arsip Anda dan halaman search.php ."
+
+msgid "Number of Entries"
+msgstr "Jumlah Entri"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "Jumlah entri dalam subweblog yang akan ditampilkan di halaman depan.."
+
+msgid "Offset"
+msgstr "Offset"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"Jika Offset diset ke sebuah angka, jumlah entri tersebut akan dilewati "
+"ketika men-generate halaman itu. Anda dapat menggunakan ini untuk membuat "
+"sebuah daftar 'Entri Sebelumnya', sebagai contoh."
+
+msgid "Publish these categories"
+msgstr "Publikasikan kategori ini"
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS dan Konfigurasi Atom"
+
+msgid "Generate Feeds"
+msgstr "Generate Feeds"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr ""
+"Ini menentukan apakah Pivot akan men-generate sebuah RSS dan sebuah Atom "
+"Feed secara otomatis atau tidak untuk weblog ini."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "Situs URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "Situs URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Buat Feed Penuh"
+
+#, fuzzy
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"Menentukan apakah Pivot membuat Atom dan RSS Feed Penuh. Jika diatur ke "
+"'tidak' Pivot akan membuat Feed yang hanya berisi deskripsi pendek, sehingga "
+"membuat feed Anda kurang bermanfaat."
+
+msgid "Feed Link"
+msgstr "Link Feed"
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"Link untuk dikirim bersama Feed, untuk mengarah ke halaman utama. Jika "
+"dibiarkan kosong, Pivot akan mengirim index weblog sebagai link."
+
+msgid "Feed Image"
+msgstr "Gambar Feed"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"Anda dapat menyertakan sebuah gambar untuk dikirim bersama Feed. Beberapa "
+"pembaca feed akan menampilkan gambar ini bersama dengan Feed Anda. Biarkan "
+"kosong, atau masukkan sebuah URL lengkap."
+
+msgid "Commenting Settings"
+msgstr "Setting Proses Komentar"
+
+msgid "Send Mail?"
+msgstr "Kirim Email?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr ""
+"Setelah sebuah komentar dibuat, email dapat dikirimkan ke pemelihara weblog "
+"ini."
+
+msgid "Mail to"
+msgstr "Email ke"
+
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"Tentukan alamat-alamat yang akan dikirimi email. Pisahkan setiap alamat "
+"dengan sebuah koma."
+
+msgid "Text to links"
+msgstr "Teks ke link-link"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr "Tentukan apakah URL dan alamat email yang dimasukkan dapat di-klik."
+
+msgid "Wrap comments after"
+msgstr "Rapikan Komentar setelahnya"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"Untuk mencegah kalimat panjang yang dapat mengacaukan tampilan, teks akan "
+"dirapikan setelah sejumlah karakter tertentu."
+
+msgid "Comments Popup?"
+msgstr "Popup Komentar?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"menetukan apakah halaman komentar (atau 'entri tunggal') akan ditampilkan "
+"dalam sebuah window popup, atau tetap dalam browser window semula."
+
+msgid "Width of Popup"
+msgstr "Lebar Popup"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "Tinggi Popup"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "Tentukan lebar dan tinggi (dalam pixel) dari pop-up komentar-komentar."
+
+msgid "Height of Popup"
+msgstr "Tinggi Popup"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "Tentukan lebar dan tinggi (dalam pixel) dari pop-up komentar-komentar."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Bolehkan Textile"
+
+msgid "Allow Textile"
+msgstr "Bolehkan Textile"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"Jika ini diatur ke 'Ya', para pengunjung diijinkan untuk menggunakan <a href="
+"\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</a> "
+"dalam komentar mereka."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "Emoticon"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "Emoticon"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"Jika ini diatur ke 'Ya', para pengunjung diijinkan untuk menggunakan <a href="
+"\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</a> "
+"dalam komentar mereka."
+
+msgid "Site Name"
+msgstr "Nama Situs"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "Alamat email Anda tidak valid"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Weblog"
+
+#, fuzzy
+msgid "Page"
+msgstr "gambar"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "Nama Situs"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- Pilih sebuah opsi -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+"Ini menentukan format dari link yang dapat digunakan pengunjung untuk "
+"membalas komentar tertentu."
+
+msgid "Default language"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "Bahasa Default"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+#, fuzzy
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr "Ya, seperti /archive/2005/04/28/title_of_entry"
+
+#, fuzzy
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr "Ya, seperti /archive/2005-04-28/title_of_entry"
+
+msgid "Yes, like /entry/1234"
+msgstr "Ya, seperti /entry/1234"
+
+#, fuzzy
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr "Ya, seperti /entry/1234/title_of_entry"
+
+#, fuzzy
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr "Ya, seperti /archive/2005/04/28/title_of_entry"
+
+#, fuzzy
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr "Ya, seperti /archive/2005-04-28/title_of_entry"
+
+msgid "Use Mod_rewrite"
+msgstr "Gunakan Mod_rewrite"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"Jika Anda menggunakan opsi Mod_rewrite Apache, Pivot akan membuat URL "
+"seperti www.mysite.com/archive/2003/05/30/nice_weather, daripada www.mysite."
+"com/pivot/entry.php?id=134. Tidak semua server mendukung ini, jadi bacalah "
+"bagian pada manual mengenai ini."
+
+msgid "Allow comments by default"
+msgstr "Ijinkan komentar secara default"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr ""
+"Menentukan apakah entri diatur untuk memperbolehkan komentar atau tidak."
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "Simpan Komentar"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "Simpan Setting"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Tampilkan yang terakhir"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "Jumlah Entri"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS Feed"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "Jumlah Entri"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "Kode"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "Ukuran File Maksimum"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "Ukuran File Maksimum"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Mode Debug"
+
+msgid "Show random debug information, every here and there.."
+msgstr "Tampilkan informasi debug secara acak, di sana sini.."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "File-file Log"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "File yang tidak mempunyai link"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"Beberapa instance dari server di mana safe_mode yang tidak menyenangkan "
+"diaktifkan, kemungkinan perlu bermain dengan opsi ini. Pada kebanyakan "
+"server opsi ini tidak akan mempunyai dampak."
+
+msgid "Chmod Files To"
+msgstr "Chmod File Pada"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"Beberapa server mensyaratkan bahwa file yang telah dibuat di-chmod dengan "
+"cara yang spesifik. Nilai umumnya adalah '0644' dan '0755'. Jangan mengubah "
+"ini, kecuali Anda tahu apa yang sedang Anda lakukan."
+
+msgid "File Upload Path"
+msgstr "Path File Upload"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Overwrite"
+
+msgid "Increment Filename"
+msgstr "Tambahkan Nama File"
+
+msgid "Maximum Filesize"
+msgstr "Ukuran File Maksimum"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Thumbnail Otomatis"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Lebar Thumbnail"
+
+msgid "Thumbnail height"
+msgstr "Tinggi Thumbnail"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Lebar Thumbnail"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Tipe yang dapat diterima"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Format tanggal lengkap"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"Ini menentukan format untuk tanggal dan waktu yang lengkap. Yang paling "
+"sering digunakan pada bagian atas dari sebuah halaman entri"
+
+msgid "Entry Date"
+msgstr "Tanggal Entri"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Diff Date"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'Diff Date' sering digunakan dalam hubungannya dengan 'Tanggal Entri'. "
+"Tanggal Entri ditampilkan pada setiap entri pada log Anda, sementara Diff "
+"Date hanya ditampilkan jika tanggalnya berbeda dari entri sebelumnya."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "Unit Waktu Offset"
+
+msgid "Year"
+msgstr "Tahun"
+
+msgid "Month"
+msgstr "Bulan"
+
+msgid "Day"
+msgstr "Hari"
+
+msgid "Hour"
+msgstr "Jam"
+
+msgid "Minute"
+msgstr "Menit"
+
+msgid "Time Offset"
+msgstr "Waktu Offset"
+
+#, fuzzy
+msgid "Activate"
+msgstr "Arsip"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "Level Min. Pengguna"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "Alamat email Anda tidak valid"
+
+#, fuzzy
+msgid "Default author"
+msgstr "Default Gravatar"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "Bahasa Default"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "Pilih Gambar"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "Hapus Kategori"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- Pilih sebuah opsi -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "Hapus Kategori"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "Kategori yang diperbolehkan"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+msgid "Number of links"
+msgstr "Jumlah Link"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+"Jumlah hyperlink maksimal yang diperbolehkan dalam komentar. Berguna untuk "
+"menghilangkan komentar yang menggangu dari spammer. Diatur ke 0 untuk jumlah "
+"link yang tidak terbatas."
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "Konversi"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "Nama Gambar"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "Extensi Default"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "Extensi Default"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "Extensi Default"
+
+#, fuzzy
+msgid "By"
+msgstr "Isi"
+
+#, fuzzy
+msgid "version"
+msgstr "Konversi"
+
+#, fuzzy
+msgid "last updated"
+msgstr "Terakhir diubah pada"
+
+#, fuzzy
+msgid "site link"
+msgstr "Sisipkan sebuah link"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "Konfigurasi"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "Sisipkan sebuah gambar"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "Sisipkan sebuah gambar"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Kirim Ping"
+
+#, fuzzy
+msgid "Oops."
+msgstr "Ups"
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Login Pengguna Pivot"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Login Pengguna Pivot"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Login Pengguna Pivot"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "Anda tidak dapat melakukannya dengan entri %title%!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "Komentar telah dihapus."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "File Anda telah di-upload sebagai '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "Komentar telah dihapus."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "Weblog baru telah dibuat."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Buat Thumbnail)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Path File Upload"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "Feed template"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Emoticon"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "Password"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "tigabelas"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "Tulis"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Kesalahan Penulisan. Tidak dapat membuka file untuk ditulis"
+
+msgid "Write Error. Could not write to file"
+msgstr "Kesalahan Penulisan. Tidak dapat menulis ke file"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "Ini menentukan format dari komentar pada halaman entri."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "Pilih '%val%' pada entri ini"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "Hapus Komentar"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "Ini menentukan format dari komentar pada halaman entri."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "Berbagai Setting"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Entri Baru"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "Konfigurasi"
+
+msgid "%num% comment"
+msgstr "%num% komentar"
+
+msgid "%num% comments"
+msgstr "%num% komentar"
+
+msgid "%num% trackback"
+msgstr "%num% trackback"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "%num% trackback"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"Anda sedang melakukan preview untuk komentar Anda. Pastikan Anda telah meng-"
+"klik 'Kirim Komentar' untuk menyimpannya."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr ""
+"Komentar Anda belum disimpan, karena sepertinya sama dengan entri sebelumnya"
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr ""
+"Komentar Anda belum disimpan, karena sepertinya sama dengan entri sebelumnya"
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr ""
+"Komentar Anda belum disimpan, karena sepertinya sama dengan entri sebelumnya"
+
+msgid "Your comment has been stored."
+msgstr "Komentar Anda telah disimpan."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"Anda harus memasukkan nama (atau alias) pada field 'nama'. Pastikan telah "
+"meng-klik 'Kirim Komentar' untuk menyimpannya terus."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"Anda harus memasukkan sesuatu pada field 'komentar'. Pastikan telah meng-"
+"klik 'Kirim Komentar' untuk terus menyimpannya."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr "Jumlah maksimum hyperlink telah dilewati. Berhenti spamming."
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "Format dari Komentar"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "Ubah Thumbnail"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Login Pengguna Pivot"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Kode"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "Emoticon"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "Ubah Thumbnail"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Buat Thumbnail)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Lanjut!"
+
+#, fuzzy
+msgid "Back"
+msgstr "Backup"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "Kode"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "Minggu"
+
+msgid "Monday"
+msgstr "Senin"
+
+msgid "Tuesday"
+msgstr "Selasa"
+
+msgid "Wednesday"
+msgstr "Rabu"
+
+msgid "Thursday"
+msgstr "Kamis"
+
+msgid "Friday"
+msgstr "Jumat"
+
+msgid "Saturday"
+msgstr "Sabtu"
+
+msgid "S_Sunday_initial"
+msgstr "M"
+
+msgid "M_Monday_initial"
+msgstr "S"
+
+msgid "T_Tuesday_initial"
+msgstr "S"
+
+msgid "W_Wednesday_initial"
+msgstr "R"
+
+msgid "T_Thursday_initial"
+msgstr "K"
+
+msgid "F_Friday_initial"
+msgstr "J"
+
+msgid "S_Saturday_initial"
+msgstr "S"
+
+msgid "Sun"
+msgstr "Min"
+
+msgid "Mon"
+msgstr "Sen"
+
+msgid "Tue"
+msgstr "Sel"
+
+msgid "Wed"
+msgstr "Rab"
+
+msgid "Thu"
+msgstr "Kam"
+
+msgid "Fri"
+msgstr "Jum"
+
+msgid "Sat"
+msgstr "Sab"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Maret"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Agustus"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Jan_January_abbreviation"
+msgstr "Jan"
+
+msgid "Feb_February_abbreviation"
+msgstr "Feb"
+
+msgid "Mar_March_abbreviation"
+msgstr "Mar"
+
+msgid "Apr_April_abbreviation"
+msgstr "Apr"
+
+msgid "May_May_abbreviation"
+msgstr "Mei"
+
+msgid "Jun_June_abbreviation"
+msgstr "Jun"
+
+msgid "Jul_July_abbreviation"
+msgstr "Jul"
+
+msgid "Aug_August_abbreviation"
+msgstr "Agts"
+
+msgid "Sep_September_abbreviation"
+msgstr "Sep"
+
+msgid "Oct_October_abbreviation"
+msgstr "Okt"
+
+msgid "Nov_November_abbreviation"
+msgstr "Nov"
+
+msgid "Dec_December_abbreviation"
+msgstr "Des"
+
+#, fuzzy
+msgid "am"
+msgstr "Nama"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "nol"
+
+msgid "one"
+msgstr "satu"
+
+msgid "two"
+msgstr "dua"
+
+msgid "three"
+msgstr "tiga"
+
+msgid "four"
+msgstr "empat"
+
+msgid "five"
+msgstr "lima"
+
+msgid "six"
+msgstr "enam"
+
+msgid "seven"
+msgstr "tujuh"
+
+msgid "eight"
+msgstr "delapan"
+
+msgid "nine"
+msgstr "sembilan"
+
+msgid "ten"
+msgstr "sepuluh"
+
+msgid "eleven"
+msgstr "sebelas"
+
+msgid "twelve"
+msgstr "duabelas"
+
+msgid "thirteen"
+msgstr "tigabelas"
+
+msgid "fourteen"
+msgstr "empatbelas"
+
+msgid "fifteen"
+msgstr "limabelas"
+
+msgid "sixteen"
+msgstr "enambelas"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "tujuh"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "delapan"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "sembilan"
+
+#, fuzzy
+msgid "twenty"
+msgstr "Entri Baru"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "nol"
+
+#, fuzzy
+msgid "second"
+msgstr "Detik"
+
+#, fuzzy
+msgid "third"
+msgstr "tigabelas"
+
+#, fuzzy
+msgid "forth"
+msgstr "empat"
+
+#, fuzzy
+msgid "fifth"
+msgstr "limabelas"
+
+#, fuzzy
+msgid "sixth"
+msgstr "enam"
+
+#, fuzzy
+msgid "seventh"
+msgstr "tujuh"
+
+#, fuzzy
+msgid "eighth"
+msgstr "delapan"
+
+#, fuzzy
+msgid "ninth"
+msgstr "sembilan"
+
+#, fuzzy
+msgid "tenth"
+msgstr "sepuluh"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "sebelas"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "duabelas"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "tigabelas"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "empatbelas"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "limabelas"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "enambelas"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "tujuh"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "delapan"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "sembilan"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "sepuluh"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+"Script peng-install Pivot 'pivot-setup.php' masih ada di folder induk. Anda "
+"harus waspada bahwa hal ini adalah sebuah resiko keamanan yang potensial. "
+"Kami menyarankan Anda untuk memindahkannya, atau mengubah namanya, sehingga "
+"tidak dapat dijalankan oleh orang yang berniat jahat."
+
+#, fuzzy
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+"Script peng-install Pivot 'pivot-setup.php' masih ada di folder induk. Anda "
+"harus waspada bahwa hal ini adalah sebuah resiko keamanan yang potensial. "
+"Kami menyarankan Anda untuk memindahkannya, atau mengubah namanya, sehingga "
+"tidak dapat dijalankan oleh orang yang berniat jahat."
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "Border"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "Upload File"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Tampilkan yang terakhir"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "Komentar telah dihapus."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Weblog"
+
+#, fuzzy
+msgid "category"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "entry"
+msgstr "Entri Baru"
+
+#, fuzzy
+msgid "for comments"
+msgstr "Tidak ada komentar"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "Cari Hasil"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "Ditemukan untuk '%name%':"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "Ditemukan untuk '%name%':"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "Tidak ada yg ditemukan untuk '%name%'. Cobalah yang lain."
+
+msgid "Search for words used in entries on this website"
+msgstr "Cari kata-kata yang digunakan entri pada website"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "Masukkan kata[-kata] yang akan dicari disini :"
+
+msgid "Enter searchterms"
+msgstr "Masukkan kata yang dicari"
+
+msgid "Search!"
+msgstr "Cari!"
+
+msgid "XML: Atom Feed"
+msgstr "XML: Atom Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "%num% komentar"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "Emoticon"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Login Pengguna Pivot"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "Buat template"
+
+msgid "Text file"
+msgstr "File Text"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Pivot » Baru"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "Upload sebuah File Baru:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Pivot » Baru"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "Ubah Thumbnail"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Upload sebuah File Baru:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "Template"
+
+#, fuzzy
+msgid "Include template"
+msgstr "Simpan template!"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "Template Halaman Depan"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "Template Halaman Arsip"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "Template Halaman Entri"
+
+#, fuzzy
+msgid "Page template"
+msgstr "Simpan template!"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "Template Halaman Arsip"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "Konfigurasi"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Login Pengguna Pivot"
+
+#, fuzzy
+msgid "(more)"
+msgstr "satu"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "Sisipkan sebuah gambar"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "Tidak ada trackback"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "Ubah Trackback"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Hapus Komentar"
+
+#, fuzzy
+msgid "register/login"
+msgstr "Daftar"
+
+msgid "words"
+msgstr "kata-kata"
+
+msgid "image"
+msgstr "gambar"
+
+msgid "images"
+msgstr "gambar-gambar"
+
+msgid "file"
+msgstr "file"
+
+msgid "files"
+msgstr "file-file"
+
+msgid "Self-registration"
+msgstr "Pendaftaran otomatis"
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "Pilih '%val%' pada entri ini"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+#, fuzzy
+msgid "Related tags"
+msgstr "Berita Pivot Terbaru"
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Tampilkan yang terakhir"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "Ini menentukan format dari trackback pada halaman entri."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "Ini menentukan format dari trackback pada halaman entri."
+
+msgid "Log in as a registered visitor"
+msgstr "Log in sebagai pengunjung terdaftar"
+
+msgid "Forgotten your password?"
+msgstr "Lupa password Anda?"
+
+msgid "Register a new username."
+msgstr "Daftar username baru."
+
+msgid "Logged in as"
+msgstr "Sudah Log in sebagai"
+
+msgid "Log out."
+msgstr "Log out."
+
+#, fuzzy
+msgid "Delete account."
+msgstr "Hapus Komentar"
+
+msgid "Edit your preferences"
+msgstr "Ubah pilihan Anda"
+
+msgid "User disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "Password Salah"
+
+msgid "Logged in"
+msgstr "Sudah Log in"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"Silahkan mengisi informasi berikut. <strong>Pastikan Anda telah memasukkan "
+"alamat email yang valid</strong>, karena kami akan mengirimkan email "
+"verifikasi ke alamat tersebut."
+
+msgid "Options"
+msgstr "Opsi"
+
+msgid "Back to login"
+msgstr "Kembali login"
+
+msgid "Show my email address with comments"
+msgstr "Tampilkan alamat email beserta komentar"
+
+msgid "Notify me via email of new entries"
+msgstr "Beritahu saya via email jika ada entri baru"
+
+msgid "Default notification of replies"
+msgstr "Default Pemberitahuan Balasan"
+
+msgid "Here you can change your information."
+msgstr "Anda dapat mengubah informasi Anda di sini."
+
+msgid "Change preferences"
+msgstr "Ubah pilihan"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr "Ups"
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Kirim Password"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+"Jika Anda lupa password, isikan username dan alamat email, dan Pivot akan "
+"mengirimkan password ke alamat email Anda. "
+
+#, fuzzy
+msgid "User already exists... Please pick another name."
+msgstr "Pengguna sudah ada.. Silahkan memilih nama lain."
+
+#, fuzzy
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "Pengguna sudah ada.. Silahkan memilih nama lain."
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"Anda harus memasukkan alamat email, jika tidak Anda tidak dapat mem-"
+"verifikasi account Anda. Anda selalu dapat memilih untuk tidak menampilkan "
+"alamat Anda kepada pengunjung lain."
+
+msgid "The changes have been stored"
+msgstr "Perubahan telah disimpan"
+
+msgid "Your account is verified. Please log in.."
+msgstr "Account Anda telah diverifikasi. Silahkan log in.."
+
+#, fuzzy
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr ""
+"Kode yang Anda masukkan sepertinya salah. Maaf, tapi kami tidak dapat mem-"
+"verifikasinya."
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr "Password Anda telah dikirim ke mailbox yang diberikan.."
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr "Sudah Log out"
+
+msgid "Back to"
+msgstr "Kembali ke"
+
+#, fuzzy
+msgid "User stored!"
+msgstr "Gunakan Teks"
+
+msgid "Could not store new user!!"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "Konfigurasi"
+
+msgid "Verify your account"
+msgstr ""
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Username/Password Keliru"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "Sudah Log in"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "Arsip Sebelumnya"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Sudah Log in"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "Sudah Log out"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "Ubah Setting Weblog Untuk "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "Hapus weblog ini."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Hapus Kategori"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+#, fuzzy
+msgid "About PivotX"
+msgstr "Tentang"
+
+#, fuzzy
+msgid "Setup user"
+msgstr "Hapus pengguna"
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "Daftar username baru."
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "Anda tidak dapat melakukannya dengan entri %title%!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "Weblog telah diperbaharui."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "Extensi Default"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "Ubah Entri"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "Anda tidak dapat melakukannya dengan entri %title%!"
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "Entri Anda '%s' sudah berhasil disimpan."
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "Entri Anda '%s' sudah berhasil disimpan."
+
+#, fuzzy, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "Sebuah ping trackback telah dikirim ke '%s'."
+
+#, fuzzy
+msgid "Log out"
+msgstr "Log out."
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "Anda tidak diijinkan untuk mengirim ke kategori :'%s'."
+
+msgid "My Settings"
+msgstr "Setting"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Tambahkan Bookmarklet."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "Weblog telah diperbaharui."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "Tentang"
+
+msgid "Edit my personal Settings"
+msgstr "Ubah Setting Pribadi"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "Anda tidak diijinkan untuk mengirim ke kategori :'%s'."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "Anda tidak diijinkan untuk mengirim ke kategori :'%s'."
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "Anda tidak diijinkan untuk mengirim ke kategori :'%s'."
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "Weblog telah dihapus."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "Anda tidak diijinkan untuk mengirim ke kategori :'%s'."
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "Weblog telah diperbaharui."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Trackback telah disimpan."
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr "Ubah atau Hapus Trackback"
+
+msgid "Comments"
+msgstr "Komentar"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "Komentar telah dihapus."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "Ubah atau Hapus Komentar"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "Komentar telah disimpan."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+msgid "Edit or Delete Trackbacks"
+msgstr "Ubah atau Hapus Trackback"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Trackback telah disimpan."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Upload File"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "Trackback telah dihapus."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "Komentar telah dihapus."
+
+msgid "The weblog has been deleted."
+msgstr "Weblog telah dihapus."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "Weblog telah dihapus."
+
+msgid "Create New Weblog"
+msgstr "Buat Weblog Baru"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "Setting Proses Komentar"
+
+#, fuzzy
+msgid "Database"
+msgstr "Tanggal"
+
+#, fuzzy
+msgid "Debug"
+msgstr "Mode Debug"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "Path File Upload"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "Tanggal/Waktu"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Moblogger"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr ""
+"Proses membuat Index sedang berlangsung. Hal ini akan memerlukan sedikit "
+"waktu, jadi mohon agar tidak diganggu."
+
+msgid "Rebuild the Search Index"
+msgstr "Buat Kembali Index Pencarian"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "Buat Kembali Index Pencarian, untuk memungkinkan pencarian entri"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Proses pembuatan Index Pencarian sedang berlangsung. Hal ini akan memerlukan "
+"sedikit waktu, jadi mohon agar tidak diganggu."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Buat Kembali Index"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Proses membuat Index sedang berlangsung. Hal ini akan memerlukan sedikit "
+"waktu, jadi mohon agar tidak diganggu."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "Tanggal"
+
+#, fuzzy
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+"Ini akan memungkinkan Anda men-download sebuah file zip yang berisi "
+"konfigurasi file Anda"
+
+#, fuzzy
+msgid "Explore files"
+msgstr "Upload File"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "Konfigurasi"
+
+msgid "Blocked Phrases"
+msgstr "Ignored Domains"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "Lihat dan Ubah Domains yang diacuhkan."
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP blok"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Lihat dan Ubah alamat IP yang di-blok."
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Lakukan Pemeliharaan Rutin pada File-file Pivot"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "Komentar telah dihapus."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "Nama Pengguna ini sudah terpakai"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "Nama Pengguna ini sudah terpakai"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "Weblog telah diperbaharui."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "Nama Pengguna ini sudah terpakai"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "Weblog baru telah dibuat."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "Trackback telah dihapus."
+
+msgid "A category by this name already exists"
+msgstr "Kategori dengan nama ini sudah ada"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "Weblog telah diperbaharui."
+
+msgid "Edit Weblog"
+msgstr "Ubah Weblog"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "tigabelas"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "Sisipkan sebuah gambar"
+
+#~ msgid "# Comm"
+#~ msgstr "# Kom"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "Komentar"
+
+#~ msgid "search"
+#~ msgstr "cari"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "Rollback"
+
+#~ msgid ""
+#~ "Specify the email address(es) to whom mail will be sent. seperate "
+#~ "multiple addresses with a comma."
+#~ msgstr ""
+#~ "Tentukan alamat-alamat email yang akan dikirim. Pisahkan alamat-alamat "
+#~ "tersebut dengan koma."
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "User"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "Tanggal"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "Kategori"
+
+#, fuzzy
+#~ msgid "Format of \"reply ..\""
+#~ msgstr "Format dari 'balasan ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr ""
+#~ "Ini menentukan format dari link yang dapat digunakan pengunjung untuk "
+#~ "membalas komentar tertentu."
+
+#, fuzzy
+#~ msgid "Format of \"reply by ..\""
+#~ msgstr "Format dari 'dibalas oleh ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+#~ msgstr ""
+#~ "Ini menentukan format dari teks yang ditampilkan jika komentar dibalas "
+#~ "oleh komentar lain."
+
+#, fuzzy
+#~ msgid "Format of \"reply on ..\""
+#~ msgstr "Format dari 'balasan dari ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr ""
+#~ "Ini menentukan format dari teks yang ditampilkan jika komentar merupakan "
+#~ "balasan dari komentar lain."
+
+#~ msgid "Trackback Settings"
+#~ msgstr "Setting Trackback"
+
+#~ msgid "Format of Trackbacks"
+#~ msgstr "Format dari Trackback"
+
+#~ msgid "This specifies the formatting of trackbacks on the entry pages."
+#~ msgstr "Ini menentukan format dari trackback pada halaman entri."
+
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Format dari Link Trackback"
+
+#, fuzzy
+#~ msgid ""
+#~ "This specifies the formatting of the trackback link on the entry pages.)"
+#~ msgstr "Ini menentukan format dari trackback pada halaman entri."
+
+#~ msgid "Allow self-registration"
+#~ msgstr "Pendaftaran otomatis dimungkinkan"
+
+#~ msgid ""
+#~ "Setting this to yes enables people to register as (normal) users and "
+#~ "hence post entries. (This is not a \"comment\" user.)"
+#~ msgstr ""
+#~ "Mengubah ini ke yang memungkinkan orang untuk mendaftar sebagai  (normal) "
+#~ "pengguna sehingga dapat mengirim entri. (Ini bukan pengguna \"komentar\".)"
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "Username dan alamat email itu sepertinya tidak cocok."
+
+#~ msgid "File Mappings"
+#~ msgstr "File Mapping"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr ""
+#~ "Tampilkan dan overview dari file di situs Anda yang dibuat dan oleh "
+#~ "weblog dalam Pivot ini"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "Upload sebuah File Baru:"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "Di bawah ini Anda dapat melihat overview dari setiap weblog dalam "
+#~ "instalasi Pivot ini, berikut file-file yang dibuat oleh Pivot dan "
+#~ "template yang digunakan untuk membuat file-file ini. Ini akan sangat "
+#~ "berguna ketika pinpointing bermasalah dengan pembuatan file-file."
+
+#, fuzzy
+#~ msgid "Delete registered visitor"
+#~ msgstr "Log in sebagai pengunjung terdaftar"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can delete this registered visitor if you would like. All of their "
+#~ "comments will remain"
+#~ msgstr ""
+#~ "Anda dapat menghapus pengguna ini jika Anda mau. Semua kirimannya tetap "
+#~ "ada, tetapi mereka tidak akan dapat login lagi"
+
+#~ msgid "Change"
+#~ msgstr "Ubah"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "Konfirmasi Penghapusan"
+
+#, fuzzy
+#~ msgid ""
+#~ "You're about to remove the account for %s. Are you sure you want to do "
+#~ "this?"
+#~ msgstr ""
+#~ "Anda sedang menghilangkan akses untuk %s. Anda yakin ingin melakukan ini?"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "Alamat-alamat IP telah disimpan."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Simpan alamat IP ini"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "Domains yang diacuhkan telah disimpan."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "Domains yang diacuhkan telah disimpan."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "Domains yang diacuhkan telah disimpan."
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Simpan Beberapa Domains yang diacuhkan ini"
+
+#, fuzzy
+#~ msgid "Globally blocked phrases."
+#~ msgstr "Ignored Domains"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "Nama terdiri atas 3 huruf atau lebih"
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "Blok IP %s"
+
+#~ msgid "[Trackback] Re:"
+#~ msgstr "[Trackback] Re:"
+
+#~ msgid "No TrackBack ID (tb_id)"
+#~ msgstr "Tidak ada ID Trackback (tb_id)"
+
+#~ msgid "No URL (url)"
+#~ msgstr "Tidak ada URL (url)"
+
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr ""
+#~ "Trackback Anda belum disimpan, karena kelihatannya merupakan duplikat "
+#~ "dari entri sebelumnya"
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "Menit"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "Catatan : Pemilik situs ini mungkin <br /> dapat melihat password Anda.. "
+#~ "<em>Jangan</em> menggunakan password<br /> yang digunakan untuk website/"
+#~ "account lain!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your forgotten password for PivotX \"%name%\" is: \n"
+#~ "\n"
+#~ "%pass%\n"
+#~ "\n"
+#~ "Don't forget it again, please!\n"
+#~ "\n"
+#~ "To log in to your account, click the following link:\n"
+#~ " %link%"
+#~ msgstr ""
+#~ "Password yang Anda lupa untuk Pivot '%name%' adalah: %pass%Mohon jangan "
+#~ "lupa lagi!Untuk log in ke account Anda, klik link berikut: %link%"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "Password"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "Sisipkan sebuah Popup Gambar"
+
+#~ msgid "No such user.."
+#~ msgstr "Tidak ada pengguna itu.."
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "Tidak ada komentar"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "Komentar"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "Komentar"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "Preview Komentar"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "Rollback"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "Emoticon"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "Tidak ada komentar"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Berita Pivot Terbaru"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "Komentar"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "Komentar"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "Komentar"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "Arsip Sebelumnya"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Ping update trackers"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "Ini menentukan apakah update trackers seperti weblogs.com akan diberitahu "
+#~ "secara otomatis oleh Pivot jika Anda mengirim sebuah entri baru. Layanan "
+#~ "seperti blogrolling.com tergantung pada ping-ping ini"
+
+#~ msgid "URLs to ping"
+#~ msgstr "URL ke ping"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "Anda dapat menyediakan beberapa URL untuk dikirimi ping. Jangan "
+#~ "memasukkan bagian http:// , karena akan membuatnya tidak berfungsi. "
+#~ "Tempatkan saja setiap server pada sebuah baris baru, atau dipisahkan oleh "
+#~ "sebuah karakter pipa (|). Beberapa server yang umum di-ping:<br /><b>rpc."
+#~ "weblogs.com/RPC2</b> (tukang ping weblogs.com, salah satu yang paling "
+#~ "sering digunakan)<br /><b>pivotlog.net/pinger</b> (tukang ping pivotlog, "
+#~ "belum beroperasi)<br /><b>rcs.datashed.net/RPC2</b> (tukang ping euro."
+#~ "weblogs.com)<br /><b>ping.blo.gs</b> (tukang ping blo.gs)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Ping Setup"
+
+#, fuzzy
+#~ msgid "stuff"
+#~ msgstr "Stuff"
+
+#~ msgid "upload"
+#~ msgstr "upload"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "File Anda belum di-upload, dan kesalahan berikut terjadi:"
+
+#~ msgid "or select"
+#~ msgstr "atau pilih"
+
+#~ msgid "Select File"
+#~ msgstr "Pilih File"
+
+#, fuzzy
+#~ msgid "Spamscore Threshold"
+#~ msgstr "Buat Kembali Threshold"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "Nama Gambar"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Gunakan Editor Wysiwyg"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "Tentukan apakah Editor Wysiwyg aktif secara default. Pengguna individual "
+#~ "dapat mengganti ini pada setting 'Info-ku'."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "Setting untuk Komentar-Komentar Terakhir"
+
+#~ msgid "Show how many"
+#~ msgstr "Tampilkan berapa banyak"
+
+#~ msgid "Cut at length"
+#~ msgstr "Potong panjangnya"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Setting ini menentukan tampilan dari 'komentar terakhir' pada halaman "
+#~ "depan weblog."
+
+#, fuzzy
+#~ msgid "Use \"Nofollow\""
+#~ msgstr "Gunakan 'Nofollow'"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+#~ msgstr ""
+#~ "Untuk melawan refererspam Anda dapat memilih untuk menambah atribut rel="
+#~ "\"nofollow\" ke semua link dalam komentar dan referer, sehingga tidak "
+#~ "dapat digunakan spammer untuk mendapat urutan halaman yang lebih baik "
+#~ "dalam Google."
+
+#~ msgid "Next Archive"
+#~ msgstr "Arsip Berikutnya"
+
+#~ msgid "Previous Archive"
+#~ msgstr "Arsip Sebelumnya"
+
+#~ msgid "Archive type"
+#~ msgstr "Tipe Arsip"
+
+#~ msgid "No Archives"
+#~ msgstr "Tidak Ada Arsip"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "Arsip Mingguan"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Arsip Bulanan"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "Arsip Tahunan"
+
+#~ msgid "Archive Link"
+#~ msgstr "Link Arsip"
+
+#~ msgid "Archive List format"
+#~ msgstr "Format Daftar Arsip"
+
+#~ msgid "Archive Order"
+#~ msgstr "Order Arsip"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "Ascending (yang terlama dulu)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "Descending (yang terbaru dulu)"
+
+#~ msgid "Pivot installer script present"
+#~ msgstr "Script peng-install Pivot tersedia"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "Simpan file-file log dari berbagai kegiatan"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "Label untuk 'tidak ada komentar'"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "Label untuk 'satu komentar'"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "Label untuk 'X komentar'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Teks yang digunakan untuk menandakan berapa banyak komentar yang ada. "
+#~ "Jika dibiarkan kosong, Pivot akan menggunakan default yang ditentukan "
+#~ "oleh setting bahasa"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "Label untuk 'tidak ada trackback'"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "Label untuk 'satu trackback'"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "Label untuk 'X trackback'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many trackbacks there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Teks yang digunakan untuk menandakan berapa banyak trackback yang ada. "
+#~ "Jika dibiarkan kosong, Pivot akan menggunakan default yang ditentukan "
+#~ "oleh setting bahasa"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "%num% komentar"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "%num% komentar"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "Tidak ada trackback"
+
+#, fuzzy
+#~ msgid "%num% trackbacks."
+#~ msgstr "%num% trackback"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "Anda tidak mempunyai ijin untuk menggunakan fasilitas ini"
+
+#~ msgid "Further Options"
+#~ msgstr "Pilihan Lain"
+
+#~ msgid "Basic View"
+#~ msgstr "Tampilan Dasar"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "Hanya tampilkan field paling umum"
+
+#~ msgid "Extended View"
+#~ msgstr "Tampilan Penuh"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "Tampilkan semua field yang dapat diubah"
+
+#~ msgid "Done!"
+#~ msgstr "Selesai!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Shortcut"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "Anda tidak dapat menghapus entri %title%!"
+
+#~ msgid ""
+#~ "You can not delete the last entry. You must first post a new entry, "
+#~ "before deleting this entry"
+#~ msgstr ""
+#~ "Anda tidak dapat menghapus entri terakhir. Anda harus membuat sebuah "
+#~ "entri baru, sebelum menghapus entri ini"
+
+#~ msgid "Week"
+#~ msgstr "Minggu"
+
+#~ msgid "Remember"
+#~ msgstr "Ingat"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "Jika Anda yakin bahwa Anda menggunakan username dan password yang "
+#~ "\ttepat, tetapi Anda<br /> mempunyai masalah untuk masuk, Anda dapat "
+#~ "mencoba menghapus Cookies untuk domain ini:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "Hapus cookies"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "Anda telah gagal memperoleh akses dalam 10 kesempatan. Akibatnya, IP ini "
+#~ "telah dilarang untuk login selama 12 jam."
+
+#~ msgid "Overview"
+#~ msgstr "Overview"
+
+#~ msgid "Modify Entries"
+#~ msgstr "Ubah Entri"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Bookmark"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistik"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "Global Overview dari Pivot"
+
+#~ msgid "View my personal Info"
+#~ msgstr "Tampilkan Data Pribadi"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Buat Bookmark"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "File telah di-upload"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "Tampilkan Log dan Statistik."
+
+#~ msgid "Recent Entries"
+#~ msgstr "Entri Terbaru"
+
+#~ msgid "Recent Comments"
+#~ msgstr "Komentar Terbaru"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "Buat Kembali Semua File"
+
+#~ msgid "Verify the Database"
+#~ msgstr "Verifikasi Database"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "Buat Kembali Halaman Depan"
+
+#~ msgid "User Information Fields"
+#~ msgstr "Informasi Field User"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "Buat, Ubah dan Hapus Informasi Field Pengguna"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Buat kembali File dan Arsip yang di-generate Pivot "
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "Verifikasi Integritas Database Anda"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr ""
+#~ "Buat Kembali Halaman Depan, Arsip Terakhir dan RSS File untuk setiap "
+#~ "Weblog."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "Buat sebuah Backup dari Entri Anda"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Kirim Ping untuk meng-Update Tracker."
+
+#~ msgid "Open Debug window"
+#~ msgstr "Buka jendela Debug"
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "Buat sebuah template Pivot dari awal"
+
+#~ msgid "Comment*"
+#~ msgstr "Komentar*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr ""
+#~ "(*Catatan : Komentar hanya dapat disimpan ketika <b>pertama kali</b> "
+#~ "menyimpan perubahan atau pembuatan)"
+
+#~ msgid "Editing"
+#~ msgstr "Proses Pengubahan"
+
+#~ msgid "Save changes!"
+#~ msgstr "Simpan Perubahan!"
+
+#~ msgid "Auxillary template"
+#~ msgstr "Template Tambahan"
+
+#~ msgid "Subtemplate"
+#~ msgstr "Subtemplate"
+
+#~ msgid "Normal template"
+#~ msgstr "Template Normal"
+
+#~ msgid "CSS file"
+#~ msgstr "File CSS"
+
+#~ msgid "PHP file"
+#~ msgstr "File PHP"
+
+#~ msgid "Generate Archive"
+#~ msgstr "Generate Arsip"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "Regenerate semua arsip Anda"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "Verifikasi File-file XML"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "Verifikasi (dan perbaiki jika perlu) integritas dari file-file XML"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Buat backup dari semua file-file penting Pivot."
+
+#~ msgid "20 referrers"
+#~ msgstr "20 referrer"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 referrer"
+
+#~ msgid "all referrers"
+#~ msgstr "semua referrer"
+
+#~ msgid "only non-blocked lines"
+#~ msgstr "hanya baris yang tidak diblok"
+
+#~ msgid "both blocked and non-blocked lines"
+#~ msgstr "baik baris yang diblok maupun tidak"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Update referer ke title mappings"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "Alamat Host (alamat IP)"
+
+#~ msgid "Which page"
+#~ msgstr "Halaman Mana"
+
+#~ msgid "Getting new titles"
+#~ msgstr "Membuat Nama Baru"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "Ini akan berlangsung agak lama, mohon jangan diganggu."
+
+#~ msgid "First pass"
+#~ msgstr "Pass pertama"
+
+#~ msgid "Second pass"
+#~ msgstr "Pass kedua"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "Referer-title mapping Anda sudah diperbaharui."
+
+#~ msgid "Finished"
+#~ msgstr "Selesai"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "Ubah Field Pengguna"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr ""
+#~ "Ubah field yang dapat digunakan user untuk mendeskripsikan dirinya "
+#~ "sendiri."
+
+#~ msgid "Edit User Info"
+#~ msgstr "Ubah Informasi Pengguna"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr ""
+#~ "Buat account login baru untuk Pivot, yang memungkinkan bagi pengiriman "
+#~ "weblog baru."
+
+#~ msgid "Create"
+#~ msgstr "Buat"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "Konfirmasi pembuatan administrator"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "Seorang Administrator mempunyai akses penuh ke Pivot, dapat mengubah "
+#~ "semua item baru, semua komentar dan mengubah semua setting. Anda yakin "
+#~ "mau menambah  %s seorang Administrator?"
+
+#~ msgid "Use encoding"
+#~ msgstr "Gunakan encoding"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "Ini menyatakan encoding yang digunakan (seperti utf-8 atau iso-8859-1). "
+#~ "Anda harus membiarkannya kosong, kecuali Anda tahu benar apa yang Anda "
+#~ "lakukan. Jika ini dibiarkan kosong, setting yang cocok akan digunakan "
+#~ "dari file bahasa."
+
+#~ msgid "File Info"
+#~ msgstr "Informasi File"
+
+#~ msgid "Local Path"
+#~ msgstr "Path Lokal"
+
+#~ msgid "Debug Options"
+#~ msgstr "Opsi Debug"
+
+#~ msgid "File Upload settings"
+#~ msgstr "Setting File Upload"
+
+#~ msgid "Clean Filename"
+#~ msgstr "Bersihkan Nama File"
+
+#~ msgid "Use Basic View"
+#~ msgstr "Gunakan Tampilan Dasar"
+
+#~ msgid ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+#~ msgstr ""
+#~ "Tentukan apakah 'Entri Baru' dibuka pada Tampilan Dasar atau pada "
+#~ "Tampilan Penuh."
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Pengolah Teks Default"
+
+#~ msgid "Text Processing"
+#~ msgstr "Pengolah Teks"
+
+#~ msgid "None"
+#~ msgstr "Tidak ada"
+
+#~ msgid "Trackback Setup"
+#~ msgstr "Setup Trackback"
+
+#~ msgid ""
+#~ "If set, an email will be sent to this address when a Tracback is added."
+#~ msgstr ""
+#~ "Jika diatur, sebuah email akan dikirim ke alamat ini ketika sebuah "
+#~ "Tracback ditambahkan."
+
+#~ msgid "Open links in new window"
+#~ msgstr "Membuka link pada window baru"
+
+#~ msgid "Use emoticons"
+#~ msgstr "Gunakan emoticon"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "Encode Alamat Email?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr ""
+#~ "Menentukan apakah semua link yang digunakan dalam entri akan dibuka pada "
+#~ "sebuah window baru."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "Perbaharui Index Pencarian secara Otomatis"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "Ini akan menentukan apakah Index Pencarian file akan di-update setiap "
+#~ "kali Anda mengirimkan sebuah entri baru, atau Anda mengganti yang sudah "
+#~ "ada."
+
+#~ msgid ""
+#~ "The number of seconds rebuilding takes, before Pivot refreshes the page. "
+#~ "The default is 28, but if you are having problems with rebuilding, try "
+#~ "lowering this number to 10."
+#~ msgstr ""
+#~ "Jumlah second yang diperlukan untuk rebuild, sebelum Pivot me-refresh "
+#~ "halaman. Defaultnya adalah 28, tetapi jika Anda bermasalah dengan "
+#~ "rebuild, coba turunkan angka ini ke 10."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Pendahuluan/Isi Default"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "Ini akan menentukan nilai default untuk Pendahuluan dan Isi ketika "
+#~ "seseorang menuliskan entri baru. Biasanya ini akan menjadi paragraf "
+#~ "kosong, yang paling masuk akal secara semantik."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Script Remote cropping"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "Jika pada server Anda tidak ter-install library yang diperlukan untuk "
+#~ "melakukan cropping gambar, Anda dapat menggunakan script remote cropping."
+
+#~ msgid "Extensions directory"
+#~ msgstr "Direktori Extensi"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "Direktori 'extensi' adalah tempat untuk menyimpan tambahan Anda ke Pivot."
+#~ "\r\t\tHal ini membuat update menjadi jauh lebih mudah. Lihat Docs untuk "
+#~ "informasi lebih lengkap."
+
+#~ msgid "Extensions directory path"
+#~ msgstr "Path Direktori Extensi"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "Ubah Weblogs"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "Tambahkan sebuah Weblog Baru"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "Hapus Weblog"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "Untuk setiap subweblog yang ditemukan dalam template, Anda dapat "
+#~ "mengkonfigurasi template apa yang digunakan, juga kategori yang "
+#~ "dipublikasikan di dalamnya."
+
+#~ msgid "Finish"
+#~ msgstr "Selesai"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "Buat / Ubah Weblog, langkah 1 dari 3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "Buat / Ubah Weblog, langkah 2 dari 3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "Buat / Ubah Weblog, langkah 3 dari 3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "Halaman Depan (Index)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "Nama file dari file-index. Umumnya diberi nama seperti 'index.html' atau "
+#~ "'index.php'."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "Jika weblog Anda menggunakan SSI (yang tidak direkomendasikan), Anda "
+#~ "dapat menggunakan ini untuk mengawali nama file di Pivot dengan nama file "
+#~ "yang digunakan untuk SSI. Contoh: 'index.shtml?p='. Sebaiknya Anda "
+#~ "membiarkannya kosong, kecuali Anda tahu apa yang Anda lakukan."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "Path Halaman Depan"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr ""
+#~ "Path relatif atau path absolut ke direktori di mana Pivot akan membuat "
+#~ "halaman depan blog ini."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "Path relatif atau absolut ke direktori di mana Pivot akan membuat halaman "
+#~ "entri tunggal (jika Anda memilih tidak menggunakan  'live entri')"
+
+#~ msgid "Live entries"
+#~ msgstr "Live entri"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "Jika Anda menggunakan 'Live entri', Pivot tidak perlu men-generate file "
+#~ "untuk setiap entri. Ini adalah entri yang lebih disukai."
+
+#~ msgid "Index File"
+#~ msgstr "File Index"
+
+#~ msgid "Archive Path"
+#~ msgstr "Path Arsip"
+
+#~ msgid "Archive Amount"
+#~ msgstr "Jumlah Arsip"
+
+#~ msgid "Archive Format"
+#~ msgstr "Format Arsip"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Template Entri Pendek"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr ""
+#~ "Template yang menentukan layout dari setiap entri, karena ditampilkan di "
+#~ "dalam weblog atau arsip."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "Mau Komentar?"
+
+#~ msgid ""
+#~ "Determines whether users will be able to leave comments on the entries in "
+#~ "this subweblog."
+#~ msgstr ""
+#~ "Menentukan apakah pengguna dapat memberi komentar pada entri di subweblog "
+#~ "ini."
+
+#~ msgid "RSS Filename"
+#~ msgstr "Nama File RSS"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Nama File Atom"
+
+#~ msgid "Feed Path"
+#~ msgstr "Feed Path"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr ""
+#~ "Path relatif atau absolut ke direktori di mana Pivot akan membuat file-"
+#~ "file Feed."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Setting untuk Referer Terakhir"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Setting-setting ini menentukan tampilan dari 'referer terakhir' pada "
+#~ "halaman depan weblog."
+
+#~ msgid "Use graphics"
+#~ msgstr "Gunakan grafik"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr ""
+#~ "Ini menentukan apakah referer terakhir menggunakan icon kecil untuk "
+#~ "Search Engine yang paling umum dari mana pengunjung mendapat informasi."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "Redirect Referer"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "Untuk melawan refererspam Anda dapat memilih untuk redirect link keluar "
+#~ "ke referer, agar tidak dapat digunakan spammer untuk mendapat peringkat "
+#~ "yang lebih baik dalam Google."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Gunakan Emoticon"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ "Menentukan apakah emoticon seperti :-) akan diubah ke bentuk gambarnya."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "Encode Alamat Email"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "Menentukan apakah alamat email akan di-encode dalam javascript, sebagai "
+#~ "perlindungan dari pembuat spam."
+
+#~ msgid "Target Blank"
+#~ msgstr "Target Kosong"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML Workaround"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "Jika diatur ke 'Ya', semua link yang dimasukkan ke dalam entri akan "
+#~ "dibuka dalam sebuah window browser yang baru. Jika diatur ke 'XHTML "
+#~ "workaround', semua link akan mempunyai atribut rel=\"external\", yang "
+#~ "tidak akan mengacaukan format XHTML"
+
+#~ msgid "Date display settings"
+#~ msgstr "Setting tampilan tanggal"
+
+#~ msgid "URL to the default Gravatar image. Start with http://"
+#~ msgstr "URL ke gambar Gravatar default. Dimulai dengan http://"
+
+#~ msgid "Gravatar HTML"
+#~ msgstr "Gravatar HTML"
+
+#~ msgid ""
+#~ "HTML to insert for a gravatar. %img% will be substituted by the url to "
+#~ "the image."
+#~ msgstr ""
+#~ "HTML untuk menyisipkan sebuah gravatar. %img% akan digantikan oleh URL ke "
+#~ "gambar."
+
+#~ msgid "Gravatar size"
+#~ msgstr "Ukuran Gravatar"
+
+#~ msgid "Size (in pixels) of the gravatar. The default is 48."
+#~ msgstr "Ukuran (dalam pixel) dari gravatar. Default-nya adalah 48."
+
+#~ msgid ""
+#~ "After a trackback has been placed, mail can be sent to maintainers of "
+#~ "this weblog."
+#~ msgstr ""
+#~ "Setelah sebuah trackback dibuat, email dapat dikirimkan ke pemelihara "
+#~ "dari weblog ini."
+
+#~ msgid "Trackbacks Popup?"
+#~ msgstr "Trackback Popup?"
+
+#~ msgid ""
+#~ "determines whether the trackbacks page (or 'single entry') will be shown "
+#~ "in a popup window, or in the original browser window."
+#~ msgstr ""
+#~ "Menentukan apakah halaman trackback (atau 'entri tunggal') akan "
+#~ "ditampilkan dalam popup window, atau dalam window browser semula."
+
+#~ msgid "Specify the width and height (in pixels) of the trackbacks pop-up."
+#~ msgstr "Tentukan lebar dan tinggi (dalam pixel) dari pop-up trackback."
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Setting Blogroll"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "Secara opsional, Anda dapat memasukkan <a href=\"http://www.blogrolling."
+#~ "com\" target=\"_blank\">blogrolling.com</a> blogroll dalam weblog Anda. "
+#~ "Blogrolling adalah layanan yang sempurna untuk menjaga daftar link, yang "
+#~ "menunjukkan seberapa baru link itu telah diperbaharui. Jika Anda tidak "
+#~ "mau, lewati saja field input berikut. Jika tidak: Ketika Anda sedang "
+#~ "login ke blogrolling.com, pergilah ke 'get code', di sana Anda akan "
+#~ "menemukan link yang berisi # ID blogroll Anda. Semestinya akan kelihatan "
+#~ "seperti ini : 2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "Warna Latar"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Warna Garis 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Warna Garis 2"
+
+#~ msgid "Color 1"
+#~ msgstr "Warna 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Warna 2"
+
+#~ msgid "Color 3"
+#~ msgstr "Warna 3"
+
+#~ msgid "Color 4"
+#~ msgstr "Warna 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "Warna-warna ini menentukan seperti apa blogroll Anda. Warna 1 hingga "
+#~ "warna 6 memberi tanda seberapa baru sebuah link telah di-update."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "Preview Daftar yang Lengkap"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "Thumbnail Preview"
+
+#~ msgid "Files"
+#~ msgstr "File"
+
+#~ msgid "Width x Height"
+#~ msgstr "Lebar x Tinggi"
+
+#~ msgid "Delete Image"
+#~ msgstr "Hapus Gambar"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "Anda yakin ingin menghapus file %s?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "Hapus gambar ini?"
+
+#~ msgid "create"
+#~ msgstr "Buat"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "Sisipkan sebuah link, dengan mengetik sebuah URL pada field di bawah. "
+#~ "Pengunjung situs Anda dapat melihat judulnya ketika hover mouse mereka "
+#~ "berada di atas link."
+
+#~ msgid "Text"
+#~ msgstr "Teks"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "Ubah siapa saja yang dapat mengirim ke kategori '%s'"
+
+#~ msgid "Allowed"
+#~ msgstr "Sudah diijinkan"
+
+#~ msgid "Allow"
+#~ msgstr "Ijinkan"
+
+#~ msgid "Denied"
+#~ msgstr "Sudah ditolak"
+
+#~ msgid "Deny"
+#~ msgstr "Tolak"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "Dalam pembuatan Pivot ini, hanya nama kategori yang akan dihapus. Dalam "
+#~ "pembuatan berikutnya, Anda dapat memilih apa yang harus dilakukan dengan "
+#~ "entri pada kategori ini."
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr ""
+#~ "Hanya diatur ke 'Tidak' jika Anda tidak ingin pengunjung situs Anda "
+#~ "mencari dalam kategori ini."
+
+#~ msgid "Index Category"
+#~ msgstr "Indeks kategori"
+
+#~ msgid "Public Category"
+#~ msgstr "Kategori Umum"
+
+#~ msgid ""
+#~ "If set to 'No', this category will only be viewable for registered "
+#~ "visitors. (applies only to live pages)"
+#~ msgstr ""
+#~ "Jika diatur ke 'Tidak', kategori ini hanya dapat dilihat oleh pengunjung "
+#~ "yang terdaftar. (hanya berlaku untuk halaman yang aktif)"
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Ctrl-klik untuk memilih lebih dari satu kategori)"
+
+#~ msgid "# Track"
+#~ msgstr "# Track"
+
+#~ msgid "Delete Entry"
+#~ msgstr "Hapus Entri"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "Hapus entri ini dan komentar-komentarnya"
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr "Anda yakin ingin menghapus beberapa entri ini?"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Ubah Linebreak"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(Ini selalu tidak aktif, jika dalam mode Wysiwyg)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(Berhati-hatilah dengan ini!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "Ubah Komentar"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "Ubah komentar yang telah dikirim untuk entri ini"
+
+#~ msgid "Edit Comment"
+#~ msgstr "Ubah Komentar"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "Blok IP range %s"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "Jangan blok IP %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "Jangan blok IP range %s"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "Kirim Ping Trackback ke URL berikut. Untuk mengirim ke banyak URL, "
+#~ "masukkan satu URL pada sebuah baris terpisah."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "Gunakan ini untuk mengatur beberapa kata kunci yang dapat digunakan untuk "
+#~ "menemukan entri ini, atau untuk mengatur non-crufty url untuk entri ini."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "Gunakan ini untuk mengatur sebuah link ke asal dari entri ini."
+
+#~ msgid "Publish and generate"
+#~ msgstr "Publikasi dan generate"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "Dengan file yang dicentang, lakukan:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "Dengan template yang dicentang, lakukan:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "Tidak dapat membuka dir, periksa hak akses Anda."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "Tidak dapat membaca dir, periksa hak akses Anda."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "Tidak dapat membuat dir, periksa hak akses Anda."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "Tidak dapat membuka file, periksa hak akses Anda."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "Tidak dapat membaca file, periksa hak akses Anda."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "Tidak dapat menulis ke file, periksa hak akses Anda."
+
+#~ msgid "This entry has no trackbacks."
+#~ msgstr "Entri ini tidak mempunyai trackback."
+
+#~ msgid "Good"
+#~ msgstr "Baik"
+
+#~ msgid "Bad"
+#~ msgstr "Jelek"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "Anda telah memilih untuk entri atau jajak pendapat ini"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "Pilihan Anda untuk '%val%' telah didaftarkan"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Referrer Terakhir"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalender"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Buka Referensi Emoticon"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Buka Referensi Textile"
+
+#~ msgid "Register your username / Log in"
+#~ msgstr "Daftarkan username Anda / Log in"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Ubah Userfield"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "Nama Internal adalah nama item ini yang akan ditampilkan ketika Anda "
+#~ "meminta Pivot untuk menampilkannya dalam sebuah template."
+
+#~ msgid "Size"
+#~ msgstr "Ukuran"
+
+#~ msgid "Rows"
+#~ msgstr "Baris"
+
+#~ msgid "Columns"
+#~ msgstr "Kolom"
+
+#~ msgid "Maximum Length"
+#~ msgstr "Panjang Maksimum"
+
+#~ msgid "Filter by"
+#~ msgstr "Disaring oleh"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "Dengan menyaring item ini, Anda membatasi jenis input yang dapat "
+#~ "digunakan di situ"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "Penghapusan userfield (<b>%s</b>) juga akan menghilangkan semua data yang "
+#~ "disimpan pengguna di dalamnya, dan membuat semua isiannya dalam template "
+#~ "tampil kosong."
+
+#~ msgid "This name is already in use"
+#~ msgstr "Nama ini telah digunakan"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "Nama Internal harus lebih panjang dari 3 karakter"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "Tampilan Nama harus lebih panjang dari 3 karakter"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "Bookmarklet ini akan membuka sebuah window dengan Entri Baru, yang berisi "
+#~ "link dari halaman yang dibukanya."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr ""
+#~ "Bookmarklet ini membuka window dengan sebuah Entri Baru yang kosong."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "Anda dapat menggunakan Bookmarklet untuk menulis Entri Baru pada Pivot "
+#~ "dengan cepat. Untuk menambahkan sebuah Bookmarklet ke browser Anda, "
+#~ "gunakan salah satu pilihan berikut: (variasi teks yang tepat, tergantung "
+#~ "pada browser yang Anda gunakan)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Klik dan tarik bookmarklet ke toolbar 'Link' Anda atau tombol  "
+#~ "'Bookmarks' pada browser Anda."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr "Klik kanan pada bookmarklet dan pilih 'Tambahkan ke Bookmarks'."
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr ""
+#~ "Tabel ini mewakili sebuah kalender dari entri-entri pada weblog dengan "
+#~ "hyperlinks pada tanggal beserta entri-nya."
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr "Kalender menyediakan cara untuk mengakses entri dalam weblog ini"
+
+#~ msgid "en"
+#~ msgstr "id"
+
+#~ msgid "Your trackback has been stored."
+#~ msgstr "Trackback Anda telah disimpan."
+
+#~ msgid "Tracked"
+#~ msgstr "Tracked"

@@ -1,0 +1,5143 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr ""
+
+msgid "Last Comments"
+msgstr "最后的评论"
+
+msgid "Stuff"
+msgstr ""
+
+msgid "Archives"
+msgstr "存档"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Links"
+msgstr "链接"
+
+#, fuzzy
+msgid "Search"
+msgstr "三月"
+
+msgid "Linkdump"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Email"
+msgstr "邮件"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "评论"
+
+msgid "Preview Comment"
+msgstr "预览评论"
+
+msgid "Remember personal info?"
+msgstr "记录用户信息?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "设置"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "设置"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "边界"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "最后的评论"
+
+#, fuzzy
+msgid "Pages"
+msgstr "改变"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Notify"
+msgstr ""
+
+msgid "Yes, send me email when someone replies."
+msgstr ""
+
+msgid "Hide email"
+msgstr ""
+
+msgid "Yes, hide my email address."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Small print:</b> All html tags except &lt;b&gt; and &lt;i&gt; will be "
+"removed from your comment. You can make links by just typing the url or mail-"
+"address."
+
+msgid "Insert an Image"
+msgstr "插入一个图像"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr "你可以插入一个上传的图像或者以前上传过的图像."
+
+msgid "Upload"
+msgstr "上传"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "上传一个新文件:"
+
+msgid "Image name"
+msgstr "图像名称"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "选择图像"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Alternate text"
+msgstr "注释文字"
+
+msgid "Align"
+msgstr "排列"
+
+msgid "Center (default)"
+msgstr "中间(默认)"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Inline"
+msgstr "Inline"
+
+msgid "Border"
+msgstr "边界"
+
+msgid "pixels"
+msgstr "像素"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "插入一个图像"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "边界"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "发布在"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "编码"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "维护"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "评论设置"
+
+msgid "IP-address"
+msgstr "IP-地址"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "删除评论"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "选择全部"
+
+#, fuzzy
+msgid "Check none"
+msgstr "选择全部"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "0 条评论"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "删除评论"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Recent Entries"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "没有评论."
+
+msgid "No comments"
+msgstr "0 条评论"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Recent Entries"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Weblog名称"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "当'n 条评论时'时显示"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "当'n 条评论时'时显示"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "没有评论."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "当'n 条评论时'时显示"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "编辑"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "副题"
+
+#, fuzzy
+msgid "Template"
+msgstr "模板"
+
+msgid "Introduction"
+msgstr "介绍"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "Keywords"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "改变"
+
+#, fuzzy
+msgid "Preview"
+msgstr "预览条目"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "分类"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Post状态"
+
+#, fuzzy
+msgid "Publish"
+msgstr "发布在"
+
+msgid "Publish on"
+msgstr "发布在"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "允许评论"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Created on"
+msgstr "建立于"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "最后编辑于"
+
+msgid "Author"
+msgstr "作者"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "存档设置"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "模板"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Weblogs"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "评论"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "插入一个图像"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "插入一个图像"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "链接"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "标题"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Trackback ping"
+
+msgid "Post Entry"
+msgstr "加入条目"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "预览评论"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "当'n 条评论时'时显示"
+
+msgid "Category"
+msgstr "分类"
+
+#, fuzzy
+msgid "(none)"
+msgstr "1"
+
+#, fuzzy
+msgid "Insert a Download"
+msgstr "插入一个链接"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"你可以插入一个上传的图像或者以前上传过的图像.Then select a text or a "
+"thumbnail that triggers the popup."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "上传一个新文件:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "文件名"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "使用表情"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "使用文本"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "标题"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "插入一个链接"
+
+msgid "My Info"
+msgstr "我的信息"
+
+msgid "Logout"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Back to dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "View weblog"
+msgstr "新的Weblog"
+
+#, fuzzy
+msgid "view"
+msgstr "预览条目"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "默认的扩展名"
+
+msgid "Maintenance"
+msgstr "维护"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "新的Weblog"
+
+#, fuzzy
+msgid "sec."
+msgstr "秒"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Filesize"
+msgstr "文件大小"
+
+#, fuzzy
+msgid "Image"
+msgstr "图像名称"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "Select 'yes', if you wish to delete this category"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "日期"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "创建新的用户"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "创建新的用户"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "上传文件"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "上传"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "编辑配置文件"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "表情"
+
+msgid "You should first select or upload an image"
+msgstr "你应该先选择或上传一个图像"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"你可以插入一个上传的图像或者以前上传过的图像.Then select a text or a "
+"thumbnail that triggers the popup."
+
+msgid "For popup"
+msgstr "弹出窗口专用"
+
+msgid "Use Thumbnail"
+msgstr "Use Thumbnail"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "edit thumbnail"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "插入一个弹出的图像窗口"
+
+msgid "Create New User"
+msgstr "创建新的用户"
+
+msgid "Username"
+msgstr "名称"
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Userlevel"
+msgstr "用户级别"
+
+msgid "Last Login"
+msgstr ""
+
+msgid "Edit User"
+msgstr "编辑用户"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr "你决定删除Weblog %1吗?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "表情"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "编辑用户"
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "你决定删除Weblog %1吗?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "插入一个图像"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "插入一个图像"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "插入一个链接"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "插入一个图像"
+
+msgid "The default category is:"
+msgstr ""
+
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr ""
+
+msgid "Create New Category"
+msgstr "建立新的分类"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Hidden Category"
+msgstr ""
+
+msgid "Sorting Order"
+msgstr ""
+
+#, fuzzy
+msgid "users"
+msgstr "用户"
+
+msgid "Edit Category"
+msgstr "编辑分类"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Select 'yes', if you wish to delete this category"
+
+msgid "New Weblog"
+msgstr "新的Weblog"
+
+msgid "Weblog Name"
+msgstr "Weblog名称"
+
+#, fuzzy
+msgid "categories"
+msgstr "分类"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "你决定删除Weblog %1吗?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "编辑条目"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "New Page"
+msgstr "改变"
+
+msgid "Configuration"
+msgstr "设置"
+
+msgid "Manage Media"
+msgstr "文档管理"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Recent Entries"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Select 'yes', if you wish to delete this category"
+
+#, fuzzy
+msgid "Entry"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "delete"
+msgstr "删除"
+
+msgid "The latest pages"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Piv &raquo; New"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Recent Entries"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Show the last"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Recent Entries"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "条目"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Show the last"
+
+msgid "filter on (%name%)"
+msgstr ""
+
+msgid "first"
+msgstr "第一个"
+
+msgid "previous"
+msgstr "上一个"
+
+msgid "next"
+msgstr "下一个"
+
+msgid "last"
+msgstr "最后一个"
+
+msgid "jump to page (%num%)"
+msgstr ""
+
+#, fuzzy
+msgid "filter off"
+msgstr "过滤 by"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "状态"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "选择全部"
+
+msgid "Uncheck All"
+msgstr "不选择"
+
+msgid "With the checked entries, do:"
+msgstr "选择的条目,将要:"
+
+msgid "- select an option -"
+msgstr "- 选择一个动作 -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "设置状态为 '发布'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "设置状态为 '暂不发布'"
+
+msgid "Delete them"
+msgstr "删除他们"
+
+msgid "Go!"
+msgstr "继续"
+
+#, fuzzy
+msgid "Published"
+msgstr "发布在"
+
+#, fuzzy
+msgid "Timed"
+msgstr "标题"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "删除评论"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Generating index took %num% seconds"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "建立于"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "没有"
+
+#, fuzzy
+msgid "for"
+msgstr "4"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "最后编辑于"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "评论设置"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "条目路径"
+
+msgid "Overview of Entries"
+msgstr "条目总览"
+
+msgid "Manage and Upload Media"
+msgstr "管理和上传文档"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Overview of Administrative functions"
+msgstr "管理员总览"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "默认的扩展名"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "默认的扩展名"
+
+#, fuzzy
+msgid "Log in"
+msgstr "登入"
+
+msgid "Write and Publish a new Entry"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "条目总览"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "删除评论"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "当'n 条评论时'时显示"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "条目总览"
+
+msgid "Edit the Configuration file"
+msgstr "编辑配置文件"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "设置"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "编辑配置文件"
+
+msgid "Create, edit and delete Users"
+msgstr "用户管理"
+
+msgid "Create, edit and delete the Categories"
+msgstr "建立,编辑和删除分类"
+
+msgid "Weblogs"
+msgstr "Weblogs"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "建立,编辑和删除Weblogs"
+
+msgid "Registered Visitors"
+msgstr ""
+
+msgid "View and edit Registered Visitors"
+msgstr ""
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "备份"
+
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr ""
+
+msgid "Widgets"
+msgstr ""
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "默认的扩展名"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "设置"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Configuration Files"
+msgstr "编辑配置文件"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr ""
+
+msgid "Create, edit and delete Templates"
+msgstr "建立,编辑和删除模板"
+
+msgid "Explore Database Files"
+msgstr "文件浏览器"
+
+msgid "View files (both text and database files)"
+msgstr "查看文件(文本文件和数据库文件)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "文件浏览器"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "上传文件"
+
+msgid "Rebuild the Index"
+msgstr "从新建立索引文件"
+
+msgid "Rebuild the index of your Database"
+msgstr "重新建立数据库的索引"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "从新建立索引文件"
+
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr ""
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "从新建立索引文件"
+
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr ""
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "欢迎来到 %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "星期一"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "密码"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "上传一个新文件:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Red"
+msgstr "周三"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "备份"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "那不是一个合法的邮件地址"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "那不是一个合法的邮件地址"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "登入"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "那不是一个合法的邮件地址"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr "用户名只能包括英文字母,数字(A-Z, 0-9)和下划线(_)."
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+msgid "Stay logged in?"
+msgstr ""
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "密码"
+
+#, fuzzy
+msgid "Send password"
+msgstr "Second pass"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Second pass"
+
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "建立模板"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "建立模板"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "编辑配置文件"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "预览评论"
+
+msgid "Error"
+msgstr ""
+
+msgid "Registered user"
+msgstr ""
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "删除评论"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "当'只有一条评论'时显示"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "条目日期"
+
+msgid "Excerpt"
+msgstr ""
+
+#, fuzzy
+msgid "Continue"
+msgstr "Inline"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "确认密码"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "两次输入的密码不同"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "那不是一个合法的邮件地址"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "那不是一个合法的邮件地址"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "日期"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "上传文件"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+msgid "Your MySQL password"
+msgstr ""
+
+#, fuzzy
+msgid "Database Name"
+msgstr "日期"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "名称"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "SSI Prefix"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "两次输入的密码不同"
+
+msgid "That's not a valid email address"
+msgstr "那不是一个合法的邮件地址"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "那不是一个合法的邮件地址"
+
+msgid "Language"
+msgstr "Language"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Text Color"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Determines the default text processing, when a user is using the non-wysiwyg "
+"editor. 'Convert Linebreaks' does nothing more than change linebreaks to a "
+"&lt;br&gt;-tag. <a href=\"http://www.textism.com/tools/textile/\" target="
+"\"_blank\">Textile</a> is a powerful, yet easy to learn markup style."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Convert Linebreaks to &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Markdown and Smartypants"
+msgstr ""
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "最后编辑于"
+
+msgid "Moblogger"
+msgstr "Moblogger"
+
+msgid "Normal"
+msgstr "普通用户"
+
+msgid "Advanced"
+msgstr "高级用户"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Superadmin"
+msgstr "超级管理员"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "用户级别决定了用户在Pivot里面可以做的事情."
+
+#, fuzzy
+msgid "Allowed Categories"
+msgstr "分类"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr ""
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "最后编辑于"
+
+msgid "Create Category"
+msgstr "建立分类"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "这个种类需要一个名称"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "选择可以在这个分类发贴的用户"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "分类"
+
+msgid "The name of this chapter"
+msgstr ""
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+#, fuzzy
+msgid "Theme"
+msgstr "模板"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "条目设置"
+
+msgid "Payoff"
+msgstr "副标题"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr ""
+
+msgid "URL to Weblog"
+msgstr "URL to Weblog"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"如果没有填写Pivot将决定你的Weblog的URL. 如果你的Weblog是Frameset的一部分,或者"
+"是服务器端的include文件, 你可以用这个选项避免."
+
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'Read More' Text"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, Pivot will use the "
+"default as defined by the language settings"
+
+msgid "Frontpage Template"
+msgstr "首页模板"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "这个模板决定了Weblog首页的显示风格."
+
+msgid "Archivepage Template"
+msgstr "存档页模板"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr "这个模板决定了查看存档的页面的风格.这个也可以使用'首页模板'."
+
+msgid "Entrypage Template"
+msgstr "条目页面模板"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "这个模板决定了如何显示每一个条目."
+
+#, fuzzy
+msgid "Extra Template"
+msgstr "条目页面模板"
+
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr ""
+
+#, fuzzy
+msgid "Page Template"
+msgstr "建立模板"
+
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr ""
+
+msgid "Number of Entries"
+msgstr "条目数量"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "这个Weblog首页显示条目的数量."
+
+msgid "Offset"
+msgstr "Offset"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a 'Previous entries' list, for "
+"example."
+
+msgid "Publish these categories"
+msgstr ""
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS 设置"
+
+msgid "Generate Feeds"
+msgstr "使用RSS"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr "Pivot为这个Weblog自动产生RSS文件."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "网站URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "网站URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Create Full Feeds"
+msgstr "使用RSS"
+
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+
+msgid "Feed Link"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"The text that is used to indicate how many comments there are. If you leave "
+"this blank, Pivot will use the default as defined by the language settings"
+
+#, fuzzy
+msgid "Feed Image"
+msgstr "删除图片"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+
+msgid "Commenting Settings"
+msgstr "评论设置"
+
+msgid "Send Mail?"
+msgstr "发送邮件l?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr "在用户做评论之后,自动发送邮件给这个Weblog的管理员."
+
+msgid "Mail to"
+msgstr "寄给"
+
+#, fuzzy
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"Specify the email address(es) to whom mail will be sent. seperate multiple "
+"addresses with a comma."
+
+msgid "Text to links"
+msgstr "文字地址转换为链接"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr ""
+"当书写一个链接或者邮件地址的时候,可以在网页上把他们变成一个可以点击的链接."
+
+msgid "Wrap comments after"
+msgstr "评论换行在"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr "防止太长的字符串破坏了你的网页显示结构."
+
+msgid "Comments Popup?"
+msgstr "用弹出窗口显示评论吗?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"determines whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+
+msgid "Width of Popup"
+msgstr "弹出窗口的宽度"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "弹出窗口的高度"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "制定弹出窗口的宽度和高度(像素)."
+
+msgid "Height of Popup"
+msgstr "弹出窗口的高度"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "制定弹出窗口的宽度和高度(像素)."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Allow Textile"
+
+msgid "Allow Textile"
+msgstr "Allow Textile"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"If this is set to 'Yes', visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "表情"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "表情"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"If this is set to 'Yes', visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+
+msgid "Site Name"
+msgstr "网站名称"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "那不是一个合法的邮件地址"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Weblogs"
+
+#, fuzzy
+msgid "Page"
+msgstr "改变"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "网站名称"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- 选择一个动作 -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr "设置了完整日期的格式.大多用在每个单一条目页面的上方"
+
+msgid "Default language"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "默认语言"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /entry/1234"
+msgstr ""
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Use Mod_rewrite"
+msgstr "Use Filesmatch"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"If you use Apache's Filesmatch option, Pivot will make urls like www.mysite."
+"com/archive/2003/05/30/nice_weather, instead of www.mysite.com/pivot/entry."
+"php?id=134. Not all servers support this, so please read the section in the "
+"manual about this."
+
+#, fuzzy
+msgid "Allow comments by default"
+msgstr "允许评论"
+
+#, fuzzy
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "这个Weblog是否允许用户的评论."
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "删除评论"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "保存设置"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Show the last"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "条目数量"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS Feed"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "条目数量"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "编码"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "最大文件大小"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "最大文件大小"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "调试模式"
+
+msgid "Show random debug information, every here and there.."
+msgstr "显示随机的调试信息"
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "日志文件"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+#, fuzzy
+msgid "Unlink Files"
+msgstr "上传文件"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+
+#, fuzzy
+msgid "Chmod Files To"
+msgstr "上传文件"
+
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+
+msgid "File Upload Path"
+msgstr "上传文件路径"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "覆盖方式"
+
+msgid "Increment Filename"
+msgstr "文件名递增"
+
+msgid "Maximum Filesize"
+msgstr "最大文件大小"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Automatic Thumbnails"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Thumbnail width"
+
+msgid "Thumbnail height"
+msgstr "Thumbnail height"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Thumbnail width"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "支持的文件类型"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "完整日期格式"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr "设置了完整日期的格式.大多用在每个单一条目页面的上方"
+
+msgid "Entry Date"
+msgstr "条目日期"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Diff Date"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"The 'Diff Date' is most commonly used in conjunction with the 'Entry Date'. "
+"The Entry Date is displayed on every entry on your log, while the Diff Date "
+"is only displayed if the date differs from the previous entry."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "时间调整工具"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Hour"
+msgstr "时"
+
+msgid "Minute"
+msgstr "分"
+
+msgid "Time Offset"
+msgstr "时间调整"
+
+#, fuzzy
+msgid "Activate"
+msgstr "存档"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "最小用户等级"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "那不是一个合法的邮件地址"
+
+#, fuzzy
+msgid "Default author"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "默认语言"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "选择图像"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "删除分类"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- 选择一个动作 -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "删除分类"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "分类"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+#, fuzzy
+msgid "Number of links"
+msgstr "条目数量"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "转化"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "图像名称"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "默认的扩展名"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "默认的扩展名"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "默认的扩展名"
+
+#, fuzzy
+msgid "By"
+msgstr "Body"
+
+#, fuzzy
+msgid "version"
+msgstr "转化"
+
+#, fuzzy
+msgid "last updated"
+msgstr "最后编辑于"
+
+#, fuzzy
+msgid "site link"
+msgstr "7"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "设置"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "插入一个图像"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "插入一个图像"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Send Pings"
+
+msgid "Oops."
+msgstr ""
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Piv &raquo; New"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Piv &raquo; New"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Piv &raquo; New"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "You are not allowed to do that with entry %title%!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "评论被删除了."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "你的文件被上传了as '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "评论被删除了."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "新的Weblog已经建立了."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Create Thumbnail)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "上传文件路径"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "保存模板!"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "表情"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "密码"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "3"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "写入"
+
+msgid "Write Error. Could not open file for writing"
+msgstr ""
+
+msgid "Write Error. Could not write to file"
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "制定了条目页面里面的评论的格式."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "'%val%'票"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "删除评论"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "制定了条目页面里面的评论的格式."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "杂项设置"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "新的条目"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "设置"
+
+msgid "%num% comment"
+msgstr "1 条评论"
+
+msgid "%num% comments"
+msgstr "%num% 条评论"
+
+#, fuzzy
+msgid "%num% trackback"
+msgstr "当'只有一条评论'时显示"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "当'n 条评论时'时显示"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr "你正在预览你写的评论，点击'评论'才能完成."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr "你的评论没有被提交,因为你的评论和刚才的一样."
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr "你的评论没有被提交,因为你的评论和刚才的一样."
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr "你的评论没有被提交,因为你的评论和刚才的一样."
+
+msgid "Your comment has been stored."
+msgstr "你的评论被提交了."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"You should type your name (or an alias) in the 'name'-field. Be sure to "
+"click on 'Post Comment' to store it permanently."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"You should type something in the 'comment'-field. Be sure to click on 'Post "
+"Comment' to store it permanently."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "评论的格式"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "edit thumbnail"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Piv &raquo; New"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "编码"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "表情"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "edit thumbnail"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Create Thumbnail)"
+
+#, fuzzy
+msgid "Go"
+msgstr "继续"
+
+#, fuzzy
+msgid "Back"
+msgstr "备份"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "编码"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "星期天"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "S_Sunday_initial"
+msgstr "S"
+
+msgid "M_Monday_initial"
+msgstr "M"
+
+msgid "T_Tuesday_initial"
+msgstr "T"
+
+msgid "W_Wednesday_initial"
+msgstr "W"
+
+msgid "T_Thursday_initial"
+msgstr "T"
+
+msgid "F_Friday_initial"
+msgstr "F"
+
+msgid "S_Saturday_initial"
+msgstr "S"
+
+msgid "Sun"
+msgstr "周日"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "January"
+msgstr "一月"
+
+msgid "February"
+msgstr "二月"
+
+msgid "March"
+msgstr "三月"
+
+msgid "April"
+msgstr "四月"
+
+msgid "May"
+msgstr "五月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "July"
+msgstr "七月"
+
+msgid "August"
+msgstr "八月"
+
+msgid "September"
+msgstr "九月"
+
+msgid "October"
+msgstr "十月"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Jan_January_abbreviation"
+msgstr "一月"
+
+msgid "Feb_February_abbreviation"
+msgstr "二月"
+
+msgid "Mar_March_abbreviation"
+msgstr "三月"
+
+msgid "Apr_April_abbreviation"
+msgstr "四月"
+
+msgid "May_May_abbreviation"
+msgstr "五月"
+
+msgid "Jun_June_abbreviation"
+msgstr "六月"
+
+msgid "Jul_July_abbreviation"
+msgstr "七月"
+
+msgid "Aug_August_abbreviation"
+msgstr "八月"
+
+msgid "Sep_September_abbreviation"
+msgstr "九月"
+
+msgid "Oct_October_abbreviation"
+msgstr "十月"
+
+msgid "Nov_November_abbreviation"
+msgstr "十一月"
+
+msgid "Dec_December_abbreviation"
+msgstr "十二月"
+
+#, fuzzy
+msgid "am"
+msgstr "名称"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "0"
+
+msgid "one"
+msgstr "1"
+
+msgid "two"
+msgstr "2"
+
+msgid "three"
+msgstr "3"
+
+msgid "four"
+msgstr "4"
+
+msgid "five"
+msgstr "5"
+
+msgid "six"
+msgstr "6"
+
+msgid "seven"
+msgstr "7"
+
+#, fuzzy
+msgid "eight"
+msgstr "右"
+
+#, fuzzy
+msgid "nine"
+msgstr "Inline"
+
+#, fuzzy
+msgid "ten"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "eleven"
+msgstr "7"
+
+#, fuzzy
+msgid "twelve"
+msgstr "7"
+
+#, fuzzy
+msgid "thirteen"
+msgstr "3"
+
+#, fuzzy
+msgid "fourteen"
+msgstr "4"
+
+#, fuzzy
+msgid "fifteen"
+msgstr "7"
+
+#, fuzzy
+msgid "sixteen"
+msgstr "7"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "7"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "右"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "Inline"
+
+#, fuzzy
+msgid "twenty"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "0"
+
+#, fuzzy
+msgid "second"
+msgstr "秒"
+
+#, fuzzy
+msgid "third"
+msgstr "3"
+
+#, fuzzy
+msgid "forth"
+msgstr "4"
+
+#, fuzzy
+msgid "fifth"
+msgstr "第一个"
+
+#, fuzzy
+msgid "sixth"
+msgstr "6"
+
+#, fuzzy
+msgid "seventh"
+msgstr "7"
+
+#, fuzzy
+msgid "eighth"
+msgstr "右"
+
+#, fuzzy
+msgid "ninth"
+msgstr "月"
+
+#, fuzzy
+msgid "tenth"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "删除他们"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "3"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "4"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "3"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "7"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "7"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "右"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "3"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "新的条目"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "边界"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "上传文件"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Show the last"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "评论被删除了."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Weblogs"
+
+#, fuzzy
+msgid "category"
+msgstr "分类"
+
+#, fuzzy
+msgid "entry"
+msgstr "新的条目"
+
+#, fuzzy
+msgid "for comments"
+msgstr "0 条评论"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+#, fuzzy
+msgid "Search Results"
+msgstr "存档页模板"
+
+msgid "Page matches for \"%name%\":"
+msgstr ""
+
+msgid "Entry matches for \"%name%\":"
+msgstr ""
+
+msgid "No matches found for \"%name%\". Try something else."
+msgstr ""
+
+msgid "Search for words used in entries on this website"
+msgstr ""
+
+msgid "Enter the word[s] to search for here:"
+msgstr ""
+
+msgid "Enter searchterms"
+msgstr ""
+
+#, fuzzy
+msgid "Search!"
+msgstr "三月"
+
+#, fuzzy
+msgid "XML: Atom Feed"
+msgstr "XML: RSS Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "1 条评论"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "表情"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Piv &raquo; New"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "建立模板"
+
+#, fuzzy
+msgid "Text file"
+msgstr "Textile"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Piv &raquo; New"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "上传一个新文件:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Piv &raquo; New"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "edit thumbnail"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "上传一个新文件:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "模板"
+
+#, fuzzy
+msgid "Include template"
+msgstr "建立模板"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "首页模板"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "存档页模板"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "条目页面模板"
+
+#, fuzzy
+msgid "Page template"
+msgstr "建立模板"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "存档页模板"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "设置"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Piv &raquo; New"
+
+#, fuzzy
+msgid "(more)"
+msgstr "1"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "插入一个图像"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "当'只有一条评论'时显示"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "当'n 条评论时'时显示"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "删除评论"
+
+msgid "register/login"
+msgstr ""
+
+#, fuzzy
+msgid "words"
+msgstr "密码"
+
+#, fuzzy
+msgid "image"
+msgstr "图像名称"
+
+#, fuzzy
+msgid "images"
+msgstr "图像名称"
+
+#, fuzzy
+msgid "file"
+msgstr "5"
+
+#, fuzzy
+msgid "files"
+msgstr "文件"
+
+msgid "Self-registration"
+msgstr ""
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "'%val%'票"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+msgid "Related tags"
+msgstr ""
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Show the last"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "制定了条目页面里面的评论的格式."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "制定了条目页面里面的评论的格式."
+
+msgid "Log in as a registered visitor"
+msgstr ""
+
+msgid "Forgotten your password?"
+msgstr ""
+
+msgid "Register a new username."
+msgstr ""
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Log out."
+msgstr ""
+
+#, fuzzy
+msgid "Delete account."
+msgstr "删除评论"
+
+msgid "Edit your preferences"
+msgstr ""
+
+msgid "User disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "错误的用户名/密码"
+
+#, fuzzy
+msgid "Logged in"
+msgstr "登入"
+
+msgid "Register"
+msgstr ""
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Options"
+msgstr "调试选项"
+
+msgid "Back to login"
+msgstr ""
+
+msgid "Show my email address with comments"
+msgstr ""
+
+msgid "Notify me via email of new entries"
+msgstr ""
+
+msgid "Default notification of replies"
+msgstr ""
+
+msgid "Here you can change your information."
+msgstr ""
+
+msgid "Change preferences"
+msgstr ""
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr ""
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Second pass"
+
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+
+msgid "User already exists... Please pick another name."
+msgstr ""
+
+msgid "E-mail address is already taken... Please pick another name."
+msgstr ""
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+
+#, fuzzy
+msgid "The changes have been stored"
+msgstr "The IP-addresses have been stored."
+
+msgid "Your account is verified. Please log in.."
+msgstr ""
+
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr ""
+
+msgid "A link to reset your password was sent to your mailbox."
+msgstr ""
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr ""
+
+#, fuzzy
+msgid "Back to"
+msgstr "备份"
+
+#, fuzzy
+msgid "User stored!"
+msgstr "使用文本"
+
+msgid "Could not store new user!!"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "设置"
+
+msgid "Verify your account"
+msgstr ""
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "错误的用户名/密码"
+
+msgid "Successfully logged in"
+msgstr ""
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "前一存档"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "登入"
+
+#, php-format
+msgid "%s logged out."
+msgstr ""
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "编辑Weblog的设置 For "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "删除这个Weblog."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "删除分类"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+msgid "About PivotX"
+msgstr ""
+
+msgid "Setup user"
+msgstr ""
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "创建新的用户"
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "You are not allowed to do that with entry %title%!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "Weblog已经更新了."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "默认的扩展名"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "编辑条目"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "You are not allowed to do that with entry %title%!"
+
+#, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr ""
+
+#, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr ""
+
+#, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "You are not allowed to delete entry %title%!"
+
+msgid "My Settings"
+msgstr "我的设置"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Add Bookmarklet."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "Weblog已经更新了."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+msgid "Post to PivotX"
+msgstr ""
+
+msgid "Edit my personal Settings"
+msgstr "编辑我的个人设定"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "You are not allowed to delete entry %title%!"
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "You are not allowed to delete entry %title%!"
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "You are not allowed to delete entry %title%!"
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "Weblog已经删除了."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "You are not allowed to delete entry %title%!"
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "Weblog已经更新了."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "评论被删除了."
+
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr ""
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "评论被删除了."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "编辑/删除评论"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "评论被保存了."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks"
+msgstr "当'n 条评论时'时显示"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "评论被保存了."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "上传文件"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "评论被删除了."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "评论被删除了."
+
+msgid "The weblog has been deleted."
+msgstr "Weblog已经删除了."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "Weblog已经删除了."
+
+msgid "Create New Weblog"
+msgstr "创建新的Weblog"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "评论设置"
+
+#, fuzzy
+msgid "Database"
+msgstr "日期"
+
+#, fuzzy
+msgid "Debug"
+msgstr "调试模式"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "上传文件路径"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "日期/时间"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Moblogger"
+
+#, fuzzy
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr "这将有段等待的时间,请不要中断."
+
+#, fuzzy
+msgid "Rebuild the Search Index"
+msgstr "从新建立索引文件"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "这将有段等待的时间,请不要中断."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "从新建立索引文件"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "这将有段等待的时间,请不要中断."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "日期"
+
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+
+#, fuzzy
+msgid "Explore files"
+msgstr "上传文件"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "设置"
+
+#, fuzzy
+msgid "Blocked Phrases"
+msgstr "封锁 IP 区域 %s"
+
+#, fuzzy
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "查看和编辑被限制的IP地址."
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP访问限制"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "查看和编辑被限制的IP地址."
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Pivot文件的执行日常保养"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "评论被删除了."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "用户名已经被占用"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "用户名已经被占用"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "Weblog已经更新了."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "用户名已经被占用"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "新的Weblog已经建立了."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "评论被删除了."
+
+msgid "A category by this name already exists"
+msgstr "分类名称已经存在"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "Weblog已经更新了."
+
+msgid "Edit Weblog"
+msgstr "编辑这个Weblog"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "3"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "插入一个图像"
+
+#~ msgid "# Comm"
+#~ msgstr "# Comm"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "评论"
+
+#, fuzzy
+#~ msgid "search"
+#~ msgstr "三月"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "回档"
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "用户"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "日期"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "分类"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr "设置了完整日期的格式.大多用在每个单一条目页面的上方"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr "设置了完整日期的格式.大多用在每个单一条目页面的上方"
+
+#, fuzzy
+#~ msgid "Trackback Settings"
+#~ msgstr "Trackback ping"
+
+#, fuzzy
+#~ msgid "Format of Trackbacks"
+#~ msgstr "当'n 条评论时'时显示"
+
+#, fuzzy
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Trackback ping"
+
+#, fuzzy
+#~ msgid "File Mappings"
+#~ msgstr "上传文件"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "上传一个新文件:"
+
+#~ msgid "Change"
+#~ msgstr "改变"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "确认删除"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "The IP-addresses have been stored."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Store these IP-addresses"
+
+#, fuzzy
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "The IP-addresses have been stored."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "The IP-addresses have been stored."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "Weblog已经删除了."
+
+#, fuzzy
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Store these IP-addresses"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "用户名长度必须大于4个字符"
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "封锁 IP %s"
+
+#, fuzzy
+#~ msgid "[Trackback] Re:"
+#~ msgstr "当'n 条评论时'时显示"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr "你的评论没有被提交,因为你的评论和刚才的一样."
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "分"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "插入一个弹出的图像窗口"
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "没有评论"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "评论"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "评论"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "预览评论"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "回档"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "表情"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "0 条评论"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Recent Entries"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "评论"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "评论"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "评论"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "前一存档"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Ping update trackers"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by Pivot if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+
+#~ msgid "URLs to ping"
+#~ msgstr "URLs to ping"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.weblogs.com/RPC2</b> (weblogs.com pinger, the one most widely "
+#~ "used)<br /><b>pivotlog.net/pinger</b> (pivotlog pinger, not yet "
+#~ "operational)<br /><b>rcs.datashed.net/RPC2</b> (euro.weblogs.com pinger)"
+#~ "<br /><b>ping.blo.gs</b> (blo.gs pinger)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Ping Setup"
+
+#~ msgid "upload"
+#~ msgstr "上传"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "你的文件没有被上传, 出现错误:"
+
+#~ msgid "or select"
+#~ msgstr "或者选择"
+
+#, fuzzy
+#~ msgid "Select File"
+#~ msgstr "选择"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "图像名称"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "默认使用所见即所得编辑器"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "决定是否默认使用所见即所得编辑器. 单独的用户可以在 '我的信息' 里更改这个设"
+#~ "置."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "最后评论栏设置"
+
+#~ msgid "Show how many"
+#~ msgstr "显示数量"
+
+#~ msgid "Cut at length"
+#~ msgstr "剪切文字长度"
+
+#~ msgid "Format"
+#~ msgstr "格式"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr "设置是这个Weblog首页上的最后评论栏."
+
+#~ msgid "Next Archive"
+#~ msgstr "下一存档"
+
+#~ msgid "Previous Archive"
+#~ msgstr "前一存档"
+
+#~ msgid "Archive type"
+#~ msgstr "存档类型"
+
+#~ msgid "No Archives"
+#~ msgstr "没有存档"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "每周存档"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "每月存档"
+
+#~ msgid "Archive Link"
+#~ msgstr "存档链接"
+
+#~ msgid "Archive List format"
+#~ msgstr "存档链接文件"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "保留日志文件"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "当'没有评论'时显示"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "当'只有一条评论'时显示"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "当'n 条评论时'时显示"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "当'没有评论'时显示"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "当'只有一条评论'时显示"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "当'n 条评论时'时显示"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "1 条评论"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "%num% 条评论"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "当'n 条评论时'时显示"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "你没有权力访问这个页面"
+
+#~ msgid "Further Options"
+#~ msgstr "更多的选项"
+
+#~ msgid "Basic View"
+#~ msgstr "基本查看"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "只查看流行的区域"
+
+#~ msgid "Extended View"
+#~ msgstr "扩展查看"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "查看所有的段落"
+
+#~ msgid "Done!"
+#~ msgstr "完成!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "快捷"
+
+#~ msgid "Week"
+#~ msgstr "周"
+
+#~ msgid "Remember"
+#~ msgstr "记录"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr "你已经有过10次的错误登录，所以你的IP将要被封锁12个小时."
+
+#~ msgid "Overview"
+#~ msgstr "总览"
+
+#~ msgid "Modify Entries"
+#~ msgstr "编辑条目"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Bookmarklets"
+
+#~ msgid "Statistics"
+#~ msgstr "统计"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "Pivot的全部总览"
+
+#~ msgid "View my personal Info"
+#~ msgstr "查看我的个人信息"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Create Bookmarklets"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "文件已经上传"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "查看日志和统计."
+
+#~ msgid "Recent Comments"
+#~ msgstr "Recent Comments"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "从新建立所有文件"
+
+#~ msgid "Verify the Database"
+#~ msgstr "校验数据库"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "从新建立首页"
+
+#~ msgid "User Information Fields"
+#~ msgstr "User Information Fields"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "建立,编辑和删除用户的信息"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "从新建立Pivot生成的文件和存档"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "检查你的数据库的完整性"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr "从新建立每个Weblog的首页,存档和RSS频道."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "把你输入的条目做备份"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Send Pings to Update Trackers."
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "从草稿建立一个Pivot的模板"
+
+#~ msgid "Comment*"
+#~ msgstr "评论*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr ""
+#~ "(*注解:评论只能 be saved at <b>first</b> save of changes or creation)"
+
+#~ msgid "Editing"
+#~ msgstr "编辑"
+
+#~ msgid "Save changes!"
+#~ msgstr "保存更改!"
+
+#~ msgid "Generate Archive"
+#~ msgstr "建立存档"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "从新建立所有存档"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "校验XML文件和数据库文件"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "校验和修复XML文件的完整性"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "建立所有Pivot基本文件的备份"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 referrers"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 referrers"
+
+#~ msgid "all referrers"
+#~ msgstr "all referrers"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Update the referer to title mappings"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "Host-address (ip-address)"
+
+#~ msgid "Getting new titles"
+#~ msgstr "获得新的标题"
+
+#~ msgid "First pass"
+#~ msgstr "First pass"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "Your referer-title mappings are now up to date."
+
+#~ msgid "Finished"
+#~ msgstr "结束"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "编辑用户"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr "编辑用户的描述"
+
+#~ msgid "Edit User Info"
+#~ msgstr "编辑用户信息"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "建立一个新的Pivot登录账号,允许他们写Blog."
+
+#~ msgid "Create"
+#~ msgstr "建立"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "确定建立一个管理员"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "一个管理员 有所有的权力,能够编辑新的条目,所有的评论,改变每一个东西.你确定"
+#~ "你要建立 %s 一个 管理员吗?"
+
+#~ msgid "File Info"
+#~ msgstr "文件信息"
+
+#~ msgid "Local Path"
+#~ msgstr "本地路径"
+
+#~ msgid "Clean Filename"
+#~ msgstr "干净的文件名"
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Default Text Processing"
+
+#~ msgid "Text Processing"
+#~ msgstr "Text Processing"
+
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgid "Open links in new window"
+#~ msgstr "用新窗口打开链接"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "用JavaScript编码邮件地址?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr "决定所有的条目是否都用新的窗口打开."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Default Introduction/Body"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Remote cropping script"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "编辑Blogs"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "添加一个新的Weblog"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "删除Weblog"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+
+#~ msgid "Finish"
+#~ msgstr "建立"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "创建/编辑Weblog,步骤 1 of 3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "创建/编辑Weblog,步骤 2 of 3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "创建/编辑Weblog,步骤 3 of 3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "首页(Index)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr "首页文件的文件名. 一般的像'index.html' 或者 'index.php'."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "If your weblog uses SSI (which is not recommended you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "首页的路径"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr "Pivot将用与建立这个Blog首页的相对或者绝对路径."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr "Pivot将用与建立条目页面的相对或者绝对路径."
+
+#~ msgid "Live entries"
+#~ msgstr "Live entries"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+
+#~ msgid "Index File"
+#~ msgstr "索引文件"
+
+#~ msgid "Archive Path"
+#~ msgstr "存档路径"
+
+#~ msgid "Archive Amount"
+#~ msgstr "存档数量"
+
+#~ msgid "Archive Format"
+#~ msgstr "存档格式"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Shortentry Template"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "允许评论?"
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSS 文件名"
+
+#~ msgid "Feed Path"
+#~ msgstr "RSS 路径"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr "RSS文件存放的路径(相对路径或绝对路径)."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Settings for Last Referers"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr "这些设置决定了首页上的 'last referers'列表."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "使用表情图片"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr "决定了是否将:-)转换为一个表情图片."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "编码邮件地址"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr "保护邮件地址不被垃圾邮件侵扰."
+
+#~ msgid "Target Blank"
+#~ msgstr "弹出新窗口"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML Workaround"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr "所有在条目中所写的链接都将在新的窗口中被显示."
+
+#~ msgid "Date display settings"
+#~ msgstr "日期显示设置"
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Blogroll settings"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "skip these input field. Otherwise: When you're logged in to blogrolling."
+#~ "com, go to 'get code', there you will find links containing your "
+#~ "blogroll's ID #. It should look somthing like this: "
+#~ "2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "Background Color"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Line Color 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Line Color 2"
+
+#~ msgid "Color 1"
+#~ msgstr "Color 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Color 2"
+
+#~ msgid "Color 3"
+#~ msgstr "Color 3"
+
+#~ msgid "Color 4"
+#~ msgstr "Color 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "预览所有"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "Thumbnail Preview"
+
+#~ msgid "Width x Height"
+#~ msgstr "宽 x 高"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "你确定删除 %s吗?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "删除这个图片?"
+
+#~ msgid "create"
+#~ msgstr "建立"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "填写一个URL来插入一个链接.游客可以在把鼠标放在链接上时看到链接的信息."
+
+#~ msgid "Text"
+#~ msgstr "文字"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "编辑谁能在这个分类发贴 '%s'"
+
+#~ msgid "Allowed"
+#~ msgstr "允许的"
+
+#~ msgid "Allow"
+#~ msgstr "允许"
+
+#~ msgid "Denied"
+#~ msgstr "拒绝的"
+
+#~ msgid "Deny"
+#~ msgstr "拒绝"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "在这个版本的Pivot中,只有分类的名称是可以删除的,在下一个版本的Pivot中,你可"
+#~ "以删除分类中的条目."
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Ctrl-鼠标点击来同时选择多个分类)"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Convert Linebeaks"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(在所见即所得的模式下,这个选项是关闭的)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(注意这里!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "编辑评论"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "编辑这个条目的评论"
+
+#~ msgid "Edit Comment"
+#~ msgstr "编辑评论"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "解除 IP %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "解除 IP 区域 %s"
+
+#~ msgid "Publish and generate"
+#~ msgstr "产生文件并发布"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "选择的文件,将要:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "选择的模板,将要:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "不能打开目录,请检查你的权限"
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "不能读取目录,请检查你的权限"
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "不能写入目录,请检查你的权限"
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "不能打开文件,请检查你的权限."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "不能读取文件,请检查你的权限."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "不能偕文件,请检查你的权限."
+
+#~ msgid "Good"
+#~ msgstr "好"
+
+#~ msgid "Bad"
+#~ msgstr "坏"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "你已经给这个条目透过票了"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "你的投票 '%val%' 已经提交了"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Last Referrers"
+
+#~ msgid "Calendar"
+#~ msgstr "日历"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Open Emoticons Reference"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Open Textile Reference"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Edit Userfields"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+
+#~ msgid "Size"
+#~ msgstr "大小"
+
+#~ msgid "Rows"
+#~ msgstr "行"
+
+#~ msgid "Columns"
+#~ msgstr "列"
+
+#~ msgid "Maximum Length"
+#~ msgstr "最大长度"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+
+#~ msgid "This name is already in use"
+#~ msgstr "名称已经被占用"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "内部名称必须大于3个字符"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "显示名称必须大于3个字符"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "This Bookmarklet opens a window with a blank New Entry."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr "Right-click on the bookmarklet and select 'Add to Bookmarks'."

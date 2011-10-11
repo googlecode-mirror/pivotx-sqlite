@@ -1,0 +1,5446 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr "хМТНПЛЮЖХЪ"
+
+msgid "Last Comments"
+msgstr "оНЯКЕДМХЕ ЙНЛЛЕМРЮПХХ"
+
+msgid "Stuff"
+msgstr "мЮВХМЙЮ"
+
+msgid "Archives"
+msgstr "юПУХБШ / Archives"
+
+msgid "Categories"
+msgstr "йЮРЕЦНПХХ"
+
+msgid "Links"
+msgstr "лЕМЧ"
+
+#, fuzzy
+msgid "Search"
+msgstr " Go! "
+
+msgid "Linkdump"
+msgstr "яБЕФХЕ ГЮОХЯХ"
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "хЛЪ"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "нЯРЮБХРЭ ЙНЛЛЕМРЮПХИ (ok)"
+
+msgid "Preview Comment"
+msgstr "оПЕД-ОПНЯЛНРП"
+
+msgid "Remember personal info?"
+msgstr "гЮОНЛМХРЭ ЛЕМЪ"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "мЮЯРПНИЙХ"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "мЮЯРПНИЙХ"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "пЮЛЙЮ"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "оНЯКЕДМХЕ ЙНЛЛЕМРЮПХХ"
+
+#, fuzzy
+msgid "Pages"
+msgstr "ХГНАПЮФЕМХЕ"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "йНЛЛЕМРЮПХИ"
+
+msgid "Notify"
+msgstr ""
+
+msgid "Yes, send me email when someone replies."
+msgstr ""
+
+msgid "Hide email"
+msgstr "яЙПШРЭ email"
+
+msgid "Yes, hide my email address."
+msgstr "дЮ, ЯЙПШРЭ ЛНИ email."
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>хМТНПЛЮЖХЪ:</b> бЯЕ ЙПНЛЕ &lt;b&gt; Х &lt;i&gt; СДЮКЪЧРЯЪ ХГЙНЛЛЕМРЮПХЪ. "
+"вРНАШ ЯНГДЮРЭ ЯЯШКЙС, МЮОХЬХРЕ ЮДПЕЯ ХКХ Email."
+
+msgid "Insert an Image"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"вРНАШ БЯРЮБХРЭ ХГНАПЮФЕМХЕ, БШ ДНКФМШ ЕЦН ГЮЦПСГХРЭ ХКХ БШАПЮРЭ "
+"ПЮМЕЕГЮЦПСФЕММНЕ."
+
+msgid "Upload"
+msgstr "бШЦПСГХРЭ"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "гЮЦПСГХРЭ МНБШИ ТЮИК:"
+
+msgid "Image name"
+msgstr "мЮГБЮМХЕ ХГНАПЮФЕМХЪ"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "бШАПЮРЭ ХГНАПЮФЕМХЕ"
+
+msgid "Select"
+msgstr "бШАПЮРЭ"
+
+msgid "Alternate text"
+msgstr "юКЭРЕПМЮРХБМШИ РЕЙЯР"
+
+msgid "Align"
+msgstr "оНКНФЕМХЕ"
+
+msgid "Center (default)"
+msgstr "жЕМРП (ОН СЛНКВЮМХЧ)"
+
+msgid "Left"
+msgstr "кЕБН"
+
+msgid "Right"
+msgstr "оПЮБН"
+
+msgid "Inline"
+msgstr "бМСРПХ"
+
+msgid "Border"
+msgstr "пЮЛЙЮ"
+
+msgid "pixels"
+msgstr "ОХЙЯЕКЕИ"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+msgid "Cancel"
+msgstr "нРЛЕМЮ"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "пЮЛЙЮ"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "вХЯКН ДКЪ ГЮОХЯХ"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "йНД"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "нОЕПЮЖХХ"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "мЮЯРПНИЙХ ЙНЛЛЕМРЮПХЕБ"
+
+msgid "IP-address"
+msgstr "IP ЮДПЕЯ"
+
+msgid "Date"
+msgstr "дЮРЮ"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr "хГЛЕМХРЭ"
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+msgid "Delete"
+msgstr "сДЮКХРЭ"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "нРЛЕРХРЭ БЯЕ"
+
+#, fuzzy
+msgid "Check none"
+msgstr "нРЛЕРХРЭ БЯЕ"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "мЕР ЙНЛЛЕМРЮПХЕБ"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "с ГЮОХЯХ МЕР ЙНЛЛЕМРЮПХИ."
+
+msgid "No comments"
+msgstr "мЕР ЙНЛЛЕМРЮПХЕБ"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "мЮГБЮМХЕ БЕАКНЦЮ"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "хГЛЕМХРЭ ХКХ СДЮКХРЭ рПЩЙаЩЙХ"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "хГЛЕМХРЭ ХКХ СДЮКХРЭ рПЩЙаЩЙХ"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "с ГЮОХЯХ МЕР ЙНЛЛЕМРЮПХИ."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "мЕР РПЩЙАЩЙНБ"
+
+msgid "Title"
+msgstr "гЮЦКЮБХЕ"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "ОПЮБЙЮ"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "оНДГЮЦНКНБНЙ"
+
+#, fuzzy
+msgid "Template"
+msgstr "ьЮАКНМШ"
+
+msgid "Introduction"
+msgstr "бЯРСОКЕМХЕ"
+
+msgid "Body"
+msgstr "рЕКН ГЮОХЯХ"
+
+msgid "Keywords"
+msgstr "йКЧВЕБШЕ яКНБЮ"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "ХГНАПЮФЕМХЕ"
+
+#, fuzzy
+msgid "Preview"
+msgstr "оПЕД-ОПНЯЛНРП"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "йЮРЕЦНПХЪ"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "яРЮРСЯ НРОПЮБЙХ"
+
+#, fuzzy
+msgid "Publish"
+msgstr "вХЯКН ДКЪ ГЮОХЯХ"
+
+msgid "Publish on"
+msgstr "вХЯКН ДКЪ ГЮОХЯХ"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "оНГБНКХРЭ ЙНЛЛЕМРХПНБЮРЭ"
+
+msgid "Yes"
+msgstr "дЮ"
+
+msgid "No"
+msgstr "мЕР"
+
+msgid "Created on"
+msgstr "яНГДЮМН"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "оНЯКЕДМХИ ПЮГ ОПЮБХКНЯЭ"
+
+msgid "Author"
+msgstr "юБРНП"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "мЮЯРПНИЙХ ЮПУХБНБ"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "ьЮАКНМШ"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "бЕАКНЦХ"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "RSS КЕМРЮ (2.0)"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "йНЛЛЕМРЮПХИ"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "бХЮ-кХМЙ"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "бХЮ-гЮЦКЮБХЕ"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "оХМЦ рПЩЙаЩЙЮ"
+
+msgid "Post Entry"
+msgstr "гЮОХЯЮРЭ"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "оПЕД-ОПНЯЛНРП"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "рПЩЙаЩЙХ"
+
+msgid "Category"
+msgstr "йЮРЕЦНПХЪ"
+
+#, fuzzy
+msgid "(none)"
+msgstr "НДХМ"
+
+msgid "Insert a Download"
+msgstr "бЯРЮБХРЭ гЮЦПСГЙС"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"вРНАШ ЯДЕКЮРЭ ТЮИК ДКЪ ГЮЦПСГЙХ, БШ ДНКФМШ БШЦПСГХРЭ ТЮИК ХКХ БШАПЮРЭ ПЮМЕЕ "
+"БШЦПСФЕММШИ ТЮИК. гЮРЕЛ БШАПЮРЭ РЕЙЯР ХКХ ХГНАПЮФЕМХЕ ДКЪ ЯЯШКЙХ МЮ ГЮЦПСГЙС"
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "гЮЦПСГХРЭ МНБШИ ТЮИК:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "мЮГБЮМХЕ тЮИКЮ"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "хЯОНКЭГНБЮРЭ ХЙНМЙС"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "хЯОНКЭГНБЮРЭ РЕЙЯР"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "бХЮ-гЮЦКЮБХЕ"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "бЯРЮБХРЭ гЮЦПСГЙС"
+
+msgid "My Info"
+msgstr "лНХ дЮММШЕ"
+
+#, fuzzy
+msgid "Logout"
+msgstr "бШИРХ."
+
+msgid "Dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "Back to dashboard"
+msgstr "мЮГЮД МЮ ЯРПЮМХЖС БУНДЮ"
+
+#, fuzzy
+msgid "View weblog"
+msgstr "мНБШИ БЕАКНЦ"
+
+#, fuzzy
+msgid "view"
+msgstr "оПЕД-ОПНЯЛНРП"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+msgid "Maintenance"
+msgstr "нОЕПЮЖХХ"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "мНБШИ БЕАКНЦ"
+
+#, fuzzy
+msgid "sec."
+msgstr "яЕЙСМДЮ"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "мЮГБЮМХЕ тЮИКЮ"
+
+msgid "Description"
+msgstr "нОХЯЮМХЕ"
+
+msgid "Filesize"
+msgstr "пЮГЛЕП"
+
+#, fuzzy
+msgid "Image"
+msgstr "ХГНАПЮФЕМХЕ"
+
+msgid "Thumbnail"
+msgstr "щЯЙХГ"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "бШАЕПХРЕ 'дЮ', ДКЪ СДЮКЕМХЪ ГЮОХЯХ"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "дЮРЮ"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "яНГДЮРЭ МНБНЦН ОНКЭГНБЮРЕКЪ"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "яНГДЮРЭ МНБНЦН ОНКЭГНБЮРЕКЪ"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "бШЦПСГХРЭ"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "хГЛЕМХРЭ ЙНМТХЦСПЮЖХНММШИ ТЮИК"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "яЛЮИКШ"
+
+msgid "You should first select or upload an image"
+msgstr "дКЪ МЮВЮКЮ БШ ДНКФМШ БШАПЮРЭ ХКХ ГЮЦПСГХРЭ ХГНАПЮФЕМХЕ"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"еЯКХ БШ УНРХРЕ ЯДЕКЮРЭ БЯЙЮЙХБЮЧЫЕЕ НЙМН Я ХГНАПЮФЕМХЕЛ, БЮЛ МЮДНБШАПЮРЭ "
+"ХГНАПЮФЕМХЕ КХ РЕЙЯР."
+
+msgid "For popup"
+msgstr "дКЪ МНБНЦН НЙМЮ"
+
+msgid "Use Thumbnail"
+msgstr "хЯОНКЭГНБЮРЭ ЩЯЙХГ"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "ОПЮБХРЭ ЩЯЙХГ"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "бЯРЮБХРЭ БЯЙЮЙХБЮЧЫЕЕ ХГНАПЮФЕМХЕ"
+
+msgid "Create New User"
+msgstr "яНГДЮРЭ МНБНЦН ОНКЭГНБЮРЕКЪ"
+
+msgid "Username"
+msgstr "хЛЪ оНКЭГНБЮРЕКЪ"
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Userlevel"
+msgstr "сПНБЕМЭ ОНКЭГНБЮРЕКЪ"
+
+msgid "Last Login"
+msgstr ""
+
+msgid "Edit User"
+msgstr "ХГЛЕМЕМХЕ ОНКЭГНБЮРЕКЪ"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr "бШ ЯНАХПЮЕРЕЯЭ СДЮКХРЭ БЕАКНЦ %1. бШ СБЕПЕМШ?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "яЛЮИКШ"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "гЮПЕЦХЯРПХПСИРЕЯЭ."
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "бШ ЯНАХПЮЕРЕЯЭ СДЮКХРЭ БЕАКНЦ %1. бШ СБЕПЕМШ?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "бЯРЮБХРЭ гЮЦПСГЙС"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+msgid "The default category is:"
+msgstr ""
+
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr ""
+
+msgid "Create New Category"
+msgstr "яНГДЮРЭ МНБСЧ ЙЮРЕЦНПХЧ"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "оНКЭГНБЮРЕКХ"
+
+msgid "Hidden Category"
+msgstr "яЙПШРЮЪ ЙЮРЕЦНПХЪ"
+
+msgid "Sorting Order"
+msgstr "яНПРХПНБЙЮ"
+
+#, fuzzy
+msgid "users"
+msgstr "оНКЭГНБЮРЕКХ"
+
+msgid "Edit Category"
+msgstr "оПЮБХРЭ ЙЮРЕЦНПХЧ"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "бШАЕПХРЕ 'дЮ', ДКЪ СДЮКЕМХЪ ГЮОХЯХ"
+
+msgid "New Weblog"
+msgstr "мНБШИ БЕАКНЦ"
+
+msgid "Weblog Name"
+msgstr "мЮГБЮМХЕ БЕАКНЦЮ"
+
+#, fuzzy
+msgid "categories"
+msgstr "йЮРЕЦНПХХ"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "бШ ЯНАХПЮЕРЕЯЭ СДЮКХРЭ БЕАКНЦ %1. бШ СБЕПЕМШ?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "хГЛЕМХРЭ гЮОХЯЭ"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "мНБЮЪ ГЮОХЯЭ"
+
+#, fuzzy
+msgid "New Page"
+msgstr "ХГНАПЮФЕМХЕ"
+
+msgid "Configuration"
+msgstr "мЮЯРПНИЙХ"
+
+msgid "Manage Media"
+msgstr "сОПЮБКЕМХЕ ЙЮПРХМНЙ"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "бШАЕПХРЕ 'дЮ', ДКЪ СДЮКЕМХЪ ГЮОХЯХ"
+
+#, fuzzy
+msgid "Entry"
+msgstr "мНБЮЪ ГЮОХЯЭ"
+
+#, fuzzy
+msgid "delete"
+msgstr "сДЮКХРЭ"
+
+#, fuzzy
+msgid "The latest pages"
+msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Piv \" New"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "оНЙЮГЮРЭ ОНЯКЕДМХЕ"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "гЮОХЯХ"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "оНЙЮГЮРЭ ОНЯКЕДМХЕ"
+
+msgid "filter on (%name%)"
+msgstr "тХКЭРПНБЮРЭ ОН (%name%)"
+
+msgid "first"
+msgstr "ОЕПБЮЪ"
+
+msgid "previous"
+msgstr "ОПЕДШДСЫЮЪ"
+
+msgid "next"
+msgstr "ЯКЕДСЧЫЮЪ"
+
+msgid "last"
+msgstr "ОНЯКЕДМЪЪ"
+
+msgid "jump to page (%num%)"
+msgstr "яРПЮМХЖЮ (%num%)"
+
+msgid "filter off"
+msgstr "МЕ ТХКЭРПНБЮРЭ - off"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "яРЮРСЯ"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "нРЛЕРХРЭ БЯЕ"
+
+msgid "Uncheck All"
+msgstr "яМЪРЭ НРЛЕРЙС ЯН БЯЕУ"
+
+msgid "With the checked entries, do:"
+msgstr "я НРЛЕВЕММШЛХ ГЮОХЯЪЛХ ЯДЕКЮРЭ:"
+
+msgid "- select an option -"
+msgstr "- БШАЕПХРЕ -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "сЯРЮМНБХРЭ ЯРЮРСЯ Б 'НОСАКХЙНБЮМН'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "сЯРЮМНБХРЭ ЯРЮРСЯ Б 'ОПХДЕПФЮРЭ'"
+
+msgid "Delete them"
+msgstr "сДЮКХРЭ ХУ"
+
+msgid "Go!"
+msgstr "оНЬЕК!"
+
+#, fuzzy
+msgid "Published"
+msgstr "вХЯКН ДКЪ ГЮОХЯХ"
+
+#, fuzzy
+msgid "Timed"
+msgstr "гЮЦКЮБХЕ"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "цНРНБН! пЕЦЕМЕПЮЖХЪ ГЮМЪКЮ %num% ЯЕЙСМД"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "яНГДЮМН"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "мХВЕЦН"
+
+#, fuzzy
+msgid "for"
+msgstr "ВЕРШПЕ"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "оНЯКЕДМХИ ПЮГ ОПЮБХКНЯЭ"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "мЮЯРПНИЙХ ЙНЛЛЕМРЮПХЕБ"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "оСРЭ ГЮОХЯЕИ"
+
+msgid "Overview of Entries"
+msgstr "цКНАЮКЭМШИ ОПНЯЛНРП ГЮОХЯЕИ"
+
+msgid "Manage and Upload Media"
+msgstr "сОПЮБКЕМХЕ Х ГЮЙЮВЙЮ ТЮИКНБ"
+
+msgid "Administration"
+msgstr "юДЛХМХЯРПЮЖХЪ"
+
+msgid "Overview of Administrative functions"
+msgstr "нЯЛНРП ЮДЛХМХЯРПХПНБЮМХЪ"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Log in"
+msgstr "кНЦХМ"
+
+msgid "Write and Publish a new Entry"
+msgstr "мЮОХЯЮРЭ Х НОСАКХЙНБЮРЭ МНБСЧ ГЮОХЯЭ"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "цКНАЮКЭМШИ ОПНЯЛНРП ГЮОХЯЕИ"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "мЮОХЯЮРЭ Х НОСАКХЙНБЮРЭ МНБСЧ ГЮОХЯЭ"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "рПЩЙаЩЙХ"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "цКНАЮКЭМШИ ОПНЯЛНРП ГЮОХЯЕИ"
+
+msgid "Edit the Configuration file"
+msgstr "хГЛЕМХРЭ ЙНМТХЦСПЮЖХНММШИ ТЮИК"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "мЮЯРПНИЙХ"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "хГЛЕМХРЭ ЙНМТХЦСПЮЖХНММШИ ТЮИК"
+
+msgid "Create, edit and delete Users"
+msgstr "яНГДЮМХЕ, ОПЮБЙЮ Х СДЮКЕМХЕ ОНКЭГНБЮРЕКЕИ."
+
+msgid "Create, edit and delete the Categories"
+msgstr "яНГДЮМХЕ, ОПЮБЙЮ Х СДЮКЕМХЕ ЙЮРЕЦНПХИ"
+
+msgid "Weblogs"
+msgstr "бЕАКНЦХ"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "яНГДЮМХЕ, ОПЮБЙЮ Х СДЮКЕМХЕ БЕАКНЦНБ"
+
+#, fuzzy
+msgid "Registered Visitors"
+msgstr "гЮПЕЦХЯРПХПСИРЕЯЭ."
+
+#, fuzzy
+msgid "View and edit Registered Visitors"
+msgstr "бНИРХ ЙЮЙ ГЮПЕЦХЯРПХПНБЮММШИ"
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "пЕГЕПБМЮЪ ЙНОХЪ"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr "щРН ДЮЕР БНГЛНФМНЯРЭ ЯЙЮВЮРЭ Zip-тЮИК Я ПЕГЕПБМШЛХ ТЮИКЮЛХ"
+
+#, fuzzy
+msgid "Widgets"
+msgstr "ХГНАПЮФЕМХЪ"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "мЮЯРПНИЙХ"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+msgid "Backup of Configuration Files"
+msgstr "яНГДЮРЭ ПЕГЕПБМСЧ ЙНОХЧ бЮЬХУ МЮЯРПНЕЙ"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr "щРН ДЮЕР БНГЛНФМНЯРЭ ЯЙЮВЮРЭ Zip-тЮИК Я ПЕГЕПБМШЛХ ТЮИКЮЛХ"
+
+msgid "Create, edit and delete Templates"
+msgstr "яНГДЮМХЕ, ОПЮБЙЮ Х СДЮКЕМХЕ ЬЮАКНМНБ"
+
+msgid "Explore Database Files"
+msgstr "оПНЯЛНРПЫХЙ тЮИКНБ"
+
+msgid "View files (both text and database files)"
+msgstr "оНЯЛНРПЕРЭ ТЮИКШ (АЮГШ ДЮММШУ Х РЕЙЯРНБШЕ)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "оПНЯЛНРПЫХЙ тЮИКНБ"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+msgid "Rebuild the Index"
+msgstr "оЕПЕДЕКЮРЭ ХМДЕЙЯ"
+
+msgid "Rebuild the index of your Database"
+msgstr "оЕПЕДЕКЮРЭ ХМДЕЙЯ АЮГШ ДЮММШУ"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "оЕПЕДЕКЮРЭ АЮГС ДЮММШУ ОНХЯЙНБНИ ЯХЯРЕЛШ"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "оЕПЕДЕКЮИРЕ ХМДЕЙЯ АЮГШ ДЮММШУ, ДКЪ ОНХЯЙЮ"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "оЕПЕДЕКЮРЭ ХМДЕЙЯ"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "оЕПЕДЕКЮИРЕ ХМДЕЙЯ АЮГШ ДЮММШУ, ДКЪ ОНХЯЙЮ"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "дНАПН ОНФЮКНБЮРЭ Б %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "оНМЕДЕКЭМХЙ"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "йКЧВЕБШЕ яКНБЮ"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "гЮЦПСГХРЭ МНБШИ ТЮИК:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Red"
+msgstr "яПД"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "пЕГЕПБМЮЪ ЙНОХЪ"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "кНЦХМ"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"хЛЪ ОНКЭГНБЮРЕКЪ ДНКФМН ЯНДЕПФЮРЭ РНКЭЙН КЮРХМЯЙХЕ АСЙБШ Х ЖХТПШ (A-Z, a-z, "
+"0-9) Х ЯХЛБНК ОНДВЕПЙХБЮМХЪ (_)."
+
+msgid "Password"
+msgstr "оЮПНКЭ"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+#, fuzzy
+msgid "Stay logged in?"
+msgstr "бУНД ЯНБЕПЬЕМ"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "гЮАШКХ ОЮПНКЭ?"
+
+msgid "Send password"
+msgstr "нРОПЮБХРЭ ОЮПНКЭ"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "нРОПЮБХРЭ ОЮПНКЭ"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr "еЯКХ бШ ГЮАШКХ бЮЬ ОЮПНКЭ, НМ АСДЕР БШЯКЮМ МЮ бЮЬ email. "
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "яНУПЮМХРЭ ЬЮАКНМ!"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "яНУПЮМХРЭ ЬЮАКНМ!"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "яНГДЮРЭ ПЕГЕПБМСЧ ЙНОХЧ бЮЬХУ МЮЯРПНЕЙ"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "оПЕД-ОПНЯЛНРП"
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Registered user"
+msgstr "гЮПЕЦХЯРПХПСИРЕЯЭ."
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "рПЩЙаЩЙХ"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "дЮРЮ ГЮОХЯХ"
+
+msgid "Excerpt"
+msgstr ""
+
+#, fuzzy
+msgid "Continue"
+msgstr "ДЕБЪРЭ"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "оЮПНКЭ (ЕЫЕ ПЮГ)"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "оЮПНКХ МЕ ЯНБОЮДЮЧР"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "дЮРЮ"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+#, fuzzy
+msgid "Your MySQL password"
+msgstr "нРОПЮБХРЭ ОЮПНКЭ"
+
+#, fuzzy
+msgid "Database Name"
+msgstr "дЮРЮ"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "хЛЪ оНКЭГНБЮРЕКЪ"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "оПЕТХЙЯ SSI"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "оЮПНКХ МЕ ЯНБОЮДЮЧР"
+
+msgid "That's not a valid email address"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+msgid "Language"
+msgstr "ъГШЙ"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "жБЕР РЕЙЯРЮ"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Determines the default text processing, when a user is using the non-wysiwyg "
+"editor. 'Convert Linebreaks' does nothing more than change linebreaks to a "
+"&lt;br&gt;-tag. <ahref=\"http://www.textism.com/tools/textile/\" target="
+"\"_blank\">Textile</a> is a powerful, yet easy to learnmarkup style."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Convert Linebreaks to &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Markdown and Smartypants"
+msgstr ""
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "оНЯКЕДМХИ ПЮГ ОПЮБХКНЯЭ"
+
+msgid "Moblogger"
+msgstr "лНАкНЦЦЕП"
+
+msgid "Normal"
+msgstr "мНПЛЮКЭМШИ"
+
+msgid "Advanced"
+msgstr "оПНДБХМСРШИ"
+
+msgid "Administrator"
+msgstr "юДЛХМ"
+
+msgid "Superadmin"
+msgstr "цКЮБМШИ бКЮДЕКЕЖ"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "сПНБЕМЭ ОНКЭГНБЮРЕКЪ НОПЕДЕКЪЕР ЙЮЙХЕ ДЕИЯРБХЪ НМ ЛНФЕР ОПНХГБНДХРЭ"
+
+#, fuzzy
+msgid "Allowed Categories"
+msgstr "йЮРЕЦНПХХ"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr ""
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "оНЯКЕДМХИ ПЮГ ОПЮБХКНЯЭ"
+
+msgid "Create Category"
+msgstr "яНГДЮРЭ ЙЮРЕЦНПХЧ"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "йЮРЕЦНПХЪ ДНКФМЮ АШРЭ МЮГБЮМЮ"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr ""
+"бШАЕПХРЕ ОНКЭГНБЮРЕКЕИ, ЙНРНПШЛ БШ УНРХРЕ ПЮГПЕЬХРЭ ОХЯЮРЭ Б ЩРС ЙЮРЕЦНПХЧ"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"йЮРЕЦНПХХ АСДСР ЯНПРХПНБЮРЭЯЪ ОН ЯОХЯЙС, Б МХФМЧЧ ЯРНПНМС. еЯКХ БШ ЯНУПЮМХРЕ "
+"БЯЕ МНЛЕПЮ, НМХ АСДСР ЯНУПЮМЪРЭЯЪ Б ЮКТЮБХРМНЛ ОНПЪДЙЕ"
+
+#, fuzzy
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+"ЕЯКХ БШАПЮРЭ 'дЮ', ЩРЮ ЙЮРЕЦНПХЪ АСДЕР ЯЙПШРЮ Б ЮПУХБЮУ. (РНКЭЙН ДКЪ \"ФХБШУ"
+"\" ЯРПЮМХЖ)"
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "йЮРЕЦНПХЪ"
+
+#, fuzzy
+msgid "The name of this chapter"
+msgstr "хМДЕЙЯХПНБЮРЭ ДЮММСЧ ЙЮРЕЦНПХЧ"
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+#, fuzzy
+msgid "Theme"
+msgstr "ьЮАКНМШ"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "мЮЯРПНИЙХ ГЮОХЯЕИ"
+
+msgid "Payoff"
+msgstr "оЩИнТТ"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr ""
+"оЩИНТТ ЛНФЕР АШРЭ ХЯОНКЭГНБЮМ ЙЮЙ ОНДГЮЦНКНБНЙ ХКХ ЙЮЙ ЙПЮРЙНЕ НОХЯЮМХЕ "
+"БЮЬЕЦНБЕАКНЦЮ"
+
+msgid "URL to Weblog"
+msgstr "URL Й БЕАКНЦС"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Pivot ЯЮЛ НОПЕДЕКХР ЯЯШКЙС МЮ БЕАКНЦ ЕЯКХ БШ НЯРЮБХРЕ ЩРН ОНКЕ ОСЯРШЛ. еЯКХ "
+"БШХЯОНКЭГСЕРЕ ЯБНИ БЕАКНЦ ЙЮЙ ВЮЯРЭ ТПЕИЛЮ, ХКХ БЙКЧВЕМХЕ ЯН ЯРНПНМШ "
+"ЯЕПБЕПЮ, БШ ЛНФЕРЕ ХЯОНКЭГНБЮРЭ ЩРНОНКЕ ДКЪ ОЕПЕОХЯХ."
+
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "рЕЙЯР ДКЪ 'ДЮКЭМЕИЬЕЦН ВРЕМХЪ' ГЮОХЯХ"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"щРНР РЕЙЯР ОНЙЮГШБЮЕР ВРН ГЮОХЯЭ МЮЛМНЦН ДКХММЕЕ ВЕЛ ОНЙЮГЮМН МЮ "
+"ЦКЮБМНИЯРПЮМХЖЕ Х ОПЕДКЮЦЮЕР ЯЯШКЙС ДКЪ ДЮКЭМЕИЬЕЦН ВРЕМХЪ. еЯКХ БШ НЯРЮБХРЕ "
+"ОНКЕ ОСЯРШЛ, АСДЕР ХЯОНКЭГНБЮМЮМЮЯРПНИЙЮ ХГ ЪГШЙНБНЦН ТЮИКЮ."
+
+msgid "Frontpage Template"
+msgstr "ьЮАКНМ ЦКЮБМНИ ЯРПЮМХЖШ"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "бХД ГЮЦКЮБМНИ ЯРПЮМХЖШ ЩРНЦН АКНЦЮ."
+
+msgid "Archivepage Template"
+msgstr "ьЮАКНМ ЯРПЮМХЖШ ЮПУХБНБ"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"бХД ЯРЮМХЖШ Я ЮПУХБЮЛХ. лНФЕР АШРЭ РЮЙХЛ ФЕ ЙЮЙ Х 'ьЮАКНМ ЦКЮБМНИЯРПЮМХЖШ'."
+
+msgid "Entrypage Template"
+msgstr "ьЮАКНМ ГЮОХЯХ"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "бХД ЯРПЮМХЖШ ЙЮФДНИ НРДЕКЭМНИ ГЮОХЯХ."
+
+msgid "Extra Template"
+msgstr "Extra-ьЮАКНМ"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr "оНЙЮГШБЮЕР ЙЮЙ АСДЕР ОНЙЮГЮМЮ ЯРПЮМХЖЮ search.php ."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "яНУПЮМХРЭ ЬЮАКНМ!"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr "оНЙЮГШБЮЕР ЙЮЙ АСДЕР ОНЙЮГЮМЮ ЯРПЮМХЖЮ search.php ."
+
+msgid "Number of Entries"
+msgstr "йНКХВЕЯРБН ГЮОХЯЕИ"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "яЙНКЭЙН ГЮОХЯЕИ АСДЕР ОНЙЮГЮМН МЮ ЦКЮБМНИ ЯРПЮМХЖЕ."
+
+msgid "Offset"
+msgstr "Offset"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"еЯКХ НТТЯЕРС АСДЕР ОПХЯБНЕМ МНЛЕП, РН ХДЕМРХТХЙЮРНПШ ГЮОХЯЕИ АСДСР ОПНОСЫЕМШ "
+"ОПХ ПЕЦЕМЕПЮЖХХ. бШ ЛНФЕРЕ ХЯОНКЭГНБЮРЭ ЩРН ВРНАШ ЯНГДЮРЭ 'оПЕДШДСЫХЕ "
+"ГЮОХЯХ' list, for example."
+
+#, fuzzy
+msgid "Publish these categories"
+msgstr "оСАКХВМЮЪ йЮРЕЦНПХЪ"
+
+msgid "RSS and Atom Configuration"
+msgstr "мЮЯРПНИЙЮ RSS"
+
+msgid "Generate Feeds"
+msgstr "хЯОНКЭГНБЮРЭ RSS"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr "нОПЕДЕКЪЕР ЯРНХР КХ Pivot'С ЯНГДЮБЮРЭ RSS КЕМРС ДКЪ ДЮММНЦН АКНЦЮ."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "URL ЯЮИРЮ"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "URL ЯЮИРЮ"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Create Full Feeds"
+msgstr "хЯОНКЭГНБЮРЭ RSS"
+
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+
+msgid "Feed Link"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"сЙЮГШБЮЕР МЮ РЕЙЯР, ЙНРНПШИ АСДЕР ХЯОНКЭГНБЮМ ДКЪ НРНАПЮФЕМХЪЙНКХВЕЯРБЮ "
+"НЯРЮБКЕММШУ ЙНЛЛЕМРЮПХЕБ. еЯКХ БШ НЯРЮБХРЕ ЩРХ ОНКЪ ОСЯРШЛХ, Pivot АСДЕР "
+"ХЯОНКЭГНБЮРЭ ГЮОХЯХ ХГТЮИКЮ ЪГШЙЮ"
+
+#, fuzzy
+msgid "Feed Image"
+msgstr "сДЮКХРЭ ХГНАПЮФЕМХЕ"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+
+msgid "Commenting Settings"
+msgstr "мЮЯРПНИЙХ ЙНЛЛЕМРЮПХЕБ"
+
+msgid "Send Mail?"
+msgstr "нРЯШКЮРЭ ОН ОНВРЕ?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr ""
+"оНЯКЕ РНЦН ЙЮЙ АШК НЯРЮБКЕМ ЙНЛЛЕМРЮПХИ, Pivot ЛНФЕР НРОПЮБХРЭ "
+"ОХЯЭЛНБЕДСЫЕЛС АКНЦЮ."
+
+msgid "Mail to"
+msgstr "йНЛС"
+
+#, fuzzy
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"юДПЕЯ(Ю) МЮ ЙНРНПШЕ АСДЕР НРОПЮБКЕМН ЯННАЫЕМХЕ НА НЯРЮБКЕММНЛЙНЛЛЕМРЮПХЕ. "
+"мЕЯЙНКЭЙН ЮДПЕЯНБ ЯКЕДСЕР ПЮГДЕКХРЭ ГЮОЪРНИ."
+
+msgid "Text to links"
+msgstr "рЕЙЯР Б ЯЯШКЙХ"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr ""
+"сЙЮГШБЮЕР, ЯКЕДСЕР КХ МЮОХЯЮММШЕ ЮДПЕЯЮ ЯРПЮМХЖ Х e-mail'НБОЕПЕБНДХРЭ Б "
+"ЯЯШКЙХ."
+
+msgid "Wrap comments after"
+msgstr "оЕПЕМНЯХРЭ ЙНЛЛЕМРЮПХИ ОНЯКЕ"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"вРНАШ НВЕМЭ ДКХММШЕ РЕЙЯРШ МЕ ОНПРХКХ БЮЬ ДХГЮИМ, РЕЙЯР ЛНФЕР АШРЭОЕПЕМЕЯЕМ "
+"МЮ МНБСЧ ЯРПНЙС ОНЯКЕ ЙНКХВЕЯРБЮ СЙЮГЮММШУ ГМЮЙНБ."
+
+msgid "Comments Popup?"
+msgstr "йНЛЛЕМРЮПХХ Б МНБНЛ НЙМЕ?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"сЙЮГШБЮЕР, АСДСР КХ ЙНЛЛЕМРЮПХХ (ХКХ 'НРДЕКЭМШЕ ГЮОХЯХ') ОНЙЮГШБЮРЭЯЪ БМНБНЛ "
+"НЙМЕ ХКХ Б НПХЦХМЮКЭМНЛ НЙМЕ АПЮСГЕПЮ."
+
+msgid "Width of Popup"
+msgstr "ьХПХМЮ НЙМЮ"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "бШЯНРЮ НЙМЮ"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "сЙЮГШБЮЕР ЬХПХМС Х БШЯНРС (Б ОХЙЯЕКЮУ)НЙМЮ ДКЪ ЙНЛЛЕМРЮПХЕБ."
+
+msgid "Height of Popup"
+msgstr "бШЯНРЮ НЙМЮ"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "сЙЮГШБЮЕР ЬХПХМС Х БШЯНРС (Б ОХЙЯЕКЮУ)НЙМЮ ДКЪ ЙНЛЛЕМРЮПХЕБ."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "пЮГПЕЬХРЭ Textile"
+
+msgid "Allow Textile"
+msgstr "пЮГПЕЬХРЭ Textile"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"еЯКХ ЩРН ГМЮВЕМХЕ ЯРНХР 'дЮ', РН ОНЯЕРХРЕКХ ЛНЦСР ХЯОНКЭГНБЮРЭ <ahref="
+"\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</a> Б ХУ "
+"ЙНЛЛЕМРЮПХЪУ."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "яЛЮИКШ"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "яЛЮИКШ"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"еЯКХ ЩРН ГМЮВЕМХЕ ЯРНХР 'дЮ', РН ОНЯЕРХРЕКХ ЛНЦСР ХЯОНКЭГНБЮРЭ <ahref="
+"\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</a> Б ХУ "
+"ЙНЛЛЕМРЮПХЪУ."
+
+msgid "Site Name"
+msgstr "мЮГБЮМХЕ ЯЮИРЮ"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "бЕАКНЦХ"
+
+#, fuzzy
+msgid "Page"
+msgstr "ХГНАПЮФЕМХЕ"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "мЮГБЮМХЕ ЯЮИРЮ"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- БШАЕПХРЕ -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+"нОПЕДЕКЪЕР ТНПЛЮР ГЮОХЯХ ДЮРШ Х БПЕЛЕМХ. б НЯМНБМНЛ ХЯОНКЭГСЕРЯЪ Б ГЮОХЯЪУ."
+
+msgid "Default language"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /entry/1234"
+msgstr ""
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Use Mod_rewrite"
+msgstr "хЯОНКЭГНБЮРЭ Filesmatch"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"еЯКХ БШ ХЯОНКЭГСЕРЕ Apache's Filesmatch, Pivot АСДЕР ДЕКЮРЭ ЯЯШКЙХ БХДЮwww."
+"mysite.com/archive/2003/05/30/nice_weather, БЛЕЯРН www.mysite.com/pivot/"
+"entry.php?id=134. мЕ БЯЕЯЕПБЕПЮ ОНДДЕПФХБЮЧР ДЮММШИ ЛНДСКЭ, РЮЙ ВРН "
+"ХЯОНКЭГСИРЕ ЩРН РНКЭЙН ОНЯКЕ ОПНВРЕМХЪ ЛЮМСЮКЮ."
+
+#, fuzzy
+msgid "Allow comments by default"
+msgstr "оНГБНКХРЭ ЙНЛЛЕМРХПНБЮРЭ"
+
+#, fuzzy
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "нОПЕДЕКЪЕР ЯЛНЦСР КХ ОНКЭГНБЮРЕКХ НЯРЮБКЪРЭ ЙНЛЛЕМРЮПХХ."
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "яНУПЮМХРЭ МЮЯРПНИЙХ"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "оНЙЮГЮРЭ ОНЯКЕДМХЕ"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "йНКХВЕЯРБН ГЮОХЯЕИ"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "RSS КЕМРЮ (2.0)"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "йНКХВЕЯРБН ГЮОХЯЕИ"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "йНД"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "пЮГЛЕП ТЮИКЮ"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "пЮГЛЕП ТЮИКЮ"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Debug ПЕФХЛ"
+
+msgid "Show random debug information, every here and there.."
+msgstr "ОНЙЮГШБЮРЭ ПЮГКХВМСЧ debug ХМТНПЛЮЖХЧ РН РЮЛ, РН РС..."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "кНЦТЮИКШ"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+#, fuzzy
+msgid "Unlink Files"
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+
+#, fuzzy
+msgid "Chmod Files To"
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+
+msgid "File Upload Path"
+msgstr "оСРЭ ДКЪ ГЮЦПСГЙХ ТЮИКНБ"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "оЕПЕОХЯШБЮРЭ"
+
+msgid "Increment Filename"
+msgstr "сБЕКХВХБЮРЭ ВХЯКН Б МЮГБЮМХХ ТЮИКЮ"
+
+msgid "Maximum Filesize"
+msgstr "пЮГЛЕП ТЮИКЮ"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "юБРНЛЮРХВЕЯЙХЕ ЩЯЙХГШ"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "ьХПХМЮ щЯЙХГЮ"
+
+msgid "Thumbnail height"
+msgstr "бШЯНРЮ щЯЙХГЮ"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "ьХПХМЮ щЯЙХГЮ"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "пЮГПЕЬЕММШЕ РХОШ ТЮИКНБ"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "оНКМШИ ТНПЛЮР ДЮРШ"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"нОПЕДЕКЪЕР ТНПЛЮР ГЮОХЯХ ДЮРШ Х БПЕЛЕМХ. б НЯМНБМНЛ ХЯОНКЭГСЕРЯЪ Б ГЮОХЯЪУ."
+
+msgid "Entry Date"
+msgstr "дЮРЮ ГЮОХЯХ"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "пЮГКХВМШЕ ДЮРШ"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'пЮГКХВМШЕ ДЮРШ' ВЮЫЕ БЯЕЦН ХЯОНКЭГСЕРЯЪ Б ЯБЪГЙЕ Я  'дЮРНИ ГЮОХЯХ'. "
+"дЮРЮГЮОХЯХ ОНЙЮГШБЮЕРЯЪ Б БЮЬЕЛ КНЦЕ, Б РН БПЕЛЪ ЙЮЙ ПЮГКХВМШЕ ДЮРШ "
+"ОНЙЮГШБЮЧРЯЪ РНКЭЙН ЕЯКХ ЕЯРЭ НРКХВХЕ НРОПНЬКНИ ГЮОХЯХ."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "еДХМХЖЮ НРЯРЮБЮМХЪ"
+
+msgid "Year"
+msgstr "цНД"
+
+msgid "Month"
+msgstr "лЕЯЪЖ"
+
+msgid "Day"
+msgstr "дЕМЭ"
+
+msgid "Hour"
+msgstr "вЮЯ"
+
+msgid "Minute"
+msgstr "лХМСРЮ"
+
+msgid "Time Offset"
+msgstr "йНК-БН"
+
+#, fuzzy
+msgid "Activate"
+msgstr "юПУХБШ / Archives"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "лХМ. СПНБЕМЭ ОНКЭГНБЮРЕКЪ"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "бБЕДЕММШИ e-mail МЕОПЮБХКЭМШИ"
+
+#, fuzzy
+msgid "Default author"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "ъГШЙ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "бШАПЮРЭ ХГНАПЮФЕМХЕ"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "сДЮКХРЭ ЙЮРЕЦНПХЧ"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- БШАЕПХРЕ -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "сДЮКХРЭ ЙЮРЕЦНПХЧ"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "йЮРЕЦНПХХ"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+#, fuzzy
+msgid "Number of links"
+msgstr "йНКХВЕЯРБН ГЮОХЯЕИ"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "йНМБЕПРХПНБЮРЭ"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "мЮГБЮМХЕ ХГНАПЮФЕМХЪ"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "By"
+msgstr "рЕКН ГЮОХЯХ"
+
+#, fuzzy
+msgid "version"
+msgstr "йНМБЕПРХПНБЮРЭ"
+
+#, fuzzy
+msgid "last updated"
+msgstr "оНЯКЕДМХИ ПЮГ ОПЮБХКНЯЭ"
+
+#, fuzzy
+msgid "site link"
+msgstr "бЯРЮБХРЭ ЯЯШКЙС"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "мЮЯРПНИЙХ"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "нРОПЮБХРЭ ОХМЦХ"
+
+#, fuzzy
+msgid "Oops."
+msgstr "нИ"
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "бУНД ДКЪ ОНКЭГНБЮРЕКЕИ"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "бУНД ДКЪ ОНКЭГНБЮРЕКЕИ"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "бУНД ДКЪ ОНКЭГНБЮРЕКЕИ"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "бЮЛ ГЮОЕПЕЫЕМН ДЕКЮРЭ РЮЙНЕ Я ГЮОХЯЭЧ %title%!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "бЮЬ ТЮИК АШК ГЮЦПСФЕМ ЙЮЙ '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "мНБШИ АКНЦ АШК СЯОЕЬМН ЯНГДЮМ."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(ЯНГДЮРЭ ЩЯЙХГ)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "оСРЭ ДКЪ ГЮЦПСГЙХ ТЮИКНБ"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "ьЮАКНМ КЕМРШ"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "яЛЮИКШ"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "оЮПНКЭ"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "РПХМЮДЖЮРЭ"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "гЮОХЯЮРЭ"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "нЬХАЙЮ ГЮОХЯХ. мЕ НРЙПШРЭ ТЮИК ДКЪ ГЮОХЯХ"
+
+msgid "Write Error. Could not write to file"
+msgstr "нЬХАЙЮ ГЮОХЯХ. мЕ БНГЛНФМН ГЮОХЯЮРЭ Б ТЮИК"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "щРН ОНЙЮФЕР БХД ОНЯКЕДМХУ ЙНЛЛЕМРЮПХЕБ"
+
+#, fuzzy
+msgid "View this entry"
+msgstr "оПНЦНКНЯНБЮРЭ '%val%' ГЮ ЩРС ГЮОХЯЭ"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "щРН ОНЙЮФЕР БХД ОНЯКЕДМХУ ЙНЛЛЕМРЮПХЕБ"
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "пЮГКХВМШЕ МЮЯРПНИЙХ"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "мНБЮЪ ГЮОХЯЭ"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "оНДРБЕПФДЕМХЕ ПЕЦХЯРПЮЖХХ"
+
+msgid "%num% comment"
+msgstr "%num% ЙНЛЛЕМРЮПХИ"
+
+msgid "%num% comments"
+msgstr "ЙНЛЛЕМРЮПХЕБ: %num%"
+
+msgid "%num% trackback"
+msgstr "%num% РПЩЙАЩЙ"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "%num% РПЩЙАЩЙ"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"бШ ОПНЯЛЮРПХБЮИРЕ БХД ЙНЛЛЕМРЮПХЪ, МН НМ ОНЙЮ МЕ НЯРЮБКЕМ. мЕ ГЮАСДЭРЕ "
+"МЮФЮРЭ 'нЯРЮБХРЭ ЙНЛЛЕМРЮПХИ', ВРНАШ ЯНУПЮМХРЭ ЕЦН."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr ""
+"йНЛЛЕМРЮПХИ МЕ ЯНУПЮМЕМ, бЮЬ ОПЕДШДСЫХИ ЙНЛЛЕМРЮПХИ БШЦКЪДХР РНВМН РЮЙФЕ."
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr ""
+"йНЛЛЕМРЮПХИ МЕ ЯНУПЮМЕМ, бЮЬ ОПЕДШДСЫХИ ЙНЛЛЕМРЮПХИ БШЦКЪДХР РНВМН РЮЙФЕ."
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr ""
+"йНЛЛЕМРЮПХИ МЕ ЯНУПЮМЕМ, бЮЬ ОПЕДШДСЫХИ ЙНЛЛЕМРЮПХИ БШЦКЪДХР РНВМН РЮЙФЕ."
+
+msgid "Your comment has been stored."
+msgstr "бЮЬ ЙНЛЛЕМРЮПХИ НЯРЮБКЕМ."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"бШ ДНКФМШ МЮОХЯЮРЭ БЮЬЕ ХЛЪ ХКХ МХЙ Б ОНКЕ 'хЛЪ'. мЕ ГЮАСДЭРЕ МЮФЮРЭ "
+"'нЯРЮБХРЭ ЙНЛЛЕМРЮПХИ', ВРНАШ ЯНУПЮМХРЭ ЕЦН."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"бШ ДНКФМШ МЮОХЯЮРЭ ВРН-КХАН ДКЪ ЙНЛЛЕМРЮПХЪ. мЕ ГЮАСДЭРЕ МЮФЮРЭ 'нЯРЮБХРЭ "
+"ЙНЛЛЕМРЮПХИ', ВРНАШ ЯНУПЮМХРЭ ЕЦН."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr "яКХЬЙНЛ ЛМНЦН ЯЯШКНЙ Б бЮЬЕЛ ЙНЛЛЕМРЮПХЕ. лШ МЕ КЧАХЛ яОЮЛЛЕПНБ."
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "тНПЛЮР ЙНЛЛЕМРЮПХЕБ"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "ОПЮБХРЭ ЩЯЙХГ"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "бУНД ДКЪ ОНКЭГНБЮРЕКЕИ"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "йНД"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "яЛЮИКШ"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "ОПЮБХРЭ ЩЯЙХГ"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(ЯНГДЮРЭ ЩЯЙХГ)"
+
+#, fuzzy
+msgid "Go"
+msgstr "оНЬЕК!"
+
+#, fuzzy
+msgid "Back"
+msgstr "пЕГЕПБМЮЪ ЙНОХЪ"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "йНД"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "бНЯЙПЕЯЕМЭЕ"
+
+msgid "Monday"
+msgstr "оНМЕДЕКЭМХЙ"
+
+msgid "Tuesday"
+msgstr "бРНПМХЙ"
+
+msgid "Wednesday"
+msgstr "яПЕДЮ"
+
+msgid "Thursday"
+msgstr "вЕРБЕПЦ"
+
+msgid "Friday"
+msgstr "оЪРМХЖЮ"
+
+msgid "Saturday"
+msgstr "яСААНРЮ"
+
+msgid "S_Sunday_initial"
+msgstr "б"
+
+msgid "M_Monday_initial"
+msgstr "о"
+
+msgid "T_Tuesday_initial"
+msgstr "б"
+
+msgid "W_Wednesday_initial"
+msgstr "я"
+
+msgid "T_Thursday_initial"
+msgstr "в"
+
+msgid "F_Friday_initial"
+msgstr "о"
+
+msgid "S_Saturday_initial"
+msgstr "я"
+
+msgid "Sun"
+msgstr "бЯЙ"
+
+msgid "Mon"
+msgstr "оМД"
+
+msgid "Tue"
+msgstr "бРП"
+
+msgid "Wed"
+msgstr "яПД"
+
+msgid "Thu"
+msgstr "вРБ"
+
+msgid "Fri"
+msgstr "оР"
+
+msgid "Sat"
+msgstr "яА"
+
+msgid "January"
+msgstr "ъМБЮПЭ"
+
+msgid "February"
+msgstr "тЕБПЮКЭ"
+
+msgid "March"
+msgstr "лЮПР"
+
+msgid "April"
+msgstr "юОПЕКЭ"
+
+msgid "May"
+msgstr "лЮИ"
+
+msgid "June"
+msgstr "хЧМЭ"
+
+msgid "July"
+msgstr "хЧКЭ"
+
+msgid "August"
+msgstr "юБЦСЯР"
+
+msgid "September"
+msgstr "яЕМРЪАПЭ"
+
+msgid "October"
+msgstr "нЙРЪАПЭ"
+
+msgid "November"
+msgstr "мНЪАПЭ"
+
+msgid "December"
+msgstr "дЕЙЮАПЭ"
+
+msgid "Jan_January_abbreviation"
+msgstr "ъМБ"
+
+msgid "Feb_February_abbreviation"
+msgstr "тЕБ"
+
+msgid "Mar_March_abbreviation"
+msgstr "лЮП"
+
+msgid "Apr_April_abbreviation"
+msgstr "юОП"
+
+msgid "May_May_abbreviation"
+msgstr "лЮИ"
+
+msgid "Jun_June_abbreviation"
+msgstr "хЧМ"
+
+msgid "Jul_July_abbreviation"
+msgstr "хЧК"
+
+msgid "Aug_August_abbreviation"
+msgstr "юБЦ"
+
+msgid "Sep_September_abbreviation"
+msgstr "яЕМ"
+
+msgid "Oct_October_abbreviation"
+msgstr "нЙР"
+
+msgid "Nov_November_abbreviation"
+msgstr "мНЪ"
+
+msgid "Dec_December_abbreviation"
+msgstr "дЕЙ"
+
+#, fuzzy
+msgid "am"
+msgstr "хЛЪ"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "МНКЭ"
+
+msgid "one"
+msgstr "НДХМ"
+
+msgid "two"
+msgstr "ДБЮ"
+
+msgid "three"
+msgstr "РПХ"
+
+msgid "four"
+msgstr "ВЕРШПЕ"
+
+msgid "five"
+msgstr "ОЪРЭ"
+
+msgid "six"
+msgstr "ЬЕЯРЭ"
+
+msgid "seven"
+msgstr "ЯЕЛЭ"
+
+msgid "eight"
+msgstr "БНЯЕЛЭ"
+
+msgid "nine"
+msgstr "ДЕБЪРЭ"
+
+msgid "ten"
+msgstr "ДЕЯЪРЭ"
+
+msgid "eleven"
+msgstr "НДХММЮДЖЮРЭ"
+
+msgid "twelve"
+msgstr "ДБХМЮДЖЮРЭ"
+
+msgid "thirteen"
+msgstr "РПХМЮДЖЮРЭ"
+
+msgid "fourteen"
+msgstr "ВЕРШПМЮДЖЮРЭ"
+
+msgid "fifteen"
+msgstr "ОЪРМЮДЖЮРЭ"
+
+msgid "sixteen"
+msgstr "ЬЕЯМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "ЯЕЛЭ"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "БНЯЕЛЭ"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "ДЕБЪРЭ"
+
+#, fuzzy
+msgid "twenty"
+msgstr "мНБЮЪ ГЮОХЯЭ"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "МНКЭ"
+
+#, fuzzy
+msgid "second"
+msgstr "яЕЙСМДЮ"
+
+#, fuzzy
+msgid "third"
+msgstr "РПХМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "forth"
+msgstr "ВЕРШПЕ"
+
+#, fuzzy
+msgid "fifth"
+msgstr "ОЪРМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "sixth"
+msgstr "ЬЕЯРЭ"
+
+#, fuzzy
+msgid "seventh"
+msgstr "ЯЕЛЭ"
+
+#, fuzzy
+msgid "eighth"
+msgstr "БНЯЕЛЭ"
+
+#, fuzzy
+msgid "ninth"
+msgstr "ДЕБЪРЭ"
+
+#, fuzzy
+msgid "tenth"
+msgstr "ДЕЯЪРЭ"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "НДХММЮДЖЮРЭ"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "ДБХМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "РПХМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "ВЕРШПМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "ОЪРМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "ЬЕЯМЮДЖЮРЭ"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "ЯЕЛЭ"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "БНЯЕЛЭ"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "ДЕБЪРЭ"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "ДЕЯЪРЭ"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+"хМЯРЮККЪРНП Pivot'a 'pivot-setup.php' ДН ЯХУ ОНП МЮУНДХРЯЪ Б ЙНПМЕБНИ ОЮОЙЕ. "
+"дКЪ бЮЬЕИ АЕГНОЮЯМНЯРХ, СДЮКХРЕ ТЮИК ХКХ ФЕ ОЕПЕХЛЕМСИРЕ"
+
+#, fuzzy
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+"хМЯРЮККЪРНП Pivot'a 'pivot-setup.php' ДН ЯХУ ОНП МЮУНДХРЯЪ Б ЙНПМЕБНИ ОЮОЙЕ. "
+"дКЪ бЮЬЕИ АЕГНОЮЯМНЯРХ, СДЮКХРЕ ТЮИК ХКХ ФЕ ОЕПЕХЛЕМСИРЕ"
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "пЮЛЙЮ"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "оНЙЮГЮРЭ ОНЯКЕДМХЕ"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "бЕАКНЦХ"
+
+#, fuzzy
+msgid "category"
+msgstr "йЮРЕЦНПХЪ"
+
+#, fuzzy
+msgid "entry"
+msgstr "мНБЮЪ ГЮОХЯЭ"
+
+#, fuzzy
+msgid "for comments"
+msgstr "мЕР ЙНЛЛЕМРЮПХЕБ"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "пЕГСКЭРЮРШ ОНХЯЙЮ"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "пЕГСКЭРЮРШ ОНХЯЙЮ ДКЪ '%name%':"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "пЕГСКЭРЮРШ ОНХЯЙЮ ДКЪ '%name%':"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr ""
+"мХВЕЦН МЕ МЮИДЕМН ОН ГЮОПНЯС '%name%'. оНОПНАСИРЕ ОНХЯЙЮРЭ ВРН МХАСДЭ ЕЫ╦, "
+"СБЕПЕМВРН бШ МЮИД╦РЕ ЙНЕ ВРН ОНКЕГМНЕ ХКХ ХМРЕПЕЯМНЕ, ЙКЧВЕБШЕ ЯКНБЮ "
+"МЮУНДЪРЯЪ Б РЕКЕ ГЮОХЯХ, МЕ Б ЕЦН ГЮЦНКНБЙЕ."
+
+msgid "Search for words used in entries on this website"
+msgstr "оНХЯЙ Б ЯКНБЮУ ГЮОХЯЕИ ЯЮИРЮ"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "бБЕДХРЕ ЯКНБН[Ю] ДКЪ ОНХЯЙЮ:"
+
+msgid "Enter searchterms"
+msgstr "бБЕДХРЕ ЙКЧВЕБШЕ ЯКНБЮ"
+
+msgid "Search!"
+msgstr " Go! "
+
+#, fuzzy
+msgid "XML: Atom Feed"
+msgstr "RSS КЕМРЮ (2.0)"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "%num% ЙНЛЛЕМРЮПХИ"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "яЛЮИКШ"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "бУНД ДКЪ ОНКЭГНБЮРЕКЕИ"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "яНГДЮРЭ ЬЮАКНМ"
+
+msgid "Text file"
+msgstr "рЕЙЯРНБШИ ТЮИК"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Piv \" New"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "гЮЦПСГХРЭ МНБШИ ТЮИК:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Piv \" New"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "ОПЮБХРЭ ЩЯЙХГ"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "гЮЦПСГХРЭ МНБШИ ТЮИК:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "ьЮАКНМШ"
+
+#, fuzzy
+msgid "Include template"
+msgstr "яНУПЮМХРЭ ЬЮАКНМ!"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "ьЮАКНМ ЦКЮБМНИ ЯРПЮМХЖШ"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "ьЮАКНМ ЯРПЮМХЖШ ЮПУХБНБ"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "ьЮАКНМ ГЮОХЯХ"
+
+#, fuzzy
+msgid "Page template"
+msgstr "яНУПЮМХРЭ ЬЮАКНМ!"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "ьЮАКНМ ЯРПЮМХЖШ ЮПУХБНБ"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "мЮЯРПНИЙХ"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "бУНД ДКЪ ОНКЭГНБЮРЕКЕИ"
+
+#, fuzzy
+msgid "(more)"
+msgstr "НДХМ"
+
+msgid "Powered by"
+msgstr "оНДДЕПФЮМН "
+
+msgid "XML: RSS Feed"
+msgstr "RSS КЕМРЮ (2.0)"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "мЕР РПЩЙАЩЙНБ"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "хГЛЕМХРЭ ХКХ СДЮКХРЭ рПЩЙаЩЙХ"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+#, fuzzy
+msgid "register/login"
+msgstr "гЮПЕЦХЯРПХПНБЮРЭЯЪ"
+
+msgid "words"
+msgstr "ЯКНБ(Ю)"
+
+msgid "image"
+msgstr "ХГНАПЮФЕМХЕ"
+
+msgid "images"
+msgstr "ХГНАПЮФЕМХЪ"
+
+msgid "file"
+msgstr "ТЮИК"
+
+msgid "files"
+msgstr "ТЮИКШ"
+
+msgid "Self-registration"
+msgstr ""
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "оПНЦНКНЯНБЮРЭ '%val%' ГЮ ЩРС ГЮОХЯЭ"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+#, fuzzy
+msgid "Related tags"
+msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "оНЙЮГЮРЭ ОНЯКЕДМХЕ"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "щРН ОНЙЮФЕР БХД ОНЯКЕДМХУ ЙНЛЛЕМРЮПХЕБ"
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "щРН ОНЙЮФЕР БХД ОНЯКЕДМХУ ЙНЛЛЕМРЮПХЕБ"
+
+msgid "Log in as a registered visitor"
+msgstr "бНИРХ ЙЮЙ ГЮПЕЦХЯРПХПНБЮММШИ"
+
+msgid "Forgotten your password?"
+msgstr "гЮАШКХ ОЮПНКЭ?"
+
+msgid "Register a new username."
+msgstr "гЮПЕЦХЯРПХПСИРЕЯЭ."
+
+msgid "Logged in as"
+msgstr "бШ БНЬКХ ЙЮЙ"
+
+msgid "Log out."
+msgstr "бШИРХ."
+
+#, fuzzy
+msgid "Delete account."
+msgstr "сДЮКХРЭ ЙНЛЛЕМРЮПХИ"
+
+msgid "Edit your preferences"
+msgstr "хГЛЕМХРЭ ЛНХ ДЮММШЕ"
+
+#, fuzzy
+msgid "User disabled"
+msgstr "оНКЭГНБЮРЕКЭ ГЮПЕЦХЯРПХПНБЮМ!"
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "мЕБЕПМШИ ОЮПНКЭ"
+
+msgid "Logged in"
+msgstr "бУНД ЯНБЕПЬЕМ"
+
+msgid "Register"
+msgstr "гЮПЕЦХЯРПХПНБЮРЭЯЪ"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"оНФЮКСИЯРЮ ГЮОНКМХРЕ ЯКЕДСЧЫХЕ ОНКЪ. <strong>сАЕДХРЕЯЭ ВРН бШ ДЮКХ "
+"ОПЮБХКЭМШИ email</strong>, РЮЙ ЙЮЙ ЛШ НРОПЮБХЛ БЮЛ ОХЯЭЛН Я ОНДРБЕПФДЕМХЕЛ."
+
+msgid "Options"
+msgstr "мЮЯРПНИЙХ"
+
+msgid "Back to login"
+msgstr "мЮГЮД МЮ ЯРПЮМХЖС БУНДЮ"
+
+msgid "Show my email address with comments"
+msgstr "оНЙЮГШБЮРЭ ЛНИ ГЮЬХТПНБЮММШИ email Б ЙНЛЛЕМРЮПХЪУ"
+
+msgid "Notify me via email of new entries"
+msgstr "нРОПЮБКЪРЭ ЛМЕ ЯННАЫЕМХЪ Н МНБШУ ГЮОХЯЪУ"
+
+msgid "Default notification of replies"
+msgstr "бЯЕЦДЮ ОНЛЕВЮРЭ ОНКЕ \"яННАЫХРЭ НА НРБЕРЮУ\""
+
+msgid "Here you can change your information."
+msgstr "гДЕЯЭ бШ ЛНФЕРЕ ХГЛЕМХРЭ бЮЬС ХМТНПЛЮЖХЧ."
+
+msgid "Change preferences"
+msgstr "хГЛЕМХРЭ МЮЯРПНИЙХ"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr "нИ"
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "нРОПЮБХРЭ ОЮПНКЭ"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr "еЯКХ бШ ГЮАШКХ бЮЬ ОЮПНКЭ, НМ АСДЕР БШЯКЮМ МЮ бЮЬ email. "
+
+#, fuzzy
+msgid "User already exists... Please pick another name."
+msgstr "рЮЙНИ ОНКЭГНБЮРЕКЭ СФЕ ЯСЫЕЯРБСЕР.. оНФЮКСИЯРЮ ББЕДХРЕ ДПСЦНЕ ХЛЪ."
+
+#, fuzzy
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "рЮЙНИ ОНКЭГНБЮРЕКЭ СФЕ ЯСЫЕЯРБСЕР.. оНФЮКСИЯРЮ ББЕДХРЕ ДПСЦНЕ ХЛЪ."
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"бШ ДНКФМШ ДЮРЭ ЯБНИ ЩКЕЙРПНММШИ ЮДПЕЯ, РЮЙ ЙЮЙ БШ МЕ ЯЛНФЕРЕ ОНДРБЕПДХРЭ "
+"ОНКЭГНБЮРЕКЪ АЕГ ЩРНЦН. бЮЬ ЮДПЕЯ МЕ АСДЕР БХДЕМ МХЙНЛС ЙПНЛЕ бЮЯ Х АСДЕР "
+"ЬХТПНБЮРЭЯЪ."
+
+msgid "The changes have been stored"
+msgstr "хГЛЕМЕМХЪ ЯНУПЮМЕМШ"
+
+msgid "Your account is verified. Please log in.."
+msgstr "бЮЬ ОНКЭГНБЮРЕКЭ ЯНУПЮМЕМ. оНФЮКСИЯРЮ БНИДХРЕ.."
+
+#, fuzzy
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr ""
+"йЮФЕРЯЪ, ВРН ЙНД МЕБЕПМШИ. хГБХМХРЕ, МН ОНКЭГНБЮРЕКЭ МЕ ЯЛНЦ ОНДРБЕПДХРЭЯЪ."
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr "бЮЬ ОЮПНКЭ НРОПЮБКЕМ МЮ бЮЬ ЮДПЕЯ ЩКЕЙРПНММШИ ЮДПЕЯ email.."
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr "бШ БШЬКХ ХГ ЮЙЙЮСМРЮ"
+
+msgid "Back to"
+msgstr "мЮГЮД"
+
+msgid "User stored!"
+msgstr "оНКЭГНБЮРЕКЭ ГЮПЕЦХЯРПХПНБЮМ!"
+
+msgid "Could not store new user!!"
+msgstr "мЕ БНГЛНФМН ЯНУПЮМХРЭ МНБНЦН ОНКЭГНБЮРЕКЪ!!"
+
+#, fuzzy, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr "бШ ГЮПЕЦХЯРПХПНБЮМШ '%s'"
+
+#, fuzzy, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+"дКЪ ОНДРБЕПФДЕМХЪ БЮЬЕЦН ОНКЭГНБЮРЕКЪ, ОНФЮКСИЯРЮ ОЕПЕИДХРЕ ОН ЯКЕДСЧЫЕИ "
+"ЯЯШКЙЕ: %s"
+
+msgid "Registration confirmation"
+msgstr "оНДРБЕПФДЕМХЕ ПЕЦХЯРПЮЖХХ"
+
+msgid "Verify your account"
+msgstr "оНДРБЕПФДЕМХЕ БЮЬЕЦН ОНКЭГНБЮРЕКЪ"
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+"оНДРБЕПФДЕМХЕ НРОПЮБКЕМН МЮ %s. оНФЮКСИЯРЮ ОПНБЕПЭРЕ бЮЬ email ДКЪ "
+"ОНДРБЕПФДЕМХЪ."
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "мЕБЕПМНЕ хЛЪ/оЮПНКЭ"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "бУНД ЯНБЕПЬЕМ"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "оПЕДШДСЫХИ ЮПУХБ"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "бУНД ЯНБЕПЬЕМ"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "бШ БШЬКХ ХГ ЮЙЙЮСМРЮ"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "хГЛЕМХРЭ МЮЯРПНИЙХ БЕАКНЦЮ ДКЪ "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "сДЮКХРЭ ЩРНР БЕАКНЦ."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "сДЮКХРЭ ЙЮРЕЦНПХЧ"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+#, fuzzy
+msgid "About PivotX"
+msgstr "хМТНПЛЮЖХЪ"
+
+#, fuzzy
+msgid "Setup user"
+msgstr "гЮПЕЦХЯРПХПСИРЕЯЭ."
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "гЮПЕЦХЯРПХПСИРЕЯЭ."
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "бЮЛ ГЮОЕПЕЫЕМН ДЕКЮРЭ РЮЙНЕ Я ГЮОХЯЭЧ %title%!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "бЕАКНЦ НАМНБКЕМ."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "пЮЯЬХПЕМХЕ ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "хГЛЕМХРЭ гЮОХЯЭ"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "бЮЛ ГЮОЕПЕЫЕМН ДЕКЮРЭ РЮЙНЕ Я ГЮОХЯЭЧ %title%!"
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "бЮЬЮ ГЮОХЯЭ '%s' ГЮОХЯЮМЮ СЯОЕЬМН."
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "бЮЬЮ ГЮОХЯЭ '%s' ГЮОХЯЮМЮ СЯОЕЬМН."
+
+#, fuzzy, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "яЯШКЙЮ рПЩЙаЩЙЮ НРОХМЦНБЮМЮ '%s'."
+
+#, fuzzy
+msgid "Log out"
+msgstr "бШИРХ."
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "бЮЛ МЕ ПЮГПЕЬЕМН ДЕКЮРЭ ГЮОХЯЭ Б ЙЮРЕЦНПХХ:'%s'."
+
+msgid "My Settings"
+msgstr "лНХ мЮЯРПНИЙХ"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "дНАЮБХРЭ ъПКШЙ."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "бЕАКНЦ НАМНБКЕМ."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "хМТНПЛЮЖХЪ"
+
+msgid "Edit my personal Settings"
+msgstr "оПЮБЙЮ КХВМШУ МЮЯРПНЕЙ"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "бЮЛ МЕ ПЮГПЕЬЕМН ДЕКЮРЭ ГЮОХЯЭ Б ЙЮРЕЦНПХХ:'%s'."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "бЮЛ МЕ ПЮГПЕЬЕМН ДЕКЮРЭ ГЮОХЯЭ Б ЙЮРЕЦНПХХ:'%s'."
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "бЮЛ МЕ ПЮГПЕЬЕМН ДЕКЮРЭ ГЮОХЯЭ Б ЙЮРЕЦНПХХ:'%s'."
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "бЕАКНЦ АШК СДЮКЕМ."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "бЮЛ МЕ ПЮГПЕЬЕМН ДЕКЮРЭ ГЮОХЯЭ Б ЙЮРЕЦНПХХ:'%s'."
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "бЕАКНЦ НАМНБКЕМ."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "рПЩЙаЩЙ ЯНУПЮМЕМ."
+
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr ""
+
+msgid "Comments"
+msgstr "йНЛЛЕМРЮПХХ"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "хГЛЕМХРЭ ХКХ СДЮКХРЭ ГЮОХЯХ"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "йНЛЛЕМРЮПХИ ЯНУПЮМЕМ."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks"
+msgstr "хГЛЕМХРЭ ХКХ СДЮКХРЭ рПЩЙаЩЙХ"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "рПЩЙаЩЙ ЯНУПЮМЕМ."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "рПЩЙаЩЙ СДЮКЕМ."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+msgid "The weblog has been deleted."
+msgstr "бЕАКНЦ АШК СДЮКЕМ."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "бЕАКНЦ АШК СДЮКЕМ."
+
+msgid "Create New Weblog"
+msgstr "яНГДЮРЭ МНБШИ БЕАКНЦ"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "мЮЯРПНИЙХ ЙНЛЛЕМРЮПХЕБ"
+
+#, fuzzy
+msgid "Database"
+msgstr "дЮРЮ"
+
+#, fuzzy
+msgid "Debug"
+msgstr "Debug ПЕФХЛ"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "оСРЭ ДКЪ ГЮЦПСГЙХ ТЮИКНБ"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "дЮРЮ/бЕПЛЪ"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "лНАкНЦЦЕП"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr ""
+"нАМНБКЪЕРЯЪ ХМДЕЙЯ. дКЪ ЩРНЦН ОНРПЕАСЕРЯЪ МЕЙНРНПНЕ БПЕЛЪ, ОНФЮКСИЯРЮ МЕ "
+"ОПЕПШБЮИРЕ."
+
+msgid "Rebuild the Search Index"
+msgstr "оЕПЕДЕКЮРЭ АЮГС ДЮММШУ ОНХЯЙНБНИ ЯХЯРЕЛШ"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "оЕПЕДЕКЮИРЕ ХМДЕЙЯ АЮГШ ДЮММШУ, ДКЪ ОНХЯЙЮ"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"нАМНБКЕМХЕ АЮГШ ОНХЯЙЮ. дКЪ ЩРНЦН ОНРПЕАСЕРЯЪ МЕЙНРНПНЕ БПЕЛЪ, ОНФЮКСИЯРЮ МЕ "
+"ОПЕПШБЮИРЕ."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "оЕПЕДЕКЮРЭ ХМДЕЙЯ"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"нАМНБКЪЕРЯЪ ХМДЕЙЯ. дКЪ ЩРНЦН ОНРПЕАСЕРЯЪ МЕЙНРНПНЕ БПЕЛЪ, ОНФЮКСИЯРЮ МЕ "
+"ОПЕПШБЮИРЕ."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "дЮРЮ"
+
+#, fuzzy
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr "щРН ДЮЕР БНГЛНФМНЯРЭ ЯЙЮВЮРЭ Zip-тЮИК Я ПЕГЕПБМШЛХ ТЮИКЮЛХ"
+
+#, fuzzy
+msgid "Explore files"
+msgstr "гЮЦПСГХРЭ ТЮИКШ"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "мЮЯРПНИЙХ"
+
+msgid "Blocked Phrases"
+msgstr "аКНЙХПНБЮРЭ тПЮГШ"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "гЮАКНЙХПНБЮРЭ тПЮГШ БН БУНДЪЫХУ ЯЯШКЙЮУ ОПНРХБ ЯОЮЛЮ"
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP АКНЙХПНБЙХ"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "оПНЯЛНРПЕРЭ ХКХ ХГЛЕМХРЭ гЮАКНЙХПНБЮММШЕ IP-ЮДПЕЯЮ."
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "бШОНКМЕМХЕ ПСРХМШУ НОЕПЮЖХИ Я ТЮИКЮЛХ Pivot'Ю"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "йНЛЛЕМРЮПХИ СДЮКЕМ."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "рЮЙНИ ОНКЭГНБЮРЕКЭ СФЕ ЯСЫЕЯРБЕР"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "рЮЙНИ ОНКЭГНБЮРЕКЭ СФЕ ЯСЫЕЯРБЕР"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "бЕАКНЦ НАМНБКЕМ."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "рЮЙНИ ОНКЭГНБЮРЕКЭ СФЕ ЯСЫЕЯРБЕР"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "мНБШИ АКНЦ АШК СЯОЕЬМН ЯНГДЮМ."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "рПЩЙаЩЙ СДЮКЕМ."
+
+msgid "A category by this name already exists"
+msgstr "йЮРЕЦНПХЪ Я РЮЙХЛ МЮГБЮМХЕЛ СФЕ ЯСЫЕЯРБСЕР"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "бЕАКНЦ НАМНБКЕМ."
+
+msgid "Edit Weblog"
+msgstr "оПЮБЙЮ БЕАКНЦЮ"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "РПХМЮДЖЮРЭ"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "бЯРЮБХРЭ ХГНАПЮФЕМХЕ"
+
+#~ msgid "# Comm"
+#~ msgstr "# Comm"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "йНЛЛЕМРЮПХИ"
+
+#~ msgid "search"
+#~ msgstr "оНХЯЙ"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "нРЙЮРЮРЭ"
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "оНКЭГНБЮРЕКХ"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "дЮРЮ"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "йЮРЕЦНПХЪ"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr ""
+#~ "нОПЕДЕКЪЕР ТНПЛЮР ГЮОХЯХ ДЮРШ Х БПЕЛЕМХ. б НЯМНБМНЛ ХЯОНКЭГСЕРЯЪ Б "
+#~ "ГЮОХЯЪУ."
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr ""
+#~ "нОПЕДЕКЪЕР ТНПЛЮР ГЮОХЯХ ДЮРШ Х БПЕЛЕМХ. б НЯМНБМНЛ ХЯОНКЭГСЕРЯЪ Б "
+#~ "ГЮОХЯЪУ."
+
+#, fuzzy
+#~ msgid "Trackback Settings"
+#~ msgstr "оХМЦ рПЩЙаЩЙЮ"
+
+#, fuzzy
+#~ msgid "Format of Trackbacks"
+#~ msgstr "мЕР РПЩЙАЩЙНБ"
+
+#, fuzzy
+#~ msgid "Format of Trackback Link"
+#~ msgstr "оХМЦ рПЩЙаЩЙЮ"
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "хЛЪ ОНКЭГНБЮРЕКЪ Х email ОНВЕЛС-РН МЕ ЯНБОЮДЮЧР.."
+
+#, fuzzy
+#~ msgid "File Mappings"
+#~ msgstr "гЮЦПСГЙЮ ТЮИКНБ"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "гЮЦПСГХРЭ МНБШИ ТЮИК:"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "мХФЕ бШ ЛНФЕРЕ ОНЯЛНРПЕРЭ МЮ БЯЕ бЩАКНЦХ ЯНГДЮММШЕ Pivot'НЛ, бШ ЛНФЕРЕ "
+#~ "БШАПЮРЭ НРДЕКЭМШЕ ТЮИКШ МЮАКНМНБ ДКЪ ЙЮФДНЦН АКНЦЮ Х ЛЕМЪРЭ МЮЯРПНИЙХ. "
+#~ "щРН ЛНФЕР ОНЛНВЭ Я ОПНАКЕЛЮЛХ ТЮКНБ Х НЬХАНЙ Б АКНЦЮУ."
+
+#, fuzzy
+#~ msgid "Delete registered visitor"
+#~ msgstr "бНИРХ ЙЮЙ ГЮПЕЦХЯРПХПНБЮММШИ"
+
+#~ msgid "Change"
+#~ msgstr "хГЛЕМХРЭ"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "оНДРБЕПДХРЭ СДЮКЕМХЕ"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IP-юДПЕЯЮ ГЮОХЯЮМШ Х ЯНУПЮМЕМШ."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "яНУПЮМХРЭ IP-ЮДПЕЯЮ"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "гЮОПЕЫЕММШЕ тПЮГШ ГЮОХЯЮМШ."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "гЮОПЕЫЕММШЕ тПЮГШ ГЮОХЯЮМШ."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "гЮОПЕЫЕММШЕ тПЮГШ ГЮОХЯЮМШ."
+
+#~ msgid ""
+#~ "Items marked with an asterisk ( * ) will be used only to block referers. "
+#~ "All other items will be used to block referers, comments and trackbacks "
+#~ "alike."
+#~ msgstr ""
+#~ "яРПНЙЮ ОНЛЕВЕММЮЪ ГБЕГДНВЙНИ ( * ) АСДЕР РНКЭЙН ДКЪ АКНЙХПНБЙХ БУНДЪЫХИУ "
+#~ "ЯЯШКНЙ (ПЕТЕППЕПНБ). нЯРЮКЭМШЕ АСДСР ДКЪ АКНЙХПНБЙХ бУНДЪЫХУ яЯШКНЙ "
+#~ "(ПЕТЕППЕПНБ), ЙНЛЛЕМРЮПХЕБ Х рПЩЙаЩЙНБ "
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "яНУПЮМХРЭ ЯОХЯНЙ ГЮОПЕЫЕММШУ ТПЮГ"
+
+#, fuzzy
+#~ msgid "Globally blocked phrases."
+#~ msgstr "аКНЙХПНБЮРЭ тПЮГШ"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "хЛЪ ОНКЭГНБЮРЕКЪ ДНКФМН ЯНЯРНЪРЭ ХГ 3 ЯХЛБНКНБ ХКХ АНКЕЕ"
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "гЮАКНЙХПНБЮРЭ IP %s"
+
+#~ msgid "[Trackback] Re:"
+#~ msgstr "[Trackback] Re:"
+
+#~ msgid "No TrackBack ID (tb_id)"
+#~ msgstr "мЕР ХДЕМРХТХЙЮРНПЮ РПЩЙАЩЙЮ (ID) (tb_id)"
+
+#~ msgid "No URL (url)"
+#~ msgstr "мЕР URL (url)"
+
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr "бЮЬ рПЩЙаЩЙ МЕ ЯНУПЮМЕМ, РЮЙ ЙЮЙ ОПЕДШДСЫХИ РНВМН РЮЙНИФЕ."
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "лХМСРЮ"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "гЮЛЕРЙЮ: мЕ ЯРЮБЭРЕ БЮФМШЕ ХКХ КЕЦЙХЕ ОЮПНКХ. <br /> рЮЙ ФЕ ЙЮЙ Х ДПСЦХЕ "
+#~ "ЯЮИРШ БЮЬ ОЮПНКЭ <em>БЮФЕМ</em> <br /> БЮФЕМ ДКЪ БЮЯ ФЕ ЯЮЛХУ!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your forgotten password for PivotX \"%name%\" is: \n"
+#~ "\n"
+#~ "%pass%\n"
+#~ "\n"
+#~ "Don't forget it again, please!\n"
+#~ "\n"
+#~ "To log in to your account, click the following link:\n"
+#~ " %link%"
+#~ msgstr ""
+#~ "бЮЬ ГЮАШРШИ ОЮПНКЭ ДКЪ '%name%': %pass%оНФЮКСИЯРЮ АНКЭЬЕ МЕ ГЮАШБЮИРЕ!дКЪ "
+#~ "РНЦН ВРНАШ БНИРХ, МЮФЛХРЕ ЯКЕДСЧЫСЧ ЯЯШКЙС: %link%"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "оЮПНКЭ"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "бЯРЮБХРЭ БЯЙЮЙХБЮЧЫЕЕ ХГНАПЮФЕМХЕ"
+
+#~ msgid "No such user.."
+#~ msgstr "мЕР РЮЙНЦН ОНКЭГНБЮРЕКЪ.."
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "мЕР йНЛЛЕМРЮПХЕБ"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "йНЛЛЕМРЮПХИ"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "йНЛЛЕМРЮПХХ"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "оПЕД-ОПНЯЛНРП"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "нРЙЮРЮРЭ"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "яЛЮИКШ"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "мЕР ЙНЛЛЕМРЮПХЕБ"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "оНЯКЕДМХЕ мНБНЯРХ НР Pivot"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "оНДДЕПФЮМН "
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "йНЛЛЕМРЮПХХ"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "йНЛЛЕМРЮПХХ"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "йНЛЛЕМРЮПХХ"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "оПЕДШДСЫХИ ЮПУХБ"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "нАМНБКЪРЭ ОХМЦ-РПЮЙЕПШ"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "нОПЕДЕКЪЕР ДНКФМШ КХ РПЮЙЕПШ БХДЮ weblogs.com ЮБРНЛЮРХВЕЯЙХ "
+#~ "НАМНБКЪРЭЯЪPivot'НЛ ЕЯКХ БШ ДЕКЮЕРЕ МНБСЧ ГЮОХЯЭ. яЕПБХЯШ РХОЮ "
+#~ "blogrolling.com ГЮБХЯЪР НР ЩРХУ ОХМЦНБ"
+
+#~ msgid "URLs to ping"
+#~ msgstr "яЯШКЙХ ДКЪ ОХМЦНБ"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "бШ ЛНФЕРЕ ОПЕДЯРЮБХРЭ МЕЯЙНКЭЙН ЯЯШКНЙ ДКЪ ОХМЦНБ. мЕ БОХЯШБЮИРЕ http://,"
+#~ "ХМЮВЕ ЩРН БЯЕ МЕ АСДЕР ПЮАНРЮРЭ. оПНЯРН БОХЯШБЮИРЕ ЙЮФДШИ ЯЕПБЕП МЮ МНБНИ "
+#~ "ЯРПНЙЕ КХ ПЮГДЕКЪИРЕ ХУ ЯХЛБНКНЛ<b>-</b> . мЕЙНРНПШЕ ЯЕПБЕПЮ ДКЪ "
+#~ "ОХМЦНБЮМХЪ:<br /><b>rpc.weblogs.com/RPC2</b> (weblogs.com ОХМЦЕП, "
+#~ "ЯЮЛШИПЮЯОПНЯРЮПМЕММШИ)<br /><b>pivotlog.net/pinger</b> (pivotlog ОХМЦЕП, "
+#~ "ОНЙЮ ВРН МЕ ПЮАНРЮЕР)<br/><b>rcs.datashed.net/RPC2</b> (euro.weblogs.com "
+#~ "ОХМЦЕП)<br /><b>ping.blo.gs</b> (blo.gs ОХМЦЕП)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "мЮЯРПНИЙХ ОХМЦЮ"
+
+#, fuzzy
+#~ msgid "stuff"
+#~ msgstr "мЮВХМЙЮ"
+
+#~ msgid "upload"
+#~ msgstr "ГЮЦПСГХРЭ"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "бЮЬ ТЮИК МЕ АШК ГЮЦПСФЕМ. оПНХГНЬКЮ ЯКЕДСЧЫЮЪ НЬХАЙЮ:"
+
+#~ msgid "or select"
+#~ msgstr "ХКХ БШАПЮРЭ"
+
+#, fuzzy
+#~ msgid "Select File"
+#~ msgstr "бШАПЮРЭ"
+
+#, fuzzy
+#~ msgid "Use text"
+#~ msgstr "хЯОНКЭГНБЮРЭ РЕЙЯР"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "мЮГБЮМХЕ ХГНАПЮФЕМХЪ"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "хЯОНКЭГНБЮРЭ WYSIWYG ОН-СЛНКВЮМХЧ"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "нОПЕДЕКЪЕР БЙКЧВЕМ КХ ОН-СЛНКВЮМХЧ ПЕДЮЙРНП 'ВРН БХФС РН Х ОНКСВС'. "
+#~ "бЯЕОНКЭГНБЮРЕКХ ЛНЦСР ХГЛЕМХРЭ ЩРНР ОСМЙР Б ЯБНХУ КХВМШУ МЮЯРПНИЙЮУ"
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "мЮЯРПНИЙХ ОНЯКЕДМХУ ЙНЛЛЕМРЮПХЕБ"
+
+#~ msgid "Show how many"
+#~ msgstr "яЙНКЭЙН ОНЙЮГШБЮРЭ"
+
+#~ msgid "Cut at length"
+#~ msgstr "бШПЕГЮРЭ ОПХ ДКХМЕ"
+
+#~ msgid "Format"
+#~ msgstr "тНПЛЮР"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "These settings determine the appearance of the 'last comments' on "
+#~ "theweblog's frontpage."
+
+#~ msgid "Next Archive"
+#~ msgstr "яКЕДСЧЫХИ ЮПУХБ"
+
+#~ msgid "Previous Archive"
+#~ msgstr "оПЕДШДСЫХИ ЮПУХБ"
+
+#~ msgid "Archive type"
+#~ msgstr "рХО ЮПУХБЮ"
+
+#~ msgid "No Archives"
+#~ msgstr "мЕ ДЕКЮРЭ ЮПУХБНБ"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "еФЕМЕДЕКЭМШЕ ЮПУХБШ"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "лЕЯЪВМШЕ ЮПУХБШ"
+
+#~ msgid "Archive Link"
+#~ msgstr "юПУХБМЮЪ ЯЯШКЙЮ"
+
+#~ msgid "Archive List format"
+#~ msgstr "тЮИКЯ-ЯШКЙЮ МЮ ЮПУХБ"
+
+#~ msgid "Archive Order"
+#~ msgstr "оНПЪДНЙ ЮПУХБЮ"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "бНГПЮЯРЮМХЕ (ЯРЮПШЕ БМЮВЮКЕ)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "сАШБЮМХЕ (МНБШЕ БМЮВЮКЕ)"
+
+#~ msgid "Pivot installer script present"
+#~ msgstr "яЙПХОР Pivot-ХМЯРЮККЪРНПЮ ОПЕДЯРЮБКЪЕР"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "УПЮМХРЭ КНЦТЮИКШ ПЮГКХВМШУ ДЕИЯРБХИ"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "ГЮОХЯЭ ДКЪ 'МЕР ЙНЛЛЕМРЮПХЕБ'"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "ГЮОХЯЭ ДКЪ 'НДХМ ЙНЛЛЕМРЮПХИ'"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "ГЮОХЯЭ ДКЪ 'ЙНЛЛЕМРЮПХЕБ - у'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "сЙЮГШБЮЕР МЮ РЕЙЯР, ЙНРНПШИ АСДЕР ХЯОНКЭГНБЮМ ДКЪ НРНАПЮФЕМХЪЙНКХВЕЯРБЮ "
+#~ "НЯРЮБКЕММШУ ЙНЛЛЕМРЮПХЕБ. еЯКХ БШ НЯРЮБХРЕ ЩРХ ОНКЪ ОСЯРШЛХ, Pivot АСДЕР "
+#~ "ХЯОНКЭГНБЮРЭ ГЮОХЯХ ХГТЮИКЮ ЪГШЙЮ"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "ГЮОХЯЭ ДКЪ 'МЕР ЙНЛЛЕМРЮПХЕБ'"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "ГЮОХЯЭ ДКЪ 'НДХМ ЙНЛЛЕМРЮПХИ'"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "мЕР РПЩЙАЩЙНБ"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "%num% ЙНЛЛЕМРЮПХИ"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "ЙНЛЛЕМРЮПХЕБ: %num%"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "мЕР РПЩЙАЩЙНБ"
+
+#, fuzzy
+#~ msgid "%num% trackbacks."
+#~ msgstr "%num% РПЩЙАЩЙ"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "с БЮЯ МЕР ОПЮБ ДКЪ ЩРНИ ВЮЯРХ Pivot'a"
+
+#~ msgid "Further Options"
+#~ msgstr "дНОНКМХРЕКЭМШЕ бНГЛНФМНЯРХ"
+
+#~ msgid "Basic View"
+#~ msgstr "нАШВМШИ БХД"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "оНЙЮГЮРЭ РНКЭЙН НЯМНБМШЕ ОНКЪ"
+
+#~ msgid "Extended View"
+#~ msgstr "оПНДБХМСРШИ БХД"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "оНЙЮГЮРЭ БЯЕ ХГЛЕМЪЕЛШЕ ОНКЪ"
+
+#~ msgid "Toggle between basic and extended view"
+#~ msgstr "лЕФДС оПНДБХМСРШЛ Х нАШВМШЛ бХДЮЛХ"
+
+#~ msgid "Done!"
+#~ msgstr "цНРНБН!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "ъПКШЙХ"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "бЮЛ ГЮОПЕЫЕМН СДЮКХРЭ ГЮОХЯЭ %title%!"
+
+#~ msgid ""
+#~ "You can not delete the last entry. You must first post a new entry, "
+#~ "before deleting this entry"
+#~ msgstr ""
+#~ "бШ МЕ ЛНФЕРЕ СДЮКЪРЭ ОНЯКЕДМЧЧ ГЮОХЯЭ. бШ ДНКФМШ ЯМЮВЮКЮ ГЮОХЯЮРЭ ДПСЦСЧ"
+
+#~ msgid "Week"
+#~ msgstr "мЕДЕКЪ"
+
+#~ msgid "Remember"
+#~ msgstr "гЮОНЛМХРЭ"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "еЯКХ бШ СБЕПЕМШ ВРН ХЛЪ Х ОЮПНКЭ ОПЮБЕКЭМШ, МН бШ <br />МЕ ЛНФЕРЕ БНИРХ, "
+#~ "РН ОНОПНАСИРЕ СДЮКХРЭ ЙСЙХ (cookies) ДКЪ ДЮММНЦН ДНЛЕМЮ:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "сДЮКХРЭ йСЙХ"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "бШ МЕ ЯЛНЦКХ БНИРХ ОПХ 10-РХ ОНОШРЙЮУ. б ПЕГСКЭРЮРЕ, бЮЬ IP ГЮАКНЙХПНБЮМ "
+#~ "МЮ 12 ВЮЯНБ (фпх ясйю)"
+
+#~ msgid "Overview"
+#~ msgstr "цКЮБМНЕ"
+
+#~ msgid "Modify Entries"
+#~ msgstr "хГЛЕМХРЭ гЮОХЯХ"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "ъПКШЙНБШЕ яЯШКЙХ"
+
+#~ msgid "Statistics"
+#~ msgstr "яРЮРХЯРХЙЮ"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "цКНАЮКЭМШИ ОПНЯЛНРП Pivot'Ю"
+
+#~ msgid "View my personal Info"
+#~ msgstr "оПНЯЛНРП ХМТНПЛЮЖХХ Н ЯЕАЕ"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "яНГДЮРЭ ГЮЙКЮДЙХ"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "тЮИК АШК ГЮЦПСФЕМ"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "оПНЯЛНРП КНЦНБ Х ЯРЮРХЯРХЙХ."
+
+#~ msgid "Recent Entries"
+#~ msgstr "оНЯКЕДМХЕ ГЮОХЯХ"
+
+#~ msgid "Recent Comments"
+#~ msgstr "оНЯКЕДМХЕ ЙНЛЛЕМРЮПХХ"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "оЕПЕДЕКЮРЭ БЯЕ ТЮИКШ"
+
+#~ msgid "Verify the Database"
+#~ msgstr "оПНБЕПХРЭ АЮГС ДЮММШУ"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "оЕПЕДЕКЮРЭ ГЮЦКЮБМСЧ(ШЕ) ЯРПЮМХЖС(Ш)"
+
+#~ msgid "User Information Fields"
+#~ msgstr "User Information Fields"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "яНГДЮМХЕ, ОПЮБЙЮ Х СДЮКЕМХЕ ОНКЭГНБЮРЕКЭЯЙХУ ОНКЕИ"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "оЕПЕДЕКЮРЭ ТЮИКШ Х ЮПУХБШ ЙНРНПШЕ ЯНГДЮЕР Pivot"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "оПНБЕПХРЭ ОПЮБХКЭМНЯРХ АЮГШ ДЮММШУ"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr ""
+#~ "оЕПЕДЕКЮРЭ ГЮЦКЮБМШЕ ТЮИКШ, ОНЯКЕДМХЕ ЮПУХБШ Х RSS КЕМРС ДКЪ "
+#~ "ЙЮФДНЦНБЕАКНЦЮ."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "яНГДЮРЭ ПЕГЕПБМСЧ ЙНОХЧ бЮЬХУ ГЮОХЯЕИ"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "нРОПЮБХРЭ ОХМЦХ рПЩЙЕПЮЛ НАМНБКЕМХИ."
+
+#~ msgid "Open Debug window"
+#~ msgstr "нРЙПШРЭ DEBUG-НЙМН"
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "яНГДЮРЭ ЬЮАКНМ ДКЪ Pivot'a Я МСКЪ"
+
+#~ msgid "Comment*"
+#~ msgstr "йНЛЛЕМРЮПХИ*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr ""
+#~ "(*гЮЛЕРЙЮ: йНЛЛЕМРЮПХИ ЛНФЕР АШРЭ ЯНУПЮМЕМ РНКЭЙН ОПХ <b>ОЕПБНИ</b> "
+#~ "ГЮОХЯХ ХКХ ХГЛЕМЕМХХ)"
+
+#~ msgid "Editing"
+#~ msgstr "хГЛЕМЕМХЕ"
+
+#~ msgid "Save changes!"
+#~ msgstr "яНУПЮМХРЭ МЮЯРПНИЙХ!"
+
+#~ msgid "Auxillary template"
+#~ msgstr "бЯОНЛНЦЮРЕКЭМШИ ЬЮАКНМ"
+
+#~ msgid "Subtemplate"
+#~ msgstr "оНДьЮАКНМ"
+
+#~ msgid "Normal template"
+#~ msgstr "мНПЛЮКЭМШИ ьЮАКНМ"
+
+#~ msgid "CSS file"
+#~ msgstr "CSS ТЮИК"
+
+#~ msgid "PHP file"
+#~ msgstr "PHP ТЮИК"
+
+#~ msgid "Generate Archive"
+#~ msgstr "яЦЕМЕПХПНБЮРЭ ЮПУХБ"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "оЕПЕЦЕМЕПХПНБЮРЭ БЯЕ ЮПУХБШ"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "оПНБЕПХРЭ XML ТЮИКШ"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "оПНБЕПХРЭ (Х ОНВХМХРЭ, ЕЯКХ МЮДН) ОПЮБХКЭМНЯРЭ БЯЕУ XML ТЮИКНБ"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "яДЕКЮРЭ ПЕГЕПБМСЧ ЙНОХЧ БЯЕУ ЯСЫЕЯРБЕММШУ ТЮИКНБ pivot'Ю"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 ПЕТЕППЕПНБ"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 ПЕТЕППЕПНБ"
+
+#~ msgid "all referrers"
+#~ msgstr "БЯЕУ ПЕТЕППЕПНБ"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "нАМНБХРЭ ЯОХЯНЙ ПЕТЕППЕПНБ Б РХРСКЕ"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "уНЯР (ip-ЮДПЕЯ)"
+
+#~ msgid "Getting new titles"
+#~ msgstr "оНКСВЮЕЛ МНБШЕ ГЮЦНКНБЙХ"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "щРН ЛНФЕР ГЮМЪРЭ МЕЙРНПНЕ БПЕЛЪ, ОНФЮКСИЯРЮ ОНДНФДХРЕ"
+
+#~ msgid "First pass"
+#~ msgstr "оЕПБШИ ОПНУНД"
+
+#~ msgid "Second pass"
+#~ msgstr "бРНПНИ ОПНУНД"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "бЯЕ ПЕТЕППЕПШ-ГЮЦНКНБЙХ НАМНБКЕМШ"
+
+#~ msgid "Finished"
+#~ msgstr "гЮЙНМВЕМН"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "оПЮБЙЮ ОНКЕИ"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr ""
+#~ "оПЮБЙЮ ОНКЕИ ЙНРНПШЕ ОНКЭГНБЮРЕКХ ЛНЦСР ХЯОНКЭГНБЮРЭ ВРНАШ НОХЯюРЭ ЯЕАЪ"
+
+#~ msgid "Edit User Info"
+#~ msgstr "оПЮБЙЮ ХМТНПЛЮЖХХ Н ОНКЭГНБЮРЕКЕ"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "яНГДЮРЭ МНБШИ ЮЙЙЮСМР ДКЪ Pivot'Ю, ОНГБНКЪЧЫХИ ОНЯРХРЭ Б БЕАКНЦ."
+
+#~ msgid "Create"
+#~ msgstr "яНГДЮРЭ"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "оНДРБЕПДХРЕ ЯНГДЮМХЕ ЮДЛХМХЯРПЮРНПЮ"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "юДЛХМ ХЛЕЕР ОНКМШИ ДНЯРСО Й pivot'С, ЛНФЕР ХГЛЕМЪРЭБЯЕ МНБНЯРМШЕ "
+#~ "ОПЕДЛЕРШ, БЯЕ ЙНЛЛЕМРЮПХХ Х ХГЛЕМЪРЭ КЧАШЕ МЮЯРПНИЙХ. бШ СБЕПЕМШ ВРН "
+#~ "УНРХРЕ ЯДЕКЮРЭ %sюДЛХМ?"
+
+#~ msgid "File Info"
+#~ msgstr "хМТН Н ТЮИКЕ"
+
+#~ msgid "Local Path"
+#~ msgstr "кНЙЮКЭМШИ ОСРЭ"
+
+#~ msgid "Debug Options"
+#~ msgstr "мЮЯРПНИЙХ debug ПЕФХЛЮ"
+
+#~ msgid "Clean Filename"
+#~ msgstr "вХЯРХРЭ ХЛЕМЮ ТЮИКНБ"
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Default Text Processing"
+
+#~ msgid "Text Processing"
+#~ msgstr "Text Processing"
+
+#~ msgid "None"
+#~ msgstr "None"
+
+#~ msgid "Open links in new window"
+#~ msgstr "нРЙПШБЮРЭ ЯЯШКЙХ Б МНБНЛ НЙМЕ"
+
+#~ msgid "Use emoticons"
+#~ msgstr "хЯОНКЭГНБЮРЭ ЦПЮТХВЕЯЙХЕ ЯЛЮИКШ"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "йНДХПНБЮРЭ Email ЮДПЕЯЮ?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr "нОПЕДЕКЪЕР НРЙПШБЮРЭ ЯЯШКЙХ Б МНБНЛ НЙМЕ ХКХ Б РНЛ ФЕ."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "нАМНБХРЭ ХМДЙЯ ОНХЯЙЮ"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "Dit bepaalt of de zoekindex altijd wordt bijgewerkt als je een "
+#~ "nieuwartikel plaatst, of een artikel wijzigt."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "хМРПНДСЙЖХЪ/РЕКН ОН СЛНКВЮМХЧ"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "This will determine the default values for Introduction and Bodywhen an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sensesemantically."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "яЙПХОР нАПЮАНРЙХ ХГНАПЮФЕМХИ МЮ ДПСЦНЛ ЯЕПБЕПЕ"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "еЯКХ БЮЬ ЯЕПБЕП МЕ ОНДДЕПФХБЮЕР НАПЮАНРЙС ХГНАПЮФЕМХИ, РН ЛНФМН "
+#~ "ХЯОНКЭГНБЮРЭ ЯЙПХОР ДПСЦНЦН ЯЕПБЕПЮ"
+
+#~ msgid "Extensions directory"
+#~ msgstr "дХПЕЙРНПХЪ ДКЪ дНОНКМЕМХИ"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "оЮОЙЮ 'extensions' (ДНОНКМЕМХЪ) ЩРН ТЮИКШ ДКЪ ДНОНКМЕМХИ Pivot'a.\t\tщРН "
+#~ "ДЕКЮЕР НАМНБКЕМХЕ МЮЛМНЦН КЕЦВЕ. вХРЮИРЕ ДНЙСЛЕМРЮЖХЧ ДКЪ ОНДПНАМНЯРЕИ."
+
+#~ msgid "Extensions directory path"
+#~ msgstr "дХПЕЙРНПХЪ дНОНКМЕМХИ"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "оПЮБЙЮ АКНЦНБ"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "дНАЮБХРЭ МНБШИ БЕАКНЦ"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "сДЮКХРЭ БЕАКНЦ"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "дКЪ ЙЮФДНЦН ОНДАКНЦЮ МЮИДЕММНЦН Б ЬЮАКНМЮУ БШ ЛНФЕРЕ СЙЮГЮРЭ ЙЮЙНИ ЬЮАКНМ "
+#~ "ДКЪМХУ ХЯОНКЭГНБЮРЭ, Ю РЮЙ ФЕ ЙЮРЕЦНПХХ ЙНРНПШЕ АСДЕР Б МХУ НРНАПЮФЮРЭЯЪ"
+
+#~ msgid "Finish"
+#~ msgstr "гЮЙНМВХРЭ"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "яНГДЮМХЕ / ОПЮБЙЮ БЕАКНЦЮ, ЬЮЦ 1 ХГ 3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "яНГДЮМХЕ / ОПЮБЙЮ БЕАКНЦЮ, ЬЮЦ 2 ХГ 3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "яНГДЮМХЕ / ОПЮБЙЮ БЕАКНЦЮ, ЬЮЦ 3 ХГ 3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "цКЮБМЮЪ ЯРПЮМХЖЮ (ХМДЕЙЯ)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "хЛЪ ХМДЕЙЯ-ТЮИКЮ. нАШВМН ЩРН ВРН-РН БПНДЕ 'index.html' ХКХ'index.php'."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "еЯКХ БЮЬ АКНЦ ХЯОНКЭГСЕР SSI (ВРН МЕ ПЕЙНЛЕМДНБЮМН БШ ЛНФЕРЕ "
+#~ "ХЯОНКЭГБЮРЭДЮММНЕ ОНКЕ ВРНАШ НАНГМЮВХР ОПЕТХЙЯ ТЮИКНБ Pivot'Ю ДКЪ SSI. "
+#~ "мЮОПХЛЕП 'index.shtml?p='. нЯРЮБЭРЕ ОНКЕОСЯРШЛ ЕЯКХ МЕ ГМЮЕРЕ ВРН ДЕКЮЕРЕ."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "оСРЭ Й ГЮЦКЮБМНИ ЯРПЮМХЖЕ"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr ""
+#~ "нРМНЯХРЕКЭМШИ ХКХ ЮАЯНКЧРМШИ ОСРЭ Й ЙЮРЮКНЦС Б ЙНРНПНЛ Pivot АСДЕР "
+#~ "ЯНГДЮБЮРЭЦКЮБМШЕ ЯРПЮМХЖШ Й АКНЦС."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "нРМНЯХРЕКЭМШИ ХКХ ЮАЯНКЧРМШИ ОСРЭ Й ЙЮРЮКНЦС Б ЙНРНПНЛ Pivot АСДЕР "
+#~ "ЯНГДЮБЮРЭНРДЕКЭМШЕ ЯРПЮМХЖШ ДКЪ ЙЮФДНИ ГЮОХЯХ (ЕЯКХ БШ БШАЕПХРЕ МЕ "
+#~ "ХЯОНКЭГНБЮРЭ 'ФХБШЕ ГЮОХЯХ')"
+
+#~ msgid "Live entries"
+#~ msgstr "фХБШЕ ГЮОХЯХ"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "еЯКХ БШ ХЯОНКЭГСЕРЕ 'фХБШЕ ГЮОХЯХ', Pivot МЕ АСДЕР ЯНГДЮБЮРЭ "
+#~ "НРДЕКЭМСЧЯРПЮМХЖС ДКЪ ЙЮФДНИ ГЮОХЯХ. щРН ЯРНХР ОН-СЛНКВЮМХЧ."
+
+#~ msgid "Index File"
+#~ msgstr "цКЮБМШИ ТЮИК"
+
+#~ msgid "Archive Path"
+#~ msgstr "оСРЭ Й ЮПУХБС"
+
+#~ msgid "Archive Amount"
+#~ msgstr "йНКХВЕЯРБН ЮПУХБНБ"
+
+#~ msgid "Archive Format"
+#~ msgstr "тНПЛЮР ЮПУХБЮ"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "ьЮАКНМ ЙНПНРЙНИ ГЮОХЯХ"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr "бХД ГЮОХЯЕИ Б ЙНПНРЙНЛ БХДЕ Б БКНЦЕ Х ЮПУХБЮУ."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "оНГБНКХРЭ ЙНЛЛЕМРЮПХХ?"
+
+#~ msgid "RSS Filename"
+#~ msgstr "тЮИК Я RSS КЕМРНИ"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atom bestandsnaam"
+
+#~ msgid "Feed Path"
+#~ msgstr "оСРЭ Й RSS"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr "нРМНЯХРЕКЭМШИ ХКХ ЮАЯНКЧРМШИ ОСРЭ Й RSS КЕМРЕ."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Settings for Last Referers"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "щРХ МЮЯРПНИЙХ ОНЙЮФСР БХД 'оНЯКЕДМХЕ пЕТЕППЕПШ' МЮ ЦКЮБМНИ ЯРПЮМХЖЕ "
+#~ "БЩАКНЦЮ"
+
+#~ msgid "Use Emoticons"
+#~ msgstr "хЯОНКЭГНБЮРЭ ЦПЮТ. ЯЛЮИКШ"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ "нОПЕДЕКЪЕР ЯКЕДСЕР КХ РЕЙЯРНБШЕ ЯЛЮИКШ МЮОНДНАХЕ :-) РПЮМЯТНПЛХПНБЮРЭ Б "
+#~ "ХУЦПЮТХВЕЯЙХИ ЩЙБХБЮКЕМР."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "йНДХПНБЮРЭ Email ЮДПЕЯЮ"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "нОПЕДЕКЪЕР АСДСР КХ email-ДПЕЯЮ ГЮЙНДХПНБЮМШ ОПХ ОНЛНЫХjavascript, ДКЪ "
+#~ "ГЮЫХРШ НР ЯОЮЛ-АНРНБ."
+
+#~ msgid "Target Blank"
+#~ msgstr "жЕКЭ ОСЯРЮ"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML Workaround"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "еЯКХ ЯРНХР Б ГМЮВЕМХХ 'дЮ', РН БЯЕ ЯЯШКЙХ АСДСР НРЙПШБЮРЭЯЪ Б МНБНЛНЙМЕ."
+
+#~ msgid "Date display settings"
+#~ msgstr "мЮЯРПНИЙЮ НРНАПЮФЕМХЪ ДЮРШ"
+
+#~ msgid "Blogroll settings"
+#~ msgstr "яБНИЯРБЮ Blogroll"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "бШ ЛНФЕРЕ БЙКЧВХРЭ <a href=\"http://www.blogrolling.com\"target=\"_blank"
+#~ "\">blogrolling.com</a> blogroll МЮ БЮЬ АКНЦ. Blogrolling НРКХВМШИ ЯОНЯНА "
+#~ "ОНЙЮГЮРЭ ЯЯШКЙХ, ОНЙЮГШБЮЪ ОНЯКЕДМЕЕ НАМНБКЕМХЕ. еЯКХ МЕ УНРХРЕ, РН "
+#~ "НЯРЮБЭРЕ ОНКЕ ОСЯРШЛ. еЯКХ ДЮ: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', thereyou will find links containing your blogroll's ID "
+#~ "#. дНКФМН БШЦКЪДХРЭ БПНДЕ ЩРНЦН:2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "жБЕР ТНМЮ"
+
+#~ msgid "Line Color 1"
+#~ msgstr "жБЕР КХМХХ 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "жБЕР КХМХХ 2"
+
+#~ msgid "Color 1"
+#~ msgstr "жБЕР 1"
+
+#~ msgid "Color 2"
+#~ msgstr "жБЕР 2"
+
+#~ msgid "Color 3"
+#~ msgstr "жБЕР 3"
+
+#~ msgid "Color 4"
+#~ msgstr "жБЕР 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "оНЙЮГШБЮЕР ЖБЕРЮ МЮ ЯЮИРЕ. жБЕР 1 ДН ЖБЕРЮ4 ОНЙЮГШБЮЕР БХГСЮКЭМН ЙЮЙ "
+#~ "ДЮБМН НАМНБКЕМЮ ЯЯШКЙЮ."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "бЕЯЭ ЯОХЯНЙ"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "оПЕДОПНЯЛНРП ЩЯЙХГНБ"
+
+#~ msgid "Files"
+#~ msgstr "тЮИКШ"
+
+#~ msgid "Width x Height"
+#~ msgstr "ьХПХМЮ x бШЯНРЮ"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "бШ СБЕПЕМШ ВРН УНРХРЕ СДЮКХРЭ ТЮИК %s?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "сДЮКХРЭ ДЮММНЕ ХГНАПЮФЕМХЕ?"
+
+#~ msgid "create"
+#~ msgstr "ЯНГДЮРЭ"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "дКЪ РНЦН, ВРНАШ ЯДЕКЮРЭ ЯЯШКЙС, БЮЛ МЕНАУНДХЛН БШДЕКХРЭ РЕЙЯР. оНЯЕРХРЕКХ "
+#~ "ОЕПЕИДСР ОН ЯЯШКЙЕ ОПХ МЮФЮРХХ МЮ МЕЕ."
+
+#~ msgid "Text"
+#~ msgstr "рЕЙЯР"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "мЮЯРПНХРЭ РЕУ ЙРН ЛНФЕР ОХЯЮРЭ Б ЙЮРЕЦНПХЧ '%s'"
+
+#~ msgid "Allowed"
+#~ msgstr "оНГБНКЕМН"
+
+#~ msgid "Allow"
+#~ msgstr "оНГБНКХРЭ"
+
+#~ msgid "Denied"
+#~ msgstr "гЮОПЕЫЕМН"
+
+#~ msgid "Deny"
+#~ msgstr "гЮОПЕРХРЭ"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "б ЩРНЛ АХКДЕ Pivot'Ю ЙЮРЕЦНПХЪ АСДЕР ОПНЯРН СДЮКЕМЮ. б ЯКЕДСЧЫХУ ФЕ "
+#~ "АХКДЮУБШ АСДЕРЕ БШАХПЮРЭ, ВРН ЯДЕКЮРЭ Я ГЮОХЯЪЛХ ХГ ДЮММНИ ЙЮРЕЦНПХХ."
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr ""
+#~ "бШАЕПХРЕ 'мЕР' ЕЯКХ МЕ УНРХРЕ ВРНАШ ОНЯЕРХРЕКХ МЕ ЛНЦКХ ХЯЙЮРЭ Б ЩРНИ "
+#~ "ЙЮРЕЦНПХХ."
+
+#~ msgid "Index Category"
+#~ msgstr "хМДЕЙЯХПНБЮМХЕ ЙЮРЕЦНПХХ"
+
+#~ msgid ""
+#~ "If set to 'No', this category will only be viewable for registered "
+#~ "visitors. (applies only to live pages)"
+#~ msgstr ""
+#~ "еЯКХ БШАПЮРЭ 'мЕР', ЩРЮ ЙЮРЕЦНПХЪ АСДЕР БХДМЮ РНКЭЙН ДКЪ "
+#~ "ГЮПЕЦХЯРПХПНБЮММШУ ОНЯЕРХРЕКЕИ. (РНКЭЙН ДКЪ \"ФХБШУ\" ЯРПЮМХЖ)"
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Ctrl-ЙКХЙ ВРНАШ БШДЕКХРЭ МЕЯЙНКЭЙН ЙЮРЕЦНПХИ)"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "йНМБЕПРХПНБЮРЭ ОЕПЕУНДШ ЯРПНЙ"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(БЯЕЦДЮ БШЙКЧВЕМН ЙНЦДЮ Б ПЕФХЛЕ wysiwyg)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(АСДЭРЕ НЯРНПНФМШ Я ЩРХЛ!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "оПЮБХРЭ ЙНЛЛЕМРЮПХХ"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "оПЮБХРЭ ЙНЛЛЕМРЮПХХ НЯРЮБКЕММШЕ ДКЪ ДЮММНИ ГЮОХЯХ"
+
+#~ msgid "Edit Comment"
+#~ msgstr "оПЮБЙЮ ЙНЛЛЕМРЮПХЪ"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "гЮАКНЙХПНБЮРЭ ДХЮОЮГНМ IP %s"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "пЮГАКНЙХПНБЮРЭ IP %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "пЮГАКНЙХПНБЮРЭ ДХЮОЮГНМ IP %s"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "НРОПЮБХРЭ ОХМЦХ ЯКЕДСЧЫХЛ ЯЕПБЕПЮЛ url(s). ДКЪ МЕЯЙНКЭЙХУ ЯЕПБЕПНБ, "
+#~ "МЮОХЬХРЕ МЮ ЙЮФДНИ ЯРПНЙЕ."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "дКЪ ЯНГДЮМХЪ ЙКЧВЕБШУ ЯКНБ ДКЪ ГЮОХЯХ, ДКЪ РНЦН ВРНАШ ДНАЮБХРЭ "
+#~ "ДНОНКМХРЕКЭМШЕ ЯКНБЮ ДКЪ ОНХЯЙЮ ГЮОХЯХ."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "хЯОНКЭГСИРЕ ЩРН ДКЪ ХЯРНВМХЙЮ ПЕЯСПЯЮ."
+
+#~ msgid "Publish and generate"
+#~ msgstr "нОСАКХЙНБЮРЭ Х ЯЦЕМЕПХПНБЮРЭ"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "я НРЛЕВЕММШЛХ ТЮИКЮЛХ ЯДЕКЮРЭ:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "я НРЛЕВЕММШЛХ ЬЮАКНМЮЛХ ЯДЕКЮРЭ:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "МЕ ЛНЦС НРЙПШРЭ ДХПЕЙРНПХЧ, ОПНБЕПЭРЕ ОПЮБЮ."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "МЕ ЛНЦС ОПНВХРЮРЭ ДХПЕЙРНПХЧ, ОПНБЕПЭРЕ ОПЮБЮ."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "МЕ ЛНЦС ГЮОХЯЮРЭ Б ДХПЕЙРНПХЧ, ОПНБЕПЭРЕ ОПЮБЮ."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "МЕ ЛНЦС НРЙПШРЭ ТЮИК, ОПНБЕПЭРЕ ОПЮБЮ."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "МЕ ЛНЦС ОПНВХРЮРЭ ТЮИК, ОПНБЕПЭРЕ ОПЮБЮ."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "МЕ ЛНЦС ГЮОХЯЮРЭ ТЮИК, ОПНБЕПЭРЕ ОПЮБЮ."
+
+#~ msgid "This entry has no trackbacks."
+#~ msgstr "с ГЮОХЯХ МЕР рПЩЙаЩЙНБ."
+
+#~ msgid "Good"
+#~ msgstr "уНПНЬН"
+
+#~ msgid "Bad"
+#~ msgstr "оКНУН"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "бШ СФЕ ЦНКНЯНБЮКХ ГЮ ЩРС ГЮОХЯЭ ХКХ НОПНЯ"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "бЮЬ ЦНКНЯ '%val%' АШК ГЮОХЯЮМ"
+
+#~ msgid "Last Referrers"
+#~ msgstr "бУНДЪЫХЕ ЯЯШКЙХ"
+
+#~ msgid "Calendar"
+#~ msgstr "йЮКЕМДЮПЭ"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "нРЙПШРЭ яЛЮИКХЙХ"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "нРЙПШРЭ йНДХПНБЙС \"Textile\" - ДКЪ ОПНДБХМСРШУ ЙНЛЛЕМРЮРНПНБ."
+
+#~ msgid "Edit Userfields"
+#~ msgstr "оПЮБЙЮ ОНКЭГНБЮРЕКЭЯЙХУ ОНКЕИ"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "бМСРПЕММЕ ХЛЪ ЩРН ХЛЪ ОПЕДЛЕРЮ ЙНРНПШИ БШ ГЮУНРХРЕ ВРНАШ НМ НРПЮГХКЯЪ. "
+#~ "нМНАСДЕР ОНЙЮГЮМН Б ЬЮАКНМЮУ."
+
+#~ msgid "Size"
+#~ msgstr "пЮГЛЕП"
+
+#~ msgid "Rows"
+#~ msgstr "пЪДНБ"
+
+#~ msgid "Columns"
+#~ msgstr "йНКНМ"
+
+#~ msgid "Maximum Length"
+#~ msgstr "лЮЙЯ. ДКХМЮ"
+
+#~ msgid "Filter by"
+#~ msgstr "тХКЭРПНБЮРЭ"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "тХКЭРПСЪ ДЮММШИ ОПЕДЛЕР БШ НЦПЮМХВХБЮЕРЕ БЯЕ РН ВРН ЛНФЕР АШРЭ Б МЕЛ "
+#~ "МЮОХЯЮМН"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "сДЮКЪЪ ДЮММНЕ ОНКЕ (<b>%s</b>) БШ РЮЙФЕ СМХВРНФХРЕ БЯЕ ДЮММШЕ ЙНРНПШЕ "
+#~ "ОНКЭГНБЮРЕКХГДЕЯЭ УПЮМХКХ."
+
+#~ msgid "This name is already in use"
+#~ msgstr "дЮММНЕ ХЛЪ СФЕ ХЯОНКЭГСЕРЯЪ"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "бМСРПЕММЕ ХЛЪ ДНКФМН АШРЭ ДКХММЕЕ РПЕУ ЯХЛБНКНБ"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "нРНАПЮФЮЕЛНЕ ХЛЪ ДНКФМН АШРЭ ДКХММЕЕ 3 ЯХЛБНКНБ"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr "нРЙПШБЮЕР НЙМН Я мНБНИ гЮОХЯЭЧ, ЙНРНПЮЪ ЯНДЕПФХР ЯЯШКЙС."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "нРЙПШБЮЕР НЙМН Я ВХЯРНИ ГЮОХЯЭЧ."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "aBookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on whichbrowser you are using)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or yourbrowsers "
+#~ "'Bookmarks'-button."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr "щРН ЙЮКЕМДЮПЭ ГЮОХЯЕИ ЩРНЦН АКНЦЮ ЯН ЯЯШКЙЮЛХ МЮ ГЮОХЯХ ОН ДЮРЮЛ."
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr "йЮКЕМДЮПЭ ОНГБНКЪЕР ХЯЙЮРЭ ГЮОХЯХ ОН ДЮРЕ"
+
+#~ msgid "en"
+#~ msgstr "ru"
+
+#~ msgid "Your trackback has been stored."
+#~ msgstr "бЮЬ рПЩЙаЩЙ ЯНУПЮМЕМ."
+
+#~ msgid "Tracked"
+#~ msgstr "нРЙЮРЮМН"

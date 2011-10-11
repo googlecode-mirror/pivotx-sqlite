@@ -1,0 +1,5749 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Last Comments"
+msgstr "Senaste kommentarer"
+
+msgid "Stuff"
+msgstr "Grejs"
+
+msgid "Archives"
+msgstr "Arkiv"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Links"
+msgstr "L&auml;nkar"
+
+#, fuzzy
+msgid "Search"
+msgstr "s&ouml;k!"
+
+msgid "Linkdump"
+msgstr "Linkdump"
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "URL"
+msgstr "Webbadress"
+
+msgid "Post Comment"
+msgstr "Skicka kommentar"
+
+msgid "Preview Comment"
+msgstr "F&ouml;rhandsgranska kommentar"
+
+msgid "Remember personal info?"
+msgstr "Komma ih&aring;g personlig information?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "Konfiguration"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "Konfiguration"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "Kant"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Senaste kommentarer"
+
+#, fuzzy
+msgid "Pages"
+msgstr "bild"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Kommentera"
+
+msgid "Notify"
+msgstr "Notifiera"
+
+msgid "Yes, send me email when someone replies."
+msgstr "Ja, skicka mig ett email n&auml;r n&aring;gon svarar.."
+
+msgid "Hide email"
+msgstr ""
+
+msgid "Yes, hide my email address."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Fotnot</b> Alla HTML taggar f&ouml;rutom &lt,b&gt, and &lt,i&gt, kommer "
+"att tas bort fr&aring;n din kommentar. Du kan skapa l&auml;nkar denom att "
+"skriva webbadressen eller e-post adressen i kommentar f&auml;ltet."
+
+msgid "Insert an Image"
+msgstr "S&auml;tta in en bild"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"F&ouml;r att s&auml;tta in en bild b&ouml;r du ladda upp en bild, eller "
+"v&auml;lja en tidigare uppladdad bild."
+
+msgid "Upload"
+msgstr "Ladda Upp"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "Ladda upp en ny fil:"
+
+msgid "Image name"
+msgstr "bild namn"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "V&auml;lj bild"
+
+msgid "Select"
+msgstr "V&auml;lj"
+
+msgid "Alternate text"
+msgstr "Alternativ text"
+
+msgid "Align"
+msgstr "Align"
+
+msgid "Center (default)"
+msgstr "Centrera (f&ouml;rvalt)"
+
+msgid "Left"
+msgstr "V&auml;nster"
+
+msgid "Right"
+msgstr "H&auml;ger"
+
+msgid "Inline"
+msgstr "Mitten"
+
+msgid "Border"
+msgstr "Kant"
+
+msgid "pixels"
+msgstr "pixlar"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "S&auml;tta in en bild"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "Kant"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "Publicera p&aring;"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "Underh&aring;ll"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "Kommentar inst&auml;llningar"
+
+msgid "IP-address"
+msgstr "IP-adress"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "Radera kommentar"
+
+msgid "Delete"
+msgstr "Ta Bort"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "Markera alla"
+
+#, fuzzy
+msgid "Check none"
+msgstr "Markera alla"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "Inga kommentarer"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "Radera kommentar"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Nya Inl&auml;gg"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "Det h&auml;r inl&auml;gget har inga kommentarer."
+
+msgid "No comments"
+msgstr "Inga kommentarer"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Nya Inl&auml;gg"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Webbloggens namn"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "Editera Trackback"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "Ta bort Trackback"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Det h&auml;r inl&auml;gget har inga kommentarer."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "Inga trackbacks"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "editera"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Undertitel"
+
+#, fuzzy
+msgid "Template"
+msgstr "Mallar"
+
+msgid "Introduction"
+msgstr "Introduktion"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "Keywords"
+msgstr "Nyckelord"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "bild"
+
+#, fuzzy
+msgid "Preview"
+msgstr "F&ouml;rhandsgranska inl&auml;gg"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "Kategori"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Publicerings status"
+
+#, fuzzy
+msgid "Publish"
+msgstr "Publicera p&aring;"
+
+msgid "Publish on"
+msgstr "Publicera p&aring;"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "Till&aring;t kommentarer"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "Created on"
+msgstr "Skapad den"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "Sist editerad den"
+
+msgid "Author"
+msgstr "F&ouml;rfattare"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "Arkiv Inst&auml;llningar"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "Mallar"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Webbloggar"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "Kommentera"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "S&auml;tta in en bild"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "S&auml;tta in en bild"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "Fr&aring;n l&auml;nk"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "Fr&aring;n titel"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Trackback ping"
+
+msgid "Post Entry"
+msgstr "Skicka inl&auml;gg"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "F&ouml;rhandsgranska kommentar"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "Inga trackbacks"
+
+msgid "Category"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "(none)"
+msgstr "ett"
+
+msgid "Insert a Download"
+msgstr "Infoga en nerladdning"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"F&ouml;r att infoga en nerladdning m&aring;ste du ladda upp en fil, eller "
+"v&auml;lja en tidigare uppladdad. Sedan v&auml;ljer du om du vill ha en ikon "
+"eller en text miniatyr som startar nerladdningen."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "Ladda upp en ny fil:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "Filnamn"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "Anv&auml;nd ikon"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "Anv&auml;nd text"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "Fr&aring;n titel"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "Infoga en nerladdning"
+
+msgid "My Info"
+msgstr "Information"
+
+#, fuzzy
+msgid "Logout"
+msgstr "Logga ut."
+
+msgid "Dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "Back to dashboard"
+msgstr "Tillbaks till login"
+
+#, fuzzy
+msgid "View weblog"
+msgstr "Ny Webblogg"
+
+#, fuzzy
+msgid "view"
+msgstr "F&ouml;rhandsgranska inl&auml;gg"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "Standard suffix"
+
+msgid "Maintenance"
+msgstr "Underh&aring;ll"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "Ny Webblogg"
+
+#, fuzzy
+msgid "sec."
+msgstr "Sekund"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Filnamn"
+
+msgid "Description"
+msgstr "Beskrivning"
+
+msgid "Filesize"
+msgstr "Filstorlek"
+
+#, fuzzy
+msgid "Image"
+msgstr "bild"
+
+msgid "Thumbnail"
+msgstr "Tumnagel"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "&Auml;r du s&auml;ker att du vill ta bort det h&auml;r inl&auml;gget?"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Datum"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "Skapa ny anv&auml;ndare"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "Skapa ny anv&auml;ndare"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "Ladda upp filer"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "Ladda Upp"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "Editera konfigurationsfilen"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "Emoticons"
+
+msgid "You should first select or upload an image"
+msgstr "Du borde f&ouml;rst v&auml;lja eller ladda upp en bild"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"F&ouml;r att g&ouml;ra en pop-up bild, b&ouml;r du ladda upp en bild eller "
+"v&auml;lja en tidigare uppladdad bild, v&auml;lj sedan en text eller en "
+"tumnagel som utl&ouml;ser pop-up'en."
+
+msgid "For popup"
+msgstr "F&ouml;r pop-up"
+
+msgid "Use Thumbnail"
+msgstr "Anv&auml;nd tumnagel"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "editera tumnagel"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "S&auml;tt in en Pop-Up bild"
+
+msgid "Create New User"
+msgstr "Skapa ny anv&auml;ndare"
+
+msgid "Username"
+msgstr "Anv&auml;ndarnamn"
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Userlevel"
+msgstr "Anv&auml;ndarniv&aring;"
+
+msgid "Last Login"
+msgstr "Sista Login"
+
+msgid "Edit User"
+msgstr "Editera Anv&auml;ndare"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr ""
+"Du  &auml;r p&aring; v&auml;g att ta bort anv&auml;ndare %s. &Auml;r det "
+"s&auml;kert att du vill det?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Emoticons"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "Registrera ett nytt anv&auml;ndarnamn."
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr ""
+"Du &auml;r p&aring; v&auml;g att ta bort webblogg %1. &Auml;r du s&auml;ker?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "S&auml;tta in en bild"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "S&auml;tta in en bild"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "Infoga en nerladdning"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "S&auml;tta in en bild"
+
+msgid "The default category is:"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr ""
+"Denna anv&auml;ndare &auml;r till&aring; att posta inl&auml;gg till valda "
+"kategorier"
+
+msgid "Create New Category"
+msgstr "Skapa ny kategori"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "Anv&auml;ndare"
+
+msgid "Hidden Category"
+msgstr "Dold Kategori"
+
+msgid "Sorting Order"
+msgstr "Sorteringsordning"
+
+#, fuzzy
+msgid "users"
+msgstr "Anv&auml;ndare"
+
+msgid "Edit Category"
+msgstr "Editera kategori"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "V&auml;lj 'Ja', om du vill ta bort den h&auml;r kategorin"
+
+msgid "New Weblog"
+msgstr "Ny Webblogg"
+
+msgid "Weblog Name"
+msgstr "Webbloggens namn"
+
+#, fuzzy
+msgid "categories"
+msgstr "Kategorier"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr ""
+"Du &auml;r p&aring; v&auml;g att ta bort webblogg %1. &Auml;r du s&auml;ker?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Modifiera inl&auml;gg"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "Nytt inl&auml;gg"
+
+#, fuzzy
+msgid "New Page"
+msgstr "bild"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Manage Media"
+msgstr "Media"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Nya Inl&auml;gg"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "&Auml;r du s&auml;ker att du vill ta bort det h&auml;r inl&auml;gget?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "Nytt inl&auml;gg"
+
+#, fuzzy
+msgid "delete"
+msgstr "Ta Bort"
+
+msgid "The latest pages"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Piv » Ny"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Nya Inl&auml;gg"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Visa dom sista "
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Nya Inl&auml;gg"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Inl&auml;gg"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Visa dom sista "
+
+msgid "filter on (%name%)"
+msgstr "filtrera p&aring; (%name%)"
+
+msgid "first"
+msgstr "f&ouml;rsta"
+
+msgid "previous"
+msgstr "f&ouml;reg&aring;ende"
+
+msgid "next"
+msgstr "n&auml;sta"
+
+msgid "last"
+msgstr "sista"
+
+msgid "jump to page (%num%)"
+msgstr "hoppa till sida (%num%)"
+
+msgid "filter off"
+msgstr "filter av"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "Status"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Markera alla"
+
+msgid "Uncheck All"
+msgstr "Avmarkera alla"
+
+msgid "With the checked entries, do:"
+msgstr "Med dom markerade alternativen, g&ouml;r:"
+
+msgid "- select an option -"
+msgstr "- v&auml;lj ett alternativ -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "S&auml;tt statusen till 'publicera'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "S&auml;tt statusen till 'hold'"
+
+msgid "Delete them"
+msgstr "Ta bort dom"
+
+msgid "Go!"
+msgstr "Go!"
+
+#, fuzzy
+msgid "Published"
+msgstr "Publicera p&aring;"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Titel"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "Radera kommentar"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Skapande av index to %num% sekunder"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "Skapad den"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "Inget"
+
+#, fuzzy
+msgid "for"
+msgstr "fyra"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "Sista Login"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "Kommentar inst&auml;llningar"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "S&ouml;kv&auml;g till inl&auml;gg"
+
+msgid "Overview of Entries"
+msgstr "&Ouml;verblick av inl&auml;gg"
+
+msgid "Manage and Upload Media"
+msgstr "Behandla och ladda upp Media"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Overview of Administrative functions"
+msgstr "&Ouml;verblick av administration"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Standard suffix"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "Standard suffix"
+
+#, fuzzy
+msgid "Log in"
+msgstr "Login"
+
+msgid "Write and Publish a new Entry"
+msgstr "Nytt inl&auml;gg"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "&Ouml;verblick av inl&auml;gg"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "Nytt inl&auml;gg"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "Spara kommentar"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "Inga trackbacks"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "&Ouml;verblick av inl&auml;gg"
+
+msgid "Edit the Configuration file"
+msgstr "Editera konfigurationsfilen"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "Konfiguration"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Editera konfigurationsfilen"
+
+msgid "Create, edit and delete Users"
+msgstr "Skapa, editera eller ta bort anv&auml;ndare"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Skapa, editera eller ta bort Kategorier"
+
+msgid "Weblogs"
+msgstr "Webbloggar"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Skapa, editera eller ta bort Webbloggar"
+
+#, fuzzy
+msgid "Registered Visitors"
+msgstr "Registrera ett nytt anv&auml;ndarnamn."
+
+#, fuzzy
+msgid "View and edit Registered Visitors"
+msgstr "Logga in som registrerad bes&ouml;kare"
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "S&auml;kerhetskopiera"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr "L&aring;ter dej ladda ner en zipfil med Pivots konfigurationsfiler"
+
+#, fuzzy
+msgid "Widgets"
+msgstr "bilder"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Standard suffix"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "Konfiguration"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+msgid "Backup of Configuration Files"
+msgstr "G&ouml;r en backup av konfigurationsfilerna"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr "L&aring;ter dej ladda ner en zipfil med Pivots konfigurationsfiler"
+
+msgid "Create, edit and delete Templates"
+msgstr "Skapa, editera eller ta bort Mallar"
+
+msgid "Explore Database Files"
+msgstr "Fil Unders&ouml;karen"
+
+msgid "View files (both text and database files)"
+msgstr "Visa filer (b&aring;de text- och databasfiler)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "Fil Unders&ouml;karen"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "Ladda upp filer"
+
+msgid "Rebuild the Index"
+msgstr "Bygg om Index"
+
+msgid "Rebuild the index of your Database"
+msgstr "Bygg om indexet av din Databas"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "Bygg om S&ouml;kindex"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr ""
+"Bygger om s&ouml;kindex, f&ouml;r att till&aring;ta s&ouml;kning av inl&auml;"
+"gg"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Bygg om Index"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr ""
+"Bygger om s&ouml;kindex, f&ouml;r att till&aring;ta s&ouml;kning av inl&auml;"
+"gg"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "V&auml;lkommen till %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "M&aring;ndag"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "Nyckelord"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Ladda upp en ny fil:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Red"
+msgstr "Ons"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "S&auml;kerhetskopiera"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Login"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"Anv&auml;ndarnamn kan bara inneh&aring;lla alfanumeriska bokst&auml;ver (A-"
+"Za-z, 0-9) och understrykningstecken (_)."
+
+msgid "Password"
+msgstr "L&ouml;senord"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+#, fuzzy
+msgid "Stay logged in?"
+msgstr "Inloggad"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Gl&ouml;mt ditt l&ouml;senord?"
+
+msgid "Send password"
+msgstr "Skicka l&ouml;senord"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Skicka l&ouml;senord"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+"Om du har gl&ouml;mt ditt l&ouml;senord fyll i ditt anv&auml;ndarnamn och e-"
+"post adress, s&aring; kommer Pivot att skicka ditt l&ouml;senord till din e-"
+"post."
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "Spara mall!"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "Spara mall!"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "G&ouml;r en backup av konfigurationsfilerna"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "F&ouml;rhandsgranska kommentar"
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Registered user"
+msgstr "Registrera ett nytt anv&auml;ndarnamn."
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "Spara kommentar"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "Spara Trackback"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Inl&auml;ggsdatum"
+
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#, fuzzy
+msgid "Continue"
+msgstr "nio"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "L&ouml;senord (konfirmera)"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "L&ouml;senorden matchar inte"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "Datum"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "Ladda upp filer"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+#, fuzzy
+msgid "Your MySQL password"
+msgstr "Skicka l&ouml;senord"
+
+#, fuzzy
+msgid "Database Name"
+msgstr "Datum"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "Anv&auml;ndarnamn"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "SSI Prefix"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "L&ouml;senorden matchar inte"
+
+msgid "That's not a valid email address"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+msgid "Language"
+msgstr "Spr&aring;k"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Textf&auml;rg"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Best&auml;mmer vilket standardl&auml;ger f&ouml;r text behandling, n&auml;r "
+"en anv&auml;ndare anv&auml;nder icke-wysiwyg editorn. 'Konvertera "
+"radbrytningar' g&ouml;r ingenting mer &auml;n att &auml;ndra radbrytningar "
+"till en &lt;br&gt;-tag. <a href=\"http://www.textism.com/tools/textile/\" "
+"target=\"_blank\">Textile</a> &auml;r ett kraftfult, men &auml;nd&aring; "
+"l&auml;ttl&auml;rd text behandlare"
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Konvertera Radbrytningar till &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Markdown and Smartypants"
+msgstr "Markdown och Smartypants"
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "Sist editerad den"
+
+msgid "Moblogger"
+msgstr "Moblogger"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Advanced"
+msgstr "Avancerad"
+
+msgid "Administrator"
+msgstr "Administrat&ouml;r"
+
+msgid "Superadmin"
+msgstr "Superadmin"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr ""
+"Anv&auml;ndarninv&aring;n avg&ouml;r vilka slags handlingar den specifika "
+"anv&auml;ndaren &auml;r till&aring;ten att g&ouml;ra i Pivot."
+
+msgid "Allowed Categories"
+msgstr "Till&aring;tna Kategorier"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr ""
+"Denna anv&auml;ndare &auml;r till&aring; att posta inl&auml;gg till valda "
+"kategorier"
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "Sist editerad den"
+
+msgid "Create Category"
+msgstr "Skapa kategori"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Den h&auml;r kategorin beh&ouml;ver ett namn"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr ""
+"V&auml;lj anv&auml;ndare som du vill ge r&auml;ttigheter att skicka inl&auml;"
+"gg i den h&auml;r kategorin"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"Kategorier med &auml;n l&auml;gre sorteringsordning kommer h&ouml;gre upp i "
+"listan. Om du har samma nummer p&aring; alla kommer de att sorteras "
+"alfabetiskt"
+
+#, fuzzy
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+"Om du s&auml;tter detta till 'Ja' kommer kategorin att vara dold i arkiv "
+"listningar. (g&auml;ller endast 'live pages')"
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "The name of this chapter"
+msgstr "Indexera kategorin"
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+#, fuzzy
+msgid "Theme"
+msgstr "Mallar"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "Inl&auml;ggsinst&auml;llningar"
+
+msgid "Payoff"
+msgstr "Undertitel"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr ""
+"Undertitlen kan anv&auml;ndas f&ouml;r en kort beskrivning av din webblogg"
+
+msgid "URL to Weblog"
+msgstr "Webbadress till Webbloggen"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Pivot kommer att fastst&auml;lla  webbadressen till din webblogg om du "
+"l&auml;mnar detta f&auml;lt tomt. Om du anv&auml;nder din webblogg som en "
+"del i framest, eller som ett serverside include, kan du anv&auml;nda detta "
+"val f&ouml;r att upph&auml;va det."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"Detta best&auml;mmer i vilket spr&aring;k datum och siffror kommer att "
+"visas, samt teckenkodningen f&ouml;r sidan (t.ex. iso-8859-1 eller koi8-r )."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'L&auml;s mer' Text"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"Texten som &auml;nv&auml;nds f&ouml;r att indikera att det &auml;r mer text "
+"i det h&auml;r inl&auml;gget &auml;n det som visas p&aring; f&ouml;rsta "
+"sidan. Om du l&auml;mna det h&auml;r f&auml;ltet blankt kommer Pivot "
+"anv&auml;nda det som &auml;r specificerat i spr&aring;kinst&auml;llningarna"
+
+msgid "Frontpage Template"
+msgstr "F&ouml;rstasidan"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "Mallen som avg&ouml;r utseendet p&aring; index-sidan av din webblogg."
+
+msgid "Archivepage Template"
+msgstr "Arkivsidans"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"Mallen som avg&ouml;r hur utseendet p&aring; dina arkiv &auml;r. Det h&auml;"
+"r kan vara samma som p&aring; 'F&ouml;rstasides mall'."
+
+msgid "Entrypage Template"
+msgstr "Enstaka inl&auml;gg"
+
+msgid "The Template which determines the layout of single entries."
+msgstr ""
+"Den h&auml;r mallen avg&ouml;r hur utseendet &auml;r f&ouml;r enstaka "
+"inl&auml;gg."
+
+msgid "Extra Template"
+msgstr "Extra Mall"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr ""
+"Den h&auml;r mallen definerar hur dina arkiv och 'search.php' kommer att se "
+"ut."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Spara mall!"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr ""
+"Den h&auml;r mallen definerar hur dina arkiv och 'search.php' kommer att se "
+"ut."
+
+msgid "Number of Entries"
+msgstr "Antal inl&auml;gg"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "Antal inl&auml;gg som visas p&aring; f&ouml;rsta sidan."
+
+msgid "Offset"
+msgstr "Till&auml;gg"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"&Auml;r 'Till&auml;gg' satt till ett nummer kommer det antalet inl&auml;gg "
+"att hoppas &ouml;ver n&auml;r sidan genereras. Du kan anv&auml;nda detta "
+"till att g&ouml;ra en 'Tidigare Inl&auml;ggs' lista, exempelvis."
+
+msgid "Publish these categories"
+msgstr "Publicera desssa kategorier"
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS- och Atomkonfiguration"
+
+msgid "Generate Feeds"
+msgstr "Generera Feeds"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr ""
+"Det h&auml;r best&auml;mmer om Pivot ska generera en RSS-fil f&ouml;r denna "
+"webblogg."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "Sitens Webbadress"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "Sitens Webbadress"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Skapa kompletta Feeds"
+
+#, fuzzy
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"Best&auml;mmer om Pivot ska skapa kompletta Feeds f&ouml;r Atom och RSS. Om "
+"satt till 'Nej' kommer Pivot endast att skapa feeds som inneh&aring;ller en "
+"kort beskrivning, som g&ouml;r din feed mindre anv&auml;ndbar."
+
+msgid "Feed Link"
+msgstr "Feed L&auml;nk"
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"L&auml;nken som skall skickas med Feeden, till huvudsidan. Om du l&auml;mna "
+"detta f&auml;lt blankt kommer Pivot att skicka webbloggens indexsida som "
+"l&auml;nk."
+
+msgid "Feed Image"
+msgstr "Feed Bild"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"Du kan specifiera en bild som skickas med Feeden. Vissa Feedl&auml;sare "
+"kommer att visa denna bild tillsammans med din Feed. L&auml;mna blankt, "
+"eller fyll i en komplett URL."
+
+msgid "Commenting Settings"
+msgstr "Kommentar inst&auml;llningar"
+
+msgid "Send Mail?"
+msgstr "Skicka e-post?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr ""
+"N&auml;r en kommentar har skrivits, kan e-post skickas till underh&aring;"
+"llarna av webbloggen."
+
+msgid "Mail to"
+msgstr "E-post till"
+
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"Specificera mottagare adress(erna) till dem du vill att epost ska skickas "
+"till. Separera flera adresser med ett komma."
+
+msgid "Text to links"
+msgstr "Text till l&auml;nkar"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr "Definera om skrivna webbadresser ska g&ouml;ras klickbara."
+
+msgid "Wrap comments after"
+msgstr "Radbryt kommentarer efter"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"F&ouml;r att f&ouml;rhindra l&aring;nga str&auml;ngar av bokst&auml;ver "
+"fr&aring;n att f&ouml;rst&ouml;ra utseendet p&aring; din webblogg, kommer "
+"texten att radbrytas efter specificerat antal tecken."
+
+msgid "Comments Popup?"
+msgstr "Pop-Up kommentarer?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"Best&auml;mmer om kommentar sidan (eller 'enstaka inl&auml;gg') ska vissas i "
+"ett pop-up f&ouml;nster eller i orginerande webbl&auml;sarf&ouml;nster."
+
+msgid "Width of Popup"
+msgstr "Pop-Up bredden"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "Pop-Up h&ouml;jden"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr ""
+"Specificera bredden och h&ouml;jden (i pixlar) p&aring; kommentar pop-up "
+"f&ouml;nstret."
+
+msgid "Height of Popup"
+msgstr "Pop-Up h&ouml;jden"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr ""
+"Specificera bredden och h&ouml;jden (i pixlar) p&aring; kommentar pop-up "
+"f&ouml;nstret."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Till&aring;t Textile"
+
+msgid "Allow Textile"
+msgstr "Till&aring;t Textile"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"Ifall satt till 'Ja', &auml;r bes&ouml;karna till&aring;tna att av&auml;nda "
+"<a href=\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</"
+"a> i deras kommentarer."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "Emoticons"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "Emoticons"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"Ifall satt till 'Ja', &auml;r bes&ouml;karna till&aring;tna att av&auml;nda "
+"<a href=\"http://www.textism.com/tools/textile/\" target=\"_blank\">Textile</"
+"a> i deras kommentarer."
+
+msgid "Site Name"
+msgstr "Sitens Namn"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Webbloggar"
+
+#, fuzzy
+msgid "Page"
+msgstr "bild"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "Sitens Namn"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- v&auml;lj ett alternativ -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+"Detta best&auml;mmer formatteringen av l&auml;nken som en bes&ouml;kare kan "
+"anv&auml;nda f&ouml;r att besvara en kommentar."
+
+msgid "Default language"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "Standard spr&aring;k"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+#, fuzzy
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr "Ja, som /archive/2005/04/28/titel_p&aring;_inl&aouml;gg"
+
+#, fuzzy
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr "Ja, som /archive/2005-04-28/titel_p&aring;_inl&aouml;ggy"
+
+msgid "Yes, like /entry/1234"
+msgstr "Ja, som /entry/1234"
+
+#, fuzzy
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr "Ja, som /entry/1234/titel_p&aring;_inl&aouml;gg"
+
+#, fuzzy
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr "Ja, som /archive/2005/04/28/titel_p&aring;_inl&aouml;gg"
+
+#, fuzzy
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr "Ja, som /archive/2005-04-28/titel_p&aring;_inl&aouml;ggy"
+
+msgid "Use Mod_rewrite"
+msgstr "Anv&auml;nd Mod_rewrite"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"Om du anv&auml;nder Apaches Mod_rewrite kommer Pivot att g&ouml;ra adresser "
+"som www.minsite.com/archive/2003/05/30/fint_vader, ist&auml;llet f&ouml;r "
+"www.minsite.com/pivot/entry.php?id=34. Inte alla servrar st&ouml;der deetta, "
+"s&aring; vg. och l&auml;s kapitlet i manualen om detta."
+
+msgid "Allow comments by default"
+msgstr "Till&aring;t kommentarer"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr ""
+"Best&auml;mmer om inl&auml;gg &auml;r satta att till&aring;ta kommentarer "
+"eller inte."
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "Spara kommentar"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "Spara Konfiguration"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Visa dom sista "
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "Antal inl&auml;gg"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS Feed"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "Antal inl&auml;gg"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "Kod"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "St&ouml;rsta filstorlek"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "St&ouml;rsta filstorlek"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Fels&ouml;kningsl&auml;ge"
+
+msgid "Show random debug information, every here and there.."
+msgstr ""
+"Visa slumpm&auml;ssig fels&ouml;kningsinformation, lite h&auml;r och d&auml;"
+"r..."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "Loggfiler"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "Avl&auml;nka Filer"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"Vissa instanser av servrar d&auml;r det hemska safe_mode &auml;r p&aring; "
+"kanske kr&auml;ver att du testar den h&auml;r funktionen. P&aring; de flesta "
+"servrar kommer den inte att ha n&aring;gon effekt"
+
+msgid "Chmod Files To"
+msgstr "Chmod filer till"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"En del servrar kr&auml;ver att filer &auml;r chmod'de p&aring; ett speciellt "
+"s&auml;tt. Vanliga v&auml;rden &auml;r '0644' och '0755'. &Auml;ndra inte "
+"detta, om du inte vet vad du g&ouml;r."
+
+msgid "File Upload Path"
+msgstr "Filuppladdnings s&ouml;kv&auml;g"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Skriv &ouml;ver"
+
+msgid "Increment Filename"
+msgstr "Inkrementera filnamn"
+
+msgid "Maximum Filesize"
+msgstr "St&ouml;rsta filstorlek"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Automatiska Miniatyrer"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Miniatyrens bredd"
+
+msgid "Thumbnail height"
+msgstr "Miniatyrens h&ouml;jd"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Miniatyrens bredd"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Acepterade typer"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Fullst&auml;ndigt datumformat"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"Det h&auml;r best&auml;mmer formatet f&ouml;r det fullst&auml;ndiga datumet "
+"och tiden. Mest anv&auml;nd h&ouml;gst upp p&aring; en sida med ett inl&auml;"
+"gg p&aring;."
+
+msgid "Entry Date"
+msgstr "Inl&auml;ggsdatum"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Diff Datum"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'Diff Datum' &auml;r mest anv&auml;nt i samband med 'Inl&auml;ggsdatum'. "
+"Inl&auml;ggsdatumet visas p&aring; alla inl&auml;gg p&aring; din webblogg, "
+"medans 'Diff datum' endast visas om datumet skiljer sej fr&aring;n f&ouml;"
+"reg&aring;ende inl&auml;gg."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "Tidkompensations enhet"
+
+msgid "Year"
+msgstr "&Aring;r"
+
+msgid "Month"
+msgstr "M&aring;nad"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Hour"
+msgstr "Timme"
+
+msgid "Minute"
+msgstr "Minut"
+
+msgid "Time Offset"
+msgstr "Tidskompensation"
+
+#, fuzzy
+msgid "Activate"
+msgstr "Arkiv"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "Minsa anv&auml;ndar niv&aring;"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "Det &auml;r ingen giltig E-Post adress"
+
+#, fuzzy
+msgid "Default author"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "Standard spr&aring;k"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "V&auml;lj bild"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "Ta bort kategorin"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- v&auml;lj ett alternativ -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "Ta bort kategorin"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "Till&aring;tna Kategorier"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+msgid "Number of links"
+msgstr "Antal l&auml;nkar"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+"Maximalt antal hyperl&auml;nkar som &auml;r till&aring;tna i kommentarer. "
+"Anv&auml;ndbart f&ouml;r att bli av med dessa 'kommentarspammare'. S&auml;tt "
+"till 0 f&ouml;r o&auml;ndligt med l&auml;nkar."
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "Konvertera"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "bild namn"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "Standard suffix"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "Standard suffix"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "Standard suffix"
+
+#, fuzzy
+msgid "By"
+msgstr "Body"
+
+#, fuzzy
+msgid "version"
+msgstr "Konvertera"
+
+#, fuzzy
+msgid "last updated"
+msgstr "Sist editerad den"
+
+#, fuzzy
+msgid "site link"
+msgstr "S&auml;tt in en l&auml;nk"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "Konfiguration"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "S&auml;tta in en bild"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "S&auml;tta in en bild"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Skicka Ping"
+
+#, fuzzy
+msgid "Oops."
+msgstr "Oops"
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Pivot anv&auml;ndarlogin"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Pivot anv&auml;ndarlogin"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Pivot anv&auml;ndarlogin"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "Du har inte r&auml;ttigheter att g&ouml;ra detta med %title%!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "Din fil har blivit uppladdad som '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "Kommentaren &auml;r raderad."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "Den nya webbloggen har skapats."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Skapa tumnagel)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Filuppladdnings s&ouml;kv&auml;g"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "RSS-mall"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Emoticons"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "L&ouml;senord"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "tretton"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "Skriv"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Skrivfel. Kan inte &ouml;ppna filen f&ouml;r skrivning"
+
+msgid "Write Error. Could not write to file"
+msgstr "Skrivfel. Kan inte skriva till filen"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "Specificerar formateringen av kommentarer i inl&auml;ggessidorna."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "R&ouml;sta '%val%' p&aring; det h&auml;r inl&auml;gget"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "Radera kommentar"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "Specificerar formateringen av kommentarer i inl&auml;ggessidorna."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "Diverse Inst&auml;llningar"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Nytt inl&auml;gg"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "Konfiguration"
+
+msgid "%num% comment"
+msgstr "%num% kommentar"
+
+msgid "%num% comments"
+msgstr "%num% kommentarer"
+
+msgid "%num% trackback"
+msgstr "%num% trackback"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "%num% trackback"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"Du f&ouml;rhandsgranskar din kommentar. Var s&auml;ker po&aring; att klicka "
+"p&aring; 'Skicka kommentar' f&ouml;r att spara den."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr ""
+"Din kommentar har inte blivit sparad, det ser ut som att det &auml;r en "
+"dublett av en tidigare kommentar"
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr ""
+"Din kommentar har inte blivit sparad, det ser ut som att det &auml;r en "
+"dublett av en tidigare kommentar"
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr ""
+"Din kommentar har inte blivit sparad, det ser ut som att det &auml;r en "
+"dublett av en tidigare kommentar"
+
+msgid "Your comment has been stored."
+msgstr "Din kommentar &auml;r sparad."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"Du b&ouml;r skriva ditt namn (eller alias) i 'namn' f&auml;ltet. Gl&ouml;m "
+"inte att klicka p&aring; 'Skicka kommentar' f&ouml;r att spara det permanent."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"Du borde f&ouml;rs&ouml;ka skriva n&aring;tt i 'kommentar' f&auml;ltet. "
+"Gl&ouml;m inte att klicka p&aring; 'Skicka kommenter' f&ouml;r att spara det "
+"permanent."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr "Maximalt antal l&auml;nkar &ouml;verskridet. Sluta spamma!"
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "Kommentar format"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "editera tumnagel"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Pivot anv&auml;ndarlogin"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Kod"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "Emoticons"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "editera tumnagel"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Skapa tumnagel)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Go!"
+
+#, fuzzy
+msgid "Back"
+msgstr "S&auml;kerhetskopiera"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "Kod"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "S&ouml;ndag"
+
+msgid "Monday"
+msgstr "M&aring;ndag"
+
+msgid "Tuesday"
+msgstr "Tisdag"
+
+msgid "Wednesday"
+msgstr "Onsdag"
+
+msgid "Thursday"
+msgstr "Torsdag"
+
+msgid "Friday"
+msgstr "Fredag"
+
+msgid "Saturday"
+msgstr "L&ouml;rdag"
+
+msgid "S_Sunday_initial"
+msgstr "D"
+
+msgid "M_Monday_initial"
+msgstr "L"
+
+msgid "T_Tuesday_initial"
+msgstr "M"
+
+msgid "W_Wednesday_initial"
+msgstr "M"
+
+msgid "T_Thursday_initial"
+msgstr "J"
+
+msgid "F_Friday_initial"
+msgstr "V"
+
+msgid "S_Saturday_initial"
+msgstr "S"
+
+msgid "Sun"
+msgstr "S&ouml;n"
+
+msgid "Mon"
+msgstr "M&aring;n"
+
+msgid "Tue"
+msgstr "Tis"
+
+msgid "Wed"
+msgstr "Ons"
+
+msgid "Thu"
+msgstr "Tor"
+
+msgid "Fri"
+msgstr "Fre"
+
+msgid "Sat"
+msgstr "L&ouml;r"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "April"
+
+msgid "May"
+msgstr "Maj"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Augusti"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "November"
+msgstr "November"
+
+msgid "December"
+msgstr "December"
+
+msgid "Jan_January_abbreviation"
+msgstr "Jan"
+
+msgid "Feb_February_abbreviation"
+msgstr "Feb"
+
+msgid "Mar_March_abbreviation"
+msgstr "Mar"
+
+msgid "Apr_April_abbreviation"
+msgstr "Apr"
+
+msgid "May_May_abbreviation"
+msgstr "Maj"
+
+msgid "Jun_June_abbreviation"
+msgstr "Jun"
+
+msgid "Jul_July_abbreviation"
+msgstr "Jul"
+
+msgid "Aug_August_abbreviation"
+msgstr "Aug"
+
+msgid "Sep_September_abbreviation"
+msgstr "Sep"
+
+msgid "Oct_October_abbreviation"
+msgstr "Okt"
+
+msgid "Nov_November_abbreviation"
+msgstr "Nov"
+
+msgid "Dec_December_abbreviation"
+msgstr "Dec"
+
+#, fuzzy
+msgid "am"
+msgstr "Namn"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "noll"
+
+msgid "one"
+msgstr "ett"
+
+msgid "two"
+msgstr "tv&aring;"
+
+msgid "three"
+msgstr "tre"
+
+msgid "four"
+msgstr "fyra"
+
+msgid "five"
+msgstr "fem"
+
+msgid "six"
+msgstr "sex"
+
+msgid "seven"
+msgstr "sju"
+
+msgid "eight"
+msgstr "&aring;tta"
+
+msgid "nine"
+msgstr "nio"
+
+msgid "ten"
+msgstr "tio"
+
+msgid "eleven"
+msgstr "elva"
+
+msgid "twelve"
+msgstr "tolv"
+
+msgid "thirteen"
+msgstr "tretton"
+
+msgid "fourteen"
+msgstr "fjorton"
+
+msgid "fifteen"
+msgstr "femton"
+
+msgid "sixteen"
+msgstr "sexton"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "sju"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "&aring;tta"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "nio"
+
+#, fuzzy
+msgid "twenty"
+msgstr "Nytt inl&auml;gg"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "noll"
+
+#, fuzzy
+msgid "second"
+msgstr "Sekund"
+
+#, fuzzy
+msgid "third"
+msgstr "tretton"
+
+#, fuzzy
+msgid "forth"
+msgstr "fyra"
+
+#, fuzzy
+msgid "fifth"
+msgstr "femton"
+
+#, fuzzy
+msgid "sixth"
+msgstr "sex"
+
+#, fuzzy
+msgid "seventh"
+msgstr "sju"
+
+#, fuzzy
+msgid "eighth"
+msgstr "&aring;tta"
+
+#, fuzzy
+msgid "ninth"
+msgstr "nio"
+
+#, fuzzy
+msgid "tenth"
+msgstr "tio"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "elva"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "tolv"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "tretton"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "fjorton"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "femton"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "sexton"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "sju"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "&aring;tta"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "nio"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "tio"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "Kant"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "Ladda upp filer"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Visa dom sista "
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "Kommentaren &auml;r raderad."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Webbloggar"
+
+#, fuzzy
+msgid "category"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "entry"
+msgstr "Nytt inl&auml;gg"
+
+#, fuzzy
+msgid "for comments"
+msgstr "Inga kommentarer"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "S&ouml;kresultat"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "resultat p&aring; '%name%':"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "resultat p&aring; '%name%':"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr ""
+"Inga resultat hittades p&aring; '%name%'. F&ouml;rs&ouml;k med n&aring;"
+"gonting annat."
+
+msgid "Search for words used in entries on this website"
+msgstr ""
+"S&ouml;k f&ouml;r ord anv&auml;nda i inl&auml;gg p&aring; den h&auml;r "
+"sajtenSearch for words used in entries on this website"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "Skriv in ord att s&ouml;ka efter h&auml;r::"
+
+msgid "Enter searchterms"
+msgstr "S&ouml;ktermer"
+
+msgid "Search!"
+msgstr "s&ouml;k!"
+
+msgid "XML: Atom Feed"
+msgstr "XML: Atom Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "%num% kommentar"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "Emoticons"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Pivot anv&auml;ndarlogin"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "Skapa mall"
+
+#, fuzzy
+msgid "Text file"
+msgstr "Textile"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Piv » Ny"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "Ladda upp en ny fil:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Piv » Ny"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "editera tumnagel"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Ladda upp en ny fil:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "Mallar"
+
+#, fuzzy
+msgid "Include template"
+msgstr "Spara mall!"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "F&ouml;rstasidan"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "Arkivsidans"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "Enstaka inl&auml;gg"
+
+#, fuzzy
+msgid "Page template"
+msgstr "Spara mall!"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "Arkivsidans"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "Konfiguration"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Pivot anv&auml;ndarlogin"
+
+#, fuzzy
+msgid "(more)"
+msgstr "ett"
+
+msgid "Powered by"
+msgstr "Drivs av"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "S&auml;tta in en bild"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "Inga trackbacks"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "Editera Trackback"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Radera kommentar"
+
+#, fuzzy
+msgid "register/login"
+msgstr "Registrera"
+
+msgid "words"
+msgstr "ord"
+
+msgid "image"
+msgstr "bild"
+
+msgid "images"
+msgstr "bilder"
+
+msgid "file"
+msgstr "fil"
+
+msgid "files"
+msgstr "filer"
+
+msgid "Self-registration"
+msgstr ""
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "R&ouml;sta '%val%' p&aring; det h&auml;r inl&auml;gget"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+msgid "Related tags"
+msgstr ""
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Visa dom sista "
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr ""
+"Specificerar formatteringen av Trackbacks p&aring; inl&auml;ggssidorna."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr ""
+"Specificerar formatteringen av Trackbacks p&aring; inl&auml;ggssidorna."
+
+msgid "Log in as a registered visitor"
+msgstr "Logga in som registrerad bes&ouml;kare"
+
+msgid "Forgotten your password?"
+msgstr "Gl&ouml;mt ditt l&ouml;senord?"
+
+msgid "Register a new username."
+msgstr "Registrera ett nytt anv&auml;ndarnamn."
+
+msgid "Logged in as"
+msgstr "Inloggad som"
+
+msgid "Log out."
+msgstr "Logga ut."
+
+#, fuzzy
+msgid "Delete account."
+msgstr "Radera kommentar"
+
+msgid "Edit your preferences"
+msgstr "Editera dina preferenser"
+
+msgid "User disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "Felaktigt l&ouml;senord"
+
+msgid "Logged in"
+msgstr "Inloggad"
+
+msgid "Register"
+msgstr "Registrera"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"Var god och fyll i f&ouml;ljande information. <strong>Var noga med att ge en "
+"fungerande e-post adress</strong>, f&ouml;r det kommer att skickas ett "
+"verifikations mail till denna adress."
+
+msgid "Options"
+msgstr "Valm&ouml;jligheter"
+
+msgid "Back to login"
+msgstr "Tillbaks till login"
+
+msgid "Show my email address with comments"
+msgstr "Visa min e-post med mina kommentarer"
+
+msgid "Notify me via email of new entries"
+msgstr "Meddela mig via e-post om nya inl&auml;gg"
+
+msgid "Default notification of replies"
+msgstr "Standard tillk&auml;nnagivande p&aring; svar"
+
+msgid "Here you can change your information."
+msgstr "H&auml;r kan du editera din information.."
+
+msgid "Change preferences"
+msgstr "&Auml;ndra preferenser"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr "Oops"
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Skicka l&ouml;senord"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+"Om du har gl&ouml;mt ditt l&ouml;senord fyll i ditt anv&auml;ndarnamn och e-"
+"post adress, s&aring; kommer Pivot att skicka ditt l&ouml;senord till din e-"
+"post."
+
+#, fuzzy
+msgid "User already exists... Please pick another name."
+msgstr "Anv&auml;ndaren existerar redan. Vg. v&auml;lj ett annat namn."
+
+#, fuzzy
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "Anv&auml;ndaren existerar redan. Vg. v&auml;lj ett annat namn."
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"Du m&aring;ste ange din e-post adress, eftersom den anv&auml;nds f&ouml;r "
+"att verifiera dig. Du kan v&auml;lja att inte visa den f&ouml;r andra "
+"anv&auml;ndare."
+
+msgid "The changes have been stored"
+msgstr "&Auml;ndringarna har sparats"
+
+msgid "Your account is verified. Please log in.."
+msgstr "Ditt konto &auml;r verifierat. Vg. logga in.."
+
+#, fuzzy
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr "Koden verkar vara felaktig. Urs&auml;kta, men jag kan inte verifiera."
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr "Ditt l&ouml;senord har skickats till den angivna e-post adressen.."
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr "Utloggad"
+
+msgid "Back to"
+msgstr "Tillbaks till"
+
+#, fuzzy
+msgid "User stored!"
+msgstr "Anv&auml;nd text"
+
+msgid "Could not store new user!!"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "Konfiguration"
+
+msgid "Verify your account"
+msgstr ""
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Felaktigt Anv&auml;ndarnamn/L&ouml;senord"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "Inloggad"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "F&ouml;reg&aring;ende arkiv"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Inloggad"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "Utloggad"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "Editera webbloggsinst&auml;llningar f&ouml;r "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "Ta bort denna Webblogg."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Ta bort kategorin"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+#, fuzzy
+msgid "About PivotX"
+msgstr "Om"
+
+#, fuzzy
+msgid "Setup user"
+msgstr "Radera Anv&auml;ndarer"
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "Registrera ett nytt anv&auml;ndarnamn."
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "Du har inte r&auml;ttigheter att g&ouml;ra detta med %title%!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "Webbloggen har blivit uppdaterad."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "Standard suffix"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "Modifiera inl&auml;gg"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "Du har inte r&auml;ttigheter att g&ouml;ra detta med %title%!"
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "Ditt inl&auml;gg '%s' har sparats."
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "Ditt inl&auml;gg '%s' har sparats."
+
+#, fuzzy, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "En 'trackback' har skickats till '%s'."
+
+#, fuzzy
+msgid "Log out"
+msgstr "Logga ut."
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr ""
+"Du har inte r&auml;ttigheter att skicka inl&auml;gg till den h&auml;r "
+"kategorin: '%s'."
+
+msgid "My Settings"
+msgstr "Inst&auml;llningar"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Addera Bookmarklet."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "Webbloggen har blivit uppdaterad."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "Om"
+
+msgid "Edit my personal Settings"
+msgstr "Editera mina personliga inst&auml;llningar"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr ""
+"Du har inte r&auml;ttigheter att skicka inl&auml;gg till den h&auml;r "
+"kategorin: '%s'."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr ""
+"Du har inte r&auml;ttigheter att skicka inl&auml;gg till den h&auml;r "
+"kategorin: '%s'."
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr ""
+"Du har inte r&auml;ttigheter att skicka inl&auml;gg till den h&auml;r "
+"kategorin: '%s'."
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "Webbloggen har raderats."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr ""
+"Du har inte r&auml;ttigheter att skicka inl&auml;gg till den h&auml;r "
+"kategorin: '%s'."
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "Webbloggen har blivit uppdaterad."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Trackbacken har sparats"
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr "Editera eller ta bort Trackbacks"
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "Kommentaren &auml;r raderad."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "Editera eller ta bort kommentarer"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "Kommentaren &auml;r sparad."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+msgid "Edit or Delete Trackbacks"
+msgstr "Editera eller ta bort Trackbacks"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Trackbacken har sparats"
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Ladda upp filer"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "Trackbacken har tagits bort"
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "Kommentaren &auml;r raderad."
+
+msgid "The weblog has been deleted."
+msgstr "Webbloggen har raderats."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "Webbloggen har raderats."
+
+msgid "Create New Weblog"
+msgstr "Skapa ny Webblogg"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "Kommentar inst&auml;llningar"
+
+#, fuzzy
+msgid "Database"
+msgstr "Datum"
+
+#, fuzzy
+msgid "Debug"
+msgstr "Fels&ouml;kningsl&auml;ge"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "Filuppladdnings s&ouml;kv&auml;g"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "Datum/Tid"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Moblogger"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr "Bygger Index. Det kan ta en stund, var sn&auml;ll och avbryt inte."
+
+msgid "Rebuild the Search Index"
+msgstr "Bygg om S&ouml;kindex"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr ""
+"Bygger om s&ouml;kindex, f&ouml;r att till&aring;ta s&ouml;kning av inl&auml;"
+"gg"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Bygger S&ouml;kindex. Det kan ta en stunf, var sn&auml;ll och abryt inte."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Bygg om Index"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "Bygger Index. Det kan ta en stund, var sn&auml;ll och avbryt inte."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "Datum"
+
+#, fuzzy
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr "L&aring;ter dej ladda ner en zipfil med Pivots konfigurationsfiler"
+
+#, fuzzy
+msgid "Explore files"
+msgstr "Ladda upp filer"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "Konfiguration"
+
+msgid "Blocked Phrases"
+msgstr "Ignorerade Dom&auml;ner"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "Visa och editera Ignorerade Dom&auml;ner."
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "Blockerade IP-adresser"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Visa och editera blockerade IP-adresser."
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Genomf&ouml;r rutinunderh&aring;ll av Pivots Filer"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "Kommentaren &auml;r raderad."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "Anv&auml;ndarnamnet &auml;r redan upptaget"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "Anv&auml;ndarnamnet &auml;r redan upptaget"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "Webbloggen har blivit uppdaterad."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "Anv&auml;ndarnamnet &auml;r redan upptaget"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "Den nya webbloggen har skapats."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "Trackbacken har tagits bort"
+
+msgid "A category by this name already exists"
+msgstr "En kategori med det h&auml;r namnet finns redan"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "Webbloggen har blivit uppdaterad."
+
+msgid "Edit Weblog"
+msgstr "Editera Webbloggen"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "tretton"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "S&auml;tta in en bild"
+
+#~ msgid "# Comm"
+#~ msgstr "# kommentarer"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "Kommentera"
+
+#~ msgid "search"
+#~ msgstr "s&ouml;k"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "&Aring;terskapa"
+
+#~ msgid ""
+#~ "Specify the email address(es) to whom mail will be sent. seperate "
+#~ "multiple addresses with a comma."
+#~ msgstr ""
+#~ "Specificera e-post adress(er) till vilka som e-post ska skickas till. "
+#~ "Separera adresser med ett komma."
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "Anv&auml;ndare"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "Datum"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "Kategori"
+
+#, fuzzy
+#~ msgid "Format of \"reply ..\""
+#~ msgstr "Format f&ouml;r 'besvara ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr ""
+#~ "Detta best&auml;mmer formatteringen av l&auml;nken som en bes&ouml;kare "
+#~ "kan anv&auml;nda f&ouml;r att besvara en kommentar."
+
+#, fuzzy
+#~ msgid "Format of \"reply by ..\""
+#~ msgstr "Format f&ouml;r 'besvaras ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+#~ msgstr ""
+#~ "Detta best&auml;mmer formatteringen av texten som visas n&auml;r "
+#~ "kommentaren &auml;r besvarad."
+
+#, fuzzy
+#~ msgid "Format of \"reply on ..\""
+#~ msgstr "Format f&ouml;r 'besvarad ..'"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr ""
+#~ "Detta best&auml;mmer formatteringen av texten som visas n&auml;r "
+#~ "kommentaren &auml;r ett svar."
+
+#~ msgid "Trackback Settings"
+#~ msgstr "Trackback-inst&aouml;llningar"
+
+#~ msgid "Format of Trackbacks"
+#~ msgstr "Trackbacks-format"
+
+#~ msgid "This specifies the formatting of trackbacks on the entry pages."
+#~ msgstr ""
+#~ "Specificerar formatteringen av Trackbacks p&aring; inl&auml;ggssidorna."
+
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Format p&aring; trackbackl&auml;nken"
+
+#, fuzzy
+#~ msgid ""
+#~ "This specifies the formatting of the trackback link on the entry pages.)"
+#~ msgstr ""
+#~ "Specificerar formatteringen av Trackbacks p&aring; inl&auml;ggssidorna."
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "Anv&auml;ndarnamnet och e-post adressen verkar inte passa ihop."
+
+#~ msgid "File Mappings"
+#~ msgstr "Filkarta"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr "Visa vilka filer i din site som skapas av webloggarna i Pivot"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "Ladda upp en ny fil:"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "Nedan kan du se en &ouml;verblick av varje webblogg i den h&auml;r "
+#~ "installationen av Pivot, tillsammans med vilka filer som skapas av Pivot "
+#~ "och vilka mallar som den anv&auml;nder f&ouml;r att skapa dessa filer. "
+#~ "Detta kan vara v&auml;ldigt anv&auml;ndbart om du har problem n&auml;r "
+#~ "Pivot vill skapa filer."
+
+#, fuzzy
+#~ msgid "Delete registered visitor"
+#~ msgstr "Logga in som registrerad bes&ouml;kare"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can delete this registered visitor if you would like. All of their "
+#~ "comments will remain"
+#~ msgstr ""
+#~ "Du kan radera denna anv&auml;ndare om du vill. Alla deras inl&auml;gg "
+#~ "kommer att vara kvar, me de kommer inte l&auml;ngre kunna logga in"
+
+#~ msgid "Change"
+#~ msgstr "&Auml;ndra"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "Bekr&auml;fta radering"
+
+#, fuzzy
+#~ msgid ""
+#~ "You're about to remove the account for %s. Are you sure you want to do "
+#~ "this?"
+#~ msgstr ""
+#~ "Du  &auml;r p&aring; v&auml;g att ta bort anv&auml;ndare %s. &Auml;r det "
+#~ "s&auml;kert att du vill det?"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IP-adresserna har blivit sparade."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Spara dom h&auml;r IP-adresserna"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "De Ignorerade Dom&auml;nerna har sparats."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "De Ignorerade Dom&auml;nerna har sparats."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "De Ignorerade Dom&auml;nerna har sparats."
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Spara dessa Ignorerade Dom&auml;ner"
+
+#, fuzzy
+#~ msgid "Globally blocked phrases."
+#~ msgstr "Ignorerade Dom&auml;ner"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "Namnet m&aring;ste vara minst fyra bokst&auml;ver l&aring;ngt"
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "Blockera IP-adressen %s"
+
+#~ msgid "[Trackback] Re:"
+#~ msgstr "[Trackback] Ny Trackback"
+
+#~ msgid "No TrackBack ID (tb_id)"
+#~ msgstr "Ingen Trackback ID (tb_id)"
+
+#~ msgid "No URL (url)"
+#~ msgstr "Ingen URL (url)"
+
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr ""
+#~ "Din Trackback har inte sparats eftersom den verkar vara en dublett av ett "
+#~ "tidigare inl&auml;gg"
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "Minut"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "OBS: Det &auml;r m&ouml;jligt f&ouml;r administrat&ouml;rer av denna "
+#~ "site<br /> att se ditt l&ouml;senord. Anv&auml;nd <em>inte</em> l&ouml;"
+#~ "senord som du anv&auml;nder f&ouml;r andra site / konton!"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your forgotten password for PivotX \"%name%\" is: \n"
+#~ "\n"
+#~ "%pass%\n"
+#~ "\n"
+#~ "Don't forget it again, please!\n"
+#~ "\n"
+#~ "To log in to your account, click the following link:\n"
+#~ " %link%"
+#~ msgstr ""
+#~ "Ditt bortgl&ouml;mda l&ouml;senord f&ouml;r Pivot '%name%' &auml;r: %pass%"
+#~ "Gl&ouml; inte bort det igen, &auml;r du sn&auml;ll! F&ouml;r att logga "
+#~ "in, klicka p&aring; f&ouml;ljande l&auml;nk: %link%"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "L&ouml;senord"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "S&auml;tt in en Pop-Up bild"
+
+#~ msgid "No such user.."
+#~ msgstr "Igen s&aring;dan anv&auml;ndare.."
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "Inga kommentarer"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "Kommentera"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "Kommentarer"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "F&ouml;rhandsgranska kommentar"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "&Aring;terskapa"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "Emoticons"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "Inga kommentarer"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Nya Inl&auml;gg"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Drivs av"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "Kommentarer"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "Kommentarer"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "Kommentarer"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "F&ouml;reg&aring;ende arkiv"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Pinga uppdateringstj&auml;nster"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "Det h&auml;r best&auml;mmer om uppdateringstj&auml;nser s&aring;som "
+#~ "weblogs.com automatiskt ska pingas av Pivot n&auml;r du skapar ett nytt "
+#~ "inl&auml;gg. Tj&auml;nster som blogrolling.com beror p&aring; dessa pingar"
+
+#~ msgid "URLs to ping"
+#~ msgstr "Webbadresser att pinga"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "Du kan skriva in flera webbadresser att skicka pingar till. Inkludera "
+#~ "inte \"http://\" delen, d&aring; kommer det inte att fungera. Placera "
+#~ "bara varje ny server p&aring; en ny rad eller separera med ett \"pipe"
+#~ "\" (|) tecken. N&aring;gra vanliga servrar att pinga &auml;r: <br><b>rpc."
+#~ "weblogs.com/RPC2</b> (weblogs.com pingserver, den mest anv&auml;nda)"
+#~ "<br><b>pivotlog.net/pinger</b> (Pivots pingserver, inte ig&aring;ng &auml;"
+#~ "n)<br><b>rcs.datashed.net/RPC2</b> (euro.weblogs.com pingserver)"
+#~ "<br><b>ping.blo.gs</b> (blo.gs pingserver)<br>"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Ping Inst&auml;llningar"
+
+#, fuzzy
+#~ msgid "stuff"
+#~ msgstr "Grejs"
+
+#~ msgid "upload"
+#~ msgstr "ladda upp"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "Din fil har inte blivit uppladdad, f&ouml;ljande har blivit fel:"
+
+#~ msgid "or select"
+#~ msgstr "eller v&auml;lj"
+
+#~ msgid "Select File"
+#~ msgstr "V&auml;lj fil"
+
+#, fuzzy
+#~ msgid "Spamscore Threshold"
+#~ msgstr "Tidsgr&auml;ns f&ouml;r Uppdatering"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "bild namn"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Anv&auml;nd WYSIWYG som standard"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "Best&auml;mmer om WYSIWYG-editorn &auml;r p&aring; som standard. Anv&auml;"
+#~ "ndare kan &auml;ndra detta i deras 'Min Information' inst&auml;llningar."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "Inst&auml;llningar f&ouml;r senaste kommentarer"
+
+#~ msgid "Show how many"
+#~ msgstr "Visa hur m&aring;nga"
+
+#~ msgid "Cut at length"
+#~ msgstr "Klipp av vid denna l&auml;ngd"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Dom h&auml;r inst&auml;llningarna best&auml;mmer utseendet p&aring; "
+#~ "'senaste kommentarer' p&aring; webbloggens f&ouml;rstasida."
+
+#, fuzzy
+#~ msgid "Use \"Nofollow\""
+#~ msgstr "Anv&auml;nd 'Nofollow'"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+#~ msgstr ""
+#~ "F&ouml;r att bli av med \"h&auml;nvisningsspam\" kan du v&auml;lja att "
+#~ "l&auml;gga till rel=\"nofollow\" till alla l&auml;nkar i kommentarer och "
+#~ "h&auml;nvisningar, detta kommer d&aring; inte hj&auml;lpa spammarna att "
+#~ "f&aring; en b&auml;ttre \"pagerank\" i Google."
+
+#~ msgid "Next Archive"
+#~ msgstr "N&auml;sta arkiv"
+
+#~ msgid "Previous Archive"
+#~ msgstr "F&ouml;reg&aring;ende arkiv"
+
+#~ msgid "Archive type"
+#~ msgstr "Arkiv typ"
+
+#~ msgid "No Archives"
+#~ msgstr "Inga"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "Veckovis"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "M&aring;nadsvis"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "&Aring;rliga"
+
+#~ msgid "Archive Link"
+#~ msgstr "Arkivl&auml;nk"
+
+#~ msgid "Archive List format"
+#~ msgstr "Arkivl&auml;nksfil"
+
+#~ msgid "Archive Order"
+#~ msgstr "Arkivordning"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "&Ouml;kande (&auml;ldsta f&ouml;rst)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "Minskande (nyaste f&ouml;rst)"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "F&ouml;r loggar &ouml;ver lite olika aktiviteter"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "etikett f&ouml;r 'inga kommentarer'"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "etikett f&ouml;r 'en kommentar'"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "etikett f&ouml;r 'X kommentarer'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Texten som anv&auml;nds f&ouml;r att indikera hur m&aring;nga kommentarer "
+#~ "det finns. Om du l&auml;mnar det blankt kommer Pivot anv&auml;nda det "
+#~ "f&ouml;rvalda v&auml;rdet definerat i spr&aring;k inst&auml;llningarna."
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "Etikett f&ouml;r 'inga trackbacks'"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "Etikett f&ouml;r 'en trackback'"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "Etikett f&ouml;r 'X trackbacks'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many trackbacks there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Texten som anv&auml;nds f&ouml;r att indikera hur m&aring;nga trackbacks "
+#~ "det finns. Om du l&auml;mnar detta blankt kommer Pivot att anv&auml;nda "
+#~ "standardtexten definerad i spr&ouml;kfilen"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "%num% kommentar"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "%num% kommentarer"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "Inga trackbacks"
+
+#, fuzzy
+#~ msgid "%num% trackbacks."
+#~ msgstr "%num% trackback"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr ""
+#~ "Du har inte r&auml;ttigheter f&ouml;r &aring;tkomst till denna del av "
+#~ "Pivot"
+
+#~ msgid "Further Options"
+#~ msgstr "Fler Val"
+
+#~ msgid "Basic View"
+#~ msgstr "Grundl&auml;ggande Vy"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "Se endast dom vanligaste f&auml;lten"
+
+#~ msgid "Extended View"
+#~ msgstr "Ut&ouml;kad Vy"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "Se alla editerbara f&auml;lt"
+
+#~ msgid "Done!"
+#~ msgstr "Klar!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Genv&auml;gar"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "Du &auml;r inte r&auml;ttigheter att ta bort inl&auml;gg %title%!"
+
+#~ msgid "Week"
+#~ msgstr "Vecka"
+
+#~ msgid "Remember"
+#~ msgstr "Minns"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "Om du &auml;r s&auml;ker att du anv&auml;nder r&auml;tt anv&auml;ndarnamn "
+#~ "och l&ouml;senord, men du <br />har problem att logga in, kan du f&ouml;"
+#~ "rs&ouml;ka med ta bort alla cookies f&ouml;r den h&auml;r dom&auml;nen:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "Ta bort cookies"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "Du har misslyckats logga in efter 10 f&ouml;rs&ouml;k. Som resultat har "
+#~ "detta IP nummer blivit svartlistat fr&aring;n inloggningar i 12 timmar."
+
+#~ msgid "Overview"
+#~ msgstr "&Ouml;verblick"
+
+#~ msgid "Modify Entries"
+#~ msgstr "Editera inl&auml;gg"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Bookmarklets"
+
+#~ msgid "Statistics"
+#~ msgstr "Statistik"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "Helhets&ouml;verblick av Pivot"
+
+#~ msgid "View my personal Info"
+#~ msgstr "Visa min personliga information"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Skapa Bookmarklets"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "Filen har blivit uppladdad"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "Visa loggar och statistik."
+
+#~ msgid "Recent Comments"
+#~ msgstr "Nya Kommentarer"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "Bygg om alla filer"
+
+#~ msgid "Verify the Database"
+#~ msgstr "Verifiera Databasen"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "Bygg om f&ouml;rstasidan"
+
+#~ msgid "User Information Fields"
+#~ msgstr "Anv&auml;ndar Informationsf&auml;lt"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "Skapa, editera eller ta bort Anv&auml;ndar Informationsf&auml;lt"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Bygg om Filer och Arkiv som Pivot genererar"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "Verifera integriteten av din Databas"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr ""
+#~ "Bygg om f&ouml;rsta sidan, senaste arkiv och RSS filer f&ouml;r alla "
+#~ "webbloggar."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "S&auml;kerhetskopiera dina inl&auml;gg"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Skicka Pingar till Uppdaterings Tj&auml;nster."
+
+#~ msgid "Open Debug window"
+#~ msgstr "&Ouml;ppna \"Debug\" f&ouml;nster"
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "Skapa en Pivot-mall fr&aring;n b&ouml;rjan"
+
+#~ msgid "Comment*"
+#~ msgstr "Kommentar*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr ""
+#~ "(*OBS: Kommentarer kan bara sparas med f&ouml;rsta sparningen av mallen)"
+
+#~ msgid "Editing"
+#~ msgstr "Editerar"
+
+#~ msgid "Save changes!"
+#~ msgstr "Spara &auml;ndringar!"
+
+#~ msgid "Auxillary template"
+#~ msgstr "Extra/Reserv mall"
+
+#~ msgid "Subtemplate"
+#~ msgstr "Undermall"
+
+#~ msgid "Normal template"
+#~ msgstr "Standardmall"
+
+#~ msgid "CSS file"
+#~ msgstr "Textfil"
+
+#~ msgid "PHP file"
+#~ msgstr "PHP-fil"
+
+#~ msgid "Generate Archive"
+#~ msgstr "Generera Arkiv"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "&Aring;terbilda alla arkiv"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "Verifiera XML filer"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr ""
+#~ "Verifiera (och reparera om n&ouml;dv&auml;ndigt) integriteten av XML "
+#~ "filerna"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Skapa en s&auml;kerhetskopia av alla Pivots viktiga filer"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 h&auml;nvisningarna"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 h&auml;nvisningarna"
+
+#~ msgid "all referrers"
+#~ msgstr "alla h&auml;nvisningar"
+
+#~ msgid "only non-blocked lines"
+#~ msgstr "endast oblockerade rader"
+
+#~ msgid "both blocked and non-blocked lines"
+#~ msgstr "b&aring;de blockerade och oblockerade rader"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Uppdatera H&auml;nvisningar till Titel bindningar"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "V&auml;rd-adress (IP-adress)"
+
+#~ msgid "Getting new titles"
+#~ msgstr "H&auml;mtar nya titlar"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "Det h&auml;r kan ta en stund, avbryt inte."
+
+#~ msgid "First pass"
+#~ msgstr "F&ouml;rsta granskningen"
+
+#~ msgid "Second pass"
+#~ msgstr "Andra granskningen"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr ""
+#~ "Dina H&auml;nvisningar till Titel bindningar &auml;r nu uppdaterade."
+
+#~ msgid "Finished"
+#~ msgstr "F&aouml;rdig"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "Editera Anv&auml;ndar f&auml;lt"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr ""
+#~ "Editera f&auml;lten som Anv&auml;ndarna kan anv&auml;nda f&ouml;r att "
+#~ "beskriva sej sj&auml;lva"
+
+#~ msgid "Edit User Info"
+#~ msgstr "Editera Anv&auml;ndarens information"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr ""
+#~ "Skapa ett nytt Anv&auml;ndarkonto f&ouml;r Pivot och till&aring;t det att "
+#~ "g&ouml;ra inl&auml;gg till en Webblogg."
+
+#~ msgid "Create"
+#~ msgstr "Skapa"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "Konformera skapandet av en Administrat&ouml;r"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "En Administrat&ouml;r har full &aring;tkomst till Pivot, kan editera alla "
+#~ "Inl&auml;gg, alla kommentarer och alla inst&auml;llningar. &Auml;r du "
+#~ "s&auml;ker att du vill g&auml;ra %s en Administrat&ouml;r?"
+
+#~ msgid "Use encoding"
+#~ msgstr "Anv&auml;nd encoding"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "Detta definerar vilken encofing som anv&auml;s (t.ex. utf-8 eller iso-"
+#~ "8859-1). Du b&ouml;r l&auml;mna detta blank, om du inte vet vad du g&ouml;"
+#~ "r. Om du l&auml;mnar det blankt kommer Pivot att v&auml;la encofing "
+#~ "fr&aring;n spr&aring;kfilerna."
+
+#~ msgid "File Info"
+#~ msgstr "Fil information"
+
+#~ msgid "Local Path"
+#~ msgstr "Lokal s&ouml;kv&auml;g"
+
+#~ msgid "Debug Options"
+#~ msgstr "Fels&ouml;kningsval"
+
+#~ msgid "File Upload settings"
+#~ msgstr "Filuppladdning"
+
+#~ msgid "Clean Filename"
+#~ msgstr "Rensa filnamn"
+
+#~ msgid "Use Basic View"
+#~ msgstr "Anv&auml;nd Standardvy"
+
+#~ msgid ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+#~ msgstr ""
+#~ "Best&auml;mmer om 'Nytt Inl&auml;gg' &ouml;ppnas i Standardvy eller "
+#~ "Ut&ouml;kadvy."
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Standardtext behandling"
+
+#~ msgid "Text Processing"
+#~ msgstr "Text Behandling"
+
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+#~ msgid "Trackback Setup"
+#~ msgstr "Trackback Inst&auml;llningar"
+
+#~ msgid ""
+#~ "If set, an email will be sent to this address when a Tracback is added."
+#~ msgstr ""
+#~ "Ett e-post kommer att skickas till denna adress om n&aring;gon skickar en "
+#~ "Trackback."
+
+#~ msgid "Open links in new window"
+#~ msgstr "&Ouml;ppna l&auml;nkar i ett nytt f&ouml;nster"
+
+#~ msgid "Use emoticons"
+#~ msgstr "Anv&auml;nd \"emoticons\""
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "Kryptera e-post adreser?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr ""
+#~ "Best&auml;mmer om alla l&auml;nkar i inl&auml;gg &ouml;ppnas i ett nytt "
+#~ "webbl&auml;sarf&ouml;nster."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "Autouppdatera S&ouml;kindex"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "Detta best&auml;mmer och S&ouml;kindex filerna ska bli uppdaterade varje "
+#~ "g&aring;ng du postar ett nytt inl&auml;gg, eller &auml;ndrar ett "
+#~ "existerande."
+
+#~ msgid ""
+#~ "The number of seconds rebuilding takes, before Pivot refreshes the page. "
+#~ "The default is 28, but if you are having problems with rebuilding, try "
+#~ "lowering this number to 10."
+#~ msgstr ""
+#~ "Maxtid f&ouml;r uppdatering, innan Pivot laddar om sidan. Standard &auml;"
+#~ "r 28, men om du har problem med att uppdatera, testa att &auml;ndra "
+#~ "nummret till 10."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Standard Introduktion/Body"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "Detta best&auml;mmer starndardv&auml;rden f&ouml;r ingressen samt "
+#~ "artikelkroppen n&auml;r en f&ouml;rfattar skriver ett nytt inl&auml;gg. "
+#~ "Normal &auml;r detta en tom paragraf, vilket semantiskt sett &auml;r det "
+#~ "mest korrekta."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Distansbesk&auml;rningsskript"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "Om din server inte har de n&ouml;dv&auml;ndiga biblioteken installerade "
+#~ "f&ouml;r att besk&auml;ra bilder, kan du anv&auml;nda ett "
+#~ "distansbesk&auml;rningsskript."
+
+#~ msgid "Extensions directory"
+#~ msgstr "Katalog f&ouml;r till&auml;gg"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "'Till&auml;ggskatalogen' &auml;r var du sparar dina modifieringar/"
+#~ "till&auml;gg till Pivot. Detta f&ouml;r det mycket l&auml;ttare att "
+#~ "uppdatera. Se dokumentationen f&ouml;r mer information."
+
+#~ msgid "Extensions directory path"
+#~ msgstr "S&ouml;kv&auml;g till Till&auml;ggskatalogen"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "Editera Webbloggarna"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "Skapa en ny Webblogg."
+
+#~ msgid "Delete Weblog"
+#~ msgstr "Ta bort Webblogg"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "F&ouml;r varje underwebblogg som hittads i mallen kan du konfigurera "
+#~ "vilken mall de ska anv&auml;nda, &auml;ven vilka kategorier som "
+#~ "publiceras i dom."
+
+#~ msgid "Finish"
+#~ msgstr "Skapa"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "Skapa / Editera Webblogg, steg 1 av 3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "Skapa / Editera Webblogg, steg 2 av 3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "Skapa / Editera Webblogg, steg 3 av 3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "F&ouml;rsta sida (Index)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "Filnamnet p&aring; index-filen. Normalt &auml;r detta n&aring;got av "
+#~ "dessa 'index.html' eller 'index.php'."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "Om din webblogg anv&auml;nder SSI (vilket inte rekommenderas), kan du "
+#~ "anv&auml;nda detta prefix till Pivots filnamn med filnamnen anv&auml;nda "
+#~ "f&ouml;r SSI. ex. 'index.shtml?p='. Du b&ouml;r l&auml;mna detta f&auml;"
+#~ "lt tomt, om du inte vet vad du g&ouml;r."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "F&ouml;rstasidans s&ouml;kv&auml;g"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr ""
+#~ "Den relativa eller absoluta s&ouml;kv&auml;gen till den katalog d&auml;r "
+#~ "Pivot kommer att skapa f&ouml;rsta sidan f&ouml;r denna webblogg."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "Den relativa eller absoluta s&ouml;kv&auml;gen till den katalog d&auml;r "
+#~ "Pivot kommer att skapa sidor f&ouml;r inl&auml;gg (om du inte v&auml;ljer "
+#~ "'live inl&auml;gg')"
+
+#~ msgid "Live entries"
+#~ msgstr "Live inl&auml;gg"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "Om du anv&auml;nder 'live inl&auml;gg', kommer inte Pivot beh&ouml;va "
+#~ "generera filer f&ouml;r varje inl&auml;gg. Det h&auml;r &auml;r den "
+#~ "f&ouml;redragna inst&auml;llningen."
+
+#~ msgid "Index File"
+#~ msgstr "Index Fil"
+
+#~ msgid "Archive Path"
+#~ msgstr "Arkiv S&ouml;kv&auml;g"
+
+#~ msgid "Archive Amount"
+#~ msgstr "Arkiv Storlek"
+
+#~ msgid "Archive Format"
+#~ msgstr "Arkiv Format"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Inl&auml;gg"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr ""
+#~ "Den h&auml;r mallen av&ouml;gr hur utseendet &auml;r p&aring; dina "
+#~ "inl&auml;gg som dom visas p&aring; f&ouml;rsta sidan eller i arkivet."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "Till&aring;t kommentarer?"
+
+#~ msgid ""
+#~ "Determines whether users will be able to leave comments on the entries in "
+#~ "this subweblog."
+#~ msgstr ""
+#~ "Best&auml;mmer om anv&auml;ndare kommer att kunna l&auml;mna kommentarer "
+#~ "p&aring; inl&auml;ggen i denna underwebblogg."
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSS filnamn"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atom Filnamn"
+
+#~ msgid "Feed Path"
+#~ msgstr "Feed s&ouml;kv&auml;g"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr ""
+#~ "Den relativa eller absoluta s&auml;kv&auml;gen till den katalog d&auml;r "
+#~ "Pivot kommer att skapa RSS-filen."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Inst&auml;llningar f&ouml;r senate h&auml;nvisningar"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Dom h&auml;r inst&auml;llningarna best&auml;mmer utseendet p&aring; "
+#~ "'senaste h&auml;nvisningar' p&aring; webbloggens f&ouml;rsta sida."
+
+#~ msgid "Use graphics"
+#~ msgstr "Anv&auml;nd grafik"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr ""
+#~ "Detta best&auml;mmer om h&auml;nvisningar kommer att ha sm&aring; ikoner "
+#~ "f&ouml;r de vanligaste s&ouml;kmotorerna som bes&ouml;karna anl&auml;ng "
+#~ "genom."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "Omdirigera H&auml;nvisningar"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "F&ouml;r att bek&auml;mpa 'referralspam' kan du v&auml;lja att dirigera "
+#~ "om utg&aring;ende l&auml;nkar i kommentarerna, eftersom detta inte kommer "
+#~ "att hj&auml;lpa spammaren f&aring; en b&auml;ttre 'pagerank' i Google."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Anv&auml;nd \"Emoticons\""
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ "Best&auml;mmer om \"emoticons\" som :-) ska byta ut till sina grafiska "
+#~ "motsvarigheter."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "Kryptera e-post adresser"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "Best&auml;mmer om e-post adresserna ska krypteras med JavaScripts, som "
+#~ "skydd mot spammare."
+
+#~ msgid "Target Blank"
+#~ msgstr "Blank sida"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "Kringg&aring; XHTML"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "Om satt till 'Ja' kommer alla l&auml;nkar att &ouml;ppnas i nya "
+#~ "webbl&auml;sarf&ouml;nster."
+
+#~ msgid "Date display settings"
+#~ msgstr "Inst&auml;llningar f&ouml;r datumvisning"
+
+#~ msgid ""
+#~ "After a trackback has been placed, mail can be sent to maintainers of "
+#~ "this weblog."
+#~ msgstr ""
+#~ "Efter en Trackback har skickats, kan ett mail skickas till &aouml;garen "
+#~ "av webloggen."
+
+#~ msgid "Trackbacks Popup?"
+#~ msgstr "Trackbacks Popup?"
+
+#~ msgid ""
+#~ "determines whether the trackbacks page (or 'single entry') will be shown "
+#~ "in a popup window, or in the original browser window."
+#~ msgstr ""
+#~ "best&auml;mmer om trackbacks-sidan (eller 'enstaka inl&auml;gg' ska visas "
+#~ "i ett popup-f&ouml;nster, eller i orginalf&ouml;nstret"
+
+#~ msgid "Specify the width and height (in pixels) of the trackbacks pop-up."
+#~ msgstr ""
+#~ "Specificera bredd och h&ouml;jd (i pixlar) p&aring; trackbacks popup-"
+#~ "f&ouml;nstret."
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Blogroll inst&auml;llningar"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID nummer"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "Du kan om du vill inkludera en <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll i din webblogg. "
+#~ "Blogrolling &auml;r en utm&auml;rkt service f&ouml;r att underh&aring;lla "
+#~ "en lista av l&auml;nkar, som visar vilka hur nyligt dom blivit "
+#~ "uppdaterade. Om du inte vill ha detta hoppa bara &ouml;ver dessa f&auml;"
+#~ "lt. Annars: N&auml;r du &auml;r inloggad p&aring; blogrolling.com, "
+#~ "g&aring; till 'get code', d&auml;r kommer du att hitta l&auml;nkar dom "
+#~ "inneh&aring;ller ditt blogroll ID nummer. Det borde se ut ungef&auml;r "
+#~ "s&aring; h&auml;r: 2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "Bakgrundsf&auml;rg"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Radf&auml;rg 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Radf&auml;rg 2"
+
+#~ msgid "Color 1"
+#~ msgstr "F&auml;rg 1"
+
+#~ msgid "Color 2"
+#~ msgstr "F&auml;rg 2"
+
+#~ msgid "Color 3"
+#~ msgstr "F&auml;rg 3"
+
+#~ msgid "Color 4"
+#~ msgstr "F&auml;rg 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "Dessa f&auml;rget best&auml;mmer hur din blogroll kommet att se ut. "
+#~ "F&auml;rg 1 till 4 ger en visuell indikation p&aring; hur nyligt l&auml;"
+#~ "nken blev uppdaterad."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "Fullst&auml;ndig f&ouml;rhandsgranskning"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "F&ouml;rhandsgranska tumnagel"
+
+#~ msgid "Files"
+#~ msgstr "Filer"
+
+#~ msgid "Width x Height"
+#~ msgstr "Bredd x H&ouml;jd"
+
+#~ msgid "Delete Image"
+#~ msgstr "Radera bild"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "&Auml;r du s&auml;ker att du vill radera den h&auml;r filen %s?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "Radera den h&auml;r bilden?"
+
+#~ msgid "create"
+#~ msgstr "skapa"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "S&auml;tt in en l&auml;nk genom att skriva en webbadress i f&auml;ltet "
+#~ "nedan. Bes&ouml;kare av till webbplats kommer att se titeln n&auml;r dom "
+#~ "hovrar med musen &ouml;ver l&auml;nken."
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "Editera vem som kan skicka inl&auml;gg till kategorin  '%s'"
+
+#~ msgid "Allowed"
+#~ msgstr "Till&aring;tet"
+
+#~ msgid "Allow"
+#~ msgstr "Till&aring;t"
+
+#~ msgid "Denied"
+#~ msgstr "Nekat"
+
+#~ msgid "Deny"
+#~ msgstr "Nekad"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "I den h&auml;r versionen av Pivot kommer endast kategorinamnet att bli "
+#~ "raderat. I senare versioner kommer du att kunna v&auml;lja vad du vill "
+#~ "g&ouml;ra med inl&auml;ggen som redan finns i kategorin."
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr ""
+#~ "S&auml;tt till 'Nej' om du inte vill att dina bes&ouml;kare ska kunna "
+#~ "s&ouml;ka i den kategorin."
+
+#~ msgid "Index Category"
+#~ msgstr "Indexra Kategorin"
+
+#~ msgid "Public Category"
+#~ msgstr "Publik Categori"
+
+#~ msgid ""
+#~ "If set to 'No', this category will only be viewable for registered "
+#~ "visitors. (applies only to live pages)"
+#~ msgstr ""
+#~ "Om du s&auml;tter detta till 'Nej' kommer denna kategori bara att vara "
+#~ "synlig f&ouml;r registrerde bes&ouml;kare. (g&auml;ller endast 'live "
+#~ "pages')"
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(CTRL-klicka f&ouml;r att v&auml;lja flera kategorier)"
+
+#~ msgid "# Track"
+#~ msgstr "# Track"
+
+#~ msgid "Delete Entry"
+#~ msgstr "Tabort inl&auml;gg"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "Tabort detta inl&auml;gg och dess kommentarer "
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr ""
+#~ "&Auml;r du s&auml;ker att du vill ta bort de h&auml;r inl&auml;ggen?"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Konvertera radbrytning"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr ""
+#~ "(Det h&auml;r att alltid av i WYSIWYG This is always off, when in Wysiwyg "
+#~ "l&auml;ge)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(Var f&ouml;rsiktig med det h&auml;r!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "Editera kommentarer"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr ""
+#~ "Editera kommentarer som  har skickats till det h&auml;r inl&auml;gget"
+
+#~ msgid "Edit Comment"
+#~ msgstr "Editera kommentar"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "Blockera IP-adress mellan %s"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "Till&aring;t IP-adress %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "Till&aring;t IP-adress mellan %s"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "Skicka Trackback Pings till f&ouml;ljande adress(er). F&ouml;r att skicka "
+#~ "till flera adresser, placera en p&aring; varje rad."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "Anv&auml;nd detta f&ouml;r att s&auml;tta nyckelord som kan anv&auml;ndas "
+#~ "f&ouml;r att hitta det h&auml;r inl&auml;gget, eller att s&auml;tta den "
+#~ "'non-crufty' adressen f&ouml;r det h&auml;r inl&auml;gget."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr ""
+#~ "Anv&auml;nd detta f&ouml;r att s&auml;tta en l&auml;nk till k&auml;llan "
+#~ "f&ouml;r det h&auml;r inl&auml;gget."
+
+#~ msgid "Publish and generate"
+#~ msgstr "Publicera och generera"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "Med dom markerade filerna, g&ouml;r:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "Med dom markerade mallarna, g&ouml;r:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "kan inte &ouml;ppna katalog, kontrollera dina r&auml;ttigheter."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr ""
+#~ "kan inte l&auml;sa fr&aring;n katalog, kontrollera dina r&auml;ttigheter."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr ""
+#~ "kan inte skriva fr&aring;n katalog, kontrollera dina r&auml;ttigheter."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "kan inte &ouml;ppna filen, kontrollera dina r&auml;ttiheter."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "kan inte l&auml;sa filen, kontrollera dina r&auml;ttigheter."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "kan inte skriva filen, kontrollera dina r&auml;ttigheter."
+
+#~ msgid "Good"
+#~ msgstr "Bra"
+
+#~ msgid "Bad"
+#~ msgstr "D&aring;ligt"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr ""
+#~ "Du har redan r&ouml;stat p&aring; det h&auml;r inl&auml;gget eller "
+#~ "unders&ouml;kningen"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "Din r&ouml;st f&ouml;r '%val%' har registrerats"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Senaste h&auml;nvisningar"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalender"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "&Ouml;ppna Emoticons Referensen"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "&Ouml;ppna Textile Referensen"
+
+#~ msgid "Register your username / Log in"
+#~ msgstr "Registerar ditt anv&auml;ndarnamn / logga in"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Editera anv&auml;ndarf&auml;lt"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "Det int&auml;rna namnet av det h&auml;r objektet kommer att visas n&auml;"
+#~ "r du s&auml;ger till visa det i en mall."
+
+#~ msgid "Size"
+#~ msgstr "Storlek"
+
+#~ msgid "Rows"
+#~ msgstr "Rader"
+
+#~ msgid "Columns"
+#~ msgstr "Kolumner"
+
+#~ msgid "Maximum Length"
+#~ msgstr "Maximal l&auml;ngd"
+
+#~ msgid "Filter by"
+#~ msgstr "Filtrera med"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "Genom att filtrera det h&auml;r objektet begr&auml;nsar du typen av "
+#~ "indata som det kan anv&auml;nda"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "N&auml;r du raderar detta anv&auml;ndarf&auml;lt (<b>%s</b>) kommer du "
+#~ "ocks&aring; att f&ouml;rst&ouml;ra all data som anv&auml;ndare har sparat "
+#~ "i det och g&ouml;ra alla instanser av det i en mall blir tom."
+
+#~ msgid "This name is already in use"
+#~ msgstr "Det h&auml;r namnet anv&auml;nds redan"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr ""
+#~ "Det int&auml;rna namnet m&aring;ste vara l&auml;ngre &auml;n tre "
+#~ "bokst&auml;ver"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "Namnet m&aring;ste vara l&auml;ngre &auml;n tre bokst&auml;ver"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "Denna Bookmarklet' &ouml;ppnar ett nytt f&ouml;nster med ett 'Nytt "
+#~ "inl&auml;gg' som inneh&aring;ller en l&auml;nk till sidan som den &ouml;"
+#~ "ppnades fr&aring;n."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr ""
+#~ "Den h&auml;r Bookmarklet'en &ouml;ppnar ett nytt f&ouml;nster med ett "
+#~ "blank 'Nytt inl&auml;gg'"
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "Du kan anv&auml;nda Bookmarklet'ar f&ouml;r att snabbt skriva nya "
+#~ "inl&auml;gg till Pivot. F&ouml;r att l&auml;gga till en Bookmarklet till "
+#~ "din webbl&auml;sare, anv&auml;nd ett av f&ouml;ljande val: (exakt text "
+#~ "varierar beroende p&aring; vilken webbl&auml;sare du anv&auml;nder)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Klicka och dra bookmarklet'en till ditt \"L&auml;nkar\" eller l&auml;gg "
+#~ "till i \"Favoriter\" i din webbl&auml;sare."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr ""
+#~ "H&ouml;gerklicka p&aring; bookmarklet'en och v&auml;lj \"L&auml;gg till i "
+#~ "bokm&auml;rken\"."
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr ""
+#~ "Den h&auml;r tabellen representerar en kalender med inkl&auml;gg, med "
+#~ "hyperl&auml;nkar p&aring; de datum som har inl&auml;gg."
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr ""
+#~ "Kalendern tillf&ouml;r ett s&auml;tt att komma &aring;t inl&auml;gg i den "
+#~ "h&auml;r webbloggen"
+
+#~ msgid "en"
+#~ msgstr "sv"
+
+#~ msgid "Your trackback has been stored."
+#~ msgstr "Din Trackback har sparats."
+
+#~ msgid "Tracked"
+#~ msgstr "Tracked"

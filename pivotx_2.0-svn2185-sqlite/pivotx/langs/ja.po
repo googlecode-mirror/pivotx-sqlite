@@ -1,0 +1,5793 @@
+# Translation of PivotX to Japanese
+# Copyright (C) 2008-2009 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the PivotX package.
+# Yuji TAKENAKA <webmaster@davilin.com>, 2008-2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0.0 beta 12\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: 2009-02-24 23:03-0500\n"
+"Last-Translator: Yuji Takenaka <webmaster@davilin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+
+msgid "About"
+msgstr "サイトについて"
+
+msgid "Last Comments"
+msgstr "最近のコメント"
+
+msgid "Stuff"
+msgstr "スタッフ"
+
+msgid "Archives"
+msgstr "アーカイブ"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Links"
+msgstr "リンク"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Linkdump"
+msgstr "リンクダンプ"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Tag Cloud"
+msgstr "タグクラウド"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "コメントを投稿"
+
+msgid "Preview Comment"
+msgstr "コメントのプレビュー"
+
+msgid "Remember personal info?"
+msgstr "個人情報を記憶"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr "クッキーに情報を記憶します。"
+
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+msgid "Jump to navigation"
+msgstr "ナビゲーションに移動"
+
+msgid "Top"
+msgstr "トップ"
+
+#, fuzzy
+msgid "More"
+msgstr "続きを読む"
+
+msgid "Last comments"
+msgstr "最近のコメント"
+
+msgid "Pages"
+msgstr "ページ"
+
+msgid "Meta"
+msgstr "メタ情報"
+
+msgid "Comment"
+msgstr "コメント"
+
+msgid "Notify"
+msgstr "通知"
+
+msgid "Yes, send me email when someone replies."
+msgstr "このエントリへコメントがあった場合、自分宛に通知する"
+
+msgid "Hide email"
+msgstr "アドレス非表示"
+
+msgid "Yes, hide my email address."
+msgstr "メールアドレスを表示しない"
+
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>注意：</b> 使用できるタグは &lt;b&gt; と &lt;i&gt; のみです。URLやメールア"
+"ドレスはそのまま記述すればリンクになります。"
+
+msgid "Insert an Image"
+msgstr "イメージを挿入"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"イメージを挿入するには、イメージをアップロードするか既にアップロードしてある"
+"イメージを選択してください。"
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "Upload an image"
+msgstr "ファイルをアップロード"
+
+msgid "Image name"
+msgstr "イメージ名"
+
+msgid "Select an image"
+msgstr "イメージを選択"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Alternate text"
+msgstr "代替テキスト"
+
+msgid "Align"
+msgstr "配置"
+
+msgid "Center (default)"
+msgstr "中央（デフォルト）"
+
+msgid "Left"
+msgstr "左寄せ"
+
+msgid "Right"
+msgstr "右寄せ"
+
+msgid "Inline"
+msgstr "インライン"
+
+msgid "Border"
+msgstr "枠線"
+
+msgid "pixels"
+msgstr "太さ（ピクセル）"
+
+msgid "Insert image!"
+msgstr "イメージを挿入"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Orphaned Pages"
+msgstr "残っているページ"
+
+msgid "order"
+msgstr "順序"
+
+msgid "Timed Publish"
+msgstr "期日指定発行"
+
+msgid "Hold"
+msgstr "保留"
+
+msgid "Edit Page"
+msgstr "ページを編集"
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr "このページを削除してもよろしいですか？"
+
+msgid "Delete Page"
+msgstr "ページを削除"
+
+msgid "Write a new Page"
+msgstr "新規ページを作成"
+
+msgid "Edit Chapter"
+msgstr "章を編集"
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr "この章を削除してもよろしいですか？"
+
+msgid "Delete Chapter"
+msgstr "章を削除"
+
+msgid "Add a Chapter"
+msgstr "章を追加"
+
+msgid "The PivotX Team"
+msgstr "PivotX開発チーム"
+
+msgid "Core team members"
+msgstr "主要チームメンバー"
+
+msgid "aka"
+msgstr "aka"
+
+msgid "Code"
+msgstr "コード"
+
+msgid "architecture"
+msgstr "構造"
+
+msgid "Contact"
+msgstr "連絡先"
+
+msgid "Head of Support"
+msgstr "サポートリーダー"
+
+msgid "website maintenance"
+msgstr "サイトのメンテナンス"
+
+msgid "contact"
+msgstr "連絡"
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+"これらの方々に使用方法などの質問をメールすることはご遠慮下さい。質問はフォー"
+"ラムにお願いします。"
+
+msgid "Official contributors"
+msgstr "公式貢献者"
+
+msgid "(support and additional coding)"
+msgstr "（サポートと追加プログラミング）"
+
+msgid "Previous contributors"
+msgstr "以前の貢献者"
+
+msgid "lest we forget"
+msgstr "忘れないように"
+
+msgid "Used libraries / tools"
+msgstr "使用ライブラリ/ツール"
+
+msgid "website"
+msgstr "ウェブサイト"
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+"次回のリリースで反映いたしますので、記載されていない場合がありましたらご連絡"
+"下さい。"
+
+msgid "Comments waiting for moderation"
+msgstr "承認待ちコメント"
+
+msgid "IP-address"
+msgstr "IPアドレス"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Edit this comment"
+msgstr "このコメントを編集"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Delete this comment?"
+msgstr "このコメントを削除しますか？"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "on"
+msgstr "on"
+
+msgid "Check all"
+msgstr "全てチェックする"
+
+msgid "Check none"
+msgstr "全てのチェックを外す"
+
+msgid "Approve comments"
+msgstr "コメントを許可"
+
+msgid "Delete comments"
+msgstr "コメントを削除"
+
+msgid "There are no comments waiting for moderation"
+msgstr "承認待ちのコメントはありません。"
+
+msgid "The latest comments"
+msgstr "最新のコメント"
+
+msgid "There are no latest comments"
+msgstr "最新のコメントはありません。"
+
+msgid "No comments"
+msgstr "コメント（0）"
+
+msgid "Welcome, unknown user."
+msgstr "ようこそ、ゲストさん。"
+
+msgid "Welcome back"
+msgstr "お帰りなさい。"
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "最新エントリ"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "ウェブログ名"
+
+msgid "Edit this trackback"
+msgstr "このトラックバックを編集"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "削除"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "最新のコメントはありません。"
+
+msgid "No trackbacks"
+msgstr "トラックバック（0）"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Permalink"
+msgstr "パーマリンク"
+
+msgid "edit"
+msgstr "編集"
+
+msgid "Internal Name"
+msgstr "内部名"
+
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+msgid "Template"
+msgstr "テンプレート"
+
+msgid "Introduction"
+msgstr "イントロダクション"
+
+msgid "Body"
+msgstr "ボディ"
+
+msgid "Keywords"
+msgstr "キーワード"
+
+msgid "Tags"
+msgstr "タグ"
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+"タグはスペースで区切られます。例えば、movies jedi starwars （'star wars' には"
+"できません)。"
+
+msgid "Post Page"
+msgstr "ページを投稿"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Post and Continue Editing"
+msgstr "投稿し編集を続ける"
+
+msgid "Chapter"
+msgstr "章"
+
+msgid "Order"
+msgstr "順序"
+
+msgid "Post Status"
+msgstr "投稿ステータス"
+
+msgid "Publish"
+msgstr "発行"
+
+msgid "Publish on"
+msgstr "発行日"
+
+msgid "Allow comments"
+msgstr "コメントを許可"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Created on"
+msgstr "作成日"
+
+msgid "Last edited on"
+msgstr "最終更新日"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Active widgets"
+msgstr "有効なウィジェット"
+
+msgid "Available Widgets"
+msgstr "利用可能なウィジェット"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "General"
+msgstr "全般"
+
+msgid "Templates"
+msgstr "テンプレート"
+
+msgid "Subweblogs"
+msgstr "サブウェブログ"
+
+msgid "XML feeds"
+msgstr "XMLフィード"
+
+msgid "Commenting"
+msgstr "コメント"
+
+msgid "Insert a Tag"
+msgstr "タグを挿入"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+"エントリにリンクを使ってタグを挿入します。以下のタグクラウド（一部分）からタ"
+"グを選択することもできます。"
+
+msgid "Tag"
+msgstr "タグ"
+
+msgid "Insert tag!"
+msgstr "タグを挿入"
+
+msgid "Suggested Tags"
+msgstr "推奨タグ"
+
+msgid "Via Link"
+msgstr "参考にしたサイトのURL"
+
+msgid "Via Title"
+msgstr "参考にしたサイトのタイトル"
+
+msgid "Trackback Ping"
+msgstr "トラックバック送信"
+
+msgid "Post Entry"
+msgstr "エントリを投稿"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "コメントのプレビュー"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "トラックバックの編集"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "(none)"
+msgstr "（無し）"
+
+msgid "Insert a Download"
+msgstr "ダウンロードリンクを挿入"
+
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"ファイルダウンロードのリンクを作成するには、ファイルをアップロードするか既に"
+"アップロードしてあるファイルを選択した後、ダウンロードのトリガーとなるアイコ"
+"ン、もしくはテキストリンクを選択して下さい。"
+
+msgid "Upload a file"
+msgstr "ファイルをアップロード"
+
+msgid "File Name"
+msgstr "ファイル名"
+
+msgid "Link Look"
+msgstr "リンクの表示"
+
+msgid "Use Icon"
+msgstr "アイコンを使用"
+
+msgid "Use Text"
+msgstr "テキストを使用"
+
+msgid "Link Title"
+msgstr "リンクのタイトル"
+
+msgid "Insert download!"
+msgstr "ダウンロードリンクを挿入"
+
+msgid "My Info"
+msgstr "ユーザー情報"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Back to dashboard"
+msgstr "ダッシュボードに戻る"
+
+msgid "View weblog"
+msgstr "ウェブログを閲覧"
+
+msgid "view"
+msgstr "ビュー"
+
+msgid "Configure Extensions"
+msgstr "エクステンションの設定"
+
+msgid "Maintenance"
+msgstr "メンテナンス"
+
+msgid "View debug logs"
+msgstr "デバッグログを閲覧"
+
+msgid "sec."
+msgstr "秒"
+
+msgid "using"
+msgstr "using"
+
+msgid "queries"
+msgstr "クエリー"
+
+msgid "build"
+msgstr "構築"
+
+msgid "Pg."
+msgstr "ページ"
+
+msgid "Filename"
+msgstr "ファイル名"
+
+msgid "Description"
+msgstr "解説"
+
+msgid "Filesize"
+msgstr "ファイルサイズ"
+
+msgid "Image"
+msgstr "イメージ"
+
+msgid "Thumbnail"
+msgstr "サムネール"
+
+msgid "Are you sure you wish to delete this file?"
+msgstr "このファイルを削除してもよろしいですか？"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "Create a new file"
+msgstr "新規ファイルを作成"
+
+msgid "Create a new folder"
+msgstr "新規フォルダを作成"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+"このフォルダに対してファイルのアップロード・コピーは許可されていません。FTPプ"
+"ログラムをお使い下さい。"
+
+msgid "Upload more files"
+msgstr "更にファイルをアップロードする"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr "このフォルダにアップロードするファイルを選択してください："
+
+msgid "Upload more"
+msgstr "更にアップロード"
+
+msgid "Add a new configuration option:"
+msgstr "新規設定項目の追加："
+
+msgid "Key"
+msgstr "キー"
+
+msgid "Value"
+msgstr "値"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Edit options"
+msgstr "オプションを編集"
+
+msgid "You should first select or upload an image"
+msgstr "最初にイメージを選択もしくはアップロードして下さい。"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"イメージをアップロードするか、既にアップロードしてあるイメージを選択した後、"
+"ポップアップのトリガーとなるテキストもしくはサムネールを選択して下さい。"
+
+msgid "For popup"
+msgstr "ポップアップ設定"
+
+msgid "Use Thumbnail"
+msgstr "サムネールを使用"
+
+msgid "edit thumbnail"
+msgstr "サムネールを編集"
+
+msgid "Insert popup!"
+msgstr "ポップアップを挿入"
+
+msgid "Create New User"
+msgstr "新規ユーザーを’作成"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Nickname"
+msgstr "ニックネーム"
+
+msgid "Userlevel"
+msgstr "権限レベル"
+
+msgid "Last Login"
+msgstr "最終ログイン"
+
+msgid "Edit User"
+msgstr "ユーザーを編集"
+
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr "%1 に対するアクセスを削除します。よろしいですか？"
+
+msgid "Verified"
+msgstr "確認"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Edit Visitor"
+msgstr "ビジター情報の編集"
+
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "ビジター %1 を削除します。よろしいですか？"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "イメージを挿入"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "タグを挿入"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "ダウンロードリンクを挿入"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "タグを挿入"
+
+msgid "The default category is:"
+msgstr "デフォルトのカテゴリは次の通り："
+
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr "カテゴリを選択しなおすまで新しいエントリはこのカテゴリを含みます。"
+
+msgid "Create New Category"
+msgstr "新規カテゴリを作成"
+
+msgid "Display Name"
+msgstr "表示名"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Hidden Category"
+msgstr "隠しカテゴリ"
+
+msgid "Sorting Order"
+msgstr "ソート順序"
+
+msgid "users"
+msgstr "ユーザー"
+
+msgid "Edit Category"
+msgstr "カテゴリを編集"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "このカテゴリを削除してもよろしいですか？"
+
+msgid "New Weblog"
+msgstr "新規ウェブログ"
+
+msgid "Weblog Name"
+msgstr "ウェブログ名"
+
+msgid "categories"
+msgstr "カテゴリ"
+
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "ウェブログ %1 を削除します。よろしいですか？"
+
+msgid "Export as theme"
+msgstr "テーマとしてエクスポート"
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "エントリを編集"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+"PivotX 2.0へようこそ！以下は最近の<a href='index.php?page=entries'>エントリ</"
+"a>と<a href='index.php?page=pagesoverview'>ページ</a>の要約です。また、承認待"
+"ちの<a href='index.php?page=comments'>新しいコメント</a>も表示しています。"
+
+msgid "New Entry"
+msgstr "新規エントリ"
+
+msgid "New Page"
+msgstr "新規ページ"
+
+msgid "Configuration"
+msgstr "設定"
+
+msgid "Manage Media"
+msgstr "メディア管理"
+
+msgid "The latest entries"
+msgstr "最新エントリ"
+
+msgid "more"
+msgstr "続きを読む"
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+msgid "Are your sure you wish to delete this entry?"
+msgstr "このエントリを削除してもよろしいですか？"
+
+#, fuzzy
+msgid "Entry"
+msgstr "エントリ"
+
+msgid "delete"
+msgstr "削除"
+
+msgid "The latest pages"
+msgstr "最新ページ"
+
+msgid "Warning!"
+msgstr "注意！"
+
+msgid "PivotX News"
+msgstr "PivotXニュース"
+
+msgid "Visit the website"
+msgstr "ウェブサイトを訪問"
+
+#, fuzzy
+msgid "The latests events"
+msgstr "最新エントリ"
+
+msgid "Show more items"
+msgstr "項目を更に表示"
+
+msgid "The latest Forum posts"
+msgstr "フォーラムへの最新の投稿"
+
+msgid "Visit the forum"
+msgstr "フォーラムを訪問"
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+"セッションを正しくセットすることができませんでした。一旦ログアウトして、再度"
+"ログインを行ってください。また、ブラウザのキャッシュを消去し、クッキーに対し"
+"て干渉をおこすソフトウェアが起動していないことも確認してください。"
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr "もし問題が続くようであれば、フォーラムへの投稿をお願いします。"
+
+msgid "Entries"
+msgstr "エントリ"
+
+msgid "Suggestions"
+msgstr "提案"
+
+msgid "Show more tags"
+msgstr "タグを更に表示"
+
+msgid "filter on (%name%)"
+msgstr "（%name%）で抽出"
+
+msgid "first"
+msgstr "最初へ"
+
+msgid "previous"
+msgstr "前へ"
+
+msgid "next"
+msgstr "次へ"
+
+msgid "last"
+msgstr "最後へ"
+
+msgid "jump to page (%num%)"
+msgstr "ページ %num% にジャンプ"
+
+msgid "filter off"
+msgstr "フィルターオフ"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "全てチェック"
+
+msgid "Uncheck All"
+msgstr "全て外す"
+
+msgid "With the checked entries, do:"
+msgstr "チェックしたエントリに対して："
+
+msgid "- select an option -"
+msgstr "オプションを選択"
+
+msgid "Set Status to \"publish\""
+msgstr "ステータスを\"発行\""
+
+msgid "Set Status to \"hold\""
+msgstr "ステータスを\"保留\""
+
+msgid "Delete them"
+msgstr "これらを削除"
+
+msgid "Go!"
+msgstr "実行"
+
+#, fuzzy
+msgid "Published"
+msgstr "発行"
+
+#, fuzzy
+msgid "Timed"
+msgstr "タイトル"
+
+#, fuzzy
+msgid "Held"
+msgstr "保留"
+
+msgid "edit this entry"
+msgstr "このエントリを編集"
+
+msgid "Save and continue editing"
+msgstr "保存し編集を続ける"
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+"キャッシュ機能および（もしくは）Minifyが有効になっています。サイトを構築して"
+"いる最中に、変更をすぐに反映させたい場合は、%ここをクリック%してキャッシュ機"
+"能とMinifyを無効にして下さい。"
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "作業完了！インデックス収集時間：%num% 秒"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr "セーフモードが有効である場合、最新のPivotXニュースは表示されません。"
+
+msgid "Read on"
+msgstr "閲覧日"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr "おっと！ニュースフィードを読み込めないようです。"
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr "おっと！フォーラムのフィードを読み込めないようです。"
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr "おっと！タグフィードを読み込めないようです。"
+
+msgid "Nothing on"
+msgstr "何もありません"
+
+msgid "for"
+msgstr "for"
+
+msgid "Latest on"
+msgstr "最終更新 "
+
+msgid "Current path"
+msgstr "現在のパス"
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr "%1件のコメントが承認待ちです。"
+
+msgid "No comments are waiting to be approved."
+msgstr "承認待ちのコメントはありません"
+
+msgid "Entries &amp; Pages"
+msgstr "エントリとページ"
+
+msgid "Overview of Entries"
+msgstr "エントリの概要"
+
+msgid "Manage and Upload Media"
+msgstr "メディア管理とアップロード"
+
+msgid "Administration"
+msgstr "サイト管理"
+
+msgid "Overview of Administrative functions"
+msgstr "管理者メニューの概要"
+
+msgid "Extensions"
+msgstr "エクステンション"
+
+msgid "Manage installed Extensions"
+msgstr "インストール済みエクステンション管理"
+
+msgid "Log in"
+msgstr "ログイン"
+
+msgid "Write and Publish a new Entry"
+msgstr "新規エントリの作成と発行"
+
+msgid "Overview of Pages"
+msgstr "ページの概要"
+
+msgid "Write and Publish a new Page"
+msgstr "新規ページの作成と発行"
+
+msgid "Moderate Comments"
+msgstr "コメントを審査"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "トラックバック"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "エントリの概要"
+
+msgid "Edit the Configuration file"
+msgstr "設定ファイルを編集"
+
+msgid "Advanced Configuration"
+msgstr "高度な設定"
+
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "高度な設定の変更・追加・削除"
+
+msgid "Create, edit and delete Users"
+msgstr "ユーザの作成・編集・削除"
+
+msgid "Create, edit and delete the Categories"
+msgstr "カテゴリの作成・編集・削除"
+
+msgid "Weblogs"
+msgstr "ウェブログ"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "ウェブログの作成・編集・削除"
+
+msgid "Registered Visitors"
+msgstr "登録済み訪問者"
+
+msgid "View and edit Registered Visitors"
+msgstr "登録済み訪問者の閲覧・編集"
+
+msgid "Spam Protection"
+msgstr "スパムプロテクション"
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr "スパムを防止するための様々なツールの概要"
+
+msgid "Backup"
+msgstr "バックアップ"
+
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr ""
+"設定ファイル、テンプレート、エントリを含む zipファイルをダウンロードします。"
+
+msgid "Widgets"
+msgstr "ウィジェット"
+
+msgid "Manage installed Widgets"
+msgstr "インストール済みウィジェットの管理"
+
+msgid "Spam configuration"
+msgstr "スパム設定"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr "スパムプロテクションツール（HashCashとSpamQuiz)の設定"
+
+msgid "Spam Log"
+msgstr "スパム履歴"
+
+msgid "View and Reset the Spam Log."
+msgstr "スパム履歴の閲覧とリセット"
+
+msgid "Backup of Configuration Files"
+msgstr "設定ファイルのバックアップ"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr "設定ファイルを含んだzipファイルをダウンロードすることが出来ます。"
+
+msgid "Create, edit and delete Templates"
+msgstr "テンプレートの作成・編集・削除"
+
+msgid "Explore Database Files"
+msgstr "データベースファイルの閲覧"
+
+msgid "View files (both text and database files)"
+msgstr "ファイル閲覧（テキストファイル、データベースファイル）"
+
+msgid "Explore Files"
+msgstr "ファイルを閲覧"
+
+msgid "View files in the site's root"
+msgstr "サイトのルートにあるファイルを閲覧"
+
+msgid "Explore Home folder"
+msgstr "ホームフォルダーを閲覧"
+
+msgid "Rebuild the Index"
+msgstr "インデックスを再構築"
+
+msgid "Rebuild the index of your Database"
+msgstr "データベースインデックスを再構築"
+
+msgid "Rebuild Search Index"
+msgstr "検索用インデックスを再構築"
+
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "エントリおよびページを検索するためのインデックスを再構築"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "インデックスを再構築"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "エントリ検索用インデックスの再構築"
+
+msgid "Welcome to"
+msgstr "ようこそ "
+
+msgid "%n visitors on this page"
+msgstr "このページのビジター数 %n"
+
+msgid "Total visits"
+msgstr "総ビジター数"
+
+msgid "Unique visitors"
+msgstr "ユニークビジター数"
+
+msgid "This month"
+msgstr "今月"
+
+msgid "This week"
+msgstr "今週"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Keyword"
+msgstr "キーワード"
+
+msgid "Frequency"
+msgstr "頻度"
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+msgid "Upload images"
+msgstr "ファイルをアップロード"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+"'localhost' からはアップローダーが正しく動作しません。サーバーの（内部）IPア"
+"ドレスを代わりに使用してください。"
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr "おっと！グーグルカレンダーのフィードを読み込めないようです。"
+
+msgid "Google Maps API key"
+msgstr "GoogleマップAPIキー"
+
+msgid "Default width of map"
+msgstr "地図の幅初期値"
+
+msgid "Default height of map"
+msgstr "地図の高さ初期値"
+
+msgid "Default zoom for map"
+msgstr "地図のズーム初期値"
+
+msgid "Default latitude for map"
+msgstr "地図の緯度初期値"
+
+msgid "Default longitude for map"
+msgstr "地図の経度初期値"
+
+msgid "Red"
+msgstr "赤色"
+
+msgid "Blue"
+msgstr "青色"
+
+msgid "Black"
+msgstr "黒色"
+
+msgid "Grey"
+msgstr "灰色"
+
+msgid "Select the color scheme to use for the widget."
+msgstr "このウィジェットに対する色定義を選択して下さい。"
+
+msgid "Your last.fm login name"
+msgstr "last.fmログイン名"
+
+msgid "That's not a proper login name!"
+msgstr "正しいログイン名ではありません。"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr "<a href='http://last.fm'>Last.fm</a>にログインするための名前"
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+#, fuzzy
+msgid "Youtube video \"%basename%\"."
+msgstr "Youtube ビデオ \\'%basename%\\'"
+
+#, fuzzy
+msgid "Vimeo video \"%basename%\"."
+msgstr "Youtube ビデオ \\'%basename%\\'"
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+"これらのアイコンは、訪問者が新しいウェブページを発見・共有するためのソーシャ"
+"ルブックマークサービスへのリンクです。"
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "適切なサイト名ではありません。"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "That's not a proper username!"
+msgstr "適切なユーザー名ではありません。"
+
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"ユーザー名には小文字のアルファベット、数字、そしてアンダースコア（_）のみ使用"
+"できます。"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Please give a proper password!"
+msgstr "適切なパスワードを入力してください。"
+
+msgid "Stay logged in?"
+msgstr "ログイン状態を保持しますか？"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "パスワードをお忘れですか？"
+
+msgid "Send password"
+msgstr "パスワードを送信"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "パスワードをリセット"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+"パスワードを忘れた場合は、ユーザー名とメールアドレスを入力して下さい。PivotX"
+"が新しいパスワードをメールで送信します。"
+
+msgid "Backup templates"
+msgstr "テンプレートのバックアップ"
+
+msgid "Backup entries database"
+msgstr "エントリデータベースのバックアップ"
+
+msgid "Backup configuration files"
+msgstr "設定ファイルのバックアップ"
+
+msgid "Reset Spam Log"
+msgstr "スパム履歴をリセット"
+
+msgid "Save Comment"
+msgstr "コメントを保存"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Registered user"
+msgstr "登録済ユーザー"
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+"登録ユーザーの場合と同じように、このコメントを表示するかどうかを決めて下さい"
+"（実際に登録ユーザーがコメントしたかどうかは関係ありません）。"
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+"'はい'を選ぶと訪問者はこのエントリに対する一連のコメントの通知メールを受けま"
+"す。"
+
+msgid "Show discreetly"
+msgstr "少しだけ表示"
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr "'はい'を選ぶとメールアドレス無しでもコメントを残せるようになります。"
+
+msgid "Moderate Comment"
+msgstr "コメントの審査"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+"'はい'を選択することで、投稿されたコメントは管理者により許可されるまで表示さ"
+"れません。"
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "トラックバックを保存"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "エントリ日付"
+
+msgid "Excerpt"
+msgstr "抜粋"
+
+msgid "Continue"
+msgstr "続行"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr "最初のユーザーを設定するために、以下の情報を入力して下さい。"
+
+msgid "Password (confirm)"
+msgstr "パスワード（確認）"
+
+msgid "The passwords do not match!"
+msgstr "パスワードが一致しません。"
+
+msgid "That's not a proper email address!"
+msgstr "適切なメールアドレスではありません。"
+
+msgid "That's not a proper Nickname!"
+msgstr "適切なニックネームではありません。"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+"PivotXはお使いのウェブサーバーが MｙSQLをサポートしていることを検出しました。"
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+"MySQLのアカウントとデータベースをお持ちの場合は、以下に情報を入力して下さい。"
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+"お持ちで無い場合は、ホスティング会社に問い合わせるか 'フラットファイル' モデ"
+"ルを選択して下さい。"
+
+msgid "Database Model"
+msgstr "データベースモデル"
+
+msgid "Flat Files"
+msgstr "フラットファイル"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+"使用するデータベースのタイプを選択して下さい。フラットファイルはほとんどの環"
+"境で動作します。MySQL もしくは SQLite を使用する場合、PivotXは最高のパフォー"
+"マンスを発揮します。"
+
+msgid "Your MySQL username"
+msgstr "MySQLユーザー名"
+
+msgid "Your MySQL password"
+msgstr "MySQLパスワード"
+
+msgid "Database Name"
+msgstr "データベース名"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr "情報を保存したいMySQLデータベースの名前"
+
+msgid "Advanced database settings"
+msgstr "高度なデータベース設定"
+
+msgid "Hostname"
+msgstr "ホスト名"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr "お使いのMySQLホスト名。通常は\"localhost\"です。"
+
+msgid "Table Prefix"
+msgstr "テーブル接頭語"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+"データベースのテーブル名に使用する接頭語です。この値を変更することで一つの"
+"MySQLデータベースで複数のPivotを使用することが出来ます。Pivotを複数使用するこ"
+"とを（未だ）考えていない場合は、\"pivotx_\"としておいて下さい。"
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+"パスワードは四文字以上必要です。また、ユーザー名と同じにすることはできませ"
+"ん。"
+
+msgid "Passwords do not match"
+msgstr "パスワードと確認用パスワードが適合しません。"
+
+msgid "That's not a valid email address"
+msgstr "メールアドレスが適切な形ではありません。"
+
+msgid "That's not a proper filename!"
+msgstr "適切なファイル名ではありません。"
+
+msgid "Language"
+msgstr "使用言語"
+
+msgid "You must select a language!"
+msgstr "言語を選択してください。"
+
+msgid "Text editor"
+msgstr "テキストエディタ"
+
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"新規エントリを作成する時の、デフォルトでのテキスト処理を設定します。ほとんど"
+"のユーザーにとって 'Wysiwygエディタ' が最も簡単です。'改行を変換'で、改行を "
+"&amp;lt;br /&amp;gt; タグに変換だけしかしない 'プレーンXHTML' はXHTMLを直接編"
+"集したい方向けです。<a href='http://www.textism.com/tools/textile/' "
+"target='_blank'>Textile</a> and <a href='http://daringfireball.net/projects/"
+"markdown/' target='_blank'>Markdown</a> は両方ともパワフルでかつ簡単なマーク"
+"アップスタイルです。"
+
+msgid "Wysiwyg"
+msgstr "Wysiwyg"
+
+msgid "None (plain XHTML)"
+msgstr "無し（プレーンXHTML）"
+
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "XHTML、改行を &lt;br /&gt; に変換"
+
+msgid "Textile"
+msgstr "Textileを使用"
+
+msgid "Markdown"
+msgstr "マークダウン"
+
+msgid "Markdown and Smartypants"
+msgstr "マークダウンとスマーティパンツ"
+
+msgid "User last seen on"
+msgstr "最終訪問日： "
+
+msgid "Moblogger"
+msgstr "モブロガー"
+
+msgid "Normal"
+msgstr "ノーマル"
+
+msgid "Advanced"
+msgstr "アドバンスド"
+
+msgid "Administrator"
+msgstr "アドミニストレーター"
+
+msgid "Superadmin"
+msgstr "スーパーユーザー"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "ユーザーが実行できる項目は、権限レベルによって決定されます。"
+
+msgid "Allowed Categories"
+msgstr "投稿を許可するカテゴリ"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr "投稿することの出来るカテゴリを設定します。"
+
+msgid "Last seen on"
+msgstr "最終訪問日"
+
+msgid "Create Category"
+msgstr "カテゴリを作成"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr "ウェブログ内でそのカテゴリをあらわす名前"
+
+msgid "This category needs a name"
+msgstr "カテゴリ名を入力して下さい。"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "このカテゴリに投稿を許可するユーザーを選択して下さい。"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"この番号が少ない順にカテゴリがソートされます。番号が同じ場合はアルファベット"
+"順になります。"
+
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+"\"はい\"を設定することで、このカテゴリはアーカイブに表示されなくなります（ラ"
+"イブページでのみ有効）。"
+
+msgid "Chapter name"
+msgstr "章の名前"
+
+msgid "The name of this chapter"
+msgstr "この章の名前"
+
+msgid "A short description of this chapter"
+msgstr "この章の簡単な説明"
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr "各章が表示されるときの順序を決定します。"
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+"内部名は、アルファベット小文字、数字、アンダースコア（a-z,0-9,_）のみ有効で"
+"す。将来、ウェブログの名前が変わった場合でも、常に同じ内部名が使用されます。"
+
+msgid "Start from scratch"
+msgstr "最初から開始する"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+"ウェブログに使用されるテーマを選択して下さい。すべてのオプションは後で変更が"
+"できます。"
+
+msgid "General Settings"
+msgstr "全般の設定"
+
+msgid "Payoff"
+msgstr "ペイオフ"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr "サブタイトルもしくはウェブログを簡単に表す説明として使用します。"
+
+msgid "URL to Weblog"
+msgstr "ウェブログのURL"
+
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"このフィールドが空欄の場合は、PivotXがウェブログのURLを決定します。もし、この"
+"ウェブログがフレームセットの一部として使用される場合やサーバーサイドでインク"
+"ルードされる場合は、該当するファイルのURLを設定します。"
+
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr "使用する日付や数の形式は、選択した言語によって決定されます。"
+
+msgid "\"Read More\" Text"
+msgstr "\"続きを読む\"用テキスト"
+
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"エントリに続きがある場合に、フロントページに表示するテキストを設定します。空"
+"欄の場合は言語ファイルに設定されたテキストが使用されます。"
+
+msgid "Frontpage Template"
+msgstr "フロントページ用テンプレート"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "フロントページのレイアウトを決定するテンプレートファイルを指定します。"
+
+msgid "Archivepage Template"
+msgstr "アーカイブページ用テンプレート"
+
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"アーカイブページのレイアウトを決定するテンプレートファイルを指定します。フロ"
+"ントページと同じでも構いません。"
+
+msgid "Entrypage Template"
+msgstr "エントリページ用テンプレート"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "エントリページのレイアウトを決定するテンプレートファイルを指定します。"
+
+msgid "Extra Template"
+msgstr "エクストラページ用テンプレート"
+
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr ""
+"検索結果を表示するページなどのレイアウトを決定するテンプレートファイルを指定"
+"します。"
+
+msgid "Page Template"
+msgstr "ページテンプレート"
+
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr ""
+"テンプレートが指定されていない場合にページのレイアウトを定義するテンプレート"
+"です。"
+
+msgid "Number of Entries"
+msgstr "エントリ数"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "フロントページやカテゴリ別ページに表示されるエントリ数を指定します。"
+
+msgid "Offset"
+msgstr "オフセット"
+
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"オフセットに数値を設定することで、ページを生成する際にその数だけエントリがス"
+"キップされます。\"以前のエントリ\"リストを作成する場合などに使用します。"
+
+msgid "Publish these categories"
+msgstr "発行するカテゴリ"
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS/Atomフィード設定"
+
+msgid "Generate Feeds"
+msgstr "フィードを作成"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr ""
+"このウェブログに対して自動的にRSS/ATOMフィードを作成するかどうかを設定しま"
+"す。"
+
+msgid "RSS URL"
+msgstr "RSSのURL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+"FeedBurnerなどを利用する場合は、そのサービスのリンクを入力してください。この"
+"リンクはウェブログのRSSとフィード検知用リンクに使用されます。Pivot のフィード"
+"もしくは完全なURLを指定する場合は、何も入力しないで下さい。"
+
+msgid "Atom URL"
+msgstr "AtomのURL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+"FeedBurnerなどを利用する場合は、そのサービスのリンクを入力してください。この"
+"リンクはウェブログのAtomとフィード検知用リンクに使用されます。Pivot のフィー"
+"ドもしくは完全なURLを指定する場合は、何も入力しないで下さい。"
+
+msgid "Create Full Feeds"
+msgstr "完全なフィードを作成"
+
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"PivotXが完全なAtomとRSSフィードを作成するかどうかを設定します。\"いいえ\"を設"
+"定することで、簡単な概要のみを含んだフィードを作成します。この場合、フィード"
+"の使い勝手は悪くなります。"
+
+msgid "Feed Link"
+msgstr "フィードリンク"
+
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"フィードに含まれるメインページへのリンクを指定します。空欄の場合はフロント"
+"ページへのリンクが指定されます。"
+
+msgid "Feed Image"
+msgstr "フィードイメージ"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"特定のイメージファイルをフィードファイルに含めます（RSSリーダーによっては、イ"
+"メージの表示が可能）。空欄か完全なURLを指定します。"
+
+msgid "Commenting Settings"
+msgstr "コメント設定"
+
+msgid "Send Mail?"
+msgstr "メールによる通知"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr ""
+"コメントが付けられた時に、ウェブログの管理者にメールを送信するかどうかを指定"
+"します。"
+
+msgid "Mail to"
+msgstr "あて先"
+
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"送信先のメールアドレスを設定します。複数の送信先はカンマで区切って指定しま"
+"す。"
+
+msgid "Text to links"
+msgstr "テキストをリンクに変換"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr ""
+"コメントに単なるテキストとして記載されたURLやメールアドレスを、ハイパーリンク"
+"にするかどうかを指定します。"
+
+msgid "Wrap comments after"
+msgstr "強制改行"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"長い文字列によってサイトのレイアウトが崩れる防ぐために、強制的に改行するため"
+"の文字数を指定します。"
+
+msgid "Comments Popup?"
+msgstr "コメントポップアップ"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"コメントのページやエントリ毎のページをポップアップウィンドウに表示させるかど"
+"うかを指定します。"
+
+msgid "Width of Popup"
+msgstr "ウィンドウの幅"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "ウィンドウの高さ"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "ポップアップウィンドウの幅と高さをピクセルで指定します。"
+
+msgid "Height of Popup"
+msgstr "ウィンドウの高さ"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "ポップアップウィンドウの幅と高さをピクセルで指定します。"
+
+msgid "Allow Textile?"
+msgstr "Textileを許可"
+
+msgid "Allow Textile"
+msgstr "Textileを許可する"
+
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"\"はい\"を選択することで、訪問者はコメント内に<a href=\"http://www.textism."
+"com/tools/textile/\" target=\"_blank\">Textile</a>を使用することが出来ます。"
+
+msgid "Allow Emoticons?"
+msgstr "エモティコンを許可"
+
+msgid "Allow Emoticons"
+msgstr "エモティコンを許可する"
+
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"'はい'を選択することで、訪問者はグラフィカルなエモティコンを使用できます。"
+
+msgid "Site Name"
+msgstr "サイト名"
+
+msgid "That's not a proper sitename!"
+msgstr "適切なサイト名ではありません。"
+
+msgid "Weblog"
+msgstr "ウェブログ"
+
+msgid "Page"
+msgstr "ページ"
+
+msgid "Site Homepage"
+msgstr "サイトホームページ"
+
+msgid "Please select an option"
+msgstr "オプションを選択して下さい。"
+
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+"サイトの訪問者がフロントページへ移動する際に表示するページを決定します。"
+
+msgid "Default language"
+msgstr "デフォルトの使用言語"
+
+msgid "Please select a language!"
+msgstr "言語を選択してください。"
+
+msgid "Allow XML-RPC"
+msgstr "XML-RPCを許可"
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+"この設定をはいとすることデスクトップブログアプリケーションよりMetaWeblog API"
+"を使用して記事を投稿するとが可能となります。"
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr "/archive/2005/04/28/エントリタイトル"
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr "/archive/2005-04-28/エントリタイトル"
+
+msgid "Yes, like /entry/1234"
+msgstr "/entry/1234"
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr "/entry/1234/エントリタイトル"
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr "/2005/04/28/エントリタイトル"
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr "/2005-04-28/エントリタイトル"
+
+msgid "Use Mod_rewrite"
+msgstr "Mod_rewriteオプション"
+
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"ApacheのMod_rewriteオプションを使用する場合、Pivotは www.mysite.com/?e=134 の"
+"代わりに www.example.org/archive/2008/05/30/nice_weather の様なURLを生成しま"
+"す。全てのサーバーがこの機能をサポートしているわけではありません。詳しくは<a "
+"href=\"http://docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using "
+"Apache's Mod_rewrite</a>をご覧下さい。"
+
+msgid "Allow comments by default"
+msgstr "デフォルトでコメントを許可"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "デフォルトでエントリにコメントを許可するかどうかを設定します。"
+
+msgid "Moderate comments"
+msgstr "コメントを審査"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr "コメントの表示に許可が必要かどうかを設定します。"
+
+msgid "Cache Settings"
+msgstr "キャッシュの設定"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr "注意！これらの機能は実験的です。使用の際は注意してください。"
+
+msgid "Use Minify in Backend"
+msgstr "バックエンドでMinifyを使用する"
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+"PivotX管理画面に対するリクエストの量を軽減するため、Minifyを使用して"
+"JavascriptとCSSファイルのグループ化と圧縮を行います。この機能に問題がある場合"
+"は無効にしてください。"
+
+msgid "Use Minify in Frontend"
+msgstr "フロントエンドでMinifyを使用する"
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+"PivotXで構築されたウェブサイトの全ページに対するリクエスト量を軽減するため、"
+"Minifyを使用してJavascriptとCSSファイルのグループ化と圧縮を行います。テンプ"
+"レートの編集中やこの機能に問題がある場合は無効にしてください。"
+
+msgid "Use output caching"
+msgstr "出力をキャッシュする"
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+"この機能を有効にすると、全てのページがキャッシュされます。PivotXの動作が非常"
+"に軽くなるので、表示のパフォーマンスに問題がある場合や多くの訪問者がある場合"
+"は常に有効にしておくことをおすすめします。テンプレートの編集中やこの機能に問"
+"題があるときは無効にしてください。"
+
+msgid "Show Flickr Images"
+msgstr "Flickrにある画像を表示"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+"\"はい\"を選択することで、PivotXはこのタグに関する画像をFlickr.comより抽出し"
+"ます。"
+
+msgid "Number of images"
+msgstr "画像数"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr "この数の画像をFlickrより入手します。"
+
+msgid "Show feeds"
+msgstr "フィードを表示"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+"\"はい\"を選択することで、PivotXは各種ソースからタグに関するフィードを収集す"
+"るボタンを表示します。"
+
+msgid "Number of items"
+msgstr "フィード数"
+
+msgid "The amount of items to fetch from each source"
+msgstr "それぞれのソースから入手するアイテム数"
+
+msgid "Cloud size"
+msgstr "クラウドのサイズ"
+
+msgid "Minimum size"
+msgstr "最小サイズ"
+
+msgid "Maximum size"
+msgstr "最大サイズ"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+"タグクラウドの表示で使用されるサイズ（ピクセル）。使用頻度の高いタグは大きな"
+"フォントで表示されます。"
+
+msgid "Debug mode"
+msgstr "デバッグモード"
+
+msgid "Show random debug information, every here and there.."
+msgstr "様々なデバッグ情報を表示します。"
+
+msgid "Log Queries"
+msgstr "ログクエリー"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+"デバッグログに全てのMySQLへのクエリーを記録します。パフォーマンス調査の際に役"
+"立ちますが、実際の運営では無効にしてください。"
+
+msgid "Unlink Files"
+msgstr "Unlinkファイル"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"通常は何の影響もありません。ただし、PHPがセーフモードで動作しているサーバーで"
+"は、Pivotが正しく動作しない可能性があります。その場合にこの機能を有効にするこ"
+"とで解決する場合があります。"
+
+msgid "Chmod Files To"
+msgstr "ファイル属性（chmod）"
+
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"サーバーによっては生成するファイルの属性を何らかの方法で指定する必要がありま"
+"す。通常は\"0644\"もしくは\"0755\"です。意味が分からない場合は変更しないで下"
+"さい。"
+
+msgid "File Upload Path"
+msgstr "ファイルアップロード先"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+"アップロードしたファイルを保存するフォルダーのパスです。もしこのパスを変更す"
+"る場合は、<tt>pivotx/includes/timthumb.php</tt> も同様に変更を行ってくださ"
+"い。"
+
+msgid "Overwrite"
+msgstr "上書き"
+
+msgid "Increment Filename"
+msgstr "ファイル名に連番を使用"
+
+msgid "Maximum Filesize"
+msgstr "最大ファイルサイズ"
+
+msgid "The maximum size of files upload to your server."
+msgstr "サーバーにアップロードするファイルの最大サイズ"
+
+msgid "Automatic Thumbnails"
+msgstr "自動サムネール作成"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr "イメージをアップロードした際に、自動的にサムネールを生成する。"
+
+msgid "Thumbnail width"
+msgstr "サムネール幅"
+
+msgid "Thumbnail height"
+msgstr "サムネール高さ"
+
+msgid "Thumbnail quality"
+msgstr "サムネールの品質"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+"PivotXが作成するサムネイルの品質。0は最も低品質ですがサイズが小さく、100は最"
+"も高品質ですがサイズが大きくなります。デフォルトは75です。"
+
+msgid "Allow filetypes"
+msgstr "アップロード可能なファイルタイプ"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+"これらのファイルタイプのアップロードが許可されます。異なるファイルタイプをカ"
+"ンマで区切って入力して下さい。なお、\"png\" ではなく \"image/png\" の形式で入"
+"力してください。"
+
+msgid "Full date format"
+msgstr "完全な日付形式"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"エントリページに表示される年月日と時刻を含んだ完全な日付のフォーマットを指定"
+"します。"
+
+msgid "Entry Date"
+msgstr "エントリ日付"
+
+msgid "The date used when displaying the entry."
+msgstr "エントリに表示される日付です。"
+
+msgid "Diff Date"
+msgstr "投稿日一括表示"
+
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"\"Diff Date\"は通常\"Entry Date\"と一緒に使用されます。Entry Dateは全てのエン"
+"トリで表示されますが、Diff Dateは前回の投稿と日付が異なる場合のみ表示されま"
+"す。"
+
+msgid "Current server time"
+msgstr "現在のサーバー時刻"
+
+msgid "Time Offset Unit"
+msgstr "時刻オフセット単位"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Hour"
+msgstr "時"
+
+msgid "Minute"
+msgstr "分"
+
+msgid "Time Offset"
+msgstr "時刻オフセット"
+
+msgid "Activate"
+msgstr "アクティベート"
+
+msgid "Mail server"
+msgstr "メールサーバー"
+
+msgid "Please give a proper domain name!"
+msgstr "適切なドメイン名を入力してください。"
+
+msgid "Default author"
+msgstr "デフォルトの作者"
+
+msgid "Please select a user"
+msgstr "ユーザーを選択してください。"
+
+msgid "Select a user"
+msgstr "ユーザーを選択"
+
+msgid "The user that the posted entries will belong to."
+msgstr "投稿したエントリが帰属するユーザー"
+
+msgid "Default category"
+msgstr "デフォルトのカテゴリ"
+
+msgid "Please select a category"
+msgstr "カテゴリを選択して下さい。"
+
+msgid "Select a category"
+msgstr "カテゴリの選択"
+
+msgid "The category that normal messages will be posted to."
+msgstr "通常のメッセージが投稿されるカテゴリ"
+
+msgid "Use the IMAP extension"
+msgstr "IMAPエクステンションを使用"
+
+msgid "What protocol"
+msgstr "プロトコルの種類"
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+"IMAPエクステンション（すべてのWebサーバーで利用可能ではありません）は、"
+"HotmailやGmailのような安全なPOP3を使用するために、POP3とIMAPの両方をサポート"
+"しています。"
+
+msgid "Allowed senders"
+msgstr "許可された送信者"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+"\"From\" を伴い以下のカンマ区切りで示される項目にマッチする場合のみ、メールア"
+"ドレスが投稿されます。完全なメールアドレスでも、その一部でもかまいません。"
+
+msgid "Use HashCash"
+msgstr "HashCashを使用"
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+"HashCashは最も強力で完全なスパム防止システムです。閲覧しているブラウザが"
+"Javascriptを有効にしておく必要があるので、その様な設定を望まないのであれば、"
+"この機能は使わないで下さい。"
+
+msgid "Number of links"
+msgstr "最大リンク数"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+"一つのコメントに含めることが出来るハイパーリンクの最大値を設定します。迷惑な"
+"コメントスパムに対して有効です。0は制限なしを意味します。"
+
+msgid "SpamQuiz"
+msgstr "SpamQuizを使用"
+
+msgid "Use SpamQuiz"
+msgstr "SpamQuizを使用"
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+"コメントを送信する前に簡単な質問に答える必要があります。ブログの管理者はそれ"
+"ぞれ異なるクイズを選ぶため、このクイズによってロボットタイプのスパムを完全に"
+"防止することが可能となります。"
+
+msgid "Question"
+msgstr "質問"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr "例：'spam'の最初の二文字は何でしょうか？"
+
+msgid "Answer"
+msgstr "解答"
+
+msgid "Example: <b>sp</b>"
+msgstr "例：<b>sp</b>"
+
+msgid "Age"
+msgstr "経過日数"
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr "指定した日数を経過したエントリにのみスパムクイズが適用されます。"
+
+msgid "Explanation"
+msgstr "解説"
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+"例：コメントスパムロボット対策として、あなたはすごく馬鹿らしいクイズに答える"
+"必要があります。"
+
+msgid "Admin Page Extensions"
+msgstr "管理画面用エクステンション"
+
+msgid "Hook Extensions"
+msgstr "フックエクステンション"
+
+msgid "Snippet Extensions"
+msgstr "スニペットエクステンション"
+
+msgid "Widget Extensions"
+msgstr "ウィジェットエクステンション"
+
+msgid "By"
+msgstr "By"
+
+msgid "version"
+msgstr "バージョン"
+
+msgid "last updated"
+msgstr "最終更新日"
+
+msgid "site link"
+msgstr "サイトリンク"
+
+msgid "edit configuration"
+msgstr "設定を編集"
+
+msgid "Insert an image"
+msgstr "イメージを挿入"
+
+msgid "Insert a popup image"
+msgstr "ポップアップイメージを挿入"
+
+msgid "all"
+msgstr "すべて"
+
+msgid "Send Pings"
+msgstr "ピング送信"
+
+msgid "Oops."
+msgstr "おっと!"
+
+msgid "PivotX encountered an error"
+msgstr "PivotXがエラーを検出しました。"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+"PivotXは 'safe mode' で動作しています。<tt>pivotx/</tt>フォルダから "
+"<tt>pivotxsafemode.txt</tt> を削除するまで全てのエクステンションが利用できま"
+"せん。"
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+"もしエクステンションにより PivotX に不具合が生じた場合、エクステンション設定"
+"画面より該当するエクステンションを無効にして、セーフモードのまま再度実行して"
+"みて下さい。"
+
+msgid "PivotX error"
+msgstr "PivotXエラー"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr "ユーザー '<tt>%s</tt>' は存在しません。"
+
+#, fuzzy, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr "ユーザー '<tt>%s</tt>' は存在しません。"
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "PivotXエラー"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr "PivotXフォルダーに対するURLが不明です。"
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr "URLをセットするためにPivotXにログインしてください"
+
+msgid "PivotX is not allowed to read this folder."
+msgstr "PivotXはこのフォルダの読み込みを許可されていません。"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "ユーザーを削除しました。"
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "ファイルは\"%s\"としてアップロードされました。"
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "ユーザーを削除しました。"
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "新しいウェブログが作成されました。"
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "サムネール作成"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "ファイルアップロード"
+
+msgid "(Select a template)"
+msgstr "（テンプレートを選択）"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "この通知は次の方に送信されました"
+
+#, fuzzy
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+"ユーザー \"%user%\" 向けの新規パスワード発行がリクエストされました。\n"
+"PivotX のサイト名： \"%site%\"\n"
+"\n"
+"新しいパスワードを入手するには以下のリンクをクリックしてください：\n"
+"\n"
+"%link%\n"
+"\n"
+"もし新規パスワードをリクエストしていなければ、このメッセージは無視してくださ"
+"い。"
+
+msgid "Password reset"
+msgstr "パスワードリセット"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr "数分前"
+
+msgid "less than ten minutes ago"
+msgstr "10分以内"
+
+msgid "15 minutes ago"
+msgstr "15分前"
+
+msgid "half an hour ago"
+msgstr "30分前"
+
+msgid "about an hour ago"
+msgstr "1時間前"
+
+msgid "an hour and a half ago"
+msgstr "1時間半前"
+
+msgid "about two hours ago"
+msgstr "2時間前"
+
+msgid "%value% hours ago"
+msgstr "%value%時間前"
+
+msgid "this morning"
+msgstr "今朝"
+
+#, fuzzy
+msgid "yesterday morning"
+msgstr "昨晩"
+
+#, fuzzy
+msgid "this evening"
+msgstr "今朝"
+
+msgid "yesterday evening"
+msgstr "昨晩"
+
+msgid "this afternoon"
+msgstr "今日の午後"
+
+msgid "yesterday afternoon"
+msgstr "昨日の午後"
+
+msgid "on %value%"
+msgstr "on %value%"
+
+msgid "1 week ago"
+msgstr "一週間前"
+
+msgid "%value% weeks ago"
+msgstr "%value%週間前"
+
+msgid "about a month ago"
+msgstr "1ヶ月前"
+
+msgid "in %value%"
+msgstr "in %value%"
+
+msgid "one year ago"
+msgstr "1年前"
+
+msgid "%value% years ago"
+msgstr "%value%年前"
+
+msgid "a very long time ago"
+msgstr "かなり昔"
+
+msgid "Write"
+msgstr "書き込み"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "書き込みエラー。ファイルを開けません。"
+
+msgid "Write Error. Could not write to file"
+msgstr "書き込みエラー。ファイルに書き込めません。"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr "\"%s\"が次のコメントを投稿しました"
+
+#, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "エントリ \"%s\" に対するコメントです。"
+
+msgid "View this entry"
+msgstr "このエントリを閲覧"
+
+msgid "View this comment"
+msgstr "このコメントを閲覧"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "エントリ \"%s\" に対するコメントです。"
+
+msgid "Notifications were sent to"
+msgstr "この通知は次の方に送信されました"
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr "\"%s\"が次のエントリを投稿しました"
+
+msgid "View the complete entry"
+msgstr "完全なエントリを閲覧"
+
+msgid "View your settings"
+msgstr "設定を閲覧"
+
+msgid "This email was sent to"
+msgstr "このメールは次の方に送信されました"
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "新規エントリ"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr "新規訪問者登録 - %s"
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr "新規訪問者確認 - %s"
+
+msgid "View visitor information"
+msgstr "ビジター情報を閲覧"
+
+msgid "%num% comment"
+msgstr "コメント（%num%）"
+
+msgid "%num% comments"
+msgstr "コメント（%num%）"
+
+msgid "%num% trackback"
+msgstr "トラックバック（%num%）"
+
+msgid "%num% trackbacks"
+msgstr "トラックバック（%num%）"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+"Hashcashコードが有効ではないため、コメントを投稿できません。Javascriptが有効"
+"な最新のブラウザをお使い下さい。もしそれでも投稿できない場合は、サイトの管理"
+"者に連絡してください。"
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+"スパムクイズの答えが正しくないため、コメントを投稿できません。再度試しても投"
+"稿できないようであれば、サイトの管理者に連絡してください。"
+
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"現在プレビュー中です。保存するには\"コメントを投稿\"をクリックして下さい。"
+
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr "スパムの疑いがあるため、コメントは保存されませんでした。"
+
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr "以前のコメントと重複するため、コメントは保存されませんでした。"
+
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr "コメントは保存されました。現在、管理者による承認待ちとなっています。"
+
+msgid "Your comment has been stored."
+msgstr "コメントは保存されました。"
+
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"\"名前\"の欄にお名前（もしくはニックネーム）を入力し、\"コメントを投稿\"をク"
+"リックしてください。"
+
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"何かコメントを\"コメント\"欄に入力し、\"コメントを投稿\"をクリックしてくださ"
+"い。"
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr "コメントに入力できる最大リンク数を超えています。"
+
+msgid "Moderate this comment"
+msgstr "このコメントを審査"
+
+msgid "PivotX thumbnail creator"
+msgstr "PivotXサムネールクリエイター"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+"GIFファイルはサムネイルが正しく生成されない可能性があります。もし問題があった"
+"場合は、PNGもしくはJPGファイルを使うようにして下さい。"
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+msgid "PivotX Image Cropper"
+msgstr "PivotXイメージクロッパー"
+
+msgid "Crop size"
+msgstr "クロップサイズ"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr "クロップ方法"
+
+msgid "Fixed Proportions"
+msgstr "縦横比を固定"
+
+msgid "Bounded Size"
+msgstr "境界サイズ"
+
+msgid "Free Crop"
+msgstr "自由クロップ"
+
+msgid "Target thumbnail will be"
+msgstr "対象サムネールは次の通り："
+
+msgid "Create Thumbnail"
+msgstr "サムネール作成"
+
+msgid "Go"
+msgstr "実行"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr "もしサムネールに満足しなかった場合"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "this window"
+msgstr "このウィンドウ"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "Monday"
+msgstr "月曜日"
+
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "S_Sunday_initial"
+msgstr "日_日曜日"
+
+msgid "M_Monday_initial"
+msgstr "月_月曜日"
+
+msgid "T_Tuesday_initial"
+msgstr "火_火曜日"
+
+msgid "W_Wednesday_initial"
+msgstr "水_水曜日"
+
+msgid "T_Thursday_initial"
+msgstr "木_木曜日"
+
+msgid "F_Friday_initial"
+msgstr "金_金曜日"
+
+msgid "S_Saturday_initial"
+msgstr "土_土曜日"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "Mon"
+msgstr "月"
+
+msgid "Tue"
+msgstr "火"
+
+msgid "Wed"
+msgstr "水"
+
+msgid "Thu"
+msgstr "木"
+
+msgid "Fri"
+msgstr "金"
+
+msgid "Sat"
+msgstr "土"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Jan_January_abbreviation"
+msgstr "1月（省略形）"
+
+msgid "Feb_February_abbreviation"
+msgstr "2月（省略形）"
+
+msgid "Mar_March_abbreviation"
+msgstr "3月（省略形）"
+
+msgid "Apr_April_abbreviation"
+msgstr "4月（省略形）"
+
+msgid "May_May_abbreviation"
+msgstr "5月（省略形）"
+
+msgid "Jun_June_abbreviation"
+msgstr "6月（省略形）"
+
+msgid "Jul_July_abbreviation"
+msgstr "7月（省略形）"
+
+msgid "Aug_August_abbreviation"
+msgstr "8月（省略形）"
+
+msgid "Sep_September_abbreviation"
+msgstr "9月（省略形）"
+
+msgid "Oct_October_abbreviation"
+msgstr "10月（省略形）"
+
+msgid "Nov_November_abbreviation"
+msgstr "11月（省略形）"
+
+msgid "Dec_December_abbreviation"
+msgstr "12月（省略形）"
+
+msgid "am"
+msgstr "午前"
+
+msgid "pm"
+msgstr "午後"
+
+msgid "AM"
+msgstr "午前"
+
+msgid "PM"
+msgstr "午後"
+
+msgid "zero"
+msgstr "0"
+
+msgid "one"
+msgstr "1"
+
+msgid "two"
+msgstr "2"
+
+msgid "three"
+msgstr "3"
+
+msgid "four"
+msgstr "4"
+
+msgid "five"
+msgstr "5"
+
+msgid "six"
+msgstr "6"
+
+msgid "seven"
+msgstr "7"
+
+msgid "eight"
+msgstr "8"
+
+msgid "nine"
+msgstr "9"
+
+msgid "ten"
+msgstr "10"
+
+msgid "eleven"
+msgstr "11"
+
+msgid "twelve"
+msgstr "12"
+
+msgid "thirteen"
+msgstr "13"
+
+msgid "fourteen"
+msgstr "14"
+
+msgid "fifteen"
+msgstr "15"
+
+msgid "sixteen"
+msgstr "16"
+
+msgid "seventeen"
+msgstr "17"
+
+msgid "eigthteen"
+msgstr "18"
+
+msgid "nineteen"
+msgstr "19"
+
+msgid "twenty"
+msgstr "20"
+
+msgid "zeroth"
+msgstr "0番目の"
+
+msgid "second"
+msgstr "2番目の"
+
+msgid "third"
+msgstr "3番目の"
+
+msgid "forth"
+msgstr "4番目の"
+
+msgid "fifth"
+msgstr "5番目の"
+
+msgid "sixth"
+msgstr "6番目の"
+
+msgid "seventh"
+msgstr "7番目の"
+
+msgid "eighth"
+msgstr "8番目の"
+
+msgid "ninth"
+msgstr "9番目の"
+
+msgid "tenth"
+msgstr "10番目の"
+
+msgid "eleventh"
+msgstr "11番目の"
+
+msgid "twelfth"
+msgstr "12番目の"
+
+msgid "thirteenth"
+msgstr "13番目の"
+
+msgid "fourteenth"
+msgstr "14番目の"
+
+msgid "fifteenth"
+msgstr "15番目の"
+
+msgid "sixteenth"
+msgstr "16番目の"
+
+msgid "seventeenth"
+msgstr "17番目の"
+
+msgid "eighteenth"
+msgstr "18番目の"
+
+msgid "nineteenth"
+msgstr "19番目の"
+
+msgid "twentieth"
+msgstr "20番目の"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+"お使いのPHPのバージョンは %s です。これはPivotXが必要とするバージョン（%s）よ"
+"り下位であるため、PHPを新しいバージョンへ更新するまでPivotXが正しく動作しない"
+"可能性があります。"
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+"お使いのサーバーはセーフモードが有効になっています（この機能はうっとおしいだ"
+"けで、実際は何も安全にしていません）。ホスティング会社に連絡して、この機能を"
+"無効にしてください。さらに詳しい情報は次のサイトを参考にして下さい：<a "
+"href='http://pivotx.net/docs/doku.php?id=dealing_with_safe_mode'>Dealing "
+"with safe_mode</a>"
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+"PivotXのインストール用スクリプト 'pivotx-setup.php' が存在します。この状態は"
+"セキュリティ上の問題があります。悪意のある人が実行しないように、削除もしくは"
+"ファイル内に空のパスワードを設定するようにしてください。"
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+"古いPivot用のインストールプログラム 'pivot-setup.php' が親フォルダに存在しま"
+"す。PivotXでは使用しないことに加えセキュリティ上の問題から、すぐに削除してく"
+"ださい。"
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+"お使いのサーバーは register_globals が有効になっています。この設定はセキュリ"
+"ティ上大きな問題があるので、ホスティング会社に連絡してこの機能を無効にして下"
+"さい。さらに詳しい情報は次のサイトを参考にして下さい：<a href='http://php."
+"net/register_globals'>Register Globals</a>"
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+"パスワードが完全に暗号化されていません。%myinfo%でパスワードを再設定してくだ"
+"さい。"
+
+msgid "folder "
+msgstr "フォルダ"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+"オーブンな状態のフォルダに実行ファイルが含まれています。すぐに削除して下さ"
+"い： <tt>%s</tt>"
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+"もし出自が不明のファイルを見つけた場合は、フォーラムで報告して下さい。また"
+"我々の調査のために、そのファイルのバックアップをとっておいて下さい。"
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+"<tt>'%s'</tt> フォルダに一つ以上のPivotXによる読み込みもしくは書き込み禁止"
+"ファイルがあります。"
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+"FTPやシェルクライアントを使用して、これらのファイルに対してPivotXが読み込みと"
+"書き込みの権限を持つよう変更（chmod）して下さい。"
+
+#, php-format
+msgid ".. and %s more files."
+msgstr "残り %s ファイル.."
+
+#, fuzzy
+msgid "Click for image"
+msgstr "関連するFlickr画像 "
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr "ページが見つかりません（404エラー）"
+
+msgid "The page isn't published or doesn't exist."
+msgstr "ページが発行されていないか、もしくは存在しません。"
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr "メインタイトル・ロゴをクリックしてフロントページに進んでください。"
+
+msgid "Weblog not found (404 error)"
+msgstr "ウェブログが見つかりません（404エラー）"
+
+msgid "Category not found (404 error)"
+msgstr "カテゴリが見つかりません（404エラー）"
+
+msgid "Not found (404 error)"
+msgstr "見つかりません（404エラー）"
+
+msgid "We didn't find what you were looking for."
+msgstr "お探しのものは見つかりませんでした。"
+
+msgid "Entry not found (404 error)"
+msgstr "エントリが見つかりません（404エラー）"
+
+msgid "The entry isn't published or doesn't exist."
+msgstr "エントリは発行されていないか、もしくは存在しません。"
+
+msgid "Tag cloud for"
+msgstr "タグクラウド："
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+"このページはウェブサイトに対するグローバルなタグクラウドを表示しています。サ"
+"イトの傾向を素早く示すために、使用頻度の高いタグはより大きなフォントで表示さ"
+"れます。それぞれのタグをクリックすることでそのタグに関連する全てのエントリ、"
+"ページ、そして関係のある情報を表示するページに移動します。"
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr "フィードエラー - 選択した %s は存在しません。"
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr "URL内の %s \"%s\" （\"%s\"による）パラメータは存在しません。"
+
+msgid "weblog"
+msgstr "ウェブログ"
+
+msgid "category"
+msgstr "カテゴリ"
+
+msgid "entry"
+msgstr "エントリ"
+
+msgid "for comments"
+msgstr "コメント"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr "%1.2f 秒： %d エントリを処理中です..."
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr "%d ページを処理中です..."
+
+msgid "Search Results"
+msgstr "検索結果"
+
+msgid "Page matches for \"%name%\":"
+msgstr "\"%name%\"に対するページ検索結果："
+
+msgid "Entry matches for \"%name%\":"
+msgstr "\"%name%\"に対するエントリ検索結果："
+
+msgid "No matches found for \"%name%\". Try something else."
+msgstr ""
+"\"%name%\"に該当する結果は見つかりませんでした。他の語句で再検索して下さい。"
+
+msgid "Search for words used in entries on this website"
+msgstr "このウェブサイトのエントリ内で使用されている語句を検索する。"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "検索する語句："
+
+msgid "Enter searchterms"
+msgstr "検索語句を入力"
+
+msgid "Search!"
+msgstr "検索実行"
+
+msgid "XML: Atom Feed"
+msgstr "Atomフィード"
+
+msgid "ok"
+msgstr "OK"
+
+msgid "One comment"
+msgstr "コメント（1）"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr "一つ以上のコメントが管理者の承認を待っています。"
+
+msgid "Emoticons"
+msgstr "エモティコン"
+
+msgid "You need to specify an URL to a feed"
+msgstr "フィードに対するURLを指定する必要があります。"
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr "おっと！フィードを読み込めないようです。"
+
+msgid "CSS file (stylesheet)"
+msgstr "CSSファイル（スタイルシート）"
+
+msgid "PivotX weblog theme"
+msgstr "PivotXウェブログテーマ"
+
+msgid "XML Feed template"
+msgstr "XMLフィードテンプレート"
+
+msgid "Text file"
+msgstr "テキストファイル"
+
+msgid "PHP script"
+msgstr "PHPスクリプト"
+
+msgid "PivotX cache file"
+msgstr "PivotXキャッシュファイル"
+
+msgid "Javascript file"
+msgstr "Javascriptファイル"
+
+msgid "MagpieRSS cache file"
+msgstr "MagpieRSS キャッシュファイル"
+
+msgid "PivotX Tag file"
+msgstr "PivotXタグファイル"
+
+msgid "PivotX Tag relations"
+msgstr "PivotXタグ関連付け"
+
+msgid "Minify cache file"
+msgstr "Minify キャッシュファイル"
+
+msgid "HTML template"
+msgstr "HTMLテンプレート"
+
+msgid "Include template"
+msgstr "テンプレートを含める"
+
+msgid "Frontpage template"
+msgstr "フロントページ用テンプレート"
+
+msgid "Archive template"
+msgstr "アーカイブ用テンプレート"
+
+msgid "Entry template"
+msgstr "エントリ用テンプレート"
+
+msgid "Page template"
+msgstr "ページテンプレート"
+
+msgid "Searchpage template"
+msgstr "検索ページ用テンプレート"
+
+msgid "Apache configuration"
+msgstr "Apache設定"
+
+msgid "PivotX 'not found' template"
+msgstr "PivotX 'not found' テンプレート"
+
+msgid "PivotX error page"
+msgstr "PivotXエラーページ"
+
+msgid "(more)"
+msgstr "（更に）"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "XML: RSS Feed"
+msgstr "XML：RSSフィード"
+
+msgid "Used tags"
+msgstr "使用タグ"
+
+msgid "One trackback"
+msgstr "トラックバック（1）"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr "トラックバック用URLを生成するには、JavaScriptを有効にしてください。"
+
+#, fuzzy
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+"注意：生成されたURLは15分間のみ有効です。また、JavaScriptが有効である必要があ"
+"ります。"
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "クリックしてトラックバック用URLを生成"
+
+msgid "Tagged external link"
+msgstr "外部リンクへのタグ："
+
+#, fuzzy
+msgid "No entries found"
+msgstr "関連するその他のエントリ"
+
+msgid "account"
+msgstr "アカウント"
+
+msgid "register/login"
+msgstr "登録/ログイン"
+
+msgid "words"
+msgstr "語句"
+
+msgid "image"
+msgstr "イメージ"
+
+msgid "images"
+msgstr "イメージ"
+
+msgid "file"
+msgstr "ファイル"
+
+msgid "files"
+msgstr "ファイル"
+
+msgid "Self-registration"
+msgstr "セルフレジストレーション"
+
+msgid "Vote \"%val%\" on this entry"
+msgstr "このエントリに対し\"%val%\"を投票"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+"このサイトではコメント審査機能が有効になっています。投稿されたコメントはこの"
+"サイトの管理者により許可されるまで表示されません。"
+
+msgid "Tags used in this posting"
+msgstr "この投稿に使用されているタグ"
+
+msgid "Other entries about"
+msgstr "関連するその他のエントリ"
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+"コメントする場合は、Javascriptを有効にしてこのページを再読込してください。"
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+"このウェブログに対するローカルタグコスモスです。大きなタグは、より多くのエン"
+"トリに関連しています。タグはアルファベット順に並んでいます。関連するエントリ"
+"を調べるにはタグをクリックして下さい。<br/><br/>"
+
+msgid "Tag overview for: "
+msgstr "タグの概要： "
+
+msgid "Entries on this site with "
+msgstr "このサイトのエントリが使用："
+
+msgid "Related tags"
+msgstr "関連するタグ"
+
+msgid "External feeds for"
+msgstr "関連する外部フィード "
+
+msgid "Click icon for a list of links on"
+msgstr "関連するリンクのリストを表示するにはアイコンをクリック"
+
+msgid "Flickr images for"
+msgstr "関連するFlickr画像 "
+
+msgid "No related tags"
+msgstr "関連するタグはありません"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr "\"%s\"が次のトラックバックを送信しました"
+
+#, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "エントリ \"%s\" に対するトラックバックです。"
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "エントリ \"%s\" に対するトラックバックです。"
+
+msgid "Log in as a registered visitor"
+msgstr "登録済みのビジターとしてログイン"
+
+msgid "Forgotten your password?"
+msgstr "パスワードをお忘れですか？"
+
+msgid "Register a new username."
+msgstr "新しいユーザー名を登録する。"
+
+msgid "Logged in as"
+msgstr "次のユーザー名でログイン："
+
+msgid "Log out."
+msgstr "ログアウトしました。"
+
+msgid "Delete account."
+msgstr "アカウントを削除"
+
+msgid "Edit your preferences"
+msgstr "ユーザー設定の編集"
+
+msgid "User disabled"
+msgstr "ユーザーは無効です"
+
+msgid "Incorrect password or username"
+msgstr "パスワードもしくはユーザー名が正しくありません。"
+
+msgid "Logged in"
+msgstr "ログイン中"
+
+msgid "Register"
+msgstr "登録"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"以下の項目を入力して下さい。ユーザー認証のためのメールを送信しますので、"
+"<strong>メールアドレスが有効</strong>であることをご確認下さい。"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Back to login"
+msgstr "ログイン画面に戻る"
+
+msgid "Show my email address with comments"
+msgstr "コメントにメールアドレスを表示する。"
+
+msgid "Notify me via email of new entries"
+msgstr "新しいエントリが作成された時にメールで通知する"
+
+msgid "Default notification of replies"
+msgstr "コメントの通知をデフォルトで行う。"
+
+msgid "Here you can change your information."
+msgstr "ユーザー情報の変更が可能です。"
+
+msgid "Change preferences"
+msgstr "ユーサー設定の変更"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr "新しいパスワードは次の通り：<q>%pass%</q>"
+
+msgid "Oops"
+msgstr "おっと!"
+
+msgid "Password reset request failed."
+msgstr "パスワードのリセットに失敗しました。"
+
+msgid "Reset password"
+msgstr "パスワードをリセット"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+"パスワードを忘れた場合は、ユーザー名とメールアドレスを入力して下さい。PivotX"
+"が新しいパスワードをメールで送信します。"
+
+msgid "User already exists... Please pick another name."
+msgstr "そのユーザー名は既に使用されています。他の名前を使用してください。"
+
+msgid "E-mail address is already taken... Please pick another name."
+msgstr ""
+"そのメールアドレスは既に使用されています。他のアドレスを使用してください。"
+
+msgid "Password must be at least 4 letters long."
+msgstr "パスワードは4文字以上としてください。"
+
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"ユーザーアカウント認証のためにメールアドレスを入力して下さい。他のビジターに"
+"対しては、メールアドレスを非表示にすることができます。"
+
+msgid "The changes have been stored"
+msgstr "変更を保存しました。"
+
+msgid "Your account is verified. Please log in.."
+msgstr "ユーザーアカウントを認証しました。ログインしてください。"
+
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr "そのコードは正しくないようです。申し訳ありませんが認証できません。"
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr ""
+"パスワードをリセットするためのリンクが記載されたメールを、登録されているアド"
+"レスに送信しました。"
+
+msgid "Account deleted."
+msgstr "アカウントを削除しました。"
+
+msgid "Logged out"
+msgstr "ログアウト"
+
+msgid "Back to"
+msgstr "戻る"
+
+msgid "User stored!"
+msgstr "ユーザーを保存しました。"
+
+msgid "Could not store new user!!"
+msgstr "新しいユーザーを登録することが出来ません。"
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+"PivotXに \"%s\" としてユーザーを登録しました。\n"
+"\n"
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+"アカウント認証のため、以下のリンクをクリックしてください：\n"
+" %s\n"
+"\n"
+
+msgid "Registration confirmation"
+msgstr "登録情報確認"
+
+msgid "Verify your account"
+msgstr "アカウントを認証"
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+"アカウントを認証するため、次のアドレスにメールを送信しました： %s. メールを確"
+"認してください。"
+
+#, fuzzy
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+"コメントする場合は、Javascriptを有効にしてこのページを再読込してください。"
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "ユーザー名もしくはパスワードが違います。"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "ログイン状態を保持しますか？"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr "次のページ"
+
+msgid "Previous page"
+msgstr "前のページ"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr "総エントリ数 %num_tot% 中、%num_from%から%num_to%までを表示中。"
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "ログイン中"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "ログアウト"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "次のウェブログの設定を編集 "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "ウェブログを削除します。"
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "デフォルトのカテゴリは次の通り："
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+#, fuzzy
+msgid "Your new password is %pass%."
+msgstr "新しいパスワードは次の通り：<q>%pass%</q>"
+
+msgid "About PivotX"
+msgstr "PivotX について"
+
+msgid "Setup user"
+msgstr "ユーザを設定"
+
+msgid "Setup a new user"
+msgstr "新規ユーザーを設定"
+
+msgid "The user has been added! You can login with your new account now."
+msgstr "ユーザーを登録しました。新しいアカウントを利用してログインできます。"
+
+msgid "The entries were published."
+msgstr "エントリを発行しました。"
+
+msgid "The entries could not be published."
+msgstr "エントリの発行に失敗しました。"
+
+msgid "The entries were put on hold."
+msgstr "エントリを保留しました。"
+
+msgid "The entries could not be put on hold."
+msgstr "エントリの保留に失敗しました。"
+
+msgid "The entries were deleted."
+msgstr "エントリを削除しました。"
+
+msgid "The entries could not be deleted."
+msgstr "エントリの削除に失敗しました。"
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "このファイルを編集することは許可されていません。"
+
+msgid "The entry has been deleted"
+msgstr "エントリを削除しました。"
+
+msgid "Your Extension settings have been stored."
+msgstr "エクステンションの設定を更新しました。"
+
+msgid "Manage installed Widget extensions"
+msgstr "ウィジェットエクステンションの管理"
+
+msgid "Edit Entry"
+msgstr "エントリを編集"
+
+msgid "You are not allowed to edit this entry."
+msgstr "このファイルを編集することは許可されていません。"
+
+#, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "エントリ \"%s\" を保存しました。"
+
+#, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "エントリ\"%s\"の保存に失敗しました。"
+
+#, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "トラックバックを \"%s\" に送信しました。"
+
+msgid "Log out"
+msgstr "ログアウト"
+
+msgid "You are now logged out of PivotX"
+msgstr "PivotX からログアウトしました。"
+
+msgid "My Settings"
+msgstr "ユーザー設定"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "ブックマークの追加"
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+"いくつかの入力項目が正しくありません。確認後、もう一度実行してください。"
+
+msgid "Your settings have been updated."
+msgstr "設定を更新しました。"
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "PivotX について"
+
+msgid "Edit my personal Settings"
+msgstr "ユーザー設定の編集"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+msgid "You are not allowed to edit this page."
+msgstr "このページを編集することは許可されていません。"
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "このページを編集することは許可されていません。"
+
+msgid "The Chapter has been deleted."
+msgstr "章を削除しました。"
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "このページを編集することは許可されていません。"
+
+msgid "The Page has been deleted."
+msgstr "ページを削除しました。"
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "このページを編集することは許可されていません。"
+
+#, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "'%s' に対する設定を更新しました。"
+
+#, fuzzy
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr "エントリ %number% - %editlink% に対するコメントの編集と削除"
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "トラックバックは保存されました。"
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr "トラックバック管理"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr "エントリ %number% - %editlink% に対するコメントの編集と削除"
+
+msgid "The comment was deleted."
+msgstr "コメントを削除しました。"
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr "審査待ちコメントと最新のコメントの編集と削除"
+
+msgid "Edit or Delete Comments"
+msgstr "コメントの編集と削除"
+
+msgid "The Comment was saved!"
+msgstr "コメントを保存しました。"
+
+msgid "You have to select an entry in order to view its comments."
+msgstr "コメントを閲覧するにはエントリを選択する必要があります。"
+
+msgid "Edit or Delete Trackbacks"
+msgstr "トラックバック管理"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "トラックバックは保存されました。"
+
+#, fuzzy
+msgid "You have to select an entry in order to view its trackback."
+msgstr "コメントを閲覧するにはエントリを選択する必要があります。"
+
+msgid "Upload Files"
+msgstr "ファイルをアップロード"
+
+msgid "The visitor account has been deleted."
+msgstr "ビジターアカウントを削除しました。"
+
+msgid "Failed to deleted the visitor account."
+msgstr "ビジターのアカウント削除に失敗しました。"
+
+msgid "The category was deleted."
+msgstr "カテゴリを削除しました。"
+
+msgid "The weblog has been deleted."
+msgstr "ウェブログを削除しました。"
+
+msgid "The weblog was exported as a Theme file."
+msgstr "ウェブログをテーマファイルとしてエクスポートしました。"
+
+msgid "Create New Weblog"
+msgstr "新規ウェブログを作成"
+
+msgid "Common settings"
+msgstr "一般的な設定"
+
+msgid "Database"
+msgstr "データベース"
+
+msgid "Debug"
+msgstr "デバッグ"
+
+msgid "File Uploads"
+msgstr "ファイルアップロード"
+
+msgid "Date / Time"
+msgstr "日付/時刻"
+
+msgid "Moblogging"
+msgstr "モブロギング"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr "インデックスを構築中... しばらく時間が掛かりますが中断しないで下さい。"
+
+msgid "Rebuild the Search Index"
+msgstr "検索用インデックス構築"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "エントリ検索用インデックスの再構築"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"検索インデックス構築中... しばらく時間が掛かりますが中断しないで下さい。"
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "インデックスを再構築"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "インデックスを構築中... しばらく時間が掛かりますが中断しないで下さい。"
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+"注意！（エントリの）データベースのバックアップは、お使いのISPのコントロールパ"
+"ネルかコマンドラインを利用してください。"
+
+msgid "Backup of Database"
+msgstr "データベースのバックアップ"
+
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+"データベース（全てのエントリ）を含むzipファイルをダウンロードすることが出来ま"
+"す。"
+
+msgid "Explore files"
+msgstr "ファイルを探索"
+
+msgid "Spam configuration saved."
+msgstr "スパム設定を保存しました。"
+
+msgid "Blocked Phrases"
+msgstr "無効ドメイン設定"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "無効なドメインの閲覧・編集"
+
+msgid "Update the Global Phrases List"
+msgstr "グローバル無効ドメインリストを更新"
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr "pivotx.netを使ってグローバル無効ドメインリストを更新"
+
+msgid "Spam Washer"
+msgstr "スパム洗浄"
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr "エントリ及びトラックバックよりスパムを検知し削除します。"
+
+msgid "IP blocks"
+msgstr "IPアドレスブロック設定"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "ブロックするIPアドレスの閲覧・編集"
+
+msgid "Spam log reset."
+msgstr "スパム履歴リセット"
+
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "PivotX ファイルに対する定期的なメンテナンスの実行"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr "ユーザー '<tt>%s</tt>' は存在しません。"
+
+msgid "The user was deleted"
+msgstr "ユーザーを削除しました。"
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "そのユーザー名は既に使用されています。"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "そのユーザー名は既に使用されています。"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "'%s' に対する設定を更新しました。"
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "そのユーザー名は既に使用されています。"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "新しいウェブログが作成されました。"
+
+msgid "No account found for visitor."
+msgstr "ビジター用のアカウントはありません。"
+
+msgid "Visitor account updated."
+msgstr "ビジターのアカウントを更新しました。"
+
+msgid "A category by this name already exists"
+msgstr "この名前のカテゴリは既に存在します。"
+
+#, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "カテゴリ '%s' に対する設定を更新しました。"
+
+msgid "Edit Weblog"
+msgstr "ウェブログを編集"
+
+#~ msgid "MP3 file \\'%basename%\\'"
+#~ msgstr "MP3ファイル \\'%basename%\\'"
+
+#~ msgid "this "
+#~ msgstr "この"
+
+#~ msgid "yesterday "
+#~ msgstr "昨日"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "ポップアップイメージを挿入"
+
+#~ msgid "# Comm"
+#~ msgstr "コメント数"
+
+#~ msgid ""
+#~ "The folder '<tt>pivotx/db/</tt>' is not writeable. Please check your "
+#~ "settings."
+#~ msgstr ""
+#~ "フォルダ '<tt>pivotx/db/</tt>' に書き込みできません。設定を確認してくださ"
+#~ "い。"
+
+#~ msgid ""
+#~ "The file '<tt>pivotx/%file%</tt>' is not writeable. Please check your "
+#~ "settings."
+#~ msgstr ""
+#~ "'<tt>pivotx/%file%</tt>'に書き込みできません。設定を確認してください。"
+
+#~ msgid "[Notification]"
+#~ msgstr "[通知]"
+
+#~ msgid "[Comment]"
+#~ msgstr "[コメント]"
+
+#~ msgid "search"
+#~ msgstr "検索"
+
+#~ msgid "go back"
+#~ msgstr "戻る"
+
+#~ msgid ""
+#~ "Specify the email address(es) to whom mail will be sent. seperate "
+#~ "multiple addresses with a comma."
+#~ msgstr ""
+#~ "送信先のメールアドレスを設定します。複数の送信先はカンマで区切って指定しま"
+#~ "す。"
+
+#~ msgid "user"
+#~ msgstr "ユーザー"
+
+#~ msgid "date"
+#~ msgstr "日付"
+
+#~ msgid "chapter"
+#~ msgstr "章"
+
+#~ msgid "Format of \"reply ..\""
+#~ msgstr "返信用フォーマット"
+
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr ""
+#~ "訪問者が特定のコメントに対してコメントできるようにするための、その特定のコ"
+#~ "メントを示すリンクのフォーマットを指定します。"
+
+#~ msgid "Format of \"reply by ..\""
+#~ msgstr "返信元用フォーマット"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+#~ msgstr ""
+#~ "コメントが付けられたコメントテキストに対するフォーマットを指定します。"
+
+#~ msgid "Format of \"reply on ..\""
+#~ msgstr "返信先用フォーマット"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr ""
+#~ "他のコメントにコメントを付けたコメントテキストに対するフォーマットを指定し"
+#~ "ます。"
+
+#~ msgid "Trackback Settings"
+#~ msgstr "トラックバック設定"
+
+#~ msgid "Format of Trackbacks"
+#~ msgstr "トラックバックのフォーマット"
+
+#~ msgid "This specifies the formatting of trackbacks on the entry pages."
+#~ msgstr ""
+#~ "エントリページに表示される送信されたトラックバックの表示フォーマットを指定"
+#~ "します。"
+
+#~ msgid "Format of Trackback Link"
+#~ msgstr "トラックバックリンクのフォーマット"
+
+#~ msgid ""
+#~ "This specifies the formatting of the trackback link on the entry pages.)"
+#~ msgstr ""
+#~ "エントリページに表示される送信されたトラックバックリンクの表示フォーマット"
+#~ "を指定します。"
+
+#~ msgid "Allow self-registration"
+#~ msgstr "セルフレジストレーションを許可"
+
+#~ msgid ""
+#~ "Setting this to yes enables people to register as (normal) users and "
+#~ "hence post entries. (This is not a \"comment\" user.)"
+#~ msgstr ""
+#~ "はいを選択することで、閲覧者自身がエントリを投稿可能なノーマルユーザーを作"
+#~ "成することが可能になります（コメントのためのユーザー登録ではないことに注"
+#~ "意）。"
+
+#~ msgid ""
+#~ "'Mod rewrite' is enabled, but it seems like the webserver is not set up "
+#~ "correctly to serve pages with non-crufty URLs. You should copy the "
+#~ "<tt>example.htaccess</tt> from the PivotX distribution to <tt>.htaccess</"
+#~ "tt>. Until you've done this, most pages on your site will give a 404-not-"
+#~ "found error."
+#~ msgstr ""
+#~ "'Mod rewrite'が有効になっていますが、ウェブサーバーの設定が正しくないよう"
+#~ "です。PivotXの配布パッケージに含まれる<tt>example.htaccess</tt>を<tt>."
+#~ "htaccess</tt>としてサーバーにコピーするまで、ほとんどのページが404-not-"
+#~ "foundエラーを返します。"
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "ユーザー名とメールアドレスが適合しません。"
+
+#~ msgid "The path to the folder where uploaded files are stored."
+#~ msgstr "アップロードしたファイルを保存するフォルダへのパス"
+
+#~ msgid "File Mappings"
+#~ msgstr "ファイルマッピング"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr "Pivotによって作成されたファイルの概要と表示"
+
+#~ msgid "SimplePie cache file"
+#~ msgstr "SimplePieキャッシュファイル"
+
+#~ msgid "Configure Spam Protection tools"
+#~ msgstr "スパムプロテクションツール設定"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "それぞれのウェブログに対する概要を確認することが出来ます。各ウェブログに対"
+#~ "して作成されたファイルとテンプレートも同時に表示されますので、ファイル関連"
+#~ "のトラブルシューティングにとても有効です。"
+
+#~ msgid "Verify this visitor account for the user."
+#~ msgstr "この訪問者のアカウントを確認する。"
+
+#~ msgid ""
+#~ "Disable this visitor account (so no comments can be made with this name)."
+#~ msgstr ""
+#~ "このユーザーアカウントを無効にします（このユーザーによるコメントは無くなり"
+#~ "ます）。"
+
+#~ msgid "Delete registered visitor"
+#~ msgstr "登録済み訪問者の削除"
+
+#~ msgid ""
+#~ "You can delete this registered visitor if you would like. All of their "
+#~ "comments will remain"
+#~ msgstr ""
+#~ "この登録済み訪問者を削除することが出来ます。この訪問者によるコメントは残り"
+#~ "ます。"
+
+#~ msgid "Change"
+#~ msgstr "変更"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "削除の確認"
+
+#~ msgid ""
+#~ "You're about to remove the account for %s. Are you sure you want to do "
+#~ "this?"
+#~ msgstr "%sのアカウントを削除しようとしています。よろしいですか？"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IPアドレスリストは保存されました。"
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "これらのIPアドレスを保存"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "無効なドメインリストは保存されました。"
+
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "グローバル無効ドメインリストは保存されました。"
+
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "グローバル無効ドメインリストは削除されました。"
+
+#~ msgid "The Global Phrases list is empty"
+#~ msgstr "グローバル無効ドメインリストは空です"
+
+#~ msgid ""
+#~ "Items marked with an asterisk ( * ) will be used only to block referers. "
+#~ "All other items will be used to block referers, comments and trackbacks "
+#~ "alike."
+#~ msgstr ""
+#~ "アスタリスク（*）を付けたドメインは、参照元のみブロックされます。アスタリ"
+#~ "スクがない場合は全て（参照元・コメント・トラックバック）がブロックされま"
+#~ "す。"
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "無効なドメインの保存"
+
+#~ msgid "Globally blocked phrases."
+#~ msgstr "グローバル無効ドメイン設定"
+
+#~ msgid ""
+#~ "Apart from the Blocked Phrases mentioned above, you can also use an up-to-"
+#~ "date list that your Pivot can fetch from the pivotlog.net server. "
+#~ "Currently this list contains the following phrases:"
+#~ msgstr ""
+#~ "無効ドメイン設定とは別に、pivotlog.netサーバーでブロックされているドメイン"
+#~ "リストを参照して、無効ドメインリストを設定することができます。現在このリス"
+#~ "トには以下のドメインが設定されています:"
+
+#~ msgid "Update the Global Phrases list from pivotlog.net"
+#~ msgstr "グローバル無効ドメインリストを更新"
+
+#~ msgid "Remove the Global Phrases list"
+#~ msgstr "グローバル無効ドメインリストを削除"
+
+#~ msgid "Displaying the Spam Log"
+#~ msgstr "スパム履歴を表示"
+
+#~ msgid "Spam Log is empty."
+#~ msgstr "スパム履歴はありません"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "View visitor information:\n"
+#~ "%s%s?menu=admin&func=admin&do=seecommusers\n"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "訪問者情報を閲覧する:\n"
+#~ "%s%s?menu=admin&func=admin&do=seecommusers\n"
+
+#, fuzzy
+#~ msgid "Rendering error - selected %s doesn't exists!"
+#~ msgstr "フィードエラー - 選択した %s は存在しません。"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "ユーザー名は3文字以上にして下さい。"
+
+#~ msgid "Password can't be the same as username."
+#~ msgstr "ユーザー名と同一のパスワードは許可されません。"
+
+#~ msgid "Block this IP"
+#~ msgstr "このIPをブロック"
+
+#~ msgid "[Trackback] Re:"
+#~ msgstr "[トラックバック] Re:"
+
+#~ msgid "No TrackBack ID (tb_id)"
+#~ msgstr "トラックバックID(tb_id)がありません。"
+
+#~ msgid "No URL (url)"
+#~ msgstr "URLがありません。"
+
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr ""
+#~ "以前のトラックバックと重複するため、トラックバックは保存されませんでした。"
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "分"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "注意：このサイトの管理者はあなたのユーザー名とパスワードを閲覧することが可"
+#~ "能です。他の重要なアカウントのユーザー名やパスワードを、ここで使用しないで"
+#~ "下さい。"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your forgotten password for PivotX \"%name%\" is: \n"
+#~ "\n"
+#~ "%pass%\n"
+#~ "\n"
+#~ "Don't forget it again, please!\n"
+#~ "\n"
+#~ "To log in to your account, click the following link:\n"
+#~ " %link%"
+#~ msgstr ""
+#~ "PivotX '%name%' のパスワードは以下の通りです。\\n\\n%pass%\\n\\n次は忘れな"
+#~ "いようにして下さい。\\n\\nログインするには以下のリンクをクリックして下さ"
+#~ "い：\\n%link%"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "パスワード"
+
+#~ msgid "Browse for image"
+#~ msgstr "イメージの閲覧"
+
+#~ msgid "Browse for file"
+#~ msgstr "ファイルの閲覧"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "ポップアップイメージの挿入"
+
+#~ msgid "No such user.."
+#~ msgstr "そのようなユーザーは存在しません。"
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "コメントはありません。"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "コメント"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "コメント"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "コメントを保存"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "ロールバック"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "オプションを編集"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "コメント（0）"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "フォーラムへの最新の投稿"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by"
+
+#, fuzzy
+#~ msgid "(more...)"
+#~ msgstr "続きを読む"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "コメント"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "コメント"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "コメント"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "前のページ"
+
+#, fuzzy
+#~ msgid "Next Page &raquo;"
+#~ msgstr "次のページ"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "アップデートトラッカーにピングを送信する"
+
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "新規エントリの投稿時に、weblogs.comのような更新とラッカーに対して自動でピ"
+#~ "ングを送信するかどうかを設定します。blogrolling.com などのサービスには、ピ"
+#~ "ングを送信する必要があります。"
+
+#~ msgid "URLs to ping"
+#~ msgstr "ピング送信先URL"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "改行もしくはパイプサイン（|）で区切ることで複数の送信先を指定することが出"
+#~ "来ます。アドレスに http:// は含めない様に注意してください。次はいくつかの"
+#~ "有名なピングサーバーです：<br /><b>rpc.pingomatic.com</b>（もっとも広く利"
+#~ "用されています）<br /><b>rpc.weblogs.com/RPC2</b>（こちらも広く利用されて"
+#~ "います）<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "ピング設定"
+
+#~ msgid "stuff"
+#~ msgstr "スタッフ"
+
+#~ msgid "upload"
+#~ msgstr "アップロード"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "ファイルのアップロードに失敗しました。エラーは次の通りです。"
+
+#~ msgid "or select"
+#~ msgstr "選択"
+
+#~ msgid "Select File"
+#~ msgstr "ファイルの選択"
+
+#~ msgid "Use text"
+#~ msgstr "テキストを使用"
+
+#~ msgid "Entries &amp; Archives"
+#~ msgstr "エントリとアーカイブ"
+
+#~ msgid "Suggested tags"
+#~ msgstr "推奨タグ"
+
+#~ msgid "Entry &amp; Archive Settings"
+#~ msgstr "エントリとアーカイブの設定"
+
+#~ msgid "Spamscore Threshold"
+#~ msgstr "スパムスコアのしきい値"
+
+#~ msgid ""
+#~ "Each comment gets 'points', where a higher score means that it's more "
+#~ "likely that the comment or trackback is spam. For instance: a failed "
+#~ "Hascash raises the spamscore by 6."
+#~ msgstr ""
+#~ "それぞれのコメントにはポイントがつきます。コメントおよびトラックバックスパ"
+#~ "ムは多くのポイントを取得することになります。例えば、ハッシュキャッシュに失"
+#~ "敗した場合は6ポイントとなります。"
+
+#~ msgid "Use Hardened Trackback"
+#~ msgstr "強化トラックバックを使用"
+
+#~ msgid ""
+#~ "Hardened Trackback is a powerful trackback spam protection. It requires "
+#~ "javascript to be enabled on the client. If this is unacceptable for you, "
+#~ "then don't enable it."
+#~ msgstr ""
+#~ "強化トラックバックは強力なトラックバックスパム防止システムです。閲覧してい"
+#~ "るブラウザがJavascriptを有効にしておく必要があるので、その様な設定を望まな"
+#~ "いのであれば、この機能は使わないで下さい。"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "イメージ名"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Wysiwygエディタの使用"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "デフォルトでWysiwygエディタを使用するかどうかを決定します。ユーザー毎に設"
+#~ "定が可能です。"
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "最近のコメント"
+
+#~ msgid "Show how many"
+#~ msgstr "表示数"
+
+#~ msgid "Cut at length"
+#~ msgstr "表示文字数"
+
+#~ msgid "Format"
+#~ msgstr "表示フォーマット"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "フロントページなどの'最近のコメント'に表示されるコメントに関する設定です。"
+
+#, fuzzy
+#~ msgid "Use \"Nofollow\""
+#~ msgstr "'Nofollow'属性の使用"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+#~ msgstr ""
+#~ "Google PageRankの向上を目的としたスパム対策として、コメントリンクおよびリ"
+#~ "ファラーリンクにrel=\"nofollow\" 属性を追加します。"
+
+#~ msgid "Cache duration"
+#~ msgstr "キャッシュ間隔"
+
+#~ msgid "The amount (in minutes) that the tag page output is cached."
+#~ msgstr "タグページの出力がキャッシュされる時間（分）"
+
+#~ msgid "Next Archive"
+#~ msgstr "次のアーカイブ"
+
+#~ msgid "Previous Archive"
+#~ msgstr "前のアーカイブ"
+
+#~ msgid "Archive type"
+#~ msgstr "作成の頻度"
+
+#~ msgid "No Archives"
+#~ msgstr "アーカイブページを作成しない"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "週毎にアーカイブページを作成"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "月毎にアーカイブページを作成"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "年毎にアーカイブページを作成"
+
+#~ msgid "Archive Link"
+#~ msgstr "アーカイブへのリンク"
+
+#~ msgid "Archive List format"
+#~ msgstr "リンクフォーマット"
+
+#~ msgid "Archive Order"
+#~ msgstr "リンク表示順序"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "昇順（古いものから）"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "降順（新しいものから）"
+
+#~ msgid "Magic quotes enabled"
+#~ msgstr "Magic quotesを有効にする"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your server has a PHP option set that's called \"Magic quotes\" enabled. "
+#~ "This might cause Pivot to run sub-optimally.  Look on <a href=\"http://"
+#~ "www.pivotlog.net/docs/doku.php?id=servers_with_magic_quotes\">this page</"
+#~ "a> to remedy the situation."
+#~ msgstr ""
+#~ "お使いのPHPは'Magic quotes'が有効になっています。この機能を使用すると最善"
+#~ "の状態でPivotが動作しません。この問題に対する解決策は<a href='http://www."
+#~ "pivotlog.net/docs/doku.php?id=servers_with_magic_quotes'>このページ</a>を"
+#~ "ご覧下さい。"
+
+#~ msgid "Pivot installer script present"
+#~ msgstr "Pivotのインストールスクリプトが存在します。"
+
+#~ msgid "Register Globals enabled"
+#~ msgstr "Register Globals enabled"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your server has a PHP option set that's called \"register globals\" "
+#~ "enabled. This is a potentially unsafe setting, and therefore you should "
+#~ "really try to get this fixed. To remedy this situation, look at the <a "
+#~ "href=\"http://www.pivotlog.net/docs/doku.php?"
+#~ "id=servers_with_register_globals\">Servers with register_globals</a> in "
+#~ "the Pivot documentation."
+#~ msgstr ""
+#~ "Your server has a PHP option set that's called 'register globals' "
+#~ "enabled. This is a potentially unsafe setting, and therefore you should "
+#~ "really try to get this fixed. To remedy this situation, look at the '<a "
+#~ "href='http://www.pivotlog.net/docs/doku.php?"
+#~ "id=servers_with_register_globals'>Servers with register_globals</a>' in "
+#~ "the Pivot documentation."
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "行った作業のログを記録します。"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "コメントが無い場合"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "コメントが一つの場合"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "コメントが二つ以上の場合"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "コメントの数に応じて表示させるテキストを指定します。空欄の場合は言語ファイ"
+#~ "ルの初期値が使用されます。"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "トラックバックが無い場合"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "トラックバックが一つの場合"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "トラックバックが二つ以上の場合"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many trackbacks there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "トラックバックの数に応じて表示させるテキストを指定します。空欄の場合は言語"
+#~ "ファイルの初期値が使用されます。"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "コメント（%num%）"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "コメント（%num%）"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "トラックバック（0）"
+
+#, fuzzy
+#~ msgid "%num% trackbacks."
+#~ msgstr "トラックバック（%num%）"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "アクセス権限がありません。"
+
+#~ msgid "Further Options"
+#~ msgstr "追加オプション"
+
+#~ msgid "Basic View"
+#~ msgstr "標準ビュー"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "必要最小限のフィールドのみ表示"
+
+#~ msgid "Extended View"
+#~ msgstr "拡張ビュー"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "編集可能なすべてのフィールドを表示"
+
+#~ msgid "Toggle between basic and extended view"
+#~ msgstr "標準ビューと拡張ビューの切り替え"
+
+#~ msgid "Approve"
+#~ msgstr "許可"
+
+#~ msgid "Welcome to %build%."
+#~ msgstr "ようこそ %build%"
+
+#~ msgid "Done!"
+#~ msgstr "完了"
+
+#~ msgid "Shortcuts"
+#~ msgstr "ショートカット"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "エントリ  %title% を削除することは許可されていません。"
+
+#~ msgid ""
+#~ "You can not delete the last entry. You must first post a new entry, "
+#~ "before deleting this entry"
+#~ msgstr ""
+#~ "最後のエントリは削除できません。削除したい場合は、新しいエントリを作成して"
+#~ "ください。"
+
+#~ msgid "Week"
+#~ msgstr "週"
+
+#~ msgid "Remember"
+#~ msgstr "ユーザー名とパスワードを記憶"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "正しいユーザー名とパスワードでログインできない場合はクッキーを削除してみて"
+#~ "下さい:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "クッキーの削除"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "10回以上ログインに失敗したため、今から12時間はログインすることは出来ませ"
+#~ "ん。"
+
+#~ msgid "Overview"
+#~ msgstr "概要"
+
+#~ msgid "Modify Entries"
+#~ msgstr "エントリ編集"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "ブックマーク設定"
+
+#~ msgid "Statistics"
+#~ msgstr "統計データ"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "システム管理"
+
+#~ msgid "Modify Entry"
+#~ msgstr "エントリ編集"
+
+#~ msgid "View my personal Info"
+#~ msgstr "ユーザー情報管理"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "ブックマーク管理"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "ファイルアップロード完了"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "統計データ管理"
+
+#~ msgid "Recent Entries"
+#~ msgstr "最近のエントリ"
+
+#~ msgid "Recent Comments"
+#~ msgstr "最近のコメント"
+
+#~ msgid ""
+#~ "Immediately approve comments by these Registered Visitors in the future."
+#~ msgstr "これらの登録済み訪問者によるコメントは許可する"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "すべてのファイルを再構築"
+
+#~ msgid "Verify the Database"
+#~ msgstr "データベース検証"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "フロントページ構築"
+
+#~ msgid "User Information Fields"
+#~ msgstr "公開するユーザー情報"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "ユーザー情報の作成・編集・削除"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Pivotによって作成されたファイルとアーカイブの再構築"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "データベースの整合性を検証"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr "フロントページ・最終アーカイブ・RSSフィードの再構築"
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "エントリのバックアップ作成"
+
+#~ msgid "The Global Phrases could not be stored. Please try again later!"
+#~ msgstr ""
+#~ "グローバル無効ドメインリストの更新に失敗しました。しばらく経ってから、もう"
+#~ "一度お試し下さい。"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "アップデートトラッカーにピング送信"
+
+#~ msgid "Open Debug window"
+#~ msgstr "デバッグウィンドウを開く"
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "一からテンプレートを作成"
+
+#~ msgid "Comment*"
+#~ msgstr "コメント*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr "(*注意：コメントは<b>一回だけ</b>保存できます)"
+
+#~ msgid "Editing"
+#~ msgstr "編集中"
+
+#~ msgid "Save changes!"
+#~ msgstr "変更を保存"
+
+#~ msgid "Auxillary template"
+#~ msgstr "補助テンプレート"
+
+#~ msgid "Subtemplate"
+#~ msgstr "サブテンプレート"
+
+#~ msgid "Normal template"
+#~ msgstr "標準テンプレート"
+
+#~ msgid "CSS file"
+#~ msgstr "CSSファイル"
+
+#~ msgid "PHP file"
+#~ msgstr "PHPファイル"
+
+#~ msgid "Generate Archive"
+#~ msgstr "アーカイブ作成"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "アーカイブファイルの再作成"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "XMLフィード検証"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "XMLフィードファイルの整合性を検証（必要に応じて修復）"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Pivotの主要なファイルのバックアップ"
+
+#~ msgid "HashCash Options"
+#~ msgstr "HashCashオプション"
+
+#~ msgid "SpamQuiz Options"
+#~ msgstr "SpamQuizオプション"
+
+#~ msgid "Age Limit"
+#~ msgstr "経過日数"
+
+#~ msgid ""
+#~ "Enable SpamQuiz only for entries older than this many days. Normally "
+#~ "automated commentspam is only sent to old entries and hence it might not "
+#~ "be necessary to burden your regular users (who comment within, e.g., a "
+#~ "week)."
+#~ msgstr ""
+#~ "通常、スパムロボットは古いエントリに対して行われるので、ここで指定した日数"
+#~ "を経過したエントリのみSpamQuizを適用させます。この機能により、SpamQuizが一"
+#~ "週間以内にコメントしてくれるような常連ユーザーの負担になることはありませ"
+#~ "ん。"
+
+#~ msgid "Hardened Trackback Options"
+#~ msgstr "強化トラックバックオプション"
+
+#~ msgid "20 referrers"
+#~ msgstr "最近の20件"
+
+#~ msgid "50 referrers"
+#~ msgstr "最近の50件"
+
+#~ msgid "all referrers"
+#~ msgstr "すべての参照元"
+
+#~ msgid "only non-blocked lines"
+#~ msgstr "許可された参照元のみ表示"
+
+#~ msgid "both blocked and non-blocked lines"
+#~ msgstr "全ての参照元を表示"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "参照元とエントリのマッピングを更新"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "ホストアドレス（IPアドレス）"
+
+#~ msgid "Which page"
+#~ msgstr "ページ"
+
+#~ msgid "Getting new titles"
+#~ msgstr "新しいエントリを反映中..."
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "多少時間がかかります... 中断しないで下さい。"
+
+#~ msgid "First pass"
+#~ msgstr "最初のパス"
+
+#~ msgid "Second pass"
+#~ msgstr "二回目のパス"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "参照元とエントリのマッピングを更新中..."
+
+#~ msgid "Finished"
+#~ msgstr "マッピングの更新完了"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "ユーザー情報の編集"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr "ユーザーに関する情報を編集"
+
+#~ msgid "Edit User Info"
+#~ msgstr "ユーザー情報の編集"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "新しいユーザー（ログインアカウント）を作成します。"
+
+#~ msgid "Create"
+#~ msgstr "作成"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "アドミニストレーター作成"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "アドミニストレーター は、Pivotに対するすべての操作を行うことが出来ます. こ"
+#~ "のユーザーを作成してもよろしいですか？"
+
+#~ msgid "Use encoding"
+#~ msgstr "使用する文字コード"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "使用する文字コード（例えば、utf-8やiso-8859-1）を決定します。空欄にしてお"
+#~ "けば、言語ファイルより適切な文字コードが選択されます。"
+
+#~ msgid "File Info"
+#~ msgstr "ファイル情報"
+
+#~ msgid "Local Path"
+#~ msgstr "ローカルパス"
+
+#~ msgid "Debug Options"
+#~ msgstr "デバッグオプション"
+
+#~ msgid "File Upload settings"
+#~ msgstr "ファイルアップロード設定"
+
+#~ msgid "Clean Filename"
+#~ msgstr "安全なファイル名"
+
+#~ msgid "Various Settings"
+#~ msgstr "その他の設定"
+
+#~ msgid "Use Basic View"
+#~ msgstr "標準ビューの使用"
+
+#~ msgid ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+#~ msgstr "新規エントリ作成の際にデフォルトで使用するビューを決定します。"
+
+#~ msgid "Default Text Processing"
+#~ msgstr "デフォルトのテキスト処理"
+
+#~ msgid "Text Processing"
+#~ msgstr "テキスト処理"
+
+#~ msgid "None"
+#~ msgstr "テキスト処理無し"
+
+#~ msgid ""
+#~ "You can delete this user if you would like. All of their posts will "
+#~ "remain, but they will no longer be able to login"
+#~ msgstr ""
+#~ "ユーザーを削除します。削除してもこのユーザーによって投稿されたエントリは残"
+#~ "ります。"
+
+#~ msgid "Trackback Setup"
+#~ msgstr "トラックバック設定"
+
+#~ msgid ""
+#~ "If set, an email will be sent to this address when a Tracback is added."
+#~ msgstr ""
+#~ "トラックバックが付けられたときに、登録したアドレスに通知メールを送信しま"
+#~ "す。"
+
+#~ msgid "Open links in new window"
+#~ msgstr "リンクを新規ウィンドウで開く"
+
+#~ msgid "Use emoticons"
+#~ msgstr "Emoticonを使用する"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "メールアドレスのエンコード"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr ""
+#~ "エントリ内に記載されているリンクを新しいウィンドウで開くかどうかを設定しま"
+#~ "す。"
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "検索インデックスの自動更新"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "エントリが作成もしくは変更された際に、自動で検索用のインデックスを更新する"
+#~ "かどうかを設定します。"
+
+#~ msgid ""
+#~ "The number of seconds rebuilding takes, before Pivot refreshes the page. "
+#~ "The default is 28, but if you are having problems with rebuilding, try "
+#~ "lowering this number to 10."
+#~ msgstr ""
+#~ "Pivotがページを再構築する際に必要とする時間を制限します（デフォルトは28"
+#~ "秒）。再構築時に問題が発生するようであれば、この時間を10秒まで短くしてみて"
+#~ "下さい。"
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "本文（イントロダクション・ボディ）の初期値"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "新規エントリフォームのイントロダクションとボディにあらかじめ入力されている"
+#~ "値を設定します。通常は空欄です。"
+
+#~ msgid "Remote cropping script"
+#~ msgstr "画像クロップ用スクリプト"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "サーバーに画像クロップに必要なライブラリが無い場合に、代替のスクリプトを設"
+#~ "定することが出来ます。"
+
+#~ msgid "Extensions directory"
+#~ msgstr "エクステンション用ディレクトリ"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "Pivot用のエクステンションを保存しておく場所を設定します。詳細はドキュメン"
+#~ "トを確認して下さい。"
+
+#~ msgid "Extensions directory path"
+#~ msgstr "ディレクトリパス"
+
+#~ msgid "Options for Tags"
+#~ msgstr "タグ用オプション"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "ウェブログを編集します。"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "新しくウェブログを作成します。"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "ウェブログの削除"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "ウェブログに使用するサブウェブログと、ウェブログに発行するカテゴリを設定し"
+#~ "ます。"
+
+#~ msgid "Finish"
+#~ msgstr "作成"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "ウェブログの作成・変更 ステップ 1/3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "ウェブログの作成・変更 ステップ 2/3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "ウェブログの作成・変更 ステップ 3/3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "フロントページのファイル名"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "フロントページ（インデックスページ）のファイル名を設定します。通常"
+#~ "は、'index.html' や 'index.php' が使用されます。"
+
+#~ msgid "SSI Prefix"
+#~ msgstr "SSIプレフィックス"
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "SSIでウェブログを動作させる場合（推奨はしませんが・・・）、SSI用のプレ"
+#~ "フィックスを設定することが出来ます。例えば、'index.shtml?p='。意味が分から"
+#~ "ない場合は、空欄にしておいて下さい。"
+
+#~ msgid "Frontpage Path"
+#~ msgstr "フロントページのパス"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr "フロントページを設置する場所を絶対もしくは相対パスで指定します。"
+
+#~ msgid "Entry Settings"
+#~ msgstr "エントリの設定"
+
+#~ msgid "Entries Path"
+#~ msgstr "エントリのパス"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "ライブエントリを<b>使用しない</b>場合のみ、エントリ毎のページを保存する場"
+#~ "所を絶対もしくは相対パスで指定します。"
+
+#~ msgid "Live entries"
+#~ msgstr "ライブエントリ"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "'ライブエントリ'を使用すると、Pivotはエントリ毎のファイルを作成しません"
+#~ "（推奨設定）。"
+
+#~ msgid "Index File"
+#~ msgstr "インデックスファイル"
+
+#~ msgid "Archive Path"
+#~ msgstr "アーカイブのパス"
+
+#~ msgid "Archive Amount"
+#~ msgstr "アーカイブの量"
+
+#~ msgid "Archive Format"
+#~ msgstr "ファイルのフォーマット"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "ショートエントリ用テンプレート"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr ""
+#~ "フロントページやアーカイブページに表示するエントリのレイアウトを決定するテ"
+#~ "ンプレートファイルを指定します。"
+
+#~ msgid "Allow Comments?"
+#~ msgstr "コメントを許可"
+
+#~ msgid ""
+#~ "Determines whether users will be able to leave comments on the entries in "
+#~ "this subweblog."
+#~ msgstr "エントリにコメントを許可するかどうかを設定します。"
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSSファイル名"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atomファイル名"
+
+#~ msgid "Feed Path"
+#~ msgstr "フィードのパス"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr ""
+#~ "これらのフィードファイルを保存する場所を、相対もしくは絶対パスで指定しま"
+#~ "す。"
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "最近の参照元"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "フロントページなどの'最近の参照元'に表示される参照元リンクの設定です。"
+
+#~ msgid "Use graphics"
+#~ msgstr "アイコンの使用"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr "参照元が有名なサーチエンジンの場合に小さなアイコンを表示します。"
+
+#~ msgid "Redirect Referers"
+#~ msgstr "リダイレクト"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "Google PageRankの向上を目的としたリファラースパムに対して、その効果を無く"
+#~ "します。"
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Emoticonの使用"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ "Emoticons, 例えば :-), を使用した場合、対応するアイコンに変換します。日本"
+#~ "式の顔文字を使用する場合は'いいえ'を選択したほうが無難です。"
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "メールアドレスのエンコード"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "メールスパム対策として、JavaScriptでメールアドレスをエンコードするかどうか"
+#~ "を設定します。"
+
+#~ msgid "Target Blank"
+#~ msgstr "新規ウィンドウ"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML対応"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "'はい'に設定した場合、エントリ内のリンクに target=\"_blank\" が追加され、"
+#~ "リンク先を新しいウィンドウで開きます。'XHTML対応'は、ウェルフォームドXHTML"
+#~ "を満足するため、rel=\"external\" 属性が付加されます。"
+
+#~ msgid "Format of Search Results"
+#~ msgstr "検索結果のフォーマット"
+
+#~ msgid ""
+#~ "This specifies the formatting of search results on the search page. It "
+#~ "contains five parts, split by a line containing '----': Top, summary, the "
+#~ "start of list, all items in the list and the end of list. You can find "
+#~ "the gory details in the <a href='http://pivotlog.net/docs/doku.php?"
+#~ "id=working_with_search_results'>documentation</a>."
+#~ msgstr ""
+#~ "検索ページに表示される検索結果のフォーマットを指定します。五つの部分から構"
+#~ "成され'----'で分割されます： トップ, サマリー, リストの始まり, リスト内の"
+#~ "全てのアイテム, リストの終わり。詳細は<a href='http://pivotlog.net/docs/"
+#~ "doku.php?id=working_with_search_results'>ドキュメント</a>をお読み下さい。"
+
+#~ msgid "Date display settings"
+#~ msgstr "日付表示"
+
+#~ msgid "Format of Comments"
+#~ msgstr "コメントのフォーマット"
+
+#~ msgid "This specifies the formatting of comments on the entry pages."
+#~ msgstr "エントリページに表示されるコメントのフォーマットを指定します。"
+
+#~ msgid "URL to the default Gravatar image. Start with http://"
+#~ msgstr "デフォルトアバターイメージのURL。http:// を忘れないで下さい。"
+
+#~ msgid "Gravatar HTML"
+#~ msgstr "アバターHTML"
+
+#~ msgid ""
+#~ "HTML to insert for a gravatar. %img% will be substituted by the url to "
+#~ "the image."
+#~ msgstr ""
+#~ "アバターを挿入するためのHTML。%img% はアバターイメージへのURLになります。"
+
+#~ msgid "Gravatar size"
+#~ msgstr "アバターサイズ"
+
+#~ msgid "Size (in pixels) of the gravatar. The default is 48."
+#~ msgstr "アバターのサイズをピクセルで指定します（デフォルトは 48）。"
+
+#~ msgid ""
+#~ "After a trackback has been placed, mail can be sent to maintainers of "
+#~ "this weblog."
+#~ msgstr ""
+#~ "トラックバックが送信された場合に、ウェブログの管理者にメールを送信するかど"
+#~ "うかを指定します。"
+
+#~ msgid "Trackbacks Popup?"
+#~ msgstr "トラックバックポップアップ"
+
+#~ msgid ""
+#~ "determines whether the trackbacks page (or 'single entry') will be shown "
+#~ "in a popup window, or in the original browser window."
+#~ msgstr ""
+#~ "トラックバックのページやエントリ毎のページをポップアップウィンドウに表示さ"
+#~ "せるかどうかを指定します。"
+
+#~ msgid "Specify the width and height (in pixels) of the trackbacks pop-up."
+#~ msgstr "ポップアップウィンドウの幅と高さをピクセルで指定します。"
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Blogroll"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "オプションとして、<a href=\"http://www.blogrolling.com\" target=\"_blank"
+#~ "\">blogrolling.com</a> blogroll をウェブログに含めることが出来ます。"
+#~ "Blogrollingはリンクの管理をする優れたサービスです。Blogrollingを使用しない"
+#~ "場合は先に進んでください。興味がある場合は blogrolling.com にログインし"
+#~ "て'2ef8b42161020d87223d42ae18191f6d'のようなID#を入手してください。"
+
+#~ msgid "Background Color"
+#~ msgstr "背景色"
+
+#~ msgid "Line Color 1"
+#~ msgstr "ライン色 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "ライン色 2"
+
+#~ msgid "Color 1"
+#~ msgstr "カラー 1"
+
+#~ msgid "Color 2"
+#~ msgstr "カラー 2"
+
+#~ msgid "Color 3"
+#~ msgstr "カラー 3"
+
+#~ msgid "Color 4"
+#~ msgstr "カラー 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "これらの色は blogroll に使用されます。カラー 1 から カラー 4 はどの程度最"
+#~ "近更新されたかを示します。"
+
+#~ msgid "Complete List Preview"
+#~ msgstr "リスト表示"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "サムネール表示"
+
+#~ msgid "Files"
+#~ msgstr "ファイル"
+
+#~ msgid "Width x Height"
+#~ msgstr "幅×高さ"
+
+#~ msgid "Delete Image"
+#~ msgstr "イメージの削除"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "ファイル %s を削除します。よろしいですか？"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "このイメージをを削除します。"
+
+#~ msgid "create"
+#~ msgstr "作成"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "以下のフィールドにアドレスを入力してリンクを挿入します。訪問者はマウスオー"
+#~ "バー時にタイトルを確認することが出来ます。"
+
+#~ msgid "Text"
+#~ msgstr "テキスト"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "カテゴリ '%s' に投稿できるユーザーを設定します。"
+
+#~ msgid "Allowed"
+#~ msgstr "投稿可能なユーザー"
+
+#~ msgid "Allow"
+#~ msgstr "許可する"
+
+#~ msgid "Denied"
+#~ msgstr "投稿不可能なユーザー"
+
+#~ msgid "Deny"
+#~ msgstr "許可しない"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "現在のPivotのバージョンでは、カテゴリ名だけが削除されます。将来、エントリ"
+#~ "に対する作業も選択することができる予定です。"
+
+#~ msgid "Index this category"
+#~ msgstr "インデックス"
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr ""
+#~ "'いいえ'を選択することで、このカテゴリのエントリは検索インデックスに加えら"
+#~ "れなくなります。"
+
+#~ msgid "Index Category"
+#~ msgstr "カテゴリのインデックス"
+
+#~ msgid "Public Category"
+#~ msgstr "公開カテゴリ"
+
+#~ msgid ""
+#~ "If set to 'No', this category will only be viewable for registered "
+#~ "visitors. (applies only to live pages)"
+#~ msgstr ""
+#~ "'いいえ'を設定することで、このカテゴリに属するエントリは登録されている訪問"
+#~ "者のみ公開されます（ライブページでのみ有効）。"
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "（Ctrl+クリックで複数のカテゴリを選択）"
+
+#~ msgid "# Track"
+#~ msgstr "トラックバック数"
+
+#~ msgid "Delete Entry"
+#~ msgstr "エントリの削除"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "エントリと付随するコメントの削除"
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr "これらのエントリを削除してもよろしいですか？"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "改行を変換"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "（Wysiwygエディタでは無効）"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "（取り扱いに注意！）"
+
+#~ msgid "Edit Comments"
+#~ msgstr "コメントの編集"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "このエントリに保存されたコメントを編集します。"
+
+#~ msgid "Edit Comment"
+#~ msgstr "編集"
+
+#~ msgid "Report Comment"
+#~ msgstr "報告"
+
+#~ msgid "Edit the trackbacks that have been posted to this entry"
+#~ msgstr "このエントリに送信されたトラックバックを編集します。"
+
+#~ msgid "Report Trackback"
+#~ msgstr "トラックバックを報告"
+
+#~ msgid "Block IP %s"
+#~ msgstr "%s をブロック"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "%s をブロック"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "%s をブロック解除"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "%s をブロック解除"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "トラックバックを次のURLに送信します。一つの行に一つのURLを指定して下さい。"
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "エントリ検索用のキーワードを入力するか、理解しやすいURLを入力して下さい。"
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "このエントリの参考となったサイトの情報を入力して下さい。"
+
+#~ msgid ""
+#~ "You are writing this entry in %s, while at least one of your weblogs uses "
+#~ "another encoding. To prevent problems with this, you should ensure that "
+#~ "all users and weblogs use the same encoding."
+#~ msgstr ""
+#~ "現在使用している文字コードは %s ですが、あなたがのウェブログの中には他の文"
+#~ "字コードで作成されているものがあります。文字化け等の問題を防ぐため、文字"
+#~ "コードの確認を行ってください。"
+
+#~ msgid "Publish and generate"
+#~ msgstr "発行・再構築"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "チェックしたファイルに対して："
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "チェックしたテンプレートに対して："
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "ディレクトリを開けません。権限を確認して下さい。"
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "ディレクトリを読めません。権限を確認して下さい。"
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "ディレクトリに書き込めません。権限を確認して下さい。"
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "ファイルを開けません。権限を確認して下さい。"
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "ファイルを読み込めません。権限を確認して下さい。"
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "ファイルに書き込めません。権限を確認して下さい。"
+
+#~ msgid "Registration required"
+#~ msgstr "登録が必要です"
+
+#~ msgid "Entry Does not Exist!"
+#~ msgstr "エントリが存在しません"
+
+#~ msgid "That entry either doesn't exist, or it isn't published yet."
+#~ msgstr "指定したエントリは存在しない、もしくは発行前です。"
+
+#~ msgid "Category Does not Exist"
+#~ msgstr "カテゴリが存在しません"
+
+#~ msgid ""
+#~ "That category either doesn't exist, or it isn't publish by any weblog."
+#~ msgstr ""
+#~ "指定したカテゴリは存在しないか、もしくはどのウェブログにも発行されていませ"
+#~ "ん。"
+
+#~ msgid "This entry has no trackbacks."
+#~ msgstr "トラックバックはありません。"
+
+#~ msgid "Good"
+#~ msgstr "良い"
+
+#~ msgid "Bad"
+#~ msgstr "悪い"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "既に投票済みです。"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "評価 '%val%' は投票されました。"
+
+#~ msgid "Allow this comment"
+#~ msgstr "このコメントを許可"
+
+#~ msgid "Delete with one click."
+#~ msgstr "クリックで削除します"
+
+#~ msgid "Report and delete with one click."
+#~ msgstr "クリックで報告と削除を行います"
+
+#~ msgid "Moderated"
+#~ msgstr "コメント審査"
+
+#~ msgid "Last Referrers"
+#~ msgstr "最近の参照元"
+
+#~ msgid "Calendar"
+#~ msgstr "カレンダー"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Emoticonsのリファレンス"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Textileのリファレンス"
+
+#~ msgid "Register your username / Log in"
+#~ msgstr "ユーザー登録 / ログイン"
+
+#~ msgid "This comment is not yet moderated."
+#~ msgstr "このコメントは審査されていません"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "ユーザー定義項目"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr "内部名はテンプレート内で使用されます。"
+
+#~ msgid "Size"
+#~ msgstr "サイズ"
+
+#~ msgid "Rows"
+#~ msgstr "行数"
+
+#~ msgid "Columns"
+#~ msgstr "列数"
+
+#~ msgid "Maximum Length"
+#~ msgstr "最大文字数"
+
+#~ msgid "Filter by"
+#~ msgstr "フィルタリング"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr "フィルタリングすることで入力を制限することが出来ます。"
+
+#~ msgid "Nothing"
+#~ msgstr "フィルター無し"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "ユーザー定義項目を削除します。（<b>%s</b>）同時に関連する全てのデータも削"
+#~ "除され、テンプレート内のインスタンスは空白になります。"
+
+#~ msgid "This name is already in use"
+#~ msgstr "この名前はすでに使用されています。"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "内部名は3文字以上にして下さい。"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "表示名は3文字以上にして下さい。"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "現在開いているページのリンクを、イントロダクションに含んだ新規エントリ画面"
+#~ "を開きます。"
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "ブランクの新規エントリ画面を開きます。"
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "ブックマークを利用することで、新規エントリを素早く作成できます。ブックマー"
+#~ "クを追加する方法はブラウザによりますが、主な方法は以下の通りです。"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "ブックマークの対象をツールバーの'リンク'へドラッグする。もしくはブラウザ"
+#~ "の'ブックマーク'ボタンを使用する。"
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr "ブックマークの対象上で右クリック－'ブックマークに追加'を使用する。"
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr ""
+#~ "この表は、エントリが投稿された日とそのエントリへのリンクを表示するカレン"
+#~ "ダーです。"
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr ""
+#~ "カレンダーは、このウェブログ内のエントリにアクセスする手段を提供していま"
+#~ "す。"
+
+#~ msgid "en"
+#~ msgstr "ja"
+
+#~ msgid "Your trackback has been stored."
+#~ msgstr "トラックバックは保存されました。"
+
+#~ msgid "Tracked"
+#~ msgstr "トラックバックを受信しました。"
+
+#~ msgid "Click for local Tag Cosmos page. "
+#~ msgstr "クリックしてローカルタグコスモスを開く"
+
+#~ msgid "found on"
+#~ msgstr "found on"
