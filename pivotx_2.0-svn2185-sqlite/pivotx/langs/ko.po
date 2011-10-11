@@ -1,0 +1,5234 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr ""
+
+msgid "Last Comments"
+msgstr "최근 덧글"
+
+msgid "Stuff"
+msgstr ""
+
+msgid "Archives"
+msgstr "보관소"
+
+msgid "Categories"
+msgstr "갈래"
+
+msgid "Links"
+msgstr "다른 곳들"
+
+#, fuzzy
+msgid "Search"
+msgstr "검색"
+
+msgid "Linkdump"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "덧글 쓰기"
+
+msgid "Preview Comment"
+msgstr "덧글 미리보기"
+
+msgid "Remember personal info?"
+msgstr "개인 정보를 기억할까요?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "설정"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "설정"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "테두리"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "최근 덧글"
+
+#, fuzzy
+msgid "Pages"
+msgstr "바꾸기"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "덧글"
+
+msgid "Notify"
+msgstr ""
+
+msgid "Yes, send me email when someone replies."
+msgstr ""
+
+msgid "Hide email"
+msgstr ""
+
+msgid "Yes, hide my email address."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>참고:</b> 덧글에 &lt;b&gt;와 &lt;i&gt; 밖의 테그를 쓰시면 지워지게 됩니"
+"다. URL이나 메일 주소만 입력해도 링크가 만들어집니다."
+
+msgid "Insert an Image"
+msgstr "그림을 집어넣기"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"그림을 집어넣기 위해서는 그림을 올리거나 올려진 그림을 선택해야 합니다."
+
+msgid "Upload"
+msgstr "올리기"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "새 파일 올리기:"
+
+msgid "Image name"
+msgstr "그림 이름"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "그림 선택"
+
+msgid "Select"
+msgstr "선택"
+
+msgid "Alternate text"
+msgstr "대신 표시할 글"
+
+msgid "Align"
+msgstr "정렬"
+
+msgid "Center (default)"
+msgstr "가운데 (기본값)"
+
+msgid "Left"
+msgstr "왼쪽"
+
+msgid "Right"
+msgstr "오른쪽"
+
+msgid "Inline"
+msgstr "줄 안에"
+
+msgid "Border"
+msgstr "테두리"
+
+msgid "pixels"
+msgstr "픽셀"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "그림을 집어넣기"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "테두리"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "게시된 시각"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "코드"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "유지보수"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "덧글 설정"
+
+msgid "IP-address"
+msgstr "IP 주소"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "지우기"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "전체 선택"
+
+#, fuzzy
+msgid "Check none"
+msgstr "전체 선택"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "덧글 없음"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "지우기"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "최근 글"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "이 글에는 덧글이 없습니다."
+
+msgid "No comments"
+msgstr "덧글 없음"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "최근 글"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "웹로그 이름"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "이 글에는 덧글이 없습니다."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "고치기"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "부제"
+
+#, fuzzy
+msgid "Template"
+msgstr "서식"
+
+msgid "Introduction"
+msgstr "소개"
+
+msgid "Body"
+msgstr "본문"
+
+msgid "Keywords"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "바꾸기"
+
+#, fuzzy
+msgid "Preview"
+msgstr "글 미리 보기"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "갈래"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "게시 상태"
+
+#, fuzzy
+msgid "Publish"
+msgstr "게시된 시각"
+
+msgid "Publish on"
+msgstr "게시된 시각"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "덧글 허가"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "No"
+msgstr "아니오"
+
+msgid "Created on"
+msgstr "만들어진 시각"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "가장 최근에 고친 시각"
+
+msgid "Author"
+msgstr "글쓴이"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "보관소 설정"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "서식"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "웹로그"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "덧글"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "그림을 집어넣기"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "그림을 집어넣기"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "다른 곳들"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "제목"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "트랙백 주소"
+
+msgid "Post Entry"
+msgstr "글 쓰기"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "덧글 미리보기"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+msgid "Category"
+msgstr "갈래"
+
+#, fuzzy
+msgid "(none)"
+msgstr "한"
+
+#, fuzzy
+msgid "Insert a Download"
+msgstr "링크 집어넣기"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"그림을 집어넣기 위해서는 그림을 올리거나 올려진 그림을 선택해야 합니다. 그 다"
+"음에 팝업을 여는 작은그림이나 글을 고르십시오."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "새 파일 올리기:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "파일 이름"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "이모티콘 사용"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "글 사용"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "제목"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "링크 집어넣기"
+
+msgid "My Info"
+msgstr "내 정보"
+
+msgid "Logout"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Back to dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "View weblog"
+msgstr "새 웹로그"
+
+#, fuzzy
+msgid "view"
+msgstr "글 미리 보기"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "기본 확장자"
+
+msgid "Maintenance"
+msgstr "유지보수"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "새 웹로그"
+
+#, fuzzy
+msgid "sec."
+msgstr "초"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "파일 이름"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Filesize"
+msgstr "파일 크기"
+
+#, fuzzy
+msgid "Image"
+msgstr "그림 이름"
+
+msgid "Thumbnail"
+msgstr "작은그림"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "이 갈래를 지우고 싶으시면 '예'를 선택하십시오"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "날짜"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "새 사용자 만들기"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "새 사용자 만들기"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "파일을 올립니다"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "올리기"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "설정 파일 고치기"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "이모티콘"
+
+msgid "You should first select or upload an image"
+msgstr "먼저 그림을 고르거나 올려야 합니다"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"그림을 집어넣기 위해서는 그림을 올리거나 올려진 그림을 선택해야 합니다. 그 다"
+"음에 팝업을 여는 작은그림이나 글을 고르십시오."
+
+msgid "For popup"
+msgstr "팝업을 열 때"
+
+msgid "Use Thumbnail"
+msgstr "작은그림 사용"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "작은그림 고치기"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "팝업 그림을 집어넣기"
+
+msgid "Create New User"
+msgstr "새 사용자 만들기"
+
+msgid "Username"
+msgstr "사용자 이름"
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Userlevel"
+msgstr "사용자 수준"
+
+msgid "Last Login"
+msgstr ""
+
+msgid "Edit User"
+msgstr "사용자 고치기"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr "%1을 지우려고 합니다. 정말로 지우시겠습니까?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "이모티콘"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "사용자 고치기"
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "%1을 지우려고 합니다. 정말로 지우시겠습니까?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "그림을 집어넣기"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "그림을 집어넣기"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "링크 집어넣기"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "그림을 집어넣기"
+
+msgid "The default category is:"
+msgstr ""
+
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr ""
+
+msgid "Create New Category"
+msgstr "새 갈래 만들기"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "Hidden Category"
+msgstr ""
+
+msgid "Sorting Order"
+msgstr ""
+
+#, fuzzy
+msgid "users"
+msgstr "사용자"
+
+msgid "Edit Category"
+msgstr "갈래 고치기"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "이 갈래를 지우고 싶으시면 '예'를 선택하십시오"
+
+msgid "New Weblog"
+msgstr "새 웹로그"
+
+msgid "Weblog Name"
+msgstr "웹로그 이름"
+
+#, fuzzy
+msgid "categories"
+msgstr "갈래"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "%1을 지우려고 합니다. 정말로 지우시겠습니까?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "글을 고칩니다"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "새 글 쓰기"
+
+#, fuzzy
+msgid "New Page"
+msgstr "바꾸기"
+
+msgid "Configuration"
+msgstr "설정"
+
+msgid "Manage Media"
+msgstr "매체 관리"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "최근 글"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "이 갈래를 지우고 싶으시면 '예'를 선택하십시오"
+
+#, fuzzy
+msgid "Entry"
+msgstr "새 글 쓰기"
+
+#, fuzzy
+msgid "delete"
+msgstr "삭제"
+
+msgid "The latest pages"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "피벗 » 새 글"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "최근 글"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "최근"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "최근 글"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "글"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "최근"
+
+msgid "filter on (%name%)"
+msgstr "(%name%)로 거르기"
+
+msgid "first"
+msgstr "처음"
+
+msgid "previous"
+msgstr "이전"
+
+msgid "next"
+msgstr "다음"
+
+msgid "last"
+msgstr "마지막"
+
+msgid "jump to page (%num%)"
+msgstr "(%num%)번째 쪽으로 가기"
+
+msgid "filter off"
+msgstr "거르지 않기"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "상태"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "전체 선택"
+
+msgid "Uncheck All"
+msgstr "전체 해제"
+
+msgid "With the checked entries, do:"
+msgstr "선택한 글을:"
+
+msgid "- select an option -"
+msgstr "- select an option -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "'게시' 상태로 전환"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "'보관' 상태로 전환"
+
+msgid "Delete them"
+msgstr "지우기"
+
+msgid "Go!"
+msgstr "계속"
+
+#, fuzzy
+msgid "Published"
+msgstr "게시된 시각"
+
+#, fuzzy
+msgid "Timed"
+msgstr "제목"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "지우기"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "완료! 색인 생성에는 %num%초가 걸렸습니다."
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "만들어진 시각"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "없음"
+
+#, fuzzy
+msgid "for"
+msgstr "네"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "가장 최근에 고친 시각"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "덧글 설정"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "글 경로"
+
+msgid "Overview of Entries"
+msgstr "간추린 글 관리"
+
+msgid "Manage and Upload Media"
+msgstr "매체를 올리고 관리합니다"
+
+msgid "Administration"
+msgstr "관리"
+
+msgid "Overview of Administrative functions"
+msgstr "간추린 관리"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "기본 확장자"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "기본 확장자"
+
+#, fuzzy
+msgid "Log in"
+msgstr "로그인"
+
+msgid "Write and Publish a new Entry"
+msgstr "새 글을 씁니다"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "간추린 글 관리"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "새 글을 씁니다"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "지우기"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "간추린 글 관리"
+
+msgid "Edit the Configuration file"
+msgstr "설정 파일 고치기"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "설정"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "설정 파일 고치기"
+
+msgid "Create, edit and delete Users"
+msgstr "사용자를 만들고, 고치고, 지우기"
+
+msgid "Create, edit and delete the Categories"
+msgstr "갈래를 만들고, 고치고, 지웁니다"
+
+msgid "Weblogs"
+msgstr "웹로그"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "웹로그를 만들고, 고치고 지웁니다"
+
+msgid "Registered Visitors"
+msgstr ""
+
+msgid "View and edit Registered Visitors"
+msgstr ""
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "백업"
+
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr ""
+
+msgid "Widgets"
+msgstr ""
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "기본 확장자"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "설정"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Configuration Files"
+msgstr "설정 파일 고치기"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr ""
+
+msgid "Create, edit and delete Templates"
+msgstr "서식을 만들고, 고치고, 지우기"
+
+msgid "Explore Database Files"
+msgstr "파일 탐색기"
+
+msgid "View files (both text and database files)"
+msgstr "텍스트와 데이터베이스 파일을 봅니다"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "파일 탐색기"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "파일을 올립니다"
+
+msgid "Rebuild the Index"
+msgstr "색인 다시 만들기"
+
+msgid "Rebuild the index of your Database"
+msgstr "데이터베이스의 색인을 다시 만듭니다"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "검색 색인 다시 만들기"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "글을 검색할 수 있도록 검색 색인을 다시 만듭니다"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "색인 다시 만들기"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "글을 검색할 수 있도록 검색 색인을 다시 만듭니다"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "%build%에 오신 것을 환영합니다."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "월요일"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "비밀번호"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "새 파일 올리기:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Red"
+msgstr "수"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "백업"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "로그인"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr "사용자 이름은 알파벳(A~Z)과 숫자(0~9)와 및줄(_)로만 이루어져야 합니다."
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+msgid "Stay logged in?"
+msgstr ""
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "비밀번호"
+
+#, fuzzy
+msgid "Send password"
+msgstr "이단계"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "이단계"
+
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "서식 만들기"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "서식 만들기"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "설정 파일 고치기"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "덧글 미리보기"
+
+msgid "Error"
+msgstr ""
+
+msgid "Registered user"
+msgstr ""
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "지우기"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "'덧글이 한개 있습니다' 글"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "글 날짜"
+
+msgid "Excerpt"
+msgstr ""
+
+#, fuzzy
+msgid "Continue"
+msgstr "아홉"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "비밀번호 (확인)"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "비밀번호가 서로 맞지 않습니다."
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "날짜"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "파일을 올립니다"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+msgid "Your MySQL password"
+msgstr ""
+
+#, fuzzy
+msgid "Database Name"
+msgstr "날짜"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "사용자 이름"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "SSI 접두어"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "비밀번호가 서로 맞지 않습니다."
+
+msgid "That's not a valid email address"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+msgid "Language"
+msgstr "언어"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "글씨 색"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"기본 텍스트 처리를 정합니다. 사용자가 WYSIWYG이 아닌 편집기를 사용하고 있다"
+"면 '줄 바꿈을 &lt;br /&gt;로 바꾸기'는 줄 바꿈을 &lt;br&gt; 태그로 바꿉니다. "
+"<a href=\"http://www.textism.com/tools/textile/\" target=\"_blank\">텍스타일"
+"</a>은 강력하지만 배우기 쉬운 마크업 스타일입니다."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "줄 바꿈을 &lt;br /&gt;로 바꾸기"
+
+msgid "Textile"
+msgstr "텍스타일"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Markdown and Smartypants"
+msgstr ""
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "가장 최근에 고친 시각"
+
+msgid "Moblogger"
+msgstr "모블로거"
+
+msgid "Normal"
+msgstr "사용자"
+
+msgid "Advanced"
+msgstr "전문가"
+
+msgid "Administrator"
+msgstr "관리자"
+
+msgid "Superadmin"
+msgstr "절대자"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "사용자 수준에 따라 할 수 있는 일이 결정됩니다."
+
+#, fuzzy
+msgid "Allowed Categories"
+msgstr "갈래"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr ""
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "가장 최근에 고친 시각"
+
+msgid "Create Category"
+msgstr "갈래 만들기"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "이 갈래는 이름이 필요합니다"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "이 갈래에 글을 쓸 수 있게 하고 싶은 사용자를 고르십시오"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "갈래"
+
+msgid "The name of this chapter"
+msgstr ""
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+#, fuzzy
+msgid "Theme"
+msgstr "서식"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "글 설정"
+
+msgid "Payoff"
+msgstr "설명"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr "웹로그의 부제나 간단한 설명을 쓰십시오"
+
+msgid "URL to Weblog"
+msgstr "웹로그의 URL"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"이 칸이 비어 있으면 피벗이 여러분의 웹로그의 주소를 결정합니다. 여러분의 웹로"
+"그가 프레임으로 포함되거나 다른 곳에서 불러오는 것이라면 이 설정으로 피벗의 "
+"추측을 무시할 수 있습니다."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"날짜와 숫자를 나타내는 언어와 (iso-8859-1이나 koi8-r과 같은) 인코딩할 글자 세"
+"트를 결정합니다."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'더 읽기' 글"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"대문에 보이는 것 보다 많은 글이 있다는 것을 알려주는 글입니다. 만약 비워 둔다"
+"면, 피벗은 언어 설정에 따른 기본값을 사용할 것입니다"
+
+msgid "Frontpage Template"
+msgstr "대문 서식"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "대문을 볼 때의 서식입니다."
+
+msgid "Archivepage Template"
+msgstr "보관소 서식"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr "보관소를 볼 때의 서식입니다. '대문 서식'과 같을 수 있습니다."
+
+msgid "Entrypage Template"
+msgstr "글 서식"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "글 하나를 볼 때의 서식입니다."
+
+msgid "Extra Template"
+msgstr "특수 서식"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr "보관소와 search.php가 어떻게 보일지를 정하는 서식입니다."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "서식 만들기"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr "보관소와 search.php가 어떻게 보일지를 정하는 서식입니다."
+
+msgid "Number of Entries"
+msgstr "글 수"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "이 자식 웹로그에서 대문에 나타낼 글의 수를 정하십시오."
+
+msgid "Offset"
+msgstr "오프셋"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"오프셋이 숫자로 설정되면, 페이지를 만들 때 그만큼의 글이 건너뛰어집니다. 여러"
+"분은 이를 써서 예를 들어 '이전 글들'목록과 같은 것을 만들 수 있습니다."
+
+msgid "Publish these categories"
+msgstr ""
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS와 Atom 설정"
+
+msgid "Generate Feeds"
+msgstr "Feed 만들기"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr "피벗이 이 웹로그의 RSS와 Atom을 자동으로 만들지 여부를 정합니다."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "사이트 URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "사이트 URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Create Full Feeds"
+msgstr "Feed 만들기"
+
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+
+msgid "Feed Link"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"몇개의 덧글이 있는지 알려주는 데 쓰이는 글입니다. 빈 칸으로 남겨두면 피벗은 "
+"언어 설정에 정의된 기본값을 사용할 것입니다."
+
+#, fuzzy
+msgid "Feed Image"
+msgstr "그림 지우기"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+
+msgid "Commenting Settings"
+msgstr "덧글 설정"
+
+msgid "Send Mail?"
+msgstr "메일을 보내시겠습니까?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr "덧글이 달리면 이 웹로그의 관리자에게 메일을 보냅니다."
+
+msgid "Mail to"
+msgstr "보낼 곳"
+
+#, fuzzy
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr ""
+"메일이 보내질 이메일 주소를 기입하십시오. 여러 주소는 쉼표로 구분하십시오."
+
+msgid "Text to links"
+msgstr "글을 링크로"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr ""
+"입력한 URL과 이메일 주소를 링크로 바꾸어 클릭할 수 있도록 만들지 정하십시오."
+
+msgid "Wrap comments after"
+msgstr "덧글 자르기"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"긴 글이 여러분의 레이아웃을 망치는 것을 막기 위해서, 지정한 길이보다 긴 글은 "
+"잘리게 될 것입니다."
+
+msgid "Comments Popup?"
+msgstr "덧글을 팝업에서 다시겠습니까?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"덧글('글 하나') 쪽이 팝업에서 열릴지, 원래 브라우저 창에서 열릴지 정합니다."
+
+msgid "Width of Popup"
+msgstr "팝업 넓이"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "팝업 높이"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "덧글 팝업의 넓이와 높이를 (픽셀 단위로) 지정하십시오."
+
+msgid "Height of Popup"
+msgstr "팝업 높이"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "덧글 팝업의 넓이와 높이를 (픽셀 단위로) 지정하십시오."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "텍스타일 허가"
+
+msgid "Allow Textile"
+msgstr "텍스타일 허가"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"이것이 '예'로 설정되면, 방문객들은 덧글에 <a href=\"http://www.textism.com/"
+"tools/textile/\" target=\"_blank\">텍스타일</a>을 쓸 수 있습니다."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "이모티콘"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "이모티콘"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"이것이 '예'로 설정되면, 방문객들은 덧글에 <a href=\"http://www.textism.com/"
+"tools/textile/\" target=\"_blank\">텍스타일</a>을 쓸 수 있습니다."
+
+msgid "Site Name"
+msgstr "사이트 이름"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+#, fuzzy
+msgid "Weblog"
+msgstr "웹로그"
+
+#, fuzzy
+msgid "Page"
+msgstr "바꾸기"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "사이트 이름"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- select an option -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr ""
+"자세한 날짜와 시각을 나타내는 형식을 결정합니다. 글이 하나있는 쪽의 맨 위에"
+"서 가장 자주 쓰입니다."
+
+msgid "Default language"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "기본 언어"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /entry/1234"
+msgstr ""
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Use Mod_rewrite"
+msgstr "파일스매치 사용"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"여러분이 아파치의 파일스매치(Filesmatch) 선택 사항을 사용한다면, 피벗은 URL"
+"을 www.mysite.com/pivot/entry.php?id=134 대신 www.mysite.com/"
+"archive/2003/05/30/nice_weather와 같이 만듭니다. 모든 서버가 지원하지는 않기 "
+"때문에, 사용 설명서에서 이것에 관한 부분을 읽어 보시기 바랍니다."
+
+#, fuzzy
+msgid "Allow comments by default"
+msgstr "덧글 허가"
+
+#, fuzzy
+msgid "Determine whether entries are set to allow comments or not."
+msgstr ""
+"사용자들이 이 자식 웹로그의 글에 덧글을 남길 수 있는지 여부를 결정하십시오."
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "지우기"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "설정 저장"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "최근"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "글 수"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS Feed"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "글 수"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "코드"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "최대 파일 크기"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "최대 파일 크기"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "디버그 모드"
+
+msgid "Show random debug information, every here and there.."
+msgstr "임의로 여기저기에서 디버그 정보를 보여줍니다"
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "로그파일"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "파일 언링크"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"무시무시한 safe_mode가 켜져 있는 몇몇 서버에서는 이 선택 사항을 고를 필요가 "
+"있습니다. 대부분의 서버에서는 이 선택 사항이 영향을 미치지 않을 것입니다."
+
+msgid "Chmod Files To"
+msgstr "파일 권한 바꾸기"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"몇몇 서버에서는 만들어진 파일의 권한을 특별한 방법으로 바꾸어주어야 할 때가 "
+"있습니다. '0644'와 '0755'가 널리 쓰입니다. 여러분이 무엇을 하는지 알지 못한다"
+"면 이 값을 바꾸지 마십시오."
+
+msgid "File Upload Path"
+msgstr "파일 올리기 경로"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "덮어쓰기"
+
+msgid "Increment Filename"
+msgstr "파일 이름을 늘입니다"
+
+msgid "Maximum Filesize"
+msgstr "최대 파일 크기"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "자동 작은 그림"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "작은 그림 넓이"
+
+msgid "Thumbnail height"
+msgstr "작은 그림 높이"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "작은 그림 넓이"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "받아들이는 유형"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "자세한 날짜 형식"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"자세한 날짜와 시각을 나타내는 형식을 결정합니다. 글이 하나있는 쪽의 맨 위에"
+"서 가장 자주 쓰입니다."
+
+msgid "Entry Date"
+msgstr "글 날짜"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "다른 날짜"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'다른 날짜'는 많은 경우 '글 날짜'와 함께 쓰입니다. 글 날짜가 여러분의 웹로그"
+"의 모든 글들에 표시되는 데 반해, 다른 날짜는 날짜가 이전 날짜와 다를 때에만 "
+"표시됩니다."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "시간 오프셋 단위"
+
+msgid "Year"
+msgstr "년"
+
+msgid "Month"
+msgstr "월"
+
+msgid "Day"
+msgstr "일"
+
+msgid "Hour"
+msgstr "시"
+
+msgid "Minute"
+msgstr "분"
+
+msgid "Time Offset"
+msgstr "시간 오프셋"
+
+#, fuzzy
+msgid "Activate"
+msgstr "보관소"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "최소 사용자 수준"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "유효한 이메일 주소가 아닙니다."
+
+#, fuzzy
+msgid "Default author"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "기본 언어"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "그림 선택"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "갈래 지우기"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- select an option -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "갈래 지우기"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "갈래"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+#, fuzzy
+msgid "Number of links"
+msgstr "글 수"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "변환"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "그림 이름"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "기본 확장자"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "기본 확장자"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "기본 확장자"
+
+#, fuzzy
+msgid "By"
+msgstr "본문"
+
+#, fuzzy
+msgid "version"
+msgstr "변환"
+
+#, fuzzy
+msgid "last updated"
+msgstr "가장 최근에 고친 시각"
+
+#, fuzzy
+msgid "site link"
+msgstr "열여섯"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "설정"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "그림을 집어넣기"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "그림을 집어넣기"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "핑 보내기"
+
+msgid "Oops."
+msgstr ""
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "피벗 » 새 글"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "피벗 » 새 글"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "피벗 » 새 글"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "%title%에 그것을 하도록 허가되지 않았습니다!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "파일이 '%s'로 올려졌습니다."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "덧글이 삭제되었습니다."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "새 웹로그가 만들어졌습니다."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(작은그림 만들기)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "파일 올리기 경로"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "서식 저장"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "이모티콘"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "비밀번호"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "열세"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "쓰기"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "쓰기 에러. 파일을 쓸 수 있게 열 수 없음"
+
+msgid "Write Error. Could not write to file"
+msgstr "쓰기 에러. 파일에 쓸 수 없음"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "글 페이지에 덧글이 어떻게 표시될지 지정합니다."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "이 항목은 '%val%'고 투표하세요"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "지우기"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "글 페이지에 덧글이 어떻게 표시될지 지정합니다."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "기타 설정"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "새 글 쓰기"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "설정"
+
+msgid "%num% comment"
+msgstr "덧글 %num%개"
+
+msgid "%num% comments"
+msgstr "덧글 %num%개"
+
+#, fuzzy
+msgid "%num% trackback"
+msgstr "'덧글이 한개 있습니다' 글"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr "덧글을 미리보고 있습니다. '덧글 쓰기'를 눌러야 저장됩니다."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr "이미 같은 내용의 덧글이 있기 때문에, 저장되지 않았습니다."
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr "이미 같은 내용의 덧글이 있기 때문에, 저장되지 않았습니다."
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr "이미 같은 내용의 덧글이 있기 때문에, 저장되지 않았습니다."
+
+msgid "Your comment has been stored."
+msgstr "덧글이 저장되었습니다."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"이름이나 별명을 '이름' 항목에 써 넣으셔야 합니다. 써 넣으신 뒤 '덧글 쓰기'를 "
+"눌러야 저장됩니다."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"내용이 없습니다. 무언가를 '덧글' 항목에 써 넣으셔야 합니다. 써 넣으신 뒤 '덧"
+"글 쓰기'를 눌러야 저장됩니다."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "덧글 형식"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "작은그림 고치기"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "피벗 » 새 글"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "코드"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "이모티콘"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "작은그림 고치기"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(작은그림 만들기)"
+
+#, fuzzy
+msgid "Go"
+msgstr "계속"
+
+#, fuzzy
+msgid "Back"
+msgstr "백업"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "코드"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "Monday"
+msgstr "월요일"
+
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "S_Sunday_initial"
+msgstr ""
+
+msgid "M_Monday_initial"
+msgstr ""
+
+msgid "T_Tuesday_initial"
+msgstr ""
+
+#, fuzzy
+msgid "W_Wednesday_initial"
+msgstr "수요일"
+
+#, fuzzy
+msgid "T_Thursday_initial"
+msgstr "목요일"
+
+msgid "F_Friday_initial"
+msgstr ""
+
+#, fuzzy
+msgid "S_Saturday_initial"
+msgstr "토요일"
+
+msgid "Sun"
+msgstr "일"
+
+msgid "Mon"
+msgstr "월"
+
+msgid "Tue"
+msgstr "화"
+
+msgid "Wed"
+msgstr "수"
+
+msgid "Thu"
+msgstr "목"
+
+msgid "Fri"
+msgstr "금"
+
+msgid "Sat"
+msgstr "토"
+
+msgid "January"
+msgstr "1월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "March"
+msgstr "3월"
+
+msgid "April"
+msgstr "4월"
+
+msgid "May"
+msgstr "5월"
+
+msgid "June"
+msgstr "6월"
+
+msgid "July"
+msgstr "7월"
+
+msgid "August"
+msgstr "8월"
+
+msgid "September"
+msgstr "9월"
+
+msgid "October"
+msgstr "10월"
+
+msgid "November"
+msgstr "11월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "Jan_January_abbreviation"
+msgstr "1"
+
+msgid "Feb_February_abbreviation"
+msgstr "2"
+
+msgid "Mar_March_abbreviation"
+msgstr "3"
+
+msgid "Apr_April_abbreviation"
+msgstr "4"
+
+msgid "May_May_abbreviation"
+msgstr "5"
+
+msgid "Jun_June_abbreviation"
+msgstr "6"
+
+msgid "Jul_July_abbreviation"
+msgstr "7"
+
+msgid "Aug_August_abbreviation"
+msgstr "8"
+
+msgid "Sep_September_abbreviation"
+msgstr "9"
+
+msgid "Oct_October_abbreviation"
+msgstr "10"
+
+msgid "Nov_November_abbreviation"
+msgstr "11"
+
+msgid "Dec_December_abbreviation"
+msgstr "12"
+
+#, fuzzy
+msgid "am"
+msgstr "이름"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "영"
+
+msgid "one"
+msgstr "한"
+
+msgid "two"
+msgstr "두"
+
+msgid "three"
+msgstr "세"
+
+msgid "four"
+msgstr "네"
+
+msgid "five"
+msgstr "다섯"
+
+msgid "six"
+msgstr "여섯"
+
+msgid "seven"
+msgstr "일곱"
+
+msgid "eight"
+msgstr "여덟"
+
+msgid "nine"
+msgstr "아홉"
+
+msgid "ten"
+msgstr "열"
+
+msgid "eleven"
+msgstr "열한"
+
+msgid "twelve"
+msgstr "열두"
+
+msgid "thirteen"
+msgstr "열세"
+
+msgid "fourteen"
+msgstr "열네"
+
+msgid "fifteen"
+msgstr "열다섯"
+
+msgid "sixteen"
+msgstr "열여섯"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "일곱"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "여덟"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "아홉"
+
+#, fuzzy
+msgid "twenty"
+msgstr "새 글 쓰기"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "영"
+
+#, fuzzy
+msgid "second"
+msgstr "초"
+
+#, fuzzy
+msgid "third"
+msgstr "열세"
+
+#, fuzzy
+msgid "forth"
+msgstr "네"
+
+#, fuzzy
+msgid "fifth"
+msgstr "열다섯"
+
+#, fuzzy
+msgid "sixth"
+msgstr "여섯"
+
+#, fuzzy
+msgid "seventh"
+msgstr "일곱"
+
+#, fuzzy
+msgid "eighth"
+msgstr "여덟"
+
+#, fuzzy
+msgid "ninth"
+msgstr "아홉"
+
+#, fuzzy
+msgid "tenth"
+msgstr "열"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "열한"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "열두"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "열세"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "열네"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "열다섯"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "열여섯"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "일곱"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "여덟"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "아홉"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "열"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "테두리"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "파일을 올립니다"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "최근"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "덧글이 삭제되었습니다."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "웹로그"
+
+#, fuzzy
+msgid "category"
+msgstr "갈래"
+
+#, fuzzy
+msgid "entry"
+msgstr "새 글 쓰기"
+
+#, fuzzy
+msgid "for comments"
+msgstr "덧글 없음"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "검색 결과"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "'%name%'의 검색 결과:"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "'%name%'의 검색 결과:"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "'%name%'에 맞는 검색 결과가 없습니다. 다른 검색어로 시도하세요."
+
+msgid "Search for words used in entries on this website"
+msgstr ""
+
+msgid "Enter the word[s] to search for here:"
+msgstr ""
+
+msgid "Enter searchterms"
+msgstr ""
+
+msgid "Search!"
+msgstr "검색"
+
+#, fuzzy
+msgid "XML: Atom Feed"
+msgstr "XML: RSS Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "덧글 %num%개"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "이모티콘"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "피벗 » 새 글"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "서식 만들기"
+
+#, fuzzy
+msgid "Text file"
+msgstr "텍스타일"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "피벗 » 새 글"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "새 파일 올리기:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "피벗 » 새 글"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "작은그림 고치기"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "새 파일 올리기:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "서식"
+
+#, fuzzy
+msgid "Include template"
+msgstr "서식 만들기"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "대문 서식"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "보관소 서식"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "글 서식"
+
+#, fuzzy
+msgid "Page template"
+msgstr "서식 만들기"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "보관소 서식"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "설정"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "피벗 » 새 글"
+
+#, fuzzy
+msgid "(more)"
+msgstr "한"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "그림을 집어넣기"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "'덧글이 한개 있습니다' 글"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "지우기"
+
+msgid "register/login"
+msgstr ""
+
+#, fuzzy
+msgid "words"
+msgstr "비밀번호"
+
+#, fuzzy
+msgid "image"
+msgstr "그림 이름"
+
+#, fuzzy
+msgid "images"
+msgstr "그림 이름"
+
+#, fuzzy
+msgid "file"
+msgstr "다섯"
+
+#, fuzzy
+msgid "files"
+msgstr "파일"
+
+msgid "Self-registration"
+msgstr ""
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "이 항목은 '%val%'고 투표하세요"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+msgid "Related tags"
+msgstr ""
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "최근"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "글 페이지에 덧글이 어떻게 표시될지 지정합니다."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "글 페이지에 덧글이 어떻게 표시될지 지정합니다."
+
+msgid "Log in as a registered visitor"
+msgstr ""
+
+msgid "Forgotten your password?"
+msgstr ""
+
+msgid "Register a new username."
+msgstr ""
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Log out."
+msgstr ""
+
+#, fuzzy
+msgid "Delete account."
+msgstr "지우기"
+
+msgid "Edit your preferences"
+msgstr ""
+
+msgid "User disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "사용자 이름이나 비밀번호가 잘못되었습니다."
+
+#, fuzzy
+msgid "Logged in"
+msgstr "로그인"
+
+msgid "Register"
+msgstr ""
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Options"
+msgstr "디버그 옵션"
+
+msgid "Back to login"
+msgstr ""
+
+msgid "Show my email address with comments"
+msgstr ""
+
+msgid "Notify me via email of new entries"
+msgstr ""
+
+msgid "Default notification of replies"
+msgstr ""
+
+msgid "Here you can change your information."
+msgstr ""
+
+msgid "Change preferences"
+msgstr ""
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr ""
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "이단계"
+
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+
+msgid "User already exists... Please pick another name."
+msgstr ""
+
+msgid "E-mail address is already taken... Please pick another name."
+msgstr ""
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+
+#, fuzzy
+msgid "The changes have been stored"
+msgstr "IP 주소들이 저장되었습니다."
+
+msgid "Your account is verified. Please log in.."
+msgstr ""
+
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr ""
+
+msgid "A link to reset your password was sent to your mailbox."
+msgstr ""
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr ""
+
+#, fuzzy
+msgid "Back to"
+msgstr "백업"
+
+#, fuzzy
+msgid "User stored!"
+msgstr "글 사용"
+
+msgid "Could not store new user!!"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "설정"
+
+msgid "Verify your account"
+msgstr ""
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "사용자 이름이나 비밀번호가 잘못되었습니다."
+
+msgid "Successfully logged in"
+msgstr ""
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "이전 보관소"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "로그인"
+
+#, php-format
+msgid "%s logged out."
+msgstr ""
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "이 웹로그의 설정을 고칩니다: "
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "이 웹로그를 지웁니다"
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "갈래 지우기"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+msgid "About PivotX"
+msgstr ""
+
+msgid "Setup user"
+msgstr ""
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "새 사용자 만들기"
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "%title%에 그것을 하도록 허가되지 않았습니다!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "웹로그가 갱신되었습니다."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "기본 확장자"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "글을 고칩니다"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "%title%에 그것을 하도록 허가되지 않았습니다!"
+
+#, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr ""
+
+#, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr ""
+
+#, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "%title%의 삭제를 할 수 있도록 허가되지 않았습니다!"
+
+msgid "My Settings"
+msgstr "내 설정"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "빠른 도구를 더합니다."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "웹로그가 갱신되었습니다."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+msgid "Post to PivotX"
+msgstr ""
+
+msgid "Edit my personal Settings"
+msgstr "내 설정을 고칩니다"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "%title%의 삭제를 할 수 있도록 허가되지 않았습니다!"
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "%title%의 삭제를 할 수 있도록 허가되지 않았습니다!"
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "%title%의 삭제를 할 수 있도록 허가되지 않았습니다!"
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "웹로그를 지웠습니다."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "%title%의 삭제를 할 수 있도록 허가되지 않았습니다!"
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "웹로그가 갱신되었습니다."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "덧글이 삭제되었습니다."
+
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr ""
+
+msgid "Comments"
+msgstr "덧글"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "덧글이 삭제되었습니다."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "덧글을 고치거나 지웁니다"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "덧글이 저장되었습니다."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks"
+msgstr "'덧글이 %num%개 있습니다' 글"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "덧글이 저장되었습니다."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "파일을 올립니다"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "덧글이 삭제되었습니다."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "덧글이 삭제되었습니다."
+
+msgid "The weblog has been deleted."
+msgstr "웹로그를 지웠습니다."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "웹로그를 지웠습니다."
+
+msgid "Create New Weblog"
+msgstr "새 웹로그 만들기"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "덧글 설정"
+
+#, fuzzy
+msgid "Database"
+msgstr "날짜"
+
+#, fuzzy
+msgid "Debug"
+msgstr "디버그 모드"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "파일 올리기 경로"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "날짜/시간 (오프셋만큼 시간을 밉니다.)"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "모블로거"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr "색인을 만듭니다. 시간이 조금 걸리니, 방해하지 말아 주시기 바랍니다."
+
+msgid "Rebuild the Search Index"
+msgstr "검색 색인 다시 만들기"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "글을 검색할 수 있도록 검색 색인을 다시 만듭니다"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"검색 색인을 만듭니다. 시간이 조금 걸리니, 방해하지 말아 주시기 바랍니다."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "색인 다시 만들기"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "색인을 만듭니다. 시간이 조금 걸리니, 방해하지 말아 주시기 바랍니다."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "날짜"
+
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+
+#, fuzzy
+msgid "Explore files"
+msgstr "파일을 올립니다"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "설정"
+
+#, fuzzy
+msgid "Blocked Phrases"
+msgstr "IP 범위 %s 차단"
+
+#, fuzzy
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "차단된 IP 주소를 보고 고칩니다"
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP 차단"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "차단된 IP 주소를 보고 고칩니다"
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "피벗의 일상적인 유지 보수를 합니다"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "덧글이 삭제되었습니다."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "사용자 이름이 이미 쓰이고 있습니다."
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "사용자 이름이 이미 쓰이고 있습니다."
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "웹로그가 갱신되었습니다."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "사용자 이름이 이미 쓰이고 있습니다."
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "새 웹로그가 만들어졌습니다."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "덧글이 삭제되었습니다."
+
+msgid "A category by this name already exists"
+msgstr "이 이름을 가지는 갈래가 이미 있습니다"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "웹로그가 갱신되었습니다."
+
+msgid "Edit Weblog"
+msgstr "이 웹로그를 고칩니다: "
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "열세"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "그림을 집어넣기"
+
+#~ msgid "# Comm"
+#~ msgstr "덧글 수"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "덧글"
+
+#, fuzzy
+#~ msgid "search"
+#~ msgstr "검색"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "되돌리기"
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "사용자"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "날짜"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "갈래"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr ""
+#~ "자세한 날짜와 시각을 나타내는 형식을 결정합니다. 글이 하나있는 쪽의 맨 위"
+#~ "에서 가장 자주 쓰입니다."
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr ""
+#~ "자세한 날짜와 시각을 나타내는 형식을 결정합니다. 글이 하나있는 쪽의 맨 위"
+#~ "에서 가장 자주 쓰입니다."
+
+#, fuzzy
+#~ msgid "Trackback Settings"
+#~ msgstr "트랙백 주소"
+
+#, fuzzy
+#~ msgid "Format of Trackbacks"
+#~ msgstr "'덧글이 %num%개 있습니다' 글"
+
+#, fuzzy
+#~ msgid "Format of Trackback Link"
+#~ msgstr "트랙백 주소"
+
+#~ msgid "File Mappings"
+#~ msgstr "파일 지도"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr "피벗의 어느 파일이 어느 웹로그에 의해 만들어져 쓰이고 있는지 봅니다"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "새 파일 올리기:"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "여러분은 아래에서 피벗에 있는 웹로그들의 개관과, 그들이 무슨 서식으로 어"
+#~ "떤 파일들을 만들었는지 볼 수 있습니다. 파일이 만들어질 때 문제가 있다면 해"
+#~ "결하는 데 도움이 될 것입니다."
+
+#~ msgid "Change"
+#~ msgstr "바꾸기"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "지우기 확인"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IP 주소들이 저장되었습니다."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "이 IP 주소들을 저장"
+
+#, fuzzy
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "IP 주소들이 저장되었습니다."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "IP 주소들이 저장되었습니다."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "웹로그를 지웠습니다."
+
+#, fuzzy
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "이 IP 주소들을 저장"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "사용자 이름은 4자이거나 더 길어야 합니다."
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "IP %s 차단"
+
+#, fuzzy
+#~ msgid "[Trackback] Re:"
+#~ msgstr "'덧글이 %num%개 있습니다' 글"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr "이미 같은 내용의 덧글이 있기 때문에, 저장되지 않았습니다."
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "분"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "팝업 그림을 집어넣기"
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "덧말 없음"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "덧글"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "덧글"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "덧글 미리보기"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "되돌리기"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "이모티콘"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "덧글 없음"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "최근 글"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "덧글"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "덧글"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "덧글"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "이전 보관소"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "핑 갱신 추적자"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "여러분이 새 글을 쓰면 피벗이 weblogs.com과 같은 갱신 추적자에게 알려줄지"
+#~ "를 정합니다. blogrolling.com과 같은 서비스는 이 핑에 의존합니다."
+
+#~ msgid "URLs to ping"
+#~ msgstr "핑할 URL"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "여러분은 핑을 보낼 몇몇 URL을 설정할 수 있습니다. http:// 부분은 포함하지 "
+#~ "마십시오. 포함한다면 정상적으로 동작하지 않을 것입니다. 각 줄마다 서버를 "
+#~ "하나씩 입력하시거나, 파이프 문자(|)로 구분하십시오. 널리 쓰이는 핑 서버는 "
+#~ "아래와 같습니다.<br /><b>rpc.weblogs.com/RPC2</b> (가장 널리 쓰이는 "
+#~ "weblogs.com 핑)<br /><b>pivotlog.net/pinger</b> (아직 잘 동작하지 않는 "
+#~ "pivotlog 핑)<br /><b>rcs.datashed.net/RPC2</b> (euro.weblogs.com 핑)<br /"
+#~ "><b>ping.blo.gs</b> (blo.gs 핑)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "핑 설정"
+
+#~ msgid "upload"
+#~ msgstr "올리기"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "파일이 올려지지 못했습니다. 다음과 같은 에러가 일어났습니다:"
+
+#~ msgid "or select"
+#~ msgstr "선택"
+
+#, fuzzy
+#~ msgid "Select File"
+#~ msgstr "선택"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "그림 이름"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "WYSIWYG 편집기 사용"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "WYSIWYG 편집기를 기본으로 사용할지를 정합니다. 각 사용자들은 이 설정을 "
+#~ "'내 정보'에서 고칠 수 있습니다."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "최근 덧글 설정"
+
+#~ msgid "Show how many"
+#~ msgstr "보여줄 개수"
+
+#~ msgid "Cut at length"
+#~ msgstr "자를 길이"
+
+#~ msgid "Format"
+#~ msgstr "형식"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr "이 설정은 웹로그의 대문에 있는 '최근 덧글'의 모양새를 결정합니다."
+
+#~ msgid "Next Archive"
+#~ msgstr "다음 보관소"
+
+#~ msgid "Previous Archive"
+#~ msgstr "이전 보관소"
+
+#~ msgid "Archive type"
+#~ msgstr "보관 주기"
+
+#~ msgid "No Archives"
+#~ msgstr "보관 안함"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "주마다 보관"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "달마다 보관"
+
+#~ msgid "Archive Link"
+#~ msgstr "보관소 링크"
+
+#~ msgid "Archive List format"
+#~ msgstr "보관소 목록 형식"
+
+#~ msgid "Archive Order"
+#~ msgstr "보관 순서"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "오름차순 (옛 글 먼저)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "내림차순 (새 글 먼저)"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "다양한 활동들의 로그파일을 유지합니다"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "'덧글이 없습니다' 글"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "'덧글이 한개 있습니다' 글"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "'덧글이 %num%개 있습니다' 글"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "몇개의 덧글이 있는지 알려주는 데 쓰이는 글입니다. 빈 칸으로 남겨두면 피벗"
+#~ "은 언어 설정에 정의된 기본값을 사용할 것입니다."
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "'덧글이 없습니다' 글"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "'덧글이 한개 있습니다' 글"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "'덧글이 %num%개 있습니다' 글"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "덧글 %num%개"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "덧글 %num%개"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "'덧글이 %num%개 있습니다' 글"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "피벗의 이 영역에 접근할 권한이 없습니다."
+
+#~ msgid "Further Options"
+#~ msgstr "다른 선택 사항"
+
+#~ msgid "Basic View"
+#~ msgstr "간단히 보기"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "가장 자주 쓰이는 항목만 봅니다"
+
+#~ msgid "Extended View"
+#~ msgstr "자세히 보기"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "편집할 수 있는 모든 항목을 봅니다"
+
+#~ msgid "Done!"
+#~ msgstr "완료"
+
+#~ msgid "Shortcuts"
+#~ msgstr "바로가기"
+
+#~ msgid "Week"
+#~ msgstr "주"
+
+#~ msgid "Remember"
+#~ msgstr "기억할 것"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "정확한 사용자 이름과 비밀번호를 입력했는데도 로그인을 하지 못한 것이 확실"
+#~ "하다면,<br />쿠키를 지워 볼 수 있습니다."
+
+#~ msgid "Delete cookies"
+#~ msgstr "쿠키 지우기"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr "10번이나 로그인에 실패했기 때문에, 12시간 동안 IP가 차단됩니다."
+
+#~ msgid "Overview"
+#~ msgstr "개관"
+
+#~ msgid "Modify Entries"
+#~ msgstr "글 고치기"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "빠른 도구"
+
+#~ msgid "Statistics"
+#~ msgstr "통계"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "간추린 피벗"
+
+#~ msgid "View my personal Info"
+#~ msgstr "내 정보를 봅니다"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "빠른 도구를 만듭니다"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "파일이 올려졌습니다"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "로그와 통계를 봅니다"
+
+#~ msgid "Recent Comments"
+#~ msgstr "최근 덧글"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "모든 파일 다시 만들기"
+
+#~ msgid "Verify the Database"
+#~ msgstr "데이터베이스 검증하기"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "대문 다시 만들기"
+
+#~ msgid "User Information Fields"
+#~ msgstr "사용자 정보 항목"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "사용자 정보 항목을 만들고, 고치고, 지웁니다"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "피벗이 만든 파일과 보관소를 다시 만듭니다"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "데이터베이스의 무결성을 검증합니다"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr "웹로그 각각의 대문과 최근 보관소와 RSS파일을 새로 만듭니다."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "글의 백업을 만듭니다"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "트랙백을 갱신하도록 하기 위해 핑을 보냅니다."
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "피벗 서식을 직접 만듭니다"
+
+#~ msgid "Comment*"
+#~ msgstr "덧말*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr "(*참고: <b>첫</b> 저장에만 덧말을 달 수 있습니다)"
+
+#~ msgid "Editing"
+#~ msgstr "고치기"
+
+#~ msgid "Save changes!"
+#~ msgstr "변경 사항 저장"
+
+#~ msgid "Generate Archive"
+#~ msgstr "보관소 만들기"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "보관소를 완전히 새로 만듭니다"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "데이터베이스 검증"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "데이터베이스의 무결성을 검증합니다 (필요할 경우 고칩니다)"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "피벗의 필수 파일들의 백업을 만듭니다"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 방문 경로"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 방문 경로"
+
+#~ msgid "all referrers"
+#~ msgstr "모든 방문 경로"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "방문 경로와 제목과의 관계를 갱신"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "호스트 주소 (IP 주소)"
+
+#~ msgid "Which page"
+#~ msgstr "접근한 페이지"
+
+#~ msgid "Getting new titles"
+#~ msgstr "새 제목 얻어오기"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "시간이 조금 걸리니, 방해하지 말아 주시기 바랍니다."
+
+#~ msgid "First pass"
+#~ msgstr "일단계"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "방문 경로와 제목과의 관계가 갱신되었습니다."
+
+#~ msgid "Finished"
+#~ msgstr "완료"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "사용자 항목 편집"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr "사용자가 자신을 설명할 수 있는 항목을 고칩니다"
+
+#~ msgid "Edit User Info"
+#~ msgstr "사용자 정보 고치기"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "피벗의 새 계정을 만들어서 웹로그에 글을 쓸 수 있게 합니다"
+
+#~ msgid "Create"
+#~ msgstr "만들기"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "관리자 만들기 확인"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "관리자는 피벗의 모든 곳에 접근하고, 모든 소식과 모든 덧글을 고칠 수 있으"
+#~ "며, 모든 설정을 바꿀 수 있습니다. %s 관리자를 만드시겠습니까?"
+
+#~ msgid "File Info"
+#~ msgstr "파일 정보"
+
+#~ msgid "Local Path"
+#~ msgstr "지역 경로"
+
+#~ msgid "File Upload settings"
+#~ msgstr "파일 올리기"
+
+#~ msgid "Clean Filename"
+#~ msgstr "깨끗한 파일 이름"
+
+#~ msgid "Default Text Processing"
+#~ msgstr "기본 텍스트 처리"
+
+#~ msgid "Text Processing"
+#~ msgstr "텍스트 처리"
+
+#~ msgid "None"
+#~ msgstr "없음"
+
+#~ msgid "Open links in new window"
+#~ msgstr "링크를 새 창에서 열기"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "이메일 주소를 부호화할까요?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr "여러분의 글 안에 있는 링크들이 새 창에서 열릴지를 정합니다."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "검색 색인 자동 갱신"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "검색 색인이 여러분이 새 글을 쓸 때마다 갱신될지, 있는 글을 수정할 때마다 "
+#~ "갱신될지 정합니다."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "기본 소개/본문"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "새 글을 쓸 때 소개와 본문에 들어갈 내용의 기본값을 정합니다. 보통 가장 자"
+#~ "연스러운 빈 문단으로 합니다."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "원격 자르기(cropping) 스크립트"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "여러분의 서버에 그림을 자를 때 필요한 라이브러리가 없을 경우, 원격으로 자"
+#~ "르기 스크립트를 쓸 수 있습니다."
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "웹로그 고치기"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "새 웹로그를 추가합니다"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "웹로그 지우기"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "서식에서 찾은 자식 웹로그들이 각각 무슨 서식을 쓰고 어느 갈래에 게시될 것"
+#~ "인지 설정할 수 있습니다."
+
+#~ msgid "Finish"
+#~ msgstr "완료"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "웹로그 만들기 / 고치기, 3 단계 중 1단계"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "웹로그 만들기 / 고치기, 3 단계 중 2단계"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "웹로그 만들기 / 고치기, 3 단계 중 3단계"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "대문 (첫 화면)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "첫 화면의 파일 이름입니다. 보통 'index.html'이나 'index.php'와 같은 모습입"
+#~ "니다."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "만약 여러분의 웹로그가 (추천되지 않는) SSI를 사용한다면, 여러분은 이 설정"
+#~ "으로 피벗의 파일 이름 앞에 'index.shtml?p='와 같은 SSI 용 접두어를 붙일 "
+#~ "수 있습니다. 여러분이 무엇을 하는 것인지 정확히 알지 못한다면 빈 칸으로 남"
+#~ "겨 두셔야 합니다."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "대문 경로"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr "피벗이 이 블로그의 대문을 만들 곳의 절대 주소나 상대 주소입니다."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "(여러분이 '글 바로 만들기'를 쓰지 않을 때) 피벗이 글 하나짜리 페이지를 만"
+#~ "들 곳의 절대 주소나 상대 주소입니다."
+
+#~ msgid "Live entries"
+#~ msgstr "글 바로 만들기"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "글을 미리 만들지 않고, 필요할 때 만듭니다. 여러분이 '글 바로 만들기'를 쓰"
+#~ "면, 피벗은 글마다 파일을 만들 필요가 없습니다. 바람직한 설정입니다."
+
+#~ msgid "Index File"
+#~ msgstr "색인 파일"
+
+#~ msgid "Archive Path"
+#~ msgstr "보관소 경로"
+
+#~ msgid "Archive Amount"
+#~ msgstr "보관량"
+
+#~ msgid "Archive Format"
+#~ msgstr "보관 형태"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "짧은글 서식"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr "웹로그나 보관소에서 글 하나가 어떻게 보일지 결정합니다."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "덧글을 허락하시겠습니까?"
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSS 파일 이름"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atom 파일 이름"
+
+#~ msgid "Feed Path"
+#~ msgstr "Feed 경로"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr "피벗이 Feed 파일을 만들 곳의 상대 경로 또는 절대 경로입니다."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "최근 방문 경로 설정"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "이 설정은 웹로그의 대문에 있는 '최근 방문 경로'가 어떻게 보일지를 정합니"
+#~ "다."
+
+#~ msgid "Use graphics"
+#~ msgstr "그림 사용"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr ""
+#~ "최근 방문자가 어떤 검색 엔진을 통해서 왔는지 보여주는 작은 아이콘을 쓸지"
+#~ "를 정합니다."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "방문 경로를 다른 곳으로"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "방문 경로 스팸을 막기 위해 링크를 다른 곳으로 보내어 스팸을 쓴 사람이 구글"
+#~ "에서 좋은 페이지 순위를 얻는 것을 막습니다."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "이모티콘 사용"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ":-) 과 같은 이모티콘들이 그림으로 바꾸어져 보내질지 결정하십시오."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "이메일 주소 부호화"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "이메일 주소 수집기가 광고용으로 이메일 주소를 가져가는 것을 방해하기 위해 "
+#~ "자바스크립트로 이메일 주소를 부호화하여 나타낼지 여부를 결정하십시오."
+
+#~ msgid "Target Blank"
+#~ msgstr "대상을 Blank로"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML 돌아가기"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "'예'를 선택하면 여러분의 글에 있는 모든 링크들은 새 창에서 열리게 됩니다. "
+#~ "'XHTML 돌아가기'를 선택하면 모든 링크들은 rel=\"external\" 속성을 가지게 "
+#~ "되어 적격인(wellformed) XHTML을 깨지 않게 됩니다."
+
+#~ msgid "Date display settings"
+#~ msgstr "날짜 표시 설정"
+
+#~ msgid "Blogroll settings"
+#~ msgstr "블로그롤 설정"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "블로그롤 ID 번호"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "선택적으로 <a href=\"http://www.blogrolling.com\" target=\"_blank"
+#~ "\">blogrolling.com</a> 블로그롤을 여러분의 웹로그에 넣을 수 있습니다. 블로"
+#~ "그롤은 링크들이 얼마나 최근에 갱신되었는지를 보여주는, 링크들의 목록을 관"
+#~ "리할 때 아주 유용한 서비스입니다. 여러분이 이를 쓰고 싶지 않으시면, 이 입"
+#~ "력 항목을 건너뛰십시오. 쓰고 싶으시면, blogrolling.com에 로그인 한 뒤 "
+#~ "'get code'에서 여러분의 블로그롤 ID 번호를 포함하는 링크를 보실 수 있습니"
+#~ "다. 2ef8b42161020d87223d42ae18191f6d 와 같이 생겼습니다."
+
+#~ msgid "Background Color"
+#~ msgstr "배경 색"
+
+#~ msgid "Line Color 1"
+#~ msgstr "선 색 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "선 색 2"
+
+#~ msgid "Color 1"
+#~ msgstr "색 1"
+
+#~ msgid "Color 2"
+#~ msgstr "색 2"
+
+#~ msgid "Color 3"
+#~ msgstr "색 3"
+
+#~ msgid "Color 4"
+#~ msgstr "색 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "이 색들은 여러분의 블로그롤이 어떻게 보일지를 정합니다. 색 1부터 색 4까지"
+#~ "로 얼마나 최근에 링크가 갱신되었는지를 시각적으로 알려줍니다."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "모든 목록 비리보기"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "작은그림 미리보기"
+
+#~ msgid "Width x Height"
+#~ msgstr "넓이 x 높이"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "%s 지우시겠습니까?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "이 그림을 지우시겠습니까?"
+
+#~ msgid "create"
+#~ msgstr "만들기"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "아래의 칸에 URL을 입력하여 링크를 집어넣으십시오. 방문자는 마우스를 링크 "
+#~ "위에 올려놓으면 제목을 볼 것입니다."
+
+#~ msgid "Text"
+#~ msgstr "내용"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "'%s' 갈래에 누가 글을 쓸 수 있는지 고치십시오"
+
+#~ msgid "Allowed"
+#~ msgstr "허가됨"
+
+#~ msgid "Allow"
+#~ msgstr "허가"
+
+#~ msgid "Denied"
+#~ msgstr "금지됨"
+
+#~ msgid "Deny"
+#~ msgstr "금지"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "피벗의 현재 판에서는 갈래 이름만이 지워집니다. 다음 판에서는 갈래 안의 글"
+#~ "들을 어떻게 할지를 선택할 수 있을 것입니다."
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(여러 갈래를 고르시려면 Ctrl키를 누른 상태에서 클릭하십시오)"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "줄바꿈 변환"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(WYSIWYG 모드에서는 언제나 꺼져 있습니다)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(조심하세요!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "덧글 고치기"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "이 글의 덧글을 고칩니다"
+
+#~ msgid "Edit Comment"
+#~ msgstr "고치기"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "IP %s 차단 해제"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "IP 범위 %s 차단 해제"
+
+#~ msgid "Publish and generate"
+#~ msgstr "게시하고 만들기"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "선택한 파일을:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "선택한 서식을:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "디렉토리를 열 수 없습니다. 권한을 확인하세요."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "디렉토리를 읽을 수 없습니다. 권한을 확인하세요."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "디렉토리에 쓸 수 없습니다. 권한을 확인하세요."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "파일을 열 수 없습니다. 권한을 확인하세요."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "파일을 읽을 수 없습니다. 권한을 확인하세요."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "파일에 쓸 수 없습니다. 권한을 확인하세요."
+
+#~ msgid "Good"
+#~ msgstr "좋다"
+
+#~ msgid "Bad"
+#~ msgstr "나쁘다"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "이미 이 글이나 설문에 투표하셨습니다"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "여러분이 '%val%'고 투표한 결과가 등록되었습니다"
+
+#~ msgid "Last Referrers"
+#~ msgstr "최근 방문 경로"
+
+#~ msgid "Calendar"
+#~ msgstr "달력"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "이모티콘 참고서를 엽니다"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "텍스타일 참고서를 엽니다"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "사용자 항목 고치기"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "내부 이름은 서식에서 피벗에게 이 항목을 출력하라고 할 때 쓰이는 이름입니"
+#~ "다."
+
+#~ msgid "Size"
+#~ msgstr "크기"
+
+#~ msgid "Rows"
+#~ msgstr "행"
+
+#~ msgid "Columns"
+#~ msgstr "열"
+
+#~ msgid "Maximum Length"
+#~ msgstr "최장 길이"
+
+#~ msgid "Filter by"
+#~ msgstr "거르기"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr "이 항목을 거르면, 쓸 수 있는 입력의 유형이 제한됩니다"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "사용자 항목(<b>%s</b>)을 지우면 사용자들이 저장했던 자료도 사라지고, 서식"
+#~ "에 적용되었던 내용은 빈 것으로 보입니다."
+
+#~ msgid "This name is already in use"
+#~ msgstr "이 이름은 이미 쓰이고 있습니다."
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "내부 이름은 3자 보다 길어야 합니다."
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "표시 이름은 3자보다 길어아 합니다."
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr "이 빠른 도구는 여는 페이지로의 링크를 포함하는 새 글을 엽니다."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "이 빠른 도구는 비어 있는 새 글이 있는 창을 엽니다."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "여러분은 빠른 도구를 써서 피벗에 새 글을 간단히 쓸 수 있습니다. 빠른 도구"
+#~ "를 여러분의 브라우저에 추가하려면, 아래 방법 중에서 하나를 사용하십시오. "
+#~ "여러분이 사용하는 브라우저에 따라 자세한 내용은 다를 수도 있습니다."
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr "빠른 도구를 '책갈피(즐겨찾기)' 툴바나 버튼으로 끄십시오."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr ""
+#~ "빠른 도구를 마우스 오른쪽으로 클릭해서 '책갈피(즐겨찾기)에 추가'를  고르십"
+#~ "시오."

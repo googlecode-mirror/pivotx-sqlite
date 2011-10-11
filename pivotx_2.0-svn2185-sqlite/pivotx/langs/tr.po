@@ -1,0 +1,5468 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr "İlgili"
+
+msgid "Last Comments"
+msgstr "Son Yorumlar"
+
+msgid "Stuff"
+msgstr "Şeyler"
+
+msgid "Archives"
+msgstr "Arşiv"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Links"
+msgstr "Linkler"
+
+#, fuzzy
+msgid "Search"
+msgstr "Ara!"
+
+msgid "Linkdump"
+msgstr "Linkdump"
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "Yorum Postala"
+
+msgid "Preview Comment"
+msgstr "Yorum Önizleme"
+
+msgid "Remember personal info?"
+msgstr "Kişisel Bilgiler Hatiırlansın mı?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "Konfigürasyon"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "Konfigürasyon"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "Çerçeve"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Son Yorumlar"
+
+#, fuzzy
+msgid "Pages"
+msgstr "imaj"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Notify"
+msgstr "Haberdar et"
+
+msgid "Yes, send me email when someone replies."
+msgstr "Evet, biri cevaplarsa mail gönder."
+
+msgid "Hide email"
+msgstr ""
+
+msgid "Yes, hide my email address."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Küçük yazı:</b> &lt;b&gt; ve &lt;i&gt; hariç bütün tagler yorumunuzdan "
+"atılacak. URL veya email adresi yazarak link oluşturabilirsiniz."
+
+msgid "Insert an Image"
+msgstr "İmaj ekle"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"İmaj eklemek için önce göndermeli veya önceden gönderilen bir imaj "
+"seçmelisiniz."
+
+msgid "Upload"
+msgstr "Gönder"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "Yeni dosya gönder:"
+
+msgid "Image name"
+msgstr "İmaj ismi"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "İmaj seç"
+
+msgid "Select"
+msgstr "Seç"
+
+msgid "Alternate text"
+msgstr "Alternatif metin"
+
+msgid "Align"
+msgstr "Hizala"
+
+msgid "Center (default)"
+msgstr "Ortala (varsayılan)"
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Inline"
+msgstr "Satır içi"
+
+msgid "Border"
+msgstr "Çerçeve"
+
+msgid "pixels"
+msgstr "pikseller"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "İmaj ekle"
+
+msgid "Cancel"
+msgstr "Vazgeç"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "Çerçeve"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "Şu tarihte yayınla"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "Bakım"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "Yorumlama ayarları"
+
+msgid "IP-address"
+msgstr "IP adresi"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "Yorumları sil"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "Hepsini Seç"
+
+#, fuzzy
+msgid "Check none"
+msgstr "Hepsini Seç"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "Yorum yok"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "Yorumları sil"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Yeni makaleler"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "Bu makaleye ait yorum yok."
+
+msgid "No comments"
+msgstr "Yorum yok"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Yeni makaleler"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Weblog Adı"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "'X yorum' için etiket"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "'X yorum' için etiket"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Bu makaleye ait yorum yok."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "'X yorum' için etiket"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "düzenle"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Alt Başlıke"
+
+#, fuzzy
+msgid "Template"
+msgstr "Şablonlar"
+
+msgid "Introduction"
+msgstr "Açıklama"
+
+msgid "Body"
+msgstr "Gövde"
+
+msgid "Keywords"
+msgstr "Anahtar kelimeler"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "imaj"
+
+#, fuzzy
+msgid "Preview"
+msgstr "Makale önizleme"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "Kategori"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Postalama durumu"
+
+#, fuzzy
+msgid "Publish"
+msgstr "Şu tarihte yayınla"
+
+msgid "Publish on"
+msgstr "Şu tarihte yayınla"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "Yorumlara izin ver"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Created on"
+msgstr "Yaratıldığı tarih"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "Son düzenlendiği tarih"
+
+msgid "Author"
+msgstr "Yazar"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "Arşiv Ayarları"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "Şablonlar"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Webloglar"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "Yorum"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "İmaj ekle"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "İmaj ekle"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "Link yoluyla"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "Başlık yoluyla"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Trackback pingi"
+
+msgid "Post Entry"
+msgstr "Makale postala"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "Yorum Önizleme"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "'X yorum' için etiket"
+
+msgid "Category"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "(none)"
+msgstr "bir"
+
+msgid "Insert a Download"
+msgstr "İndirme ekle"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"İndirme eklemek için önce göndermeli veya önceden gönderilen bir imaj "
+"seçmelisiniz."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "Yeni dosya gönder:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "Dosya ismi"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "ikon kullan"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "Metin kulan"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "Başlık yoluyla"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "İndirme ekle"
+
+msgid "My Info"
+msgstr "Hakkımda"
+
+#, fuzzy
+msgid "Logout"
+msgstr "Çıkış"
+
+msgid "Dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "Back to dashboard"
+msgstr "Girişe dönüş"
+
+#, fuzzy
+msgid "View weblog"
+msgstr "Yeni Weblog"
+
+#, fuzzy
+msgid "view"
+msgstr "Makale önizleme"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "Varsayılan uzantı"
+
+msgid "Maintenance"
+msgstr "Bakım"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "Yeni Weblog"
+
+#, fuzzy
+msgid "sec."
+msgstr "Saniye"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Dosya ismi"
+
+msgid "Description"
+msgstr "Tanım"
+
+msgid "Filesize"
+msgstr "Dosya Boyutu"
+
+#, fuzzy
+msgid "Image"
+msgstr "imaj"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "Bu makaleyi silmek istediğinizden emin misiniz?"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Tarih"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "Yeni kullanıcı yarat"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "Yeni kullanıcı yarat"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "Dosya gönder"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "Gönder"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "Konfigürasyon dosyasını düzenle"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "Emotikonlar"
+
+msgid "You should first select or upload an image"
+msgstr "Önce gönderilecek bir resim seçin"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"İmaja popup eklemek için önce göndermeli veya önceden gönderilen bir imaj "
+"seçmelisiniz. Sonra da popuğı tetikleyen thumbnail veya metni seçin."
+
+msgid "For popup"
+msgstr "Popup için"
+
+msgid "Use Thumbnail"
+msgstr "Thumbnail kullan"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "Thumbnail düzenle"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "İmaj popupı ekle"
+
+msgid "Create New User"
+msgstr "Yeni kullanıcı yarat"
+
+msgid "Username"
+msgstr "Kullanıcı"
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Userlevel"
+msgstr "Kullanıcı seviyesi"
+
+msgid "Last Login"
+msgstr "Son Giriş"
+
+msgid "Edit User"
+msgstr "Kullanıcı düzenleme"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr "%siçin erişim hakkını kaldırmak üzeresiniz. Emin misiniz?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Emotikonlar"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "Yeni kullanıcı adı kaydı yap"
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "%1 weblogunu silmek üzeresiniz. Emin misiniz?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "İmaj ekle"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "İmaj ekle"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "İndirme ekle"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "İmaj ekle"
+
+msgid "The default category is:"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr "Bu kullanıcı seçilen kategorilere makale yazma iznine sahiptir"
+
+msgid "Create New Category"
+msgstr "Yeni Kategori Yarat"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgid "Hidden Category"
+msgstr "Gizli Kategori"
+
+msgid "Sorting Order"
+msgstr "Sıralama Talimatı"
+
+#, fuzzy
+msgid "users"
+msgstr "Kullanıcılar"
+
+msgid "Edit Category"
+msgstr "Kategori Düzenle"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Bu kategoriyi silmek isterseniz 'evet' seçin."
+
+msgid "New Weblog"
+msgstr "Yeni Weblog"
+
+msgid "Weblog Name"
+msgstr "Weblog Adı"
+
+#, fuzzy
+msgid "categories"
+msgstr "Kategoriler"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "%1 weblogunu silmek üzeresiniz. Emin misiniz?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Makale düzenle"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "Yeni Makale"
+
+#, fuzzy
+msgid "New Page"
+msgstr "imaj"
+
+msgid "Configuration"
+msgstr "Konfigürasyon"
+
+msgid "Manage Media"
+msgstr "Medyayı yönet"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Yeni makaleler"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Bu makaleyi silmek istediğinizden emin misiniz?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "Yeni Makale"
+
+#, fuzzy
+msgid "delete"
+msgstr "Sil"
+
+msgid "The latest pages"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Piv » Yeni"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Yeni makaleler"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Sonuncuyu göster"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Yeni makaleler"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Makaleler"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Sonuncuyu göster"
+
+msgid "filter on (%name%)"
+msgstr "(%name%) filtrele"
+
+msgid "first"
+msgstr "ilk"
+
+msgid "previous"
+msgstr "önceki"
+
+msgid "next"
+msgstr "diğer"
+
+msgid "last"
+msgstr "son"
+
+msgid "jump to page (%num%)"
+msgstr "(%num%) sayfasına atla"
+
+msgid "filter off"
+msgstr "filtre kapalı"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Hepsini Seç"
+
+msgid "Uncheck All"
+msgstr "Hiçbirini seçme"
+
+msgid "With the checked entries, do:"
+msgstr "Seçilen makalelere şunu yap:"
+
+msgid "- select an option -"
+msgstr "- bir seçenek seçin -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "Durumu şuna değiştir: 'yayınla'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "Durumu şuna değiştir: 'beklet'"
+
+msgid "Delete them"
+msgstr "Bunları sil"
+
+msgid "Go!"
+msgstr "Devam!"
+
+#, fuzzy
+msgid "Published"
+msgstr "Şu tarihte yayınla"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Başlık"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "Yorumları sil"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Bitti! Indexin oluşturulması %num% saniye sürdü"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "Yaratıldığı tarih"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "Hiçbirşey"
+
+#, fuzzy
+msgid "for"
+msgstr "dört"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "Son Giriş"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "Yorumlama ayarları"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "Makale yolu"
+
+msgid "Overview of Entries"
+msgstr "Girişler hakkında genel"
+
+msgid "Manage and Upload Media"
+msgstr "Medya yönet ve gönder"
+
+msgid "Administration"
+msgstr "Yönetim"
+
+msgid "Overview of Administrative functions"
+msgstr "Yönetim hakkında genel"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Varsayılan uzantı"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "Varsayılan uzantı"
+
+#, fuzzy
+msgid "Log in"
+msgstr "Giriş"
+
+msgid "Write and Publish a new Entry"
+msgstr "Yeni makale yaz ve yayınla"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "Girişler hakkında genel"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "Yeni makale yaz ve yayınla"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "Yorumları sil"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "'X yorum' için etiket"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "Girişler hakkında genel"
+
+msgid "Edit the Configuration file"
+msgstr "Konfigürasyon dosyasını düzenle"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "Konfigürasyon"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Konfigürasyon dosyasını düzenle"
+
+msgid "Create, edit and delete Users"
+msgstr "Kullanıcı oluştur, düzenle veya sil"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Kategori oluşturun, düzenleyin veya silin"
+
+msgid "Weblogs"
+msgstr "Webloglar"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Weblog oluşturun, düzenleyin veya silin"
+
+#, fuzzy
+msgid "Registered Visitors"
+msgstr "Yeni kullanıcı adı kaydı yap"
+
+#, fuzzy
+msgid "View and edit Registered Visitors"
+msgstr "Kayıtlı kullanıcı olarak giriş yap"
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "Yedekle"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr "Bu konfügirasyon dosyalarınızın ziplenmiş halini indirmenize yarar"
+
+#, fuzzy
+msgid "Widgets"
+msgstr "imajlar"
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Varsayılan uzantı"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "Konfigürasyon"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+msgid "Backup of Configuration Files"
+msgstr "Konfigürasyon dosyalarınızın yedeğini oluşturun"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr "Bu konfügirasyon dosyalarınızın ziplenmiş halini indirmenize yarar"
+
+msgid "Create, edit and delete Templates"
+msgstr "Şablon oluşturun, düzenleyin veya silin"
+
+msgid "Explore Database Files"
+msgstr "Dosya yöneticisi"
+
+msgid "View files (both text and database files)"
+msgstr "Dosyaları göster (hem metin hem veritabanı dosyaları)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "Dosya yöneticisi"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "Dosya gönder"
+
+msgid "Rebuild the Index"
+msgstr "Indexi tekrar oluştur"
+
+msgid "Rebuild the index of your Database"
+msgstr "Veritabanınızın indexini yeniden oluşturun"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "Arama indexini yeniden oluştur"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "Arama işleminde kullanılan arama indexini yeniden oluşturun"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Indexi tekrar oluştur"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "Arama işleminde kullanılan arama indexini yeniden oluşturun"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "%build%'e hoşgeldiniz."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "Pazartesi"
+
+#, fuzzy
+msgid "Keyword"
+msgstr "Anahtar kelimeler"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Yeni dosya gönder:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Red"
+msgstr "Çar"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "Yedekle"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "Mail adresi geçersiz"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "Mail adresi geçersiz"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Giriş"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "Mail adresi geçersiz"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr ""
+"Kullanıcı adı sadece alfanumerik karakterlerlerden (A-Z, 0-9) ve alt "
+"çizgilerden (_) oluşabilir."
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+#, fuzzy
+msgid "Stay logged in?"
+msgstr "Girildi"
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Şifrenizi unuttunuz mu?"
+
+msgid "Send password"
+msgstr "Send password"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Send password"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+"Şifrenizi unuttuysanız, kullanıcı adı ve email alanlarınızı doldurun. "
+"Şifreniz email adresinize gönderilecektir."
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "Şablon oluştur"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "Şablon oluştur"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "Konfigürasyon dosyalarınızın yedeğini oluşturun"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "Yorum Önizleme"
+
+msgid "Error"
+msgstr ""
+
+#, fuzzy
+msgid "Registered user"
+msgstr "Yeni kullanıcı adı kaydı yap"
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "Yorumları sil"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "'bir yorum' için etiket"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Makale Tarihi"
+
+msgid "Excerpt"
+msgstr ""
+
+#, fuzzy
+msgid "Continue"
+msgstr "dokuz"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "Şifre (doğrulama)"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "Uymayan şifre"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "Mail adresi geçersiz"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "Mail adresi geçersiz"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "Tarih"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "Dosya gönder"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+#, fuzzy
+msgid "Your MySQL password"
+msgstr "Send password"
+
+#, fuzzy
+msgid "Database Name"
+msgstr "Tarih"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "Kullanıcı"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "SSI Prefixi"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Uymayan şifre"
+
+msgid "That's not a valid email address"
+msgstr "Mail adresi geçersiz"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "Mail adresi geçersiz"
+
+msgid "Language"
+msgstr "Lisan"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Metin Rengi"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Kullanıcı wysiwyg olmayan editör kullandığında varsayılan metin işlemini "
+"belirler. 'Convert Linebreaks' linebreakleri &lt;br&gt;-tag tagine "
+"çevirmekten başka bir şey yapmaz. <a href=\"http://www.textism.com/tools/"
+"textile/\" target=\"_blank\">Textile</a> adresi güüçlü, ama öğrenmesi kolay "
+"bir düzenleme öğrenme kaynağıdır."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Linebreakleri &lt;br /&gt; olayına dönüştür"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Markdown and Smartypants"
+msgstr ""
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "Son düzenlendiği tarih"
+
+msgid "Moblogger"
+msgstr "Çırak"
+
+msgid "Normal"
+msgstr "Kalfa"
+
+msgid "Advanced"
+msgstr "Usta"
+
+msgid "Administrator"
+msgstr "Uzman"
+
+msgid "Superadmin"
+msgstr "Admin"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr "Kullanıcı seviyesi kullanıcının Pivotta neler yapabileceğini belirler."
+
+msgid "Allowed Categories"
+msgstr "İzin verilen kategoriler"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr "Bu kullanıcı seçilen kategorilere makale yazma iznine sahiptir"
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "Son düzenlendiği tarih"
+
+msgid "Create Category"
+msgstr "Kategori Yarat"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Kategoriye isim verin"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "Bu kategoriye makale yazma izni verilecek kullanıcıları seçin."
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+"Daha düşük sıralan talimatlı kategoriler listede yukarıda belirir. Sayılar "
+"aynı olursa alfabetik sıralama kullanılır."
+
+#, fuzzy
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+"'Evet' seçilirse, bu kategori arşiv listelerinde görüntülenmez (sadece canlı "
+"sayfalar)."
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "The name of this chapter"
+msgstr "Bu kategoriyi indeksle"
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+#, fuzzy
+msgid "Theme"
+msgstr "Şablonlar"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "Makale ayarları"
+
+msgid "Payoff"
+msgstr "Sonuç"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr "Sonuç weblogunuzun kısa izahatini yapmak için kullanılabilir"
+
+msgid "URL to Weblog"
+msgstr "Weblog URLi"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Boş bırakırsanız Pivot weblogunuzun urlsini kendi belirler. Frameset veya "
+"serverside include kullanıyorsanız kullanabilirsiniz."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"Tarih, saat numaralarının gösterimini belirler. Aynı zamanda sayfanın "
+"encodingini de belirler."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'Devamı' Metni"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"Makalenin ön sayfada gösterilenden fazla kısmını belirtmek için kullanılan "
+"metindir. Boş bırakırsanız, Pivot lisan dosyasındaki varsayılanı kullanır."
+
+msgid "Frontpage Template"
+msgstr "Ön Sayfa Şablonu"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "Bu weblogun ön sayfasının mizanpajını belirleyen şablon."
+
+msgid "Archivepage Template"
+msgstr "Arşiv Sayfası Şablonu"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr ""
+"Bu weblogun arşiv sayfalarının mizanpajını belirleyen şablon. 'Ön sayfa "
+"şablonuyla' aynı olabilir."
+
+msgid "Entrypage Template"
+msgstr "Makale sayfası şablonu"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "Makale girişlerinin mizanpajını belirleyen şablon."
+
+msgid "Extra Template"
+msgstr "Ekstra Şablon"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr ""
+"Arşiv ve search.php sayfalarınızın nasıl görüneceğini belirleyen şablon."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Şablon oluştur"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr ""
+"Arşiv ve search.php sayfalarınızın nasıl görüneceğini belirleyen şablon."
+
+msgid "Number of Entries"
+msgstr "Makale Sayısı"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "Ön sayfada gösterilecek makalelerin sayısı."
+
+msgid "Offset"
+msgstr "Kayma"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"Kayma bir numaraysa, sayfa oluşturulurkeb o sayıda makale es geçilir. Mesela "
+"bunu 'Önce eski makaleler' listesi oluşturmak için kullanabilirsiniz."
+
+msgid "Publish these categories"
+msgstr "Bu kategorileri yayınla"
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS ve Atom Konfügirasyonu"
+
+msgid "Generate Feeds"
+msgstr "Feedleri oluştur"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr "Feedlerin otomatik olarak oluşturulup oluşturulmayacağını belirler."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "Site URLi"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "Site URLi"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Komple Feed oluştur"
+
+#, fuzzy
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"Feedlerin makalenin tamamını kapsayıp kapsamayacağını belirler. Olumsuz "
+"olursa feedler kısa ve kullanışsız olur."
+
+msgid "Feed Link"
+msgstr "Feed inki"
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"Feedde kullanılan ve ana sayfaya yönlendirme yapan link. Boş bırakırsanız "
+"Pivot weblogun indeks sayfasının linkini gönderir."
+
+msgid "Feed Image"
+msgstr "Feed İmajı"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"Feedle gönderilecek bir imaj belirleyebilirsiniz. Bazı feed okuyucular bu "
+"imajı gösterirler. Boş bırakın veya tam URL belirleyin."
+
+msgid "Commenting Settings"
+msgstr "Yorumlama ayarları"
+
+msgid "Send Mail?"
+msgstr "Mail Gönder?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr "Yeni yorum eklenince bu weblogun bakımını yapanlara mail gönderilir."
+
+msgid "Mail to"
+msgstr "Şunlara Mail at"
+
+#, fuzzy
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr "Kimlerer mail atılacağını virgül kullanarak belirleyin."
+
+msgid "Text to links"
+msgstr "Linke Dönüşen Metin"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr ""
+"Web linklerinin ve mail adreslerinin kliklenebilen formata dönüştürülme "
+"tercihi"
+
+msgid "Wrap comments after"
+msgstr "Yorumnları belli uzulukta tut"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"Uzun satırları engellemek için, satırların maksimum karakter sayısını "
+"belirler."
+
+msgid "Comments Popup?"
+msgstr "Yorumları popup pencerede aç?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr "Yorumlar (veya 'tek makale') yeni pencerede açılsın ayarı"
+
+msgid "Width of Popup"
+msgstr "Popup genişliği"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "Popup yüksekliği"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "Yorum pop-up pencerelerinin piksel cinsinden boyutlarını belirleyin."
+
+msgid "Height of Popup"
+msgstr "Popup yüksekliği"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "Yorum pop-up pencerelerinin piksel cinsinden boyutlarını belirleyin."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Textile olayına izin ver"
+
+msgid "Allow Textile"
+msgstr "Textile olayına izin ver"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"'Evet' ayarlanırsa, kullanıcılar <a href=\"http://www.textism.com/tools/"
+"textile/\" target=\"_blank\">Textile</a> kullanabilirler."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "Emotikonlar"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "Emotikonlar"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"'Evet' ayarlanırsa, kullanıcılar <a href=\"http://www.textism.com/tools/"
+"textile/\" target=\"_blank\">Textile</a> kullanabilirler."
+
+msgid "Site Name"
+msgstr "Site ismi"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "Mail adresi geçersiz"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Webloglar"
+
+#, fuzzy
+msgid "Page"
+msgstr "imaj"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "Site ismi"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- bir seçenek seçin -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr "Belli yoruma cevap eklemeyi belirtmek için kullanılacak metin."
+
+msgid "Default language"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "Varsayılan lisan"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /entry/1234"
+msgstr ""
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Use Mod_rewrite"
+msgstr "Mod_rewrite kullan"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"Apachenin Mod_rewrite seçimini kullanıyorsanız, Pivot urlleri of www.mysite."
+"com/pivot/entry.php?id=134 yerine www.mysite.com/archive/2003/05/30/"
+"nice_weather gibi yapar. Tüm sunucular bunu desteklemez. Kullanım "
+"kılavuzundaki ilgili bölümü okuyun"
+
+msgid "Allow comments by default"
+msgstr "Varsayılan olarak yorumlara izin ver"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "Makalelere yorum eklenip eklenemeyeceğini belirler."
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "Yorumları sil"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "Ayarları kaydet"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Sonuncuyu göster"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "Makale Sayısı"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS Feed"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "Makale Sayısı"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "Kod"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "Maksimum dosya boyutu"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "Maksimum dosya boyutu"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "Debug modu"
+
+msgid "Show random debug information, every here and there.."
+msgstr "Burada ve her yerde gelişigüzel seçilmiş debug bilgisi göster..."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "Log dosyaları"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "Dosya linklerini kaldırın"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"Bazı sunucular salakça safe_mode kullanmaya ayarlıdır ve bu seöimin "
+"değiştirilmesini gerektirir. Çoğu sunucuda bu seçimin hiçbir etkisi yoktur"
+
+msgid "Chmod Files To"
+msgstr "Dosyaları şuna Chmodlayın"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"Bazı sunucular oluşturulan dosyaların farklı chmodlanmasını gerektirir. "
+"Yaygın değerler şunlardır: '0644' and '0755'. Ne yaptığınızı bilmiyorsanız "
+"değiştirmeyin."
+
+msgid "File Upload Path"
+msgstr "Dosya gönderme klasörü"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Üstüne yaz"
+
+msgid "Increment Filename"
+msgstr "Dosya isminin sayısını artır"
+
+msgid "Maximum Filesize"
+msgstr "Maksimum dosya boyutu"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Otomatik Thumbnailler"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Thumbnail genişliği"
+
+msgid "Thumbnail height"
+msgstr "Thumbnail yüksekliği"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Thumbnail genişliği"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Kabul edilen dosya türleri"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Tama tarih formatı"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr ""
+"Tam tarih ve saas görüntülenir. Genelde her makalenin üstünde kullanılır"
+
+msgid "Entry Date"
+msgstr "Makale Tarihi"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Değişiklik Tarihi"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'Değişiklik Tarihi' 'Makale Tarihi' ile iç içe kullanılır. Makale Tarihi her "
+"makalede görüntülenir. Değişiklik tarihi makale önceki makaleden değişik "
+"tarihe sahipse kullanılır."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "Zaman kayma unitesi"
+
+msgid "Year"
+msgstr "Yıl"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Hour"
+msgstr "Saat"
+
+msgid "Minute"
+msgstr "Dakika"
+
+msgid "Time Offset"
+msgstr "Zaman kayması"
+
+#, fuzzy
+msgid "Activate"
+msgstr "Arşiv"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "Min. Kullanıcı Seviyesi"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "Mail adresi geçersiz"
+
+#, fuzzy
+msgid "Default author"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "Varsayılan lisan"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "İmaj seç"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "Kategori Sil"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- bir seçenek seçin -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "Kategori Sil"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "İzin verilen kategoriler"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+msgid "Number of links"
+msgstr "Linklerin sayısı"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+"Yorumlarda izin verilen maksimum link sayısı. Spamcileren kurtulmak için "
+"kullanıllıdır. Limitsiz link için 0 yazın."
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "Çeviri"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "İmaj ismi"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "Varsayılan uzantı"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "Varsayılan uzantı"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "Varsayılan uzantı"
+
+#, fuzzy
+msgid "By"
+msgstr "Gövde"
+
+#, fuzzy
+msgid "version"
+msgstr "Çeviri"
+
+#, fuzzy
+msgid "last updated"
+msgstr "Son düzenlendiği tarih"
+
+#, fuzzy
+msgid "site link"
+msgstr "Link ekle"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "Konfigürasyon"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "İmaj ekle"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "İmaj ekle"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Ping gönder"
+
+#, fuzzy
+msgid "Oops."
+msgstr "Offf"
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Pivot kullanıcı girişi"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Pivot kullanıcı girişi"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Pivot kullanıcı girişi"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "%title% girişine bunu yapma yetkiniz yok!!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "Yorum silindi."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "Dosyanız şöyle gönderildi: '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "Yorum silindi."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "Weblog oluşturuldu."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Thumbnail oluştur)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Dosya gönderme klasörü"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "Şablonu kaydet!"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Emotikonlar"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "Şifre"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "onüç"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "Yaz"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Yazma hatası. Dosya yazmak için açılamadı"
+
+msgid "Write Error. Could not write to file"
+msgstr "Yazma hatası. Dosyaya yazılamadı"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "Makale sayfalarındaki yorum formatını belirler.."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "'%val%' makalesi için oy verin."
+
+#, fuzzy
+msgid "View this comment"
+msgstr "Yorumları sil"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "Makale sayfalarındaki yorum formatını belirler.."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "Değişik ayarlar"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Yeni Makale"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "Konfigürasyon"
+
+msgid "%num% comment"
+msgstr "%num% yorum"
+
+msgid "%num% comments"
+msgstr "%num% yorum"
+
+#, fuzzy
+msgid "%num% trackback"
+msgstr "'bir yorum' için etiket"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "'X yorum' için etiket"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"Yorumunuzun önizlemesini yapıyorsunuz. Kaydetmek için 'Yorum Postala'ya "
+"tıkladığınızdan emin olun."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr "Yorumunuz kaydedilmedi, çünkğ önceki bir girişle aynı gibi görünüyor."
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr "Yorumunuz kaydedilmedi, çünkğ önceki bir girişle aynı gibi görünüyor."
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr "Yorumunuz kaydedilmedi, çünkğ önceki bir girişle aynı gibi görünüyor."
+
+msgid "Your comment has been stored."
+msgstr "Yorumunuz kaydedildi."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"İsminizi veya nickinizi 'isim' alanına yamanız gerekmektedir.  Kaydetmek "
+"için 'Yorum Postala' tuşuna tıkladığınızdan emin olun."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"'yorum'alanını doldurmanız gerekmektedir. Kaydetmek için 'Yorum Postala'ya "
+"tıkladığınızdan emin olun."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr "Maksimum link sayısı aşılmıştır. Bu spam önleyici bir sınırlamadır."
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "Yorum Formatı"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "Thumbnail düzenle"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Pivot kullanıcı girişi"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Kod"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "Emotikonlar"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "Thumbnail düzenle"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Thumbnail oluştur)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Devam!"
+
+#, fuzzy
+msgid "Back"
+msgstr "Yedekle"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "Kod"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "Pazar"
+
+msgid "Monday"
+msgstr "Pazartesi"
+
+msgid "Tuesday"
+msgstr "Salı"
+
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+msgid "Thursday"
+msgstr "Perşembe"
+
+msgid "Friday"
+msgstr "Cuma"
+
+msgid "Saturday"
+msgstr "Cumartesi"
+
+msgid "S_Sunday_initial"
+msgstr "P"
+
+msgid "M_Monday_initial"
+msgstr "P"
+
+msgid "T_Tuesday_initial"
+msgstr "S"
+
+msgid "W_Wednesday_initial"
+msgstr "Ç"
+
+msgid "T_Thursday_initial"
+msgstr "P"
+
+msgid "F_Friday_initial"
+msgstr "C"
+
+msgid "S_Saturday_initial"
+msgstr "C"
+
+msgid "Sun"
+msgstr "Paz"
+
+msgid "Mon"
+msgstr "Pzt"
+
+msgid "Tue"
+msgstr "Sal"
+
+msgid "Wed"
+msgstr "Çar"
+
+msgid "Thu"
+msgstr "Per"
+
+msgid "Fri"
+msgstr "Cum"
+
+msgid "Sat"
+msgstr "Cmt"
+
+msgid "January"
+msgstr "Ocak"
+
+msgid "February"
+msgstr "Şubat"
+
+msgid "March"
+msgstr "Mart"
+
+msgid "April"
+msgstr "Nisan"
+
+msgid "May"
+msgstr "Mayıs"
+
+msgid "June"
+msgstr "Haziran"
+
+msgid "July"
+msgstr "Temmuz"
+
+msgid "August"
+msgstr "Ağustos"
+
+msgid "September"
+msgstr "Eylül"
+
+msgid "October"
+msgstr "Ekim"
+
+msgid "November"
+msgstr "Kasım"
+
+msgid "December"
+msgstr "Aralık"
+
+msgid "Jan_January_abbreviation"
+msgstr "Oca"
+
+msgid "Feb_February_abbreviation"
+msgstr "Şub"
+
+msgid "Mar_March_abbreviation"
+msgstr "Mar"
+
+msgid "Apr_April_abbreviation"
+msgstr "Nis"
+
+msgid "May_May_abbreviation"
+msgstr "May"
+
+msgid "Jun_June_abbreviation"
+msgstr "Haz"
+
+msgid "Jul_July_abbreviation"
+msgstr "Tem"
+
+msgid "Aug_August_abbreviation"
+msgstr "Ağu"
+
+msgid "Sep_September_abbreviation"
+msgstr "Eyl"
+
+msgid "Oct_October_abbreviation"
+msgstr "Eki"
+
+msgid "Nov_November_abbreviation"
+msgstr "Kas"
+
+msgid "Dec_December_abbreviation"
+msgstr "Ara"
+
+#, fuzzy
+msgid "am"
+msgstr "İsim"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "sıfır"
+
+msgid "one"
+msgstr "bir"
+
+msgid "two"
+msgstr "iki"
+
+msgid "three"
+msgstr "üç"
+
+msgid "four"
+msgstr "dört"
+
+msgid "five"
+msgstr "beş"
+
+msgid "six"
+msgstr "altı"
+
+msgid "seven"
+msgstr "yedi"
+
+msgid "eight"
+msgstr "sekiz"
+
+msgid "nine"
+msgstr "dokuz"
+
+msgid "ten"
+msgstr "on"
+
+msgid "eleven"
+msgstr "onbir"
+
+msgid "twelve"
+msgstr "oniki"
+
+msgid "thirteen"
+msgstr "onüç"
+
+msgid "fourteen"
+msgstr "ondört"
+
+msgid "fifteen"
+msgstr "onbeş"
+
+msgid "sixteen"
+msgstr "onbaltı"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "yedi"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "sekiz"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "dokuz"
+
+#, fuzzy
+msgid "twenty"
+msgstr "Yeni Makale"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "sıfır"
+
+#, fuzzy
+msgid "second"
+msgstr "Saniye"
+
+#, fuzzy
+msgid "third"
+msgstr "onüç"
+
+#, fuzzy
+msgid "forth"
+msgstr "dört"
+
+#, fuzzy
+msgid "fifth"
+msgstr "onbeş"
+
+#, fuzzy
+msgid "sixth"
+msgstr "altı"
+
+#, fuzzy
+msgid "seventh"
+msgstr "yedi"
+
+#, fuzzy
+msgid "eighth"
+msgstr "sekiz"
+
+#, fuzzy
+msgid "ninth"
+msgstr "dokuz"
+
+#, fuzzy
+msgid "tenth"
+msgstr "on"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "onbir"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "oniki"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "onüç"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "ondört"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "onbeş"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "onbaltı"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "yedi"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "sekiz"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "dokuz"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "on"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "Çerçeve"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "Dosya gönder"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Sonuncuyu göster"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "Yorum silindi."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Webloglar"
+
+#, fuzzy
+msgid "category"
+msgstr "Kategori"
+
+#, fuzzy
+msgid "entry"
+msgstr "Yeni Makale"
+
+#, fuzzy
+msgid "for comments"
+msgstr "Yorum yok"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "'%name%' ismi için bulunanlar:"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "'%name%' ismi için bulunanlar:"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "'%name%' ismi için kayıt bulunamadı. Başka bir şey deneyin."
+
+msgid "Search for words used in entries on this website"
+msgstr "Makalelerdeki terimler"
+
+msgid "Enter the word[s] to search for here:"
+msgstr "Arayacağınız terimleri yazın:"
+
+msgid "Enter searchterms"
+msgstr "Buraya :)"
+
+msgid "Search!"
+msgstr "Ara!"
+
+msgid "XML: Atom Feed"
+msgstr "XML: Atom Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "%num% yorum"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "Emotikonlar"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Pivot kullanıcı girişi"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "Şablon oluştur"
+
+#, fuzzy
+msgid "Text file"
+msgstr "Textile"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Piv » Yeni"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "Yeni dosya gönder:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Piv » Yeni"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "Thumbnail düzenle"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Yeni dosya gönder:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "Şablonlar"
+
+#, fuzzy
+msgid "Include template"
+msgstr "Şablon oluştur"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "Ön Sayfa Şablonu"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "Arşiv Sayfası Şablonu"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "Makale sayfası şablonu"
+
+#, fuzzy
+msgid "Page template"
+msgstr "Şablon oluştur"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "Arşiv Sayfası Şablonu"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "Konfigürasyon"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Pivot kullanıcı girişi"
+
+#, fuzzy
+msgid "(more)"
+msgstr "bir"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "İmaj ekle"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "'bir yorum' için etiket"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "'X yorum' için etiket"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Yorumları sil"
+
+#, fuzzy
+msgid "register/login"
+msgstr "Kaydol"
+
+msgid "words"
+msgstr "kelimeler"
+
+msgid "image"
+msgstr "imaj"
+
+msgid "images"
+msgstr "imajlar"
+
+msgid "file"
+msgstr "dosya"
+
+msgid "files"
+msgstr "dosyalar"
+
+msgid "Self-registration"
+msgstr ""
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "'%val%' makalesi için oy verin."
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+msgid "Related tags"
+msgstr ""
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Sonuncuyu göster"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "Makale sayfalarındaki yorum formatını belirler.."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "Makale sayfalarındaki yorum formatını belirler.."
+
+msgid "Log in as a registered visitor"
+msgstr "Kayıtlı kullanıcı olarak giriş yap"
+
+msgid "Forgotten your password?"
+msgstr "Şifrenizi unuttunuz mu?"
+
+msgid "Register a new username."
+msgstr "Yeni kullanıcı adı kaydı yap"
+
+msgid "Logged in as"
+msgstr "olarak giriş yapıldı"
+
+msgid "Log out."
+msgstr "Çıkış"
+
+#, fuzzy
+msgid "Delete account."
+msgstr "Yorumları sil"
+
+msgid "Edit your preferences"
+msgstr "Tercihlerinizi düzenleyin"
+
+msgid "User disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "Hatalı Şifre"
+
+msgid "Logged in"
+msgstr "Girildi"
+
+msgid "Register"
+msgstr "Kaydol"
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+"Lütfen takip eden formu doldurun. <strong>Geçerli bir email adresi "
+"yazdığınızdan emin olun</strong>, çünkü onay maili gönderilecek."
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "Back to login"
+msgstr "Girişe dönüş"
+
+msgid "Show my email address with comments"
+msgstr "Yorumlarımda email adresimi göster"
+
+msgid "Notify me via email of new entries"
+msgstr "Beni yeni makale girişlerinde email göndererek haberdar et"
+
+msgid "Default notification of replies"
+msgstr "Cevapların varsayılan bildirme şekli"
+
+msgid "Here you can change your information."
+msgstr "Buradan bilgilerinizi değiştirebilirsiniz."
+
+msgid "Change preferences"
+msgstr "Tercih değiştir"
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr "Offf"
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Send password"
+
+#, fuzzy
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+"Şifrenizi unuttuysanız, kullanıcı adı ve email alanlarınızı doldurun. "
+"Şifreniz email adresinize gönderilecektir."
+
+#, fuzzy
+msgid "User already exists... Please pick another name."
+msgstr "Kullanıcı zaten var... Lütfen başka bir isim seçin."
+
+#, fuzzy
+msgid "E-mail address is already taken... Please pick another name."
+msgstr "Kullanıcı zaten var... Lütfen başka bir isim seçin."
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+"Hesabınızı doğrulamak için email adresinizi verelisiniz. Email adresinizin "
+"diğer ziyaretçiler tarafından görülüp görülmemesi tercihinizi her zaman "
+"değiştirebilirsiniz."
+
+msgid "The changes have been stored"
+msgstr "Değişiklikler kaydedildi"
+
+msgid "Your account is verified. Please log in.."
+msgstr "Hesabınız doğrulandı. Lütfen giriş yapın..."
+
+#, fuzzy
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr "Kod yanlış gibi görünüyor. Üzgünüm, doğrulayamam."
+
+#, fuzzy
+msgid "A link to reset your password was sent to your mailbox."
+msgstr "Şifreniz verdiğiniz email adresine gönderildi..."
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr "Çıkıldı"
+
+msgid "Back to"
+msgstr "Geri"
+
+#, fuzzy
+msgid "User stored!"
+msgstr "Metin kulan"
+
+msgid "Could not store new user!!"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "Konfigürasyon"
+
+msgid "Verify your account"
+msgstr ""
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Yanlış kullanıcı veya şifre"
+
+#, fuzzy
+msgid "Successfully logged in"
+msgstr "Girildi"
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "Önceki Arşiv"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Girildi"
+
+#, fuzzy, php-format
+msgid "%s logged out."
+msgstr "Çıkıldı"
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr " için weblog ayarlarını düzenleyin"
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "Bu weblogu silin."
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Kategori Sil"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+#, fuzzy
+msgid "About PivotX"
+msgstr "İlgili"
+
+#, fuzzy
+msgid "Setup user"
+msgstr "Kullanıcıyı sil"
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "Yeni kullanıcı adı kaydı yap"
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "%title% girişine bunu yapma yetkiniz yok!!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "Weblog güncellendi."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "Varsayılan uzantı"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "Makale düzenle"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "%title% girişine bunu yapma yetkiniz yok!!"
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr "'%s' makaleniz başarıyla kaydedildi."
+
+#, fuzzy, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr "'%s' makaleniz başarıyla kaydedildi."
+
+#, fuzzy, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr "Şuraya trackback pingi gönderildi: '%s'."
+
+#, fuzzy
+msgid "Log out"
+msgstr "Çıkış"
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "Şu kategoriye makale yazma yetkiniz yok: '%s'."
+
+msgid "My Settings"
+msgstr "Ayarlarım"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Bookmarklet Ekle."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "Weblog güncellendi."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+#, fuzzy
+msgid "Post to PivotX"
+msgstr "İlgili"
+
+msgid "Edit my personal Settings"
+msgstr "Kişisel ayarlarımı düzenle"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "Şu kategoriye makale yazma yetkiniz yok: '%s'."
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "Şu kategoriye makale yazma yetkiniz yok: '%s'."
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "Şu kategoriye makale yazma yetkiniz yok: '%s'."
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "Weblog silindi."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "Şu kategoriye makale yazma yetkiniz yok: '%s'."
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "Weblog güncellendi."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Yorum silindi."
+
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr ""
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "Yorum silindi."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "Yorumları sil veya düzenle"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "Yorum kaydedildi."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks"
+msgstr "'X yorum' için etiket"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Yorum kaydedildi."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Dosya gönder"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "Yorum silindi."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "Yorum silindi."
+
+msgid "The weblog has been deleted."
+msgstr "Weblog silindi."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "Weblog silindi."
+
+msgid "Create New Weblog"
+msgstr "Yeni Weblog oluşturun"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "Yorumlama ayarları"
+
+#, fuzzy
+msgid "Database"
+msgstr "Tarih"
+
+#, fuzzy
+msgid "Debug"
+msgstr "Debug modu"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "Dosya gönderme klasörü"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "Tarih/Zaman"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Çırak"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr ""
+"Index şu anda oluşturuluyor. Biraz sürebilir. Lütfen işlemi yarıda kesmeyin."
+
+msgid "Rebuild the Search Index"
+msgstr "Arama indexini yeniden oluştur"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "Arama işleminde kullanılan arama indexini yeniden oluşturun"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Arama indexi şu anda oluşturuluyor. Biraz sürebilir. Lütfen işlemi yarıda "
+"kesmeyin."
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Indexi tekrar oluştur"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr ""
+"Index şu anda oluşturuluyor. Biraz sürebilir. Lütfen işlemi yarıda kesmeyin."
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "Tarih"
+
+#, fuzzy
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr "Bu konfügirasyon dosyalarınızın ziplenmiş halini indirmenize yarar"
+
+#, fuzzy
+msgid "Explore files"
+msgstr "Dosya gönder"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "Konfigürasyon"
+
+msgid "Blocked Phrases"
+msgstr "Umursanmayan domainler"
+
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "Umursanmayan domainleri görüntüleyip, düzenleyin."
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP bloklamaları"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Bloklanmış IP adreslerini görüntüleyyip, düzenleyin."
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Pivot dosyalarının rutin bakımı"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "Yorum silindi."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "Kullanıcı adı kullanımda"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "Kullanıcı adı kullanımda"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "Weblog güncellendi."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "Kullanıcı adı kullanımda"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "Weblog oluşturuldu."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "Yorum silindi."
+
+msgid "A category by this name already exists"
+msgstr "Bu kategori zaten var"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "Weblog güncellendi."
+
+msgid "Edit Weblog"
+msgstr "Weblog düzenleyin"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "onüç"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "İmaj ekle"
+
+#~ msgid "# Comm"
+#~ msgstr "# Comm"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "Yorum"
+
+#~ msgid "search"
+#~ msgstr "arama"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "Geri dönüş"
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "Kullanıcılar"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "Tarih"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "Kategori"
+
+#, fuzzy
+#~ msgid "Format of \"reply ..\""
+#~ msgstr "'Cevapla ..' formatı"
+
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr "Belli yoruma cevap eklemeyi belirtmek için kullanılacak metin."
+
+#, fuzzy
+#~ msgid "Format of \"reply by ..\""
+#~ msgstr "'tarafından yazılan cevap ..' formatı"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is replied by another comment."
+#~ msgstr "Bu metin yorum başka yorumla yanıtlandıysa görülür."
+
+#, fuzzy
+#~ msgid "Format of \"reply on ..\""
+#~ msgstr "'şu konu hakkındaki cevap ..' formatı"
+
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr "Yorum başka yorumla ilgiliyse görüntülenen metin"
+
+#, fuzzy
+#~ msgid "Trackback Settings"
+#~ msgstr "Trackback pingi"
+
+#, fuzzy
+#~ msgid "Format of Trackbacks"
+#~ msgstr "'X yorum' için etiket"
+
+#, fuzzy
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Trackback pingi"
+
+#~ msgid "That username and email address do not seem to match."
+#~ msgstr "Kullanıcı adı ve email adresi uymuyor gibi görünüyor."
+
+#~ msgid "File Mappings"
+#~ msgstr "Dosya haritalamaları"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr "Sitenizdeki Pivot tarafından oluşturulmuş dosyaları gösterir"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "Yeni dosya gönder:"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "Aşağıda yüklenmiş Pivotla ilgili genel bilgileri görebilirsiniz. Ayrıca "
+#~ "Pivot tarafından kullanılan şablonları ve oluşturulan dosyaları da "
+#~ "görebilirsiniz. Bu dosyaların oluşturulmasıyla ilgili problemleri "
+#~ "belirlemek için kullanışlı olabilir."
+
+#, fuzzy
+#~ msgid "Delete registered visitor"
+#~ msgstr "Kayıtlı kullanıcı olarak giriş yap"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can delete this registered visitor if you would like. All of their "
+#~ "comments will remain"
+#~ msgstr ""
+#~ "İsterseniz kullanıcıyı silebilirsiniz. Makaleleri kalır, ama artık giriş "
+#~ "yapamazlar"
+
+#~ msgid "Change"
+#~ msgstr "Değiştir"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "Silmeyi Onayla"
+
+#, fuzzy
+#~ msgid ""
+#~ "You're about to remove the account for %s. Are you sure you want to do "
+#~ "this?"
+#~ msgstr "%siçin erişim hakkını kaldırmak üzeresiniz. Emin misiniz?"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "IP addresleri kaydedildi."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Bu IP adreslerini kaydet"
+
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "Umursanmayan domainler kaydedildi."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "Umursanmayan domainler kaydedildi."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "Umursanmayan domainler kaydedildi."
+
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Bu umursanmayan domainleri kaydet"
+
+#, fuzzy
+#~ msgid "Globally blocked phrases."
+#~ msgstr "Umursanmayan domainler"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "İsimen az üç harfli olmalıdır."
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "%s IP blokla"
+
+#, fuzzy
+#~ msgid "[Trackback] Re:"
+#~ msgstr "'X yorum' için etiket"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr ""
+#~ "Yorumunuz kaydedilmedi, çünkğ önceki bir girişle aynı gibi görünüyor."
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "Dakika"
+
+#~ msgid ""
+#~ "Note: It's possible for the maintainer of this site to see your "
+#~ "password.. <br /> Do <em>not</em> use a password that you use for other "
+#~ "websites / accounts!"
+#~ msgstr ""
+#~ "Not: Bu sitenin bakımını yapan kişi şifrenizi görebilir. <br /> "
+#~ "<em>Lütfen</em> başka yerde kullandığınız <br /> bir şifre kullanmayın!"
+
+#, fuzzy
+#~ msgid "Lost Password"
+#~ msgstr "Şifre"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "İmaj popupı ekle"
+
+#~ msgid "No such user.."
+#~ msgstr "Öyle bir kullanıcı yok..."
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "Yorum yok"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "Yorum"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "Yorumlar"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "Yorum Önizleme"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "Geri dönüş"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "Emotikonlar"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "Yorum yok"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Yeni makaleler"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Powered by"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "Yorumlar"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "Yorumlar"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "Yorumlar"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "Önceki Arşiv"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Güncelleme takipçilerini pingleyin"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "Yeni makale yazığınızda weblogs.com gibi takipçilerin otomatik olarak "
+#~ "haberdar edilip edilmeyeceğini belirler. blogrolling.com gibi hizmetler "
+#~ "bu pinglere bağlıdır"
+
+#~ msgid "URLs to ping"
+#~ msgstr "Pinglenecek URLler"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "Ping gönderilecek urlleri belirleyebilirsiniz. http:// bölümünü yazmayın, "
+#~ "yoksa çalışmaz. Her sunucuyu bir satıra yazın ya da pipe karakteriyle "
+#~ "ayırın. Pinglenebilecek yagın sunucular şunlardır:<br /><b>rpc.weblogs."
+#~ "com/RPC2</b> (weblogs.com pingcisi, en yaygın kullanılan)<br /"
+#~ "><b>pivotlog.net/pinger</b> (pivotlog pingcisi, henüz çalışmıyor)<br /"
+#~ "><b>rcs.datashed.net/RPC2</b> (euro.weblogs.com pingcisi)<br /><b>ping."
+#~ "blo.gs</b> (blo.gs pingcisi)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Ping ayarları"
+
+#, fuzzy
+#~ msgid "stuff"
+#~ msgstr "Şeyler"
+
+#~ msgid "upload"
+#~ msgstr "gönder"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "Dosyanız gönedrildi ve şu hatalar oluştu:"
+
+#~ msgid "or select"
+#~ msgstr "veya seç"
+
+#~ msgid "Select File"
+#~ msgstr "Dosya seç"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "İmaj ismi"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Wysiwyg editör kullan"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "Wysiwyg editörün varsayılan olup olmadığını belirler. Kullanıcılar "
+#~ "'Hakkımda' ayarlarından terciklerini değiştirebilirler."
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "Son yorumlar için ayarlar"
+
+#~ msgid "Show how many"
+#~ msgstr "Kaç tane olduğunu göster"
+
+#~ msgid "Cut at length"
+#~ msgstr "Uzunlukta kes"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Bu ayarlar weblogun ön sayfasındaki 'son yorumlar' olayının görünümünü "
+#~ "belirler."
+
+#, fuzzy
+#~ msgid "Use \"Nofollow\""
+#~ msgstr "Use 'Nofollow'"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+#~ msgstr ""
+#~ "To combat refererspam you might choose to add a rel=\"nofollow\" "
+#~ "attribute to all links in comments and referers, as this will not help "
+#~ "the spammer get a better pagerank in Google."
+
+#~ msgid "Next Archive"
+#~ msgstr "Diğer Arşiv"
+
+#~ msgid "Previous Archive"
+#~ msgstr "Önceki Arşiv"
+
+#~ msgid "Archive type"
+#~ msgstr "Arşiv Tipi"
+
+#~ msgid "No Archives"
+#~ msgstr "Arşiv Yok"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "Haftalık Arşivler"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Aylık Arşivler"
+
+#~ msgid "Yearly Archives"
+#~ msgstr "Yıllık Arşivler"
+
+#~ msgid "Archive Link"
+#~ msgstr "Arşiv Linki"
+
+#~ msgid "Archive List format"
+#~ msgstr "Arşiv Listesi formatı"
+
+#~ msgid "Archive Order"
+#~ msgstr "Arşiv Sıralaması"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "Küçülen (önce eskiler)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "Büyüyen (önce yeniler)"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "Değişik hareketlerin log dosyalarını tutun"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "'yorum yok' için etiket"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "'bir yorum' için etiket"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "'X yorum' için etiket"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Kaç yorum olduğunu belirtmek için kullanılan metin. Boş bırakırsanız, "
+#~ "ayar varsayılan lisan dosyasından alınır"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "'yorum yok' için etiket"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "'bir yorum' için etiket"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "'X yorum' için etiket"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "%num% yorum"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "%num% yorum"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "'X yorum' için etiket"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "Bu bölüme giriş yetkiniz yok."
+
+#~ msgid "Further Options"
+#~ msgstr "Diğer Seçenekler"
+
+#~ msgid "Basic View"
+#~ msgstr "Basit Görünüm"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "Sadece en güncel bölümleri göster"
+
+#~ msgid "Extended View"
+#~ msgstr "Genişletilmiş Görünüm"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "Düzenlenebilen bölümlerin tümünü göster"
+
+#~ msgid "Done!"
+#~ msgstr "Tamam!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Kestirmeler"
+
+#~ msgid "You are not allowed to delete entry %title%!"
+#~ msgstr "%title% girişini silme yetkiniz yok!"
+
+#~ msgid "Week"
+#~ msgstr "Hafta"
+
+#~ msgid "Remember"
+#~ msgstr "Hatırla"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "Eğer doğru kullanıcı ismini ve şifreyi kullandığınızdan eminseniz <br /"
+#~ ">ve giriş yapmakta zorluk çekiyorsanız, bu domain için olan çerezleri "
+#~ "silmeyi deneyebilirsiniz:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "Çerezleri sil"
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "10 deneme yaptınız ve giriş yapamadınız. Sonuç olarak IP adresiniz 12 "
+#~ "saat süresince yasaklanmıştır."
+
+#~ msgid "Overview"
+#~ msgstr "Genel"
+
+#~ msgid "Modify Entries"
+#~ msgstr "Makaleleri Düzenle"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Favoricikler"
+
+#~ msgid "Statistics"
+#~ msgstr "İstatistikler"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "Pivot hakkında genel"
+
+#~ msgid "View my personal Info"
+#~ msgstr "Hakkımdaki bilgileri göster"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Favoricik yarat"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "Dosya gönderildi"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "Kayıt ve istatistikleri göster."
+
+#~ msgid "Recent Comments"
+#~ msgstr "Yeni yorumlar"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "Tüm dosyaları yeniden oluştur"
+
+#~ msgid "Verify the Database"
+#~ msgstr "Veri bankasını doğrula"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "Ön sayfa(lar)ı yeniden oluştur"
+
+#~ msgid "User Information Fields"
+#~ msgstr "Kullanıcı bilgi alanları"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "Kullanıcı bilgi alanlarını oluştur, düzenle veya sil"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Pivotun oluşturduğu dosya ve arşivleri yeniden oluşturun"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "Veritabanınızın sağlılı olup olmadığını doğrulayın"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr ""
+#~ "Her bir weblog için ön sayfayı, son arşivleri ve RSS dosyalarını yeniden "
+#~ "oluşturun."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "Makalelerinizin yedeğini oluşturun"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Güncelleme takipçilerine ping gönder."
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "Sıfırdan Pivot şablonu oluştur"
+
+#~ msgid "Comment*"
+#~ msgstr "Yorum*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr "(*Not: Yorumlar sadece <b>ilk</b> değişim kaydında kaydedilebilir)"
+
+#~ msgid "Editing"
+#~ msgstr "Düzenleme"
+
+#~ msgid "Save changes!"
+#~ msgstr "Değişiklikleri kaydet!"
+
+#~ msgid "Generate Archive"
+#~ msgstr "Arşiv oluşturun"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "tüm arşivlerinizi yeniden oluşturun"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "XML dosyalarını doğrulayın"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "XML dosyalrının sağlığını doğrulayın (gerekiyorsa tamir edin)"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Pivotun öenmli dosyalarının yedeğini oluşturun"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 yönlendirici"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 yönlendirici"
+
+#~ msgid "all referrers"
+#~ msgstr "bütün yönlendiriciler"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Yönlendiricileri başlık haritalamalarına göre güncelleyin"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "Host-adresi (ip-adresi)"
+
+#~ msgid "Which page"
+#~ msgstr "Hangi sayfa"
+
+#~ msgid "Getting new titles"
+#~ msgstr "Yeni başlıklar alınıyor"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "Biraz sürebilir. Lütfen yarıda kesmeyin."
+
+#~ msgid "First pass"
+#~ msgstr "İlk geçiş"
+
+#~ msgid "Second pass"
+#~ msgstr "İkinci geçiş"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "Yönlendiricileri başlık haritalamalarınız artık güncel."
+
+#~ msgid "Finished"
+#~ msgstr "Bitti"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "Kullanıcı alanlarını düzenle"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr ""
+#~ "Kullanıcıların kendilerini tanımlamak için kullanabilecekleri alanları "
+#~ "düzenleyin"
+
+#~ msgid "Edit User Info"
+#~ msgstr "Kullanıcı bilgilerini düzenle"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "Pivota yeni makale yazabilecek bir kullanıcı hesabı oluşturun."
+
+#~ msgid "Create"
+#~ msgstr "Yarat"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "Admin oluşturmayı onaylayın"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "Bir Uzman Pivota tam erişime sahiptir, bütün haberleri, yorunmları "
+#~ "düzenleyebilir ve bütün ayarları değiştirebilir. %s isimli kullanıcıyı "
+#~ "Uzman yapmak istediğinizden emin misiniz.?"
+
+#~ msgid "Use encoding"
+#~ msgstr "Encoding kullan"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "Bu kullanılan varsayılan encodingi belirler (utf-8 veya iso-8859-9 gibi). "
+#~ "Ne yaptığınızı bilmiyorsanız boş bırakmalısınız. Burayı boş bırakırsanız, "
+#~ "lisan dosyalarından alınan uygun ayar kullanılır."
+
+#~ msgid "File Info"
+#~ msgstr "Dosya bilgisi"
+
+#~ msgid "Local Path"
+#~ msgstr "Yerel klasör"
+
+#~ msgid "Debug Options"
+#~ msgstr "Debug seçenekleri"
+
+#~ msgid "File Upload settings"
+#~ msgstr "Dosya gönderme ayarları"
+
+#~ msgid "Clean Filename"
+#~ msgstr "Yeni dosya ismi"
+
+#~ msgid "Use Basic View"
+#~ msgstr "Basit görünüm kullan"
+
+#~ msgid ""
+#~ "Determines whether the 'New Entry' opens in Basic View or in Extended "
+#~ "View."
+#~ msgstr ""
+#~ "'Yeni makale' girişinin basit mi yoksa genişletilmiş mi açılacağını "
+#~ "belirler."
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Varsayılan metin işlemi"
+
+#~ msgid "Text Processing"
+#~ msgstr "Metin işlemi"
+
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "Open links in new window"
+#~ msgstr "Linkleri yeni pencerede aç"
+
+#~ msgid "Use emoticons"
+#~ msgstr "Emotikon kullan"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "Email Adresi encodelansın mı?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr "Linklerin yeni browser penceresinde açılıp açılmayacağını belirler."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "Arama indexini otomatik olarak güncelle"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "Arama indexininin yeni makale eklenmesi veya makale düzenlenmesi "
+#~ "durumlarında otomatik olarak güncellenip güncellenmeyeceğini belirler."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Varsayılan açılama/gövde"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "Bir yazar yeni makale yazarken kullanılan varsayılan açıklama ve gövde "
+#~ "mtinlerini belirler. Normalde en kullanışlı seçenek boş paragraf "
+#~ "olacaktır."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Uzaktan kesme scripti"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "Sunucunuz imaj kesme için gerekli kütüphanelere sahip değilse kullanın."
+
+#~ msgid "Extensions directory"
+#~ msgstr "Uzantı klasörü"
+
+#~ msgid ""
+#~ "The 'extensions' directory is the place to store your additions to Pivot."
+#~ "\t\tThis makes updating a lot easier. See the Docs for more info."
+#~ msgstr ""
+#~ "'extensions' klasörü Pivota yaptığınız eklentileri saklamak içindir.\t"
+#~ "\tBu güncellemeyi çok kolaylaştırır. Daha fazla bilgi için dokümanlara "
+#~ "bakın."
+
+#~ msgid "Extensions directory path"
+#~ msgstr "Eklenti klasörü yolu"
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "Weblogları düzenleyin"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "Yeni bir Weblog ekleyin"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "Weblog silin"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "Şablonlarda bulunan her altweblog için hangi şablonu kullanacaklarını ve "
+#~ "hangi kategorilerin yayınlanacağını belirleyebilirsiniz."
+
+#~ msgid "Finish"
+#~ msgstr "Bitir"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "Weblog yaratma veya düzenleme, 3 adımın 1.si"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "Weblog yaratma veya düzenleme, 3 adımın 2.si"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "Weblog yaratma veya düzenleme, 3 adımın 3.sü"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "Ön sayfa (İndeks)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "İndex dosyasının dosya adı.Normalde bu 'index.html' veya 'index.php' olur."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "Weblogunuz SSI kullanıyorsa (önerilmez), bu  prefixi Pivot'un dosya "
+#~ "isimlerini SSIınızla kullanılan prefxle prefixleyebilirsiniz. Örn. 'index."
+#~ "shtml?p='. Ne yaptığınızı bilmiyorsanız boş bırakın."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "Ön sayfa klasör yolu"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr ""
+#~ "Pivotun ön sayfayı oluşturacağı klasöre giden relatif veya kesin yol."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "Makalelerin yazılacağı klasöre giden relatif veya kesin yol (eğer 'canlı "
+#~ "makaleler') kullanmayı istemezseniz"
+
+#~ msgid "Live entries"
+#~ msgstr "Canlı makaleler"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "Eğer 'Canlı Makalelr' kullanırsanız, Pivot her makale girişi için yeni "
+#~ "dosya oluşturmak zorunda kalmaz. Bu tercih edilen ayardır."
+
+#~ msgid "Index File"
+#~ msgstr "İndeks Dosyası"
+
+#~ msgid "Archive Path"
+#~ msgstr "Arşiv Yolu"
+
+#~ msgid "Archive Amount"
+#~ msgstr "Arşiv Miktarı"
+
+#~ msgid "Archive Format"
+#~ msgstr "Arşiv Formatı"
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Kısa makale şablonu"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr "Weblog ve arşivlerde kısa makalelerin nasıl görüneceğini belirler."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "Yoruölara izin ver?"
+
+#~ msgid ""
+#~ "Determines whether users will be able to leave comments on the entries in "
+#~ "this subweblog."
+#~ msgstr "Bu subweblogda yorum yazılıp yazılamayacağını belirler."
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSS Dosya Adı"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atom Dosya Adı"
+
+#~ msgid "Feed Path"
+#~ msgstr "Feed Yolu"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr ""
+#~ "Pivotun RSS ve Atom Feedlerini yazacağı klasöre giden relatif veya kesin "
+#~ "yol."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Son yönlendiriciler için ayarlar"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr ""
+#~ "Bu ayarlar weblogun ön sayfasındaki 'son yönlendiriciler' olayının "
+#~ "görünümünü belirler."
+
+#~ msgid "Use graphics"
+#~ msgstr "Grafik kullan"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr "İkon kullanan yönlendiricilerin grafiklerini görüntüleme tercihi."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "Yönlendiricileri yönlendir"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "Yönlendirme olayını kullanarak Googleda iyi derece kapan spamcilerle "
+#~ "savaşın."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Emotikon kullan"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ ":-) gibi emotikonların grafiklere çevrilip çevrilmeyeceğini belirler."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "Email Adreslerini encodela"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "Spamcilerden korunmak için emaillerin js koduna gömülüp gömülmeyeceğini "
+#~ "belirler"
+
+#~ msgid "Target Blank"
+#~ msgstr "Boş Hedef"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML Olayı"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "'Evet' olursa,linkler yeni pencerede açılır. 'XHTML olayı' olursa, bütün "
+#~ "linkler rel=\"external\" attributeüne sahip olur, ve XHTML yapısına zarar "
+#~ "gelmez"
+
+#~ msgid "Date display settings"
+#~ msgstr "Tarih görüntüleme ayarları"
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Blogroll ayarları"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "Weblogunuzda bir <a href=\"http://www.blogrolling.com\" target=\"_blank"
+#~ "\">blogrolling.com</a> blogrollu kullanabilirsiniz. Blogrolling linkleri "
+#~ "listeleyen ve ne sıklıkta güncellendiklerini gösteren mükemmel bir "
+#~ "servistir. İstemiyorsanız bu alanı boş bırakın. İsterseniz blogrolling."
+#~ "com girişi yaptığınızda 'get code' olayına girin, ve ID numaranızı alın. "
+#~ "Şunun gibi görünmeli: 2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "Arka Plan Rengi"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Satır Rengi 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Satır Rengi 2"
+
+#~ msgid "Color 1"
+#~ msgstr "Renk 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Renk 2"
+
+#~ msgid "Color 3"
+#~ msgstr "Renk 3"
+
+#~ msgid "Color 4"
+#~ msgstr "Renk 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "Bu renkler blogrollunuzun nasıl görüneceğini belirler. Renk 1 ve 4 linkin "
+#~ "ne zaman güncellendiğini gösterir."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "Komple Liste Öngöterimi"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "Thumbnail Öngösterimi"
+
+#~ msgid "Files"
+#~ msgstr "Dosyalar"
+
+#~ msgid "Width x Height"
+#~ msgstr "Genişlik x Yükseklik"
+
+#~ msgid "Delete Image"
+#~ msgstr "İmajı sil"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "%s dosyasını silmek istediğinizden emin misiniz?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "Bu resmi sil?"
+
+#~ msgid "create"
+#~ msgstr "yarat"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "Aşağıdaki alana yazarak link eljleyin. Ziyaretçiler farelerini linkin "
+#~ "üstüne getirince kullandığınız başlığı görürler."
+
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "'%s' kategorisine kimlerin makale ekleyebileceklerini seçin."
+
+#~ msgid "Allowed"
+#~ msgstr "İzinli"
+
+#~ msgid "Allow"
+#~ msgstr "İzin ver"
+
+#~ msgid "Denied"
+#~ msgstr "Yasaklı"
+
+#~ msgid "Deny"
+#~ msgstr "Yasak"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "Bu versiyonda sadece kategori ismi silinir. İleride bu kategorideki "
+#~ "makalelerle ilgili karar verme şansınız olacak."
+
+#~ msgid ""
+#~ "Only set to 'No' if you do not want visitors to your site to search in "
+#~ "this category."
+#~ msgstr ""
+#~ "Sadece ziyaretçilerinizin bu kategoride arama yapmasını istemezseniz "
+#~ "'Hayır' seçin."
+
+#~ msgid "Index Category"
+#~ msgstr "Kategoriyi Indeksle"
+
+#~ msgid "Public Category"
+#~ msgstr "Umumi Kategori"
+
+#~ msgid ""
+#~ "If set to 'No', this category will only be viewable for registered "
+#~ "visitors. (applies only to live pages)"
+#~ msgstr ""
+#~ "'Hayır' seçilirse, bu kategori sadece kayıtlı kullanıcılara görüntülenir "
+#~ "(sadece canlı sayfalar)."
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Birden fazla kategori seçmek için Ctrl+klik kullanın)"
+
+#~ msgid "Delete Entry"
+#~ msgstr "Makaleyi sil"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "Bu makale ve ilgili yorumları silin "
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr "Bu makaleleri silmek istediğinizden emin misiniz?"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Linebreakleri dönüştür"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(Wysiwyg modu açıkken bu her zaman kapalıdır.)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(Buna dikkat!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "Yorumları düzenle"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "Bu makalenin yorumlarını düzenleyin"
+
+#~ msgid "Edit Comment"
+#~ msgstr "Yorumları düzenleyin"
+
+#~ msgid "Block IP range %s"
+#~ msgstr "%s IP aralığı bloklama"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "%s IP bloğu kaldır"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "%s IP aralığı bloğu kaldır"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "Aşağıdaki url(ler)e Trackback Pingleri gönderin. Birden fazla urle "
+#~ "göndermek için hepsini ayrı satıra koyun."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr "Bu makalenin bulunması için anahtar kelimeleri girin."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "Bu linki makalenin kaynağını düzenlemek için kullanın."
+
+#~ msgid "Publish and generate"
+#~ msgstr "Yayınla ve oluştur"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "Seçilen dosyalara şunu yap:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "Seçilen şablonlara şunu yap:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "klasör açılamıyor, haklarınızı kontrol edin."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "klasör okunamıyor, haklarınızı kontrol edin."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "klasöre yazılamıyor, haklarınızı kontrol edin."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "dosya açılamıyor, haklarınızı kontrol edin."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "dosya okunamıyor, haklarınızı kontrol edin."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "dosyaya yazılamıyor, haklarınızı kontrol edin."
+
+#~ msgid "Good"
+#~ msgstr "İyi"
+
+#~ msgid "Bad"
+#~ msgstr "Kötü"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "Bu makale için zaten oy verdiniz"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "'%val%' makalesi için verdiğiniz oy kaydedildi"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Son Yönlendiriciler"
+
+#~ msgid "Calendar"
+#~ msgstr "Takvim"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Emotikon Referansını Aç"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Textile Referansını Aç"
+
+#~ msgid "Register your username / Log in"
+#~ msgstr "Kaydol / Giriş yap"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Kullanıcı Alanlarını Düzenle"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "İçsel İsim bu objenin şablonda görüntülenmesini istediğinizde kullanılan "
+#~ "isimdir."
+
+#~ msgid "Size"
+#~ msgstr "Boyut"
+
+#~ msgid "Rows"
+#~ msgstr "Satırlar"
+
+#~ msgid "Columns"
+#~ msgstr "Kolonlar"
+
+#~ msgid "Maximum Length"
+#~ msgstr "Maksimum Uzunluk"
+
+#~ msgid "Filter by"
+#~ msgstr "Tarafından Filtre"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "Bu objeyi filtreleyerek, kullanılacak girişin türünü belirleyebilirsiniz."
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "(<b>%s</b>) kullanıcı alanını silmek kullanıcının kaydettiği bütün "
+#~ "verileri yok eder ve kullanıldığı şablonlardaki alanların boş görünmesine "
+#~ "yol açar."
+
+#~ msgid "This name is already in use"
+#~ msgstr "Bu isim zaten kullanılıyor"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "İçsel İsim üç karakterden uzun olmalıdır."
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "Görünen İsim üç karakterden uzun olmalıdır."
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "Bu Bookmarklet açıldığı pencereye link içeren yeni pencerede Yeni Makale "
+#~ "açar."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "Bu Bookmarklet Yeni Boş Makale içeren bir pencere açar."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "Bookmarkletleri Yeni Makaleleri çabucak yazmak için kullanabilirsiniz. "
+#~ "Browserınıza yeni Bookmarklet eklemek için, takip eden seçenekleri "
+#~ "kullanın: (hangi browserı kullandığınıza bağlı olan kesin metin "
+#~ "değişiklikleri)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Bookmarkleti 'Linkler'-toolbarına veya browserınızın 'Favoriler'-"
+#~ "düğmesine sürükleyip bırakın."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr "Bookmarlete sağ tıklayıp 'Favorilere Ekle' seçimini yapın."
+
+#~ msgid ""
+#~ "This table represents a calendar of entries in the weblog with hyperlinks "
+#~ "on dates with entries."
+#~ msgstr "Bu tablo makale takvimini linkleriyle ve tarihleriyle temsil eder."
+
+#~ msgid "The calendar provides a means to access entries in this weblog"
+#~ msgstr "Bu takvim bu weblogdaki makalelere erişimi sağlar."
+
+#~ msgid "en"
+#~ msgstr "tr"

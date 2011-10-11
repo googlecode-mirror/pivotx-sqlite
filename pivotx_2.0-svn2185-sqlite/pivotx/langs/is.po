@@ -1,0 +1,5307 @@
+# Translation of PivotX to ...
+# Copyright (C) 2008 PivotX team <http://pivotx.net/>
+# This file is distributed under the same license as the Pivot package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PivotX 2.0 beta 1.5\n"
+"Report-Msgid-Bugs-To: translations@pivotx.net\n"
+"POT-Creation-Date: 2009-10-20 00:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "About"
+msgstr ""
+
+msgid "Last Comments"
+msgstr "Síðustu athugasemdir"
+
+msgid "Stuff"
+msgstr ""
+
+msgid "Archives"
+msgstr "Eldri færslur"
+
+msgid "Categories"
+msgstr "Kaflar"
+
+msgid "Links"
+msgstr "Hlekkir"
+
+#, fuzzy
+msgid "Search"
+msgstr "Leita!"
+
+msgid "Linkdump"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Tag Cloud"
+msgstr ""
+
+msgid "Name"
+msgstr "Nafn"
+
+msgid "Email"
+msgstr "E-póstur"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Post Comment"
+msgstr "Pósta athugasemd"
+
+msgid "Preview Comment"
+msgstr "Skoða athugasemd"
+
+msgid "Remember personal info?"
+msgstr "Muna persónulegar upplýsingar?"
+
+msgid "Yes, give me a cookie and remember me."
+msgstr ""
+
+#, fuzzy
+msgid "Navigation"
+msgstr "Stillingar"
+
+#, fuzzy
+msgid "Jump to navigation"
+msgstr "Stillingar"
+
+msgid "Top"
+msgstr ""
+
+#, fuzzy
+msgid "More"
+msgstr "Jaðar"
+
+#, fuzzy
+msgid "Last comments"
+msgstr "Síðustu athugasemdir"
+
+#, fuzzy
+msgid "Pages"
+msgstr "Breyta"
+
+msgid "Meta"
+msgstr ""
+
+msgid "Comment"
+msgstr "Athugasemd"
+
+msgid "Notify"
+msgstr ""
+
+msgid "Yes, send me email when someone replies."
+msgstr ""
+
+msgid "Hide email"
+msgstr ""
+
+msgid "Yes, hide my email address."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"<strong>Small print:</strong> All html tags except &lt;b&gt; and &lt;i&gt; "
+"will be removed from your comment. You can make links by just typing the url "
+"or mail-address."
+msgstr ""
+"<b>Small print:</b> Allar html skipanir nema &lt;b&gt; and &lt;i&gt; verða "
+"hreinsaðar út úr athugasemd þinni. Þú getur búið til hlekki með því að "
+"skrifa URL eða netfang ( http://www.siða.is ) ( mailto:emil@eithvað.is )."
+
+msgid "Insert an Image"
+msgstr "Setja inn mynd"
+
+msgid ""
+"To insert an image, you should upload an image, or select a previously "
+"uploaded image."
+msgstr ""
+"Til að setja inn mynd ættir þú að hlaða inn mynd eða velja áður innhlaðna "
+"mynd."
+
+msgid "Upload"
+msgstr "Hlaða"
+
+#, fuzzy
+msgid "Upload an image"
+msgstr "Hlaða upp nýja skrá:"
+
+msgid "Image name"
+msgstr "Heiti myndar"
+
+#, fuzzy
+msgid "Select an image"
+msgstr "Veldu mynd"
+
+msgid "Select"
+msgstr "Velja"
+
+msgid "Alternate text"
+msgstr "Annar texti"
+
+msgid "Align"
+msgstr "Jafna"
+
+msgid "Center (default)"
+msgstr "Miðja (default=forgangs)"
+
+msgid "Left"
+msgstr "Vinstri"
+
+msgid "Right"
+msgstr "Hægri"
+
+msgid "Inline"
+msgstr "Inline"
+
+msgid "Border"
+msgstr "Jaðar"
+
+msgid "pixels"
+msgstr "pixels"
+
+#, fuzzy
+msgid "Insert image!"
+msgstr "Setja inn mynd"
+
+msgid "Cancel"
+msgstr "Hætta"
+
+msgid "Orphaned Pages"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "Jaðar"
+
+#, fuzzy
+msgid "Timed Publish"
+msgstr "Birta á"
+
+msgid "Hold"
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Page?"
+msgstr ""
+
+msgid "Delete Page"
+msgstr ""
+
+msgid "Write a new Page"
+msgstr ""
+
+msgid "Edit Chapter"
+msgstr ""
+
+msgid "Are you sure you wish to delete this Chapter?"
+msgstr ""
+
+msgid "Delete Chapter"
+msgstr ""
+
+msgid "Add a Chapter"
+msgstr ""
+
+msgid "The PivotX Team"
+msgstr ""
+
+msgid "Core team members"
+msgstr ""
+
+msgid "aka"
+msgstr ""
+
+msgid "Code"
+msgstr "Code"
+
+msgid "architecture"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Head of Support"
+msgstr ""
+
+#, fuzzy
+msgid "website maintenance"
+msgstr "Viðhald"
+
+msgid "contact"
+msgstr ""
+
+msgid ""
+"Note: please don't use these email addresses for support questions. Please "
+"use our forum for those: "
+msgstr ""
+
+msgid "Official contributors"
+msgstr ""
+
+msgid "(support and additional coding)"
+msgstr ""
+
+msgid "Previous contributors"
+msgstr ""
+
+msgid "lest we forget"
+msgstr ""
+
+msgid "Used libraries / tools"
+msgstr ""
+
+msgid "website"
+msgstr ""
+
+msgid ""
+"We probably forgot some.. Please let us know if we did, and we'll give "
+"credits in the next release"
+msgstr ""
+
+#, fuzzy
+msgid "Comments waiting for moderation"
+msgstr "Stillingar athugasemda"
+
+msgid "IP-address"
+msgstr "IP-address"
+
+msgid "Date"
+msgstr "Dagsetning"
+
+msgid "Edit this comment"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+msgid "Delete this comment?"
+msgstr "Eyða athugasemd"
+
+msgid "Delete"
+msgstr "Eyða"
+
+msgid "on"
+msgstr ""
+
+#, fuzzy
+msgid "Check all"
+msgstr "Velja allt"
+
+#, fuzzy
+msgid "Check none"
+msgstr "Velja allt"
+
+#, fuzzy
+msgid "Approve comments"
+msgstr "Engar athugasemdir"
+
+#, fuzzy
+msgid "Delete comments"
+msgstr "Eyða athugasemd"
+
+msgid "There are no comments waiting for moderation"
+msgstr ""
+
+#, fuzzy
+msgid "The latest comments"
+msgstr "Nýjar færslur"
+
+#, fuzzy
+msgid "There are no latest comments"
+msgstr "Þessi færsla hefur engar athugasemdir."
+
+msgid "No comments"
+msgstr "Engar athugasemdir"
+
+msgid "Welcome, unknown user."
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+#, fuzzy
+msgid "The latest trackbacks"
+msgstr "Nýjar færslur"
+
+#, fuzzy
+msgid "Blog Name"
+msgstr "Heiti Bloggs"
+
+#, fuzzy
+msgid "Edit this trackback"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+#, fuzzy
+msgid "Delete this trackback?"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+#, fuzzy
+msgid "There are no latest trackbacks"
+msgstr "Þessi færsla hefur engar athugasemdir."
+
+#, fuzzy
+msgid "No trackbacks"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+msgid "Title"
+msgstr "Heiti"
+
+msgid "Permalink"
+msgstr ""
+
+msgid "edit"
+msgstr "Laga"
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Subtitle"
+msgstr "Skýringartexti"
+
+#, fuzzy
+msgid "Template"
+msgstr "Hönnun"
+
+msgid "Introduction"
+msgstr "Kynning"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "Keywords"
+msgstr ""
+"Keywords=Lykilorð (Alls ekki það sama og Password sem þýðir aðgangsorð)"
+
+msgid "Tags"
+msgstr ""
+
+msgid "Separate Tags with spaces. E.g., movies jedi starwars (not 'star wars')"
+msgstr ""
+
+#, fuzzy
+msgid "Post Page"
+msgstr "Breyta"
+
+#, fuzzy
+msgid "Preview"
+msgstr "Skoða færslu"
+
+msgid "Post and Continue Editing"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter"
+msgstr "Kafli"
+
+msgid "Order"
+msgstr ""
+
+msgid "Post Status"
+msgstr "Pósta Status"
+
+#, fuzzy
+msgid "Publish"
+msgstr "Birta á"
+
+msgid "Publish on"
+msgstr "Birta á"
+
+#, fuzzy
+msgid "Allow comments"
+msgstr "Leyfa athugasemdir"
+
+msgid "Yes"
+msgstr "Já"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "Created on"
+msgstr "Stofnað"
+
+#, fuzzy
+msgid "Last edited on"
+msgstr "Síðast lagað"
+
+msgid "Author"
+msgstr "Höfundur"
+
+#, fuzzy
+msgid "Active widgets"
+msgstr "Stillingar á Eldri færslum"
+
+msgid "Available Widgets"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Templates"
+msgstr "Hönnun"
+
+#, fuzzy
+msgid "Subweblogs"
+msgstr "Blogg"
+
+#, fuzzy
+msgid "XML feeds"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Commenting"
+msgstr "Athugasemd"
+
+#, fuzzy
+msgid "Insert a Tag"
+msgstr "Setja inn mynd"
+
+msgid ""
+"Insert a tag in your entry with an optional link. You can also select a tag "
+"from the (partial) Tag Cloud below."
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+#, fuzzy
+msgid "Insert tag!"
+msgstr "Setja inn mynd"
+
+msgid "Suggested Tags"
+msgstr ""
+
+#, fuzzy
+msgid "Via Link"
+msgstr "Um hlekk"
+
+#, fuzzy
+msgid "Via Title"
+msgstr "Um heiti"
+
+#, fuzzy
+msgid "Trackback Ping"
+msgstr "Trackback ping"
+
+msgid "Post Entry"
+msgstr "Birta færslu"
+
+#, fuzzy
+msgid "View Comments"
+msgstr "Skoða athugasemd"
+
+#, fuzzy
+msgid "View Trackbacks"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+msgid "Category"
+msgstr "Kafli"
+
+#, fuzzy
+msgid "(none)"
+msgstr "einn"
+
+#, fuzzy
+msgid "Insert a Download"
+msgstr "Insert a link"
+
+#, fuzzy
+msgid ""
+"To make a file download, you should upload a file, or select a previously "
+"uploaded file. Then select whether you want an icon or text link that "
+"triggers the download."
+msgstr ""
+"Til að setja popup á mynd þarftu að innhlaða mynd eða velja áður innhlaðna "
+"mynd. Síðan að velja texta eða thumbnail sem að startar popup."
+
+#, fuzzy
+msgid "Upload a file"
+msgstr "Hlaða upp nýja skrá:"
+
+#, fuzzy
+msgid "File Name"
+msgstr "Skráarnafn"
+
+msgid "Link Look"
+msgstr ""
+
+#, fuzzy
+msgid "Use Icon"
+msgstr "Use emoticons"
+
+#, fuzzy
+msgid "Use Text"
+msgstr "Nota texta"
+
+#, fuzzy
+msgid "Link Title"
+msgstr "Um heiti"
+
+#, fuzzy
+msgid "Insert download!"
+msgstr "Insert a link"
+
+msgid "My Info"
+msgstr "Mínar upplýsingar"
+
+msgid "Logout"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Back to dashboard"
+msgstr ""
+
+#, fuzzy
+msgid "View weblog"
+msgstr "Nýtt blogg"
+
+#, fuzzy
+msgid "view"
+msgstr "Skoða færslu"
+
+#, fuzzy
+msgid "Configure Extensions"
+msgstr "Forgangs framlenging"
+
+msgid "Maintenance"
+msgstr "Viðhald"
+
+#, fuzzy
+msgid "View debug logs"
+msgstr "Nýtt blogg"
+
+#, fuzzy
+msgid "sec."
+msgstr "Sekúnda"
+
+msgid "using"
+msgstr ""
+
+msgid "queries"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "Pg."
+msgstr ""
+
+msgid "Filename"
+msgstr "Skráarnafn"
+
+msgid "Description"
+msgstr "Lýsing"
+
+msgid "Filesize"
+msgstr "Stærð skráar"
+
+#, fuzzy
+msgid "Image"
+msgstr "Heiti myndar"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#, fuzzy
+msgid "Are you sure you wish to delete this file?"
+msgstr "Ertu viss um að þú viljir eyða þessari færslu?"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Dagsetning"
+
+#, fuzzy
+msgid "Create a new file"
+msgstr "Nýr notandi"
+
+#, fuzzy
+msgid "Create a new folder"
+msgstr "Nýr notandi"
+
+msgid ""
+"You're not allowed to upload/duplicate files in this folder. Use your FTP "
+"program to do this."
+msgstr ""
+
+#, fuzzy
+msgid "Upload more files"
+msgstr "Hlaða inn skrám"
+
+msgid "Select the file(s) to upload to this folder:"
+msgstr ""
+
+#, fuzzy
+msgid "Upload more"
+msgstr "Hlaða"
+
+#, fuzzy
+msgid "Add a new configuration option:"
+msgstr "Laga breytinga skrá"
+
+msgid "Key"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#, fuzzy
+msgid "Edit options"
+msgstr "Broskallar"
+
+msgid "You should first select or upload an image"
+msgstr "Fyrst skaltu velja eða innhlaða mynd"
+
+msgid ""
+"To make a popup to an image, you should upload an image, or select a "
+"previously uploaded image. Then select a text or a thumbnail that triggers "
+"the popup."
+msgstr ""
+"Til að setja popup á mynd þarftu að innhlaða mynd eða velja áður innhlaðna "
+"mynd. Síðan að velja texta eða thumbnail sem að startar popup."
+
+msgid "For popup"
+msgstr "Fyrir popup"
+
+msgid "Use Thumbnail"
+msgstr "Nota Thumbnail"
+
+#, fuzzy
+msgid "edit thumbnail"
+msgstr "Laga thumbnail"
+
+#, fuzzy
+msgid "Insert popup!"
+msgstr "Setja inn mynda Popup"
+
+msgid "Create New User"
+msgstr "Nýr notandi"
+
+msgid "Username"
+msgstr "Notendanafn"
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Userlevel"
+msgstr "Staða notanda"
+
+msgid "Last Login"
+msgstr ""
+
+msgid "Edit User"
+msgstr "Laga notanda"
+
+#, fuzzy
+msgid "You're about to remove access for %1. Are you sure you want to do this?"
+msgstr "Þú ert í þann veginn að eyða blogginu %1. Ertu viss?"
+
+msgid "Verified"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Notifications"
+msgstr "Broskallar"
+
+#, fuzzy
+msgid "Edit Visitor"
+msgstr "Laga notanda"
+
+#, fuzzy
+msgid "You are about to delete visitor %1. Are you sure?"
+msgstr "Þú ert í þann veginn að eyða blogginu %1. Ertu viss?"
+
+#, fuzzy
+msgid "Insert PivotX Image"
+msgstr "Setja inn mynd"
+
+#, fuzzy
+msgid "Insert PivotX Popup"
+msgstr "Setja inn mynd"
+
+#, fuzzy
+msgid "Insert PivotX Download"
+msgstr "Insert a link"
+
+#, fuzzy
+msgid "Insert PivotX Tag"
+msgstr "Setja inn mynd"
+
+msgid "The default category is:"
+msgstr ""
+
+msgid ""
+"This means that new entries will have this category, unless you edit the "
+"selected categories."
+msgstr ""
+
+msgid "Create New Category"
+msgstr "Búa til nýjan kafla"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Users"
+msgstr "Notendur"
+
+msgid "Hidden Category"
+msgstr ""
+
+msgid "Sorting Order"
+msgstr ""
+
+#, fuzzy
+msgid "users"
+msgstr "Notendur"
+
+msgid "Edit Category"
+msgstr "Laga kafla"
+
+msgid "Are you sure you wish to delete this category?"
+msgstr "Veldu 'já', ef að þú vilt eyða þessum kafla"
+
+msgid "New Weblog"
+msgstr "Nýtt blogg"
+
+msgid "Weblog Name"
+msgstr "Heiti Bloggs"
+
+#, fuzzy
+msgid "categories"
+msgstr "Kaflar"
+
+#, fuzzy
+msgid "You are about to delete weblog %1. Are you sure?"
+msgstr "Þú ert í þann veginn að eyða blogginu %1. Ertu viss?"
+
+msgid "Export as theme"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Entry (fullscreen)"
+msgstr "Laga færslu"
+
+msgid "View website (fullscreen)"
+msgstr ""
+
+msgid ""
+"Hi, and welcome to PivotX 2.0! Below this bit of text you can see a short "
+"overview of the latest <a href='index.php?page=entries'>entries</a> and <a "
+"href='index.php?page=pagesoverview'>pages</a>. And perhaps even <a "
+"href='index.php?page=comments'>new comments</a> that are in the moderation "
+"queue."
+msgstr ""
+
+msgid "New Entry"
+msgstr "Ný færsla"
+
+#, fuzzy
+msgid "New Page"
+msgstr "Breyta"
+
+msgid "Configuration"
+msgstr "Stillingar"
+
+msgid "Manage Media"
+msgstr "Stjórna miðli"
+
+#, fuzzy
+msgid "The latest entries"
+msgstr "Nýjar færslur"
+
+msgid "more"
+msgstr ""
+
+msgid "c"
+msgstr ""
+
+msgid "t"
+msgstr ""
+
+#, fuzzy
+msgid "Are your sure you wish to delete this entry?"
+msgstr "Ertu viss um að þú viljir eyða þessari færslu?"
+
+#, fuzzy
+msgid "Entry"
+msgstr "Ný færsla"
+
+#, fuzzy
+msgid "delete"
+msgstr "Eyða"
+
+msgid "The latest pages"
+msgstr ""
+
+msgid "Warning!"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX News"
+msgstr "Piv »  Nýr (með hlekk)"
+
+msgid "Visit the website"
+msgstr ""
+
+#, fuzzy
+msgid "The latests events"
+msgstr "Nýjar færslur"
+
+#, fuzzy
+msgid "Show more items"
+msgstr "Sýna síðasta"
+
+#, fuzzy
+msgid "The latest Forum posts"
+msgstr "Nýjar færslur"
+
+msgid "Visit the forum"
+msgstr ""
+
+msgid ""
+"PivotX couldn't set the session properly. Try logging out, and logging on "
+"again. You could also try clearing your browser's cache, and make sure no "
+"software on your computer is interfering with the cookies."
+msgstr ""
+
+msgid "If the problem persists, ask for help on the forum."
+msgstr ""
+
+msgid "Entries"
+msgstr "Færslur"
+
+msgid "Suggestions"
+msgstr ""
+
+#, fuzzy
+msgid "Show more tags"
+msgstr "Sýna síðasta"
+
+msgid "filter on (%name%)"
+msgstr "filter á (%name%)"
+
+msgid "first"
+msgstr "Fyrstur"
+
+msgid "previous"
+msgstr "Fyrri"
+
+msgid "next"
+msgstr "Næsti"
+
+msgid "last"
+msgstr "Síðastur"
+
+msgid "jump to page (%num%)"
+msgstr "Fara á síðu (%num%)"
+
+msgid "filter off"
+msgstr "filter ekki á"
+
+msgid "ID"
+msgstr ""
+
+msgid "Status"
+msgstr "Status"
+
+msgid "#C"
+msgstr ""
+
+msgid "#T"
+msgstr ""
+
+msgid "Check All"
+msgstr "Velja allt"
+
+msgid "Uncheck All"
+msgstr "Ekki velja allt"
+
+msgid "With the checked entries, do:"
+msgstr "Hvað á gera við valdar færslur:"
+
+msgid "- select an option -"
+msgstr "- Valmöguleikar -"
+
+#, fuzzy
+msgid "Set Status to \"publish\""
+msgstr "Setja stöðu á 'birta'"
+
+#, fuzzy
+msgid "Set Status to \"hold\""
+msgstr "Setja stöðu á 'bið'"
+
+msgid "Delete them"
+msgstr "Eyða þeim"
+
+msgid "Go!"
+msgstr "Halda áfram!"
+
+#, fuzzy
+msgid "Published"
+msgstr "Birta á"
+
+#, fuzzy
+msgid "Timed"
+msgstr "Heiti"
+
+msgid "Held"
+msgstr ""
+
+#, fuzzy
+msgid "edit this entry"
+msgstr "Eyða athugasemd"
+
+msgid "Save and continue editing"
+msgstr ""
+
+msgid ""
+"You have Caching and/or Minify enabled. If your changes do not show up "
+"immediately, %click here% and disable Caching and Minify while you're "
+"working on your site."
+msgstr ""
+
+msgid "Finished! Generating index took %num% seconds"
+msgstr "Búin! Gerð yfirlits tók  %num% sekúndur"
+
+msgid "The latest PivotX news is not available as long as safemode is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Read on"
+msgstr "Stofnað"
+
+msgid "Oops! I'm afraid I couldn't read the News feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Forum feed."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read Tag feed."
+msgstr ""
+
+#, fuzzy
+msgid "Nothing on"
+msgstr "Ekkert"
+
+#, fuzzy
+msgid "for"
+msgstr "fjórir"
+
+#, fuzzy
+msgid "Latest on"
+msgstr "Síðast lagað"
+
+msgid "Current path"
+msgstr ""
+
+msgid "There are %1 comment(s) waiting to be approved."
+msgstr ""
+
+#, fuzzy
+msgid "No comments are waiting to be approved."
+msgstr "Stillingar athugasemda"
+
+#, fuzzy
+msgid "Entries &amp; Pages"
+msgstr "Slóðir færslna"
+
+msgid "Overview of Entries"
+msgstr "Yfirlit færslna"
+
+msgid "Manage and Upload Media"
+msgstr "Stjórna og hlaða inn miðlum"
+
+msgid "Administration"
+msgstr "Stjórnandi"
+
+msgid "Overview of Administrative functions"
+msgstr "Yfirlit yfir stjórnendur"
+
+#, fuzzy
+msgid "Extensions"
+msgstr "Forgangs framlenging"
+
+#, fuzzy
+msgid "Manage installed Extensions"
+msgstr "Forgangs framlenging"
+
+#, fuzzy
+msgid "Log in"
+msgstr "Innskráning"
+
+msgid "Write and Publish a new Entry"
+msgstr "Skrifa og birta nýja færslu"
+
+#, fuzzy
+msgid "Overview of Pages"
+msgstr "Yfirlit færslna"
+
+#, fuzzy
+msgid "Write and Publish a new Page"
+msgstr "Skrifa og birta nýja færslu"
+
+#, fuzzy
+msgid "Moderate Comments"
+msgstr "Eyða athugasemd"
+
+#, fuzzy
+msgid "Trackbacks"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+#, fuzzy
+msgid "Overview of Last Trackbacks"
+msgstr "Yfirlit færslna"
+
+msgid "Edit the Configuration file"
+msgstr "Laga breytinga skrá"
+
+#, fuzzy
+msgid "Advanced Configuration"
+msgstr "Stillingar"
+
+#, fuzzy
+msgid "Edit, Add and Delete advanced Configuration options"
+msgstr "Laga breytinga skrá"
+
+msgid "Create, edit and delete Users"
+msgstr "Stofna, laga og eyða notendum"
+
+msgid "Create, edit and delete the Categories"
+msgstr "Stofna, laga og eyða köflum"
+
+msgid "Weblogs"
+msgstr "Blogg"
+
+msgid "Create, edit and delete Weblogs"
+msgstr "Stofna, laga og eyða Bloggum"
+
+msgid "Registered Visitors"
+msgstr ""
+
+msgid "View and edit Registered Visitors"
+msgstr ""
+
+msgid "Spam Protection"
+msgstr ""
+
+msgid "Overview of the various tools to keep your weblogs spam-free"
+msgstr ""
+
+#, fuzzy
+msgid "Backup"
+msgstr "Öryggisafrit"
+
+#, fuzzy
+msgid ""
+"Download a zip file containing your configuration files, templates or "
+"entries database"
+msgstr ""
+"Hér getur þú hlaðið niður zip skrá sem inniheldur tilhögunarskrár þínar"
+
+msgid "Widgets"
+msgstr ""
+
+#, fuzzy
+msgid "Manage installed Widgets"
+msgstr "Forgangs framlenging"
+
+#, fuzzy
+msgid "Spam configuration"
+msgstr "Stillingar"
+
+msgid "Configure Spam Protection tools (like HashCash and SpamQuiz)."
+msgstr ""
+
+msgid "Spam Log"
+msgstr ""
+
+msgid "View and Reset the Spam Log."
+msgstr ""
+
+msgid "Backup of Configuration Files"
+msgstr "Taka öryggisafrit af tilhögunar skrám"
+
+msgid ""
+"This will let you download a zip file containing your configuration files"
+msgstr ""
+"Hér getur þú hlaðið niður zip skrá sem inniheldur tilhögunarskrár þínar"
+
+msgid "Create, edit and delete Templates"
+msgstr "Stofna, laga og eyða Hönnun"
+
+msgid "Explore Database Files"
+msgstr "File Explorer"
+
+msgid "View files (both text and database files)"
+msgstr "Sýna skrár (bæði texta og önnur gögn)"
+
+#, fuzzy
+msgid "Explore Files"
+msgstr "File Explorer"
+
+msgid "View files in the site's root"
+msgstr ""
+
+#, fuzzy
+msgid "Explore Home folder"
+msgstr "Hlaða inn skrám"
+
+msgid "Rebuild the Index"
+msgstr "Endurbyggja efnisyfirlit"
+
+msgid "Rebuild the index of your Database"
+msgstr "Endurgera efnisyfirlit fyrir eigin gagnagrunn"
+
+#, fuzzy
+msgid "Rebuild Search Index"
+msgstr "Endurbyggja leitar yfirlit"
+
+#, fuzzy
+msgid "Rebuild the Searchindex, to allow searching in entries and pages"
+msgstr "Endurgera leitarefnisyfirlit til að leyfa að leit í skráningum"
+
+#, fuzzy
+msgid "Rebuild Tag Index"
+msgstr "Endurbyggja efnisyfirlit"
+
+#, fuzzy
+msgid "Rebuild the Tagindex, to display tag clouds and tags below entries"
+msgstr "Endurgera leitarefnisyfirlit til að leyfa að leit í skráningum"
+
+#, fuzzy
+msgid "Welcome to"
+msgstr "Velkominn. Þetta er %build%."
+
+msgid "%n visitors on this page"
+msgstr ""
+
+msgid "Total visits"
+msgstr ""
+
+msgid "Unique visitors"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+#, fuzzy
+msgid "Today"
+msgstr "Mánudagur"
+
+#, fuzzy
+msgid "Keyword"
+msgstr ""
+"Keywords=Lykilorð (Alls ekki það sama og Password sem þýðir aðgangsorð)"
+
+msgid "Frequency"
+msgstr ""
+
+msgid ""
+"No items in Delicious Feed. Please check the settings in the PivotX backend."
+msgstr ""
+
+#, fuzzy
+msgid "Upload images"
+msgstr "Hlaða upp nýja skrá:"
+
+msgid ""
+"The Uploader does not work well from 'localhost'. Please use the server's "
+"(internal) IP-address instead."
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the Google Calendar feed."
+msgstr ""
+
+msgid "Google Maps API key"
+msgstr ""
+
+#, fuzzy
+msgid "Default width of map"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Default height of map"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Default zoom for map"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Default latitude for map"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Default longitude for map"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Red"
+msgstr "Mið"
+
+msgid "Blue"
+msgstr ""
+
+#, fuzzy
+msgid "Black"
+msgstr "Öryggisafrit"
+
+msgid "Grey"
+msgstr ""
+
+msgid "Select the color scheme to use for the widget."
+msgstr ""
+
+msgid "Your last.fm login name"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper login name!"
+msgstr "Þetta netfang er ekki til"
+
+msgid "The name you use to log in at <a href='http://last.fm'>Last.fm</a>."
+msgstr ""
+
+msgid "Playing \"%nicefilename%\"."
+msgstr ""
+
+msgid "Youtube video \"%basename%\"."
+msgstr ""
+
+msgid "Vimeo video \"%basename%\"."
+msgstr ""
+
+msgid "Video \"%nicefilename%\""
+msgstr ""
+
+msgid "Piwik URL"
+msgstr ""
+
+msgid "Either the global or local URL to where you have installed Piwik."
+msgstr ""
+
+msgid "Piwik Website ID "
+msgstr ""
+
+msgid "The id for the website as found in the Piwik website overview."
+msgstr ""
+
+msgid "Ignore IP"
+msgstr ""
+
+msgid "A comma separated list of IP that shouldn't be registered in Piwik."
+msgstr ""
+
+msgid ""
+"These icons link to social bookmarking sites where readers can share and "
+"discover new web pages."
+msgstr ""
+
+msgid "Rating button description"
+msgstr ""
+
+#, fuzzy
+msgid "That's not a proper description!"
+msgstr "Þetta netfang er ekki til"
+
+msgid ""
+"The text to display besides the star ranking buttons. You can use %count% "
+"and %average% to insert those values."
+msgstr ""
+
+msgid "Rating average description"
+msgstr ""
+
+msgid ""
+"The text to show when only showing a simple average. You can use %average% "
+"to insert that value."
+msgstr ""
+
+msgid "Login"
+msgstr "Innskráning"
+
+#, fuzzy
+msgid "That's not a proper username!"
+msgstr "Þetta netfang er ekki til"
+
+#, fuzzy
+msgid ""
+"Usernames can only contain lowercase alphanumeric characters (a-z, 0-9) and "
+"underscores (_)."
+msgstr "Notandanöfn geta einungis innihaldið (A-Z, 0-9) og undirstrikun (_)."
+
+msgid "Password"
+msgstr "Aðgangsorð"
+
+msgid "Please give a proper password!"
+msgstr ""
+
+msgid "Stay logged in?"
+msgstr ""
+
+#, fuzzy
+msgid "Lost your password?"
+msgstr "Aðgangsorð"
+
+#, fuzzy
+msgid "Send password"
+msgstr "Önnur koma"
+
+#, fuzzy
+msgid "Reset my password"
+msgstr "Önnur koma"
+
+msgid ""
+"If you've forgotten your password, check the box, enter your username and "
+"PivotX will send you an e-mail with a link to reset your password."
+msgstr ""
+
+#, fuzzy
+msgid "Backup templates"
+msgstr "Búa til sniðmát"
+
+#, fuzzy
+msgid "Backup entries database"
+msgstr "Búa til sniðmát"
+
+#, fuzzy
+msgid "Backup configuration files"
+msgstr "Taka öryggisafrit af tilhögunar skrám"
+
+msgid "Reset Spam Log"
+msgstr ""
+
+#, fuzzy
+msgid "Save Comment"
+msgstr "Skoða athugasemd"
+
+msgid "Error"
+msgstr ""
+
+msgid "Registered user"
+msgstr ""
+
+msgid ""
+"Determines if this comment is displayed like it was by registered user. "
+"(regardless of whether the comment was actually made by a registered user)"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the visitor will be notified by email of any subsequent "
+"comments to this entry."
+msgstr ""
+
+msgid "Show discreetly"
+msgstr ""
+
+msgid ""
+"If set to 'yes', the comment will be shown without the accompanying email-"
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate Comment"
+msgstr "Eyða athugasemd"
+
+msgid ""
+"If set to 'yes', this comment will not be shown on the site, until it has "
+"been approved in the moderation queue"
+msgstr ""
+
+#, fuzzy
+msgid "Save Trackback"
+msgstr "Hnappur fyrir'ein athugasemd'"
+
+#, fuzzy
+msgid "Entry title"
+msgstr "Færsludagur"
+
+msgid "Excerpt"
+msgstr ""
+
+#, fuzzy
+msgid "Continue"
+msgstr "níu"
+
+msgid "Please provide the following information, to set up the first user."
+msgstr ""
+
+msgid "Password (confirm)"
+msgstr "Staðfesta aðgangsorð"
+
+#, fuzzy
+msgid "The passwords do not match!"
+msgstr "Aðgangsorð passar ekki"
+
+#, fuzzy
+msgid "That's not a proper email address!"
+msgstr "Þetta netfang er ekki til"
+
+#, fuzzy
+msgid "That's not a proper Nickname!"
+msgstr "Þetta netfang er ekki til"
+
+msgid "PivotX detected that your webserver supports MySQL databases."
+msgstr ""
+
+msgid "If you have a MySQL user and database, specify them below."
+msgstr ""
+
+msgid ""
+"If you do not have these, either ask your hosting provider or select the "
+"'Flat Files' model."
+msgstr ""
+
+#, fuzzy
+msgid "Database Model"
+msgstr "Dagsetning"
+
+#, fuzzy
+msgid "Flat Files"
+msgstr "Hlaða inn skrám"
+
+msgid ""
+"Select which type of Database to use. Flat Files will work on almost every "
+"platform. If your server is capable of using databases, the performance of "
+"PivotX will be best if you use MySQL or SQLite."
+msgstr ""
+
+msgid "Your MySQL username"
+msgstr ""
+
+msgid "Your MySQL password"
+msgstr ""
+
+#, fuzzy
+msgid "Database Name"
+msgstr "Dagsetning"
+
+msgid ""
+"The name of the MySQL database in which you wish to store the information"
+msgstr ""
+
+msgid "Advanced database settings"
+msgstr ""
+
+#, fuzzy
+msgid "Hostname"
+msgstr "Notendanafn"
+
+msgid ""
+"Your MySQL hostname. If you do not know, this is most likely \"localhost\"."
+msgstr ""
+
+#, fuzzy
+msgid "Table Prefix"
+msgstr "SSI Prefix"
+
+msgid ""
+"The prefix to use for the database tables. By changing this, you can run "
+"multiple installations of pivot from one MySQL database. If you don't intend "
+"to do so (yet), just leave this set to \"pivotx_\"."
+msgstr ""
+
+msgid ""
+"Password must be at least 4 letters long, and it can't be the same as the "
+"username."
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr "Aðgangsorð passar ekki"
+
+msgid "That's not a valid email address"
+msgstr "Þetta netfang er ekki til"
+
+#, fuzzy
+msgid "That's not a proper filename!"
+msgstr "Þetta netfang er ekki til"
+
+msgid "Language"
+msgstr "Tungumál"
+
+#, fuzzy
+msgid "You must select a language!"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Text editor"
+msgstr "Litur texta"
+
+#, fuzzy
+msgid ""
+"Determines the default text processing, when a user is using Writing a new "
+"entry. For most users 'Wysiwyg editor' will be the easiest option. 'Plain "
+"XHTML' is for those who like to edit raw XHTML, while 'Convert Linebreaks' "
+"does nothing more than change linebreaks to a &amp;lt;br /&amp;gt;-tag. <a "
+"href='http://www.textism.com/tools/textile/' target='_blank'>Textile</a> and "
+"<a href='http://daringfireball.net/projects/markdown/' "
+"target='_blank'>Markdown</a> are both powerful, yet easy to learn markup "
+"styles."
+msgstr ""
+"Ákveður hvaða tengingar texta njóta forgangs þegar  -wysiwyg "
+"ritvinnsluforrit er notað. 'Breyta línubili í &lt;br /&gt;' gerir ekkert "
+"annað en að breyta línubili í &lt;br&gt;-dálk. <a href=\"http://www.textism."
+"com/tools/textile/\" target=\"_blank\">Textile</a> is a powerful, yet easy "
+"to learn markup style."
+
+msgid "Wysiwyg"
+msgstr ""
+
+msgid "None (plain XHTML)"
+msgstr ""
+
+#, fuzzy
+msgid "XHTML, Convert Linebreaks to &lt;br /&gt;"
+msgstr "Breyta línubili í &lt;br /&gt;"
+
+msgid "Textile"
+msgstr "Textile"
+
+msgid "Markdown"
+msgstr ""
+
+msgid "Markdown and Smartypants"
+msgstr ""
+
+#, fuzzy
+msgid "User last seen on"
+msgstr "Síðast lagað"
+
+msgid "Moblogger"
+msgstr "Moblogger"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Superadmin"
+msgstr "Superadmin"
+
+msgid ""
+"Userlevel will determine what kind of actions this user can perfom in pivot."
+msgstr ""
+"Staða notanda mun ákveða hvaða aðgerðir viðkomandi notandi getur framkvæmt."
+
+#, fuzzy
+msgid "Allowed Categories"
+msgstr "Kaflar"
+
+msgid "This user is allowed to post entries in the selected categories"
+msgstr ""
+
+#, fuzzy
+msgid "Last seen on"
+msgstr "Síðast lagað"
+
+msgid "Create Category"
+msgstr "Búa til kafla"
+
+msgid "The name that the category is represented by in the weblog"
+msgstr ""
+
+msgid "This category needs a name"
+msgstr "Þessi kafli heitir ekkert"
+
+msgid ""
+"Select the Users that you would like to give permission to post in this "
+"category"
+msgstr "Velja notendur sem þú vilt leyfa að pósta í þennan kafla"
+
+msgid ""
+"Categories with a lower sorting order will appear higher in the list. If you "
+"keep all the numbers the same, they will be sorted alphabetically"
+msgstr ""
+
+msgid ""
+"If set to \"Yes\", this category will be hidden in archive listings. "
+"(applies only to live pages)"
+msgstr ""
+
+#, fuzzy
+msgid "Chapter name"
+msgstr "Kafli"
+
+msgid "The name of this chapter"
+msgstr ""
+
+msgid "A short description of this chapter"
+msgstr ""
+
+msgid ""
+"The sorting order determines the order in which the Chapters are listed."
+msgstr ""
+
+msgid ""
+"The internal name can consist of only lowercase letters, numbers and "
+"underscore (a-z,0-9,_). While the Weblog Name can be changed later on, the "
+"Internal Name will always stay the same."
+msgstr ""
+
+msgid "Start from scratch"
+msgstr ""
+
+#, fuzzy
+msgid "Theme"
+msgstr "Hönnun"
+
+msgid ""
+"Select the theme you'd like to base your weblog on. All options can be "
+"changed later on."
+msgstr ""
+
+#, fuzzy
+msgid "General Settings"
+msgstr "Stillingar færslna"
+
+msgid "Payoff"
+msgstr "Payoff"
+
+msgid ""
+"The Payoff can be used as a subtitle or a short description of your weblog"
+msgstr "Payoff er hægt að nota sem undirtitil eða stutt lýsing á blogginu þínu"
+
+msgid "URL to Weblog"
+msgstr "URL á blogg"
+
+#, fuzzy
+msgid ""
+"PivotX will determine the url of your weblog if you leave this field blank. "
+"If you use your weblog as part of a frameset, or as a serverside include, "
+"you can use this to override it."
+msgstr ""
+"Pivot ákveður hvaða URL er á blogginu ef að þú hefur þetta svæði autt. Ef að "
+"þú notar bloggið þitt sem hluta af öðrum vefsíðum þá getur þú stillt það hér."
+
+#, fuzzy
+msgid ""
+"The Language determines in what language the dates and numbers will be "
+"output."
+msgstr ""
+"Ákveður á hvaða tungumáli dagsetningar og tölur birtast. Það ákveður einnig "
+"kóðun síðunnar.(eins og  iso-8859-1 eða koi8-r, til dæmis)."
+
+#, fuzzy
+msgid "\"Read More\" Text"
+msgstr "'Lesa meira' Texti"
+
+#, fuzzy
+msgid ""
+"The text that is used to indicate that there is more text in this entry than "
+"is shown on the front page. If you leave this blank, PivotX will use the "
+"default as defined by the language settings"
+msgstr ""
+"Texti sem er notaður til að tilkynna að textinn sé lengri en sá sem er "
+"sýndur á forsíðu. Ef að þú skilur þetta eftir autt þá notar Pivot "
+"stillingarnar úr tungumálakaflanum."
+
+msgid "Frontpage Template"
+msgstr "Hönnun forsíðu"
+
+msgid ""
+"The Template which determines the layout of the index page of this weblog."
+msgstr "Hönnun innihaldssíðu"
+
+msgid "Archivepage Template"
+msgstr "Hönnun eldri færslna"
+
+#, fuzzy
+msgid ""
+"The Template which determines the layout of your archives. This can be the "
+"same as \"Frontpage Template\"."
+msgstr "Hönnun eldri færslna. Getur verið það sama og 'frontpage template'."
+
+msgid "Entrypage Template"
+msgstr "Hönnun aðgangssíðu"
+
+msgid "The Template which determines the layout of single entries."
+msgstr "Hönnun einstakra færslna."
+
+msgid "Extra Template"
+msgstr "Auka hönnun"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a search, tag or other special page will look "
+"like."
+msgstr "Hönnun á eldri færslum og search.php."
+
+#, fuzzy
+msgid "Page Template"
+msgstr "Búa til sniðmát"
+
+#, fuzzy
+msgid ""
+"The Template that defines how a page will look like if you haven't specified "
+"a template for it."
+msgstr "Hönnun á eldri færslum og search.php."
+
+msgid "Number of Entries"
+msgstr "Fjöldi færslna"
+
+msgid ""
+"The Number of entries in this subweblog that will be shown on the frontpage."
+msgstr "Fjöldi færslna sem sýndar eru á forsíðu."
+
+msgid "Offset"
+msgstr "Aðlögun"
+
+#, fuzzy
+msgid ""
+"If Offset is set to a number, that amount of entries will be skipped when "
+"generating the page. You can use this to make a \"Previous entries\" list, "
+"for example."
+msgstr ""
+"Ef að aðlögun er stillt á tölugildi þá verður samsvarandi fjölda færslna "
+"sleppt þegar síðan er búin til. Þú getur notað þetta til að búa til "
+"'Previous entries' , til dæmis."
+
+msgid "Publish these categories"
+msgstr ""
+
+msgid "RSS and Atom Configuration"
+msgstr "RSS og Atom tilhögun"
+
+msgid "Generate Feeds"
+msgstr "Búa til aðföng"
+
+msgid ""
+"This determines whether or not pivot will automatically generate an RSS and "
+"an Atom feed for this weblog."
+msgstr "Ákveður hvort Pivot býr sjálfkrafa til aðgang að RSS og Atom aðföngum."
+
+#, fuzzy
+msgid "RSS URL"
+msgstr "Site URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the RSS badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+#, fuzzy
+msgid "Atom URL"
+msgstr "Site URL"
+
+msgid ""
+"If you use a service like FeedBurner, you can give the link to your "
+"FeedBurner feed here. The link will be used in the Atom badge and in the "
+"autodiscovery link on this weblog. Leave this blank to use Pivot's Feed, or "
+"specify a full URL."
+msgstr ""
+
+msgid "Create Full Feeds"
+msgstr "Búa til full aðföng (Full feeds)"
+
+#, fuzzy
+msgid ""
+"Determines whether PivotX creates full Atom and RSS feeds. If set to \"no\" "
+"PivotX will create feeds that just contains short descriptions, thereby "
+"making your feeds less useful."
+msgstr ""
+"Ákveður hvort Pivot býr til full Atom og RSS aðföng. Ef að stillt er á 'no' "
+"mun Pivot aðeins búa til stutta lýsingu á viðkomandi aðföngum."
+
+msgid "Feed Link"
+msgstr "Hlekkur á aðföng"
+
+#, fuzzy
+msgid ""
+"The link to send with the Feed, to point to the main page. If you leave this "
+"blank, PivotX will send the weblog's index as link."
+msgstr ""
+"Hlekkur til að senda með aðföngum sem vísar á aðalsíðu þeirra. Ef þú skilur "
+"þetta eftir autt þá sendir Pivot efnisyfirlit bloggsins sem hlekk."
+
+msgid "Feed Image"
+msgstr "Mynd af aðföngum"
+
+msgid ""
+"You can specify an image to send with the Feed. Some feed readers will "
+"display this image along with your feed. Leave this blank, or specify a full "
+"URL."
+msgstr ""
+"Þú getur send sérstaka mynd með aðföngunum. Sumir aðfanga lesarar munu sýna "
+"þessa mynd með aðföngunum. Skildu þetta eftir autt eða tiltaktu fullkomið "
+"URL."
+
+msgid "Commenting Settings"
+msgstr "Stillingar athugasemda"
+
+msgid "Send Mail?"
+msgstr "Senda póst?"
+
+msgid ""
+"After a comment has been placed, mail can be sent to maintainers of this "
+"weblog."
+msgstr ""
+"Eftir að athugasemd hefur verið birt er hægt að senda póst á fasta lesendur "
+"bloggsins."
+
+msgid "Mail to"
+msgstr "Senda póst á"
+
+#, fuzzy
+msgid ""
+"Specify the email address(es) to whom mail will be sent. Separate multiple "
+"addresses with a comma."
+msgstr "Tiltaka hverjum á senda póst, setja kommu á milli netfanga."
+
+msgid "Text to links"
+msgstr "Texti á hlekki"
+
+msgid "Define whether typed urls and email addresses will be made clickable."
+msgstr "Ákveða hvort hægt er að klikka á slóðir og netföng."
+
+msgid "Wrap comments after"
+msgstr "Þjappa athugasemdum eftir"
+
+msgid ""
+"To prevent long strings of characters from breaking your layout, text will "
+"be wrapped after the specified number of characters."
+msgstr ""
+"Til að koma í veg fyrir að langar bókstafarunur skemmi útlitið hjá þér þá "
+"þjappast textinn eftir ákveðinn fjölda bókstafa."
+
+msgid "Comments Popup?"
+msgstr "Athugasemda Popup?"
+
+#, fuzzy
+msgid ""
+"Define whether the comments page (or 'single entry') will be shown in a "
+"popup window, or in the original browser window."
+msgstr ""
+"Ákveða hvort athugasemdasíða (eða 'single entry') er sýnd í sérstökum popup "
+"glugga eða í sama glugga."
+
+msgid "Width of Popup"
+msgstr "Breidd Popup"
+
+#, fuzzy
+msgid "Height of Width"
+msgstr "Hæð Popup"
+
+#, fuzzy
+msgid "The width (in pixels) of the comments popup."
+msgstr "Taka fram í píxlum breidd og hæð á athugasemda glugga."
+
+msgid "Height of Popup"
+msgstr "Hæð Popup"
+
+#, fuzzy
+msgid "The height (in pixels) of the comments popup."
+msgstr "Taka fram í píxlum breidd og hæð á athugasemda glugga."
+
+#, fuzzy
+msgid "Allow Textile?"
+msgstr "Leyfa Textile"
+
+msgid "Allow Textile"
+msgstr "Leyfa Textile"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use <a href=\"http://www."
+"textism.com/tools/textile/\" target=\"_blank\">Textile</a> in their comments."
+msgstr ""
+"Ef stillt er á  'Yes', er gestum leyft að nota <a href=\"http://www.textism."
+"com/tools/textile/\" target=\"_blank\">Textile</a> í athugasemdum sínum."
+
+#, fuzzy
+msgid "Allow Emoticons?"
+msgstr "Broskallar"
+
+#, fuzzy
+msgid "Allow Emoticons"
+msgstr "Broskallar"
+
+#, fuzzy
+msgid ""
+"If this is set to \"Yes\", visitors are allowed to use emoticons, which are "
+"displayed as graphics."
+msgstr ""
+"Ef stillt er á  'Yes', er gestum leyft að nota <a href=\"http://www.textism."
+"com/tools/textile/\" target=\"_blank\">Textile</a> í athugasemdum sínum."
+
+msgid "Site Name"
+msgstr "Heiti síðu"
+
+#, fuzzy
+msgid "That's not a proper sitename!"
+msgstr "Þetta netfang er ekki til"
+
+#, fuzzy
+msgid "Weblog"
+msgstr "Blogg"
+
+#, fuzzy
+msgid "Page"
+msgstr "Breyta"
+
+#, fuzzy
+msgid "Site Homepage"
+msgstr "Heiti síðu"
+
+#, fuzzy
+msgid "Please select an option"
+msgstr "- Valmöguleikar -"
+
+#, fuzzy
+msgid ""
+"This determines the page that is shown to visitors of the site, if they go "
+"to the front page."
+msgstr "Form dagsetningar. Oftast notað efst á síðu"
+
+msgid "Default language"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Please select a language!"
+msgstr "Aðal tungumál"
+
+msgid "Allow XML-RPC"
+msgstr ""
+
+msgid ""
+"Setting this to yes enables you to post to your blog from a desktop blog "
+"application (using the MetaWeblog API)."
+msgstr ""
+
+msgid "Yes, like /archive/2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /archive/2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /entry/1234"
+msgstr ""
+
+msgid "Yes, like /entry/1234/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005/04/28/title-of-entry"
+msgstr ""
+
+msgid "Yes, like /2005-04-28/title-of-entry"
+msgstr ""
+
+msgid "Use Mod_rewrite"
+msgstr "Nota Filesmatch"
+
+#, fuzzy
+msgid ""
+"If you use Apache's Mod_rewrite option, PivotX will make urls like www."
+"example.org/archive/2008/05/30/nice_weather, instead of www.mysite.com/?"
+"e=134. Not all servers support this, so please read the <a href=\"http://"
+"docs.pivotx.net/doku.php?id=using_apache_s_mod_rewrite\">Using Apache's "
+"Mod_rewrite</a> section in the manual about this."
+msgstr ""
+"Ef þú notar Apache's Filesmatch möguleikann, þá býr Pivot til slóðir eins og "
+"www.mysite.com/archive/2003/05/30/nice_weather, í stað www.mysite.com/pivot/"
+"entry.php?id=134. Þetta styðja ekki allir netþjónar svo kynntu þér það í "
+"leiðbeiningum viðkomandi netþjóns."
+
+msgid "Allow comments by default"
+msgstr "Leyfa alltaf athugasemdir"
+
+msgid "Determine whether entries are set to allow comments or not."
+msgstr "Ákveða hvort færslur leyfa athugasemdir eða ekki"
+
+#, fuzzy
+msgid "Moderate comments"
+msgstr "Eyða athugasemd"
+
+msgid ""
+"Determines whether comments must by approved before they are visible on the "
+"site."
+msgstr ""
+
+#, fuzzy
+msgid "Cache Settings"
+msgstr "Vista stillingar"
+
+msgid "Warning! These features are experimental, so use them with caution!"
+msgstr ""
+
+msgid "Use Minify in Backend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the PivotX interface. Disable this if "
+"you are experiencing problems."
+msgstr ""
+
+msgid "Use Minify in Frontend"
+msgstr ""
+
+msgid ""
+"Use Minify to group and compress Javascript and CSS files to reduce the "
+"amount of requests for all pages in the website. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+msgid "Use output caching"
+msgstr ""
+
+msgid ""
+"If you enable this, all pages will be cached. This will make PivotX much "
+"'lighter', so you should always use this when you're having performance "
+"issues, or you have a site with a lot of visitors. Disable this while you're "
+"working on your Templates, or if you are experiencing problems."
+msgstr ""
+
+#, fuzzy
+msgid "Show Flickr Images"
+msgstr "Sýna síðasta"
+
+msgid ""
+"If set to \"yes\", PivotX will fetch images with this tag from Flickr.com."
+msgstr ""
+
+#, fuzzy
+msgid "Number of images"
+msgstr "Fjöldi færslna"
+
+msgid "The amount of images to fetch from Flickr."
+msgstr ""
+
+#, fuzzy
+msgid "Show feeds"
+msgstr "XML: RSS Feed"
+
+msgid ""
+"If set to \"yes\", PivotX will show the buttons to fetch feeds with this tag "
+"from various sources."
+msgstr ""
+
+#, fuzzy
+msgid "Number of items"
+msgstr "Fjöldi færslna"
+
+msgid "The amount of items to fetch from each source"
+msgstr ""
+
+#, fuzzy
+msgid "Cloud size"
+msgstr "Code"
+
+#, fuzzy
+msgid "Minimum size"
+msgstr "Mesta skráastærð"
+
+#, fuzzy
+msgid "Maximum size"
+msgstr "Mesta skráastærð"
+
+msgid ""
+"The size (in pixels) used to display the tag cloud. Tags that are used more "
+"often are shown in a larger font."
+msgstr ""
+
+msgid "Debug mode"
+msgstr "sýna villumeldingar"
+
+msgid "Show random debug information, every here and there.."
+msgstr "Sýna upplýsingar um villur hér og þar."
+
+#, fuzzy
+msgid "Log Queries"
+msgstr "Skrá villumeldingarlar (Log)"
+
+msgid ""
+"Log all MySQL queries in the debug log. Use this when you are investigation "
+"performance issues, but turn it off on production websites."
+msgstr ""
+
+msgid "Unlink Files"
+msgstr "Aftengja skrár"
+
+msgid ""
+"Some instances of servers on which the ghastly safe_mode is enabled, might "
+"require playing with this option. On most servers this option will not have "
+"any effect"
+msgstr ""
+"Sumir netþjónar sem nota safe_mode stillingu gætu þurft á þessu að halda. Í "
+"flestum tilfellum hefur þetta engin áhrif"
+
+msgid "Chmod Files To"
+msgstr "Chmod Files To"
+
+#, fuzzy
+msgid ""
+"Some servers require that created files are chmodded in a specific way. "
+"Common values are \"0644\" and \"0755\". Do not change this, unless you know "
+"what you're doing."
+msgstr ""
+"Sumir netþjónar krefjast þess að skrár séu chmodded á sérstakan hátt. Algeng "
+"gildi eru '0644' og '0755'. Ekki breyta nema að þú vitir hvað þú ert að gera"
+
+msgid "File Upload Path"
+msgstr "Slóð upphleðslu skráa"
+
+msgid ""
+"The path to the folder where uploaded files are stored. If you change this, "
+"be sure to change it in the file <tt>pivotx/includes/timthumb.php</tt> as "
+"well."
+msgstr ""
+
+msgid "Overwrite"
+msgstr "Yfirskrifa"
+
+msgid "Increment Filename"
+msgstr "Of stórt skráarnafn"
+
+msgid "Maximum Filesize"
+msgstr "Mesta skráastærð"
+
+msgid "The maximum size of files upload to your server."
+msgstr ""
+
+msgid "Automatic Thumbnails"
+msgstr "Sjálfvirk smámynd"
+
+msgid "Create thumbnails automatically when uploading images."
+msgstr ""
+
+msgid "Thumbnail width"
+msgstr "Breidd á smámynd"
+
+msgid "Thumbnail height"
+msgstr "Hæð á smámynd"
+
+#, fuzzy
+msgid "Thumbnail quality"
+msgstr "Breidd á smámynd"
+
+msgid ""
+"The quality of the thumbnail PivotX creates. 0 is the lowest quality, but "
+"also the smallest file. 100 is the highest, but creates a large file. 75 is "
+"a good default. "
+msgstr ""
+
+msgid "Allow filetypes"
+msgstr "Samþykktar tegundir"
+
+msgid ""
+"These filetypes are acceptable for upload. Separate the different types with "
+"a comma. Be sure to use the proper mimetype. \"image/png\" is correct, while "
+"\"png\" is not."
+msgstr ""
+
+msgid "Full date format"
+msgstr "Full dagsetning"
+
+msgid ""
+"This determines the format for the full date and time. Most often used at "
+"the top of a single entry page"
+msgstr "Form dagsetningar. Oftast notað efst á síðu"
+
+msgid "Entry Date"
+msgstr "Færsludagur"
+
+msgid "The date used when displaying the entry."
+msgstr ""
+
+msgid "Diff Date"
+msgstr "Annar dagur"
+
+#, fuzzy
+msgid ""
+"The \"Diff Date\" is most commonly used in conjunction with the \"Entry Date"
+"\". The Entry Date is displayed on every entry on your log, while the Diff "
+"Date is only displayed if the date differs from the previous entry."
+msgstr ""
+"'Diff date' er oftast notað til aðgreiningar frá 'entry date'. Færsludagur "
+"er sýndur við hverja færslu en annar dagur aðeins ef að sú dagsetning er "
+"önnur en sú síðasta."
+
+msgid "Current server time"
+msgstr ""
+
+msgid "Time Offset Unit"
+msgstr "Tól til aðlögunar á erlendum tíma"
+
+msgid "Year"
+msgstr "Ár"
+
+msgid "Month"
+msgstr "Mánuð"
+
+msgid "Day"
+msgstr "Dagur"
+
+msgid "Hour"
+msgstr "Klst"
+
+msgid "Minute"
+msgstr "Mínúta"
+
+msgid "Time Offset"
+msgstr "Tíma aðlögun í k.l.s.t."
+
+#, fuzzy
+msgid "Activate"
+msgstr "Eldri færslur"
+
+#, fuzzy
+msgid "Mail server"
+msgstr "Minnsta. notanda Level"
+
+#, fuzzy
+msgid "Please give a proper domain name!"
+msgstr "Þetta netfang er ekki til"
+
+#, fuzzy
+msgid "Default author"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Please select a user"
+msgstr "Aðal tungumál"
+
+#, fuzzy
+msgid "Select a user"
+msgstr "Veldu mynd"
+
+msgid "The user that the posted entries will belong to."
+msgstr ""
+
+#, fuzzy
+msgid "Default category"
+msgstr "Eyða kafla"
+
+#, fuzzy
+msgid "Please select a category"
+msgstr "- Valmöguleikar -"
+
+#, fuzzy
+msgid "Select a category"
+msgstr "Eyða kafla"
+
+msgid "The category that normal messages will be posted to."
+msgstr ""
+
+msgid "Use the IMAP extension"
+msgstr ""
+
+msgid "What protocol"
+msgstr ""
+
+msgid ""
+"The IMAP extension, which isn't enabled on all web servers, supports both "
+"POP3 and IMAP and is required if you need secure POP3 (as Hotmail and Gmail "
+"uses)."
+msgstr ""
+
+#, fuzzy
+msgid "Allowed senders"
+msgstr "Kaflar"
+
+msgid ""
+"Only email that has a \"From\" that matches one of the following comma "
+"separated items will be posted. You can enter complete email addresses, or "
+"partial ones."
+msgstr ""
+
+msgid "Use HashCash"
+msgstr ""
+
+msgid ""
+"HashCash is the most powerful, completely invisible spam protection "
+"available. It requires javascript to be enabled on the client. If this is "
+"unacceptable for you, then don't enable it."
+msgstr ""
+
+#, fuzzy
+msgid "Number of links"
+msgstr "Fjöldi færslna"
+
+msgid ""
+"Maximum number of hyperlinks in allowed in comments. Useful to get rid of "
+"those pesky comment spammers. Set to 0 for unlimited links."
+msgstr ""
+
+msgid "SpamQuiz"
+msgstr ""
+
+msgid "Use SpamQuiz"
+msgstr ""
+
+msgid ""
+"Before sending a comment, your users have to answer correctly a simple "
+"question everyone knows the answer to. This completely baffles automated "
+"spam bots because every blogger will choose something different."
+msgstr ""
+
+#, fuzzy
+msgid "Question"
+msgstr "Breytingar"
+
+msgid "Example: What are the first two letters of the word \"spam\"?"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Example: <b>sp</b>"
+msgstr ""
+
+msgid "Age"
+msgstr ""
+
+msgid ""
+"Only ask for the spamquiz question, when the entry is older than the given "
+"amount of days."
+msgstr ""
+
+msgid "Explanation"
+msgstr ""
+
+msgid ""
+"Example: To prevent automated commentspam we require you to answer this "
+"silly question"
+msgstr ""
+
+#, fuzzy
+msgid "Admin Page Extensions"
+msgstr "Heiti myndar"
+
+#, fuzzy
+msgid "Hook Extensions"
+msgstr "Forgangs framlenging"
+
+#, fuzzy
+msgid "Snippet Extensions"
+msgstr "Forgangs framlenging"
+
+#, fuzzy
+msgid "Widget Extensions"
+msgstr "Forgangs framlenging"
+
+#, fuzzy
+msgid "By"
+msgstr "Body"
+
+#, fuzzy
+msgid "version"
+msgstr "Breytingar"
+
+#, fuzzy
+msgid "last updated"
+msgstr "Síðast lagað"
+
+#, fuzzy
+msgid "site link"
+msgstr "sextán"
+
+#, fuzzy
+msgid "edit configuration"
+msgstr "Stillingar"
+
+#, fuzzy
+msgid "Insert an image"
+msgstr "Setja inn mynd"
+
+#, fuzzy
+msgid "Insert a popup image"
+msgstr "Setja inn mynd"
+
+msgid "all"
+msgstr ""
+
+msgid "Send Pings"
+msgstr "Senda hljóðmerki"
+
+msgid "Oops."
+msgstr ""
+
+#, fuzzy
+msgid "PivotX encountered an error"
+msgstr "Piv »  Nýr (með hlekk)"
+
+msgid ""
+"PivotX is running in 'safe mode' now. This means all extensions are disabled "
+"until you remove the file <tt>pivotxsafemode.txt</tt> from the <tt>pivotx/</"
+"tt> folder. "
+msgstr ""
+
+msgid ""
+"If an extension is breaking your PivotX, you can disable the extensions from "
+"the Extensions Setup screen, and then leave safe mode to try again. "
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error"
+msgstr "Piv »  Nýr (með hlekk)"
+
+#, php-format
+msgid ""
+"<p>There was a problem with the Database: </p>\n"
+"            %s\n"
+"            <p><tt>error code %s: %s</tt></p>\n"
+"            </p>\n"
+"            <ul><li>If you're in the process of setting up PivotX, you "
+"should review your\n"
+"            <a href='%s'>Database connection settings</a>.</li>\n"
+"            <li>If it worked before, you should check if the Mysql database "
+"engine is\n"
+"            still running on the server (or ask your systems administrator "
+"to check for you).</li>\n"
+"            </ol>"
+msgstr ""
+
+#, php-format
+msgid "The directory '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, php-format
+msgid "The file '<tt>%s</tt>' is not writeable."
+msgstr ""
+
+#, fuzzy
+msgid "Fatal error"
+msgstr "Piv »  Nýr (með hlekk)"
+
+#, php-format
+msgid "No templates found in directory '<tt>%s</tt>'."
+msgstr ""
+
+msgid "URL to the PivotX folder is unknown"
+msgstr ""
+
+msgid "Log into PivotX to set the PivotX URL"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX is not allowed to read this folder."
+msgstr "Ekki leyft að gera þetta með innslætti %title%!"
+
+#, fuzzy, php-format
+msgid "The file %s was deleted"
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy, php-format
+msgid "The file has been copied: %s to %s."
+msgstr "Skráin hefur verið innsett sem '%s'."
+
+msgid ""
+"The file has <b>NOT</b> been copied. Check if the target folder is writable, "
+"and whether the target file does not exist."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The folder %s was created."
+msgstr "Athugasemd hefur verið eytt."
+
+#, php-format
+msgid "The folder %s was <b>NOT</b> created."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "The file %s was created."
+msgstr "Nýtt blogg hefur verið búið til."
+
+#, php-format
+msgid "The file %s was <b>NOT</b> created."
+msgstr ""
+
+#, php-format
+msgid "Successfully uploaded %s"
+msgstr ""
+
+#, fuzzy
+msgid "and created thumbnail"
+msgstr "(Búa til Thumbnail)"
+
+#, fuzzy, php-format
+msgid "Failed to upload %s"
+msgstr "Slóð upphleðslu skráa"
+
+#, fuzzy
+msgid "(Select a template)"
+msgstr "Vista hönnun!"
+
+#, fuzzy
+msgid "Notification from \"%site%\" - "
+msgstr "Broskallar"
+
+msgid ""
+"Someone (you?) has requested a new password for the user '%user%' on the "
+"PivotX site '%site%'.\n"
+"\n"
+"To get your new password, click the following link:\n"
+"\n"
+"%link%\n"
+"\n"
+"If you haven't asked for a new password, you can safely ignore this message. "
+"Your old password will still work as usual."
+msgstr ""
+
+#, fuzzy
+msgid "Password reset"
+msgstr "Aðgangsorð"
+
+msgid "just now"
+msgstr ""
+
+msgid "a few minutes ago"
+msgstr ""
+
+msgid "less than ten minutes ago"
+msgstr ""
+
+msgid "15 minutes ago"
+msgstr ""
+
+msgid "half an hour ago"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr ""
+
+msgid "an hour and a half ago"
+msgstr ""
+
+msgid "about two hours ago"
+msgstr ""
+
+msgid "%value% hours ago"
+msgstr ""
+
+msgid "this morning"
+msgstr ""
+
+msgid "yesterday morning"
+msgstr ""
+
+#, fuzzy
+msgid "this evening"
+msgstr "þrettán"
+
+msgid "yesterday evening"
+msgstr ""
+
+msgid "this afternoon"
+msgstr ""
+
+msgid "yesterday afternoon"
+msgstr ""
+
+msgid "on %value%"
+msgstr ""
+
+msgid "1 week ago"
+msgstr ""
+
+msgid "%value% weeks ago"
+msgstr ""
+
+msgid "about a month ago"
+msgstr ""
+
+msgid "in %value%"
+msgstr ""
+
+msgid "one year ago"
+msgstr ""
+
+msgid "%value% years ago"
+msgstr ""
+
+msgid "a very long time ago"
+msgstr ""
+
+msgid "Write"
+msgstr "Skrifa"
+
+msgid "Write Error. Could not open file for writing"
+msgstr "Villa. Gat ekki opnað skrá"
+
+msgid "Write Error. Could not write to file"
+msgstr "Villa. Gat ekki skráð í skrá"
+
+#, php-format
+msgid "\"%s\" posted the following comment"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a comment on entry \"%s\""
+msgstr "Form athugasemda á færslusíðum."
+
+#, fuzzy
+msgid "View this entry"
+msgstr "Kjóstu '%val%' í þessari könnun"
+
+#, fuzzy
+msgid "View this comment"
+msgstr "Eyða athugasemd"
+
+#, fuzzy, php-format
+msgid "New comment on entry \"%s\""
+msgstr "Form athugasemda á færslusíðum."
+
+msgid "Notifications were sent to"
+msgstr ""
+
+msgid "Failed to send notifications."
+msgstr ""
+
+#, php-format
+msgid "\"%s\" posted the following entry"
+msgstr ""
+
+msgid "View the complete entry"
+msgstr ""
+
+#, fuzzy
+msgid "View your settings"
+msgstr "Ýmsar stillingar"
+
+msgid "This email was sent to"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "New entry \"%s\""
+msgstr "Ný færsla"
+
+#, php-format
+msgid "New visitor registration - %s"
+msgstr ""
+
+#, php-format
+msgid "New visitor confirmed - %s"
+msgstr ""
+
+#, fuzzy
+msgid "View visitor information"
+msgstr "Stillingar"
+
+msgid "%num% comment"
+msgstr "%num% athugasemd"
+
+msgid "%num% comments"
+msgstr "%num% athugasemdir"
+
+#, fuzzy
+msgid "%num% trackback"
+msgstr "Hnappur fyrir'ein athugasemd'"
+
+#, fuzzy
+msgid "%num% trackbacks"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+msgid ""
+"The Hashcash code was not valid, so this comment could not be posted. If you "
+"believe this is an error, please make sure you have a modern browser, and "
+"that Javascript is enabled. If it still doesn't work, contact the maintainer "
+"of this website."
+msgstr ""
+
+msgid ""
+"The Spamquiz answer was not correct, so this comment could not be posted. If "
+"you believe this is an error, please try again. If it still doesn't work, "
+"contact the maintainer of this website."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"You are previewing your comment. Be sure to click on \"Post Comment\" to "
+"store it."
+msgstr ""
+"Þú ert að skoða athugasemd þína. Smelltu á 'Post comment' til að vista hana."
+
+#, fuzzy
+msgid "Your comment has not been stored, because it seems to be spam."
+msgstr ""
+"Athugasemd þín hefur ekki verið vistuð af því að hún virðist vera alveg eins "
+"og síðasta athugasemd"
+
+#, fuzzy
+msgid ""
+"Your comment has not been stored, because it seems to be a duplicate of a "
+"previous entry."
+msgstr ""
+"Athugasemd þín hefur ekki verið vistuð af því að hún virðist vera alveg eins "
+"og síðasta athugasemd"
+
+#, fuzzy
+msgid ""
+"Your comment has been stored. Because comment moderation is enabled, it is "
+"now waiting for approval by an editor."
+msgstr ""
+"Athugasemd þín hefur ekki verið vistuð af því að hún virðist vera alveg eins "
+"og síðasta athugasemd"
+
+msgid "Your comment has been stored."
+msgstr "Athugasemd þín hefur verið vistuð."
+
+#, fuzzy
+msgid ""
+"You should type your name (or an alias) in the \"name\"-field. Be sure to "
+"click on \"Post Comment\" to store it permanently."
+msgstr ""
+"Þú ættir að skrifa nafnið þitt eða dulnefni í 'name'-reitinn. Smelltu á "
+"'Post comment' til að vista hana örugglega."
+
+#, fuzzy
+msgid ""
+"You should type something in the \"comment\"-field. Be sure to click on "
+"\"Post Comment\" to store it permanently."
+msgstr ""
+"Þú ættir að skrifa eitthvað í 'comments'.Smelltu á 'Birta athugasemd' til að "
+"vista hana örugglega."
+
+msgid "The maximum number of hyperlinks was exceeded. Stop spamming."
+msgstr ""
+
+#, fuzzy
+msgid "Moderate this comment"
+msgstr "Form á athugasemdum"
+
+#, fuzzy
+msgid "PivotX thumbnail creator"
+msgstr "Laga thumbnail"
+
+msgid ""
+"When using GIF files, there is a significant chance that you can't use "
+"PivotX to make thumbnails. If you have problems with making thumbnails, we "
+"suggest using PNG or JPG files."
+msgstr ""
+
+msgid "You can only make thumbnails of .gif, .jpg and .png images with PivotX."
+msgstr ""
+
+msgid "Couldn't make thumbnail remotely using"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX Image Cropper"
+msgstr "Piv »  Nýr (með hlekk)"
+
+#, fuzzy
+msgid "Crop size"
+msgstr "Code"
+
+msgid "can not be opened"
+msgstr ""
+
+msgid "This file extension is not supported, please try JPG, GIF or PNG"
+msgstr ""
+
+#, php-format
+msgid "Error creating thumbnail for %s - no file extension found."
+msgstr ""
+
+msgid "Crop type"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Proportions"
+msgstr "Broskallar"
+
+msgid "Bounded Size"
+msgstr ""
+
+msgid "Free Crop"
+msgstr ""
+
+#, fuzzy
+msgid "Target thumbnail will be"
+msgstr "Laga thumbnail"
+
+#, fuzzy
+msgid "Create Thumbnail"
+msgstr "(Búa til Thumbnail)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Halda áfram!"
+
+#, fuzzy
+msgid "Back"
+msgstr "Öryggisafrit"
+
+msgid "if the thumbnail is not satisfactory"
+msgstr ""
+
+#, fuzzy
+msgid "Close"
+msgstr "Code"
+
+msgid "this window"
+msgstr ""
+
+msgid "Sunday"
+msgstr "Sunnudagur"
+
+msgid "Monday"
+msgstr "Mánudagur"
+
+msgid "Tuesday"
+msgstr "Þriðjudagur"
+
+msgid "Wednesday"
+msgstr "Miðvikudagur"
+
+msgid "Thursday"
+msgstr "Fimmtudagur"
+
+msgid "Friday"
+msgstr "Föstudagur"
+
+msgid "Saturday"
+msgstr "Laugardagur"
+
+msgid "S_Sunday_initial"
+msgstr "S"
+
+msgid "M_Monday_initial"
+msgstr "M"
+
+msgid "T_Tuesday_initial"
+msgstr "Þ"
+
+msgid "W_Wednesday_initial"
+msgstr "M"
+
+msgid "T_Thursday_initial"
+msgstr "F"
+
+msgid "F_Friday_initial"
+msgstr "F"
+
+msgid "S_Saturday_initial"
+msgstr "L"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Mon"
+msgstr "Mán"
+
+msgid "Tue"
+msgstr "Þri"
+
+msgid "Wed"
+msgstr "Mið"
+
+msgid "Thu"
+msgstr "Fim"
+
+msgid "Fri"
+msgstr "Fös"
+
+msgid "Sat"
+msgstr "Lau"
+
+msgid "January"
+msgstr "Janúar"
+
+msgid "February"
+msgstr "Febrúar"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "Apríl"
+
+msgid "May"
+msgstr "Maí"
+
+msgid "June"
+msgstr "Júní"
+
+msgid "July"
+msgstr "Júlí"
+
+msgid "August"
+msgstr "Ágúst"
+
+msgid "September"
+msgstr "September"
+
+msgid "October"
+msgstr "Október"
+
+msgid "November"
+msgstr "Nóvember"
+
+msgid "December"
+msgstr "Desember"
+
+msgid "Jan_January_abbreviation"
+msgstr "Jan"
+
+msgid "Feb_February_abbreviation"
+msgstr "Feb"
+
+msgid "Mar_March_abbreviation"
+msgstr "Mar"
+
+msgid "Apr_April_abbreviation"
+msgstr "Apr"
+
+msgid "May_May_abbreviation"
+msgstr "Maí"
+
+msgid "Jun_June_abbreviation"
+msgstr "Júní"
+
+msgid "Jul_July_abbreviation"
+msgstr "Júl"
+
+msgid "Aug_August_abbreviation"
+msgstr "Ágú"
+
+msgid "Sep_September_abbreviation"
+msgstr "Sep"
+
+msgid "Oct_October_abbreviation"
+msgstr "Okt"
+
+msgid "Nov_November_abbreviation"
+msgstr "Nóv"
+
+msgid "Dec_December_abbreviation"
+msgstr "Des"
+
+#, fuzzy
+msgid "am"
+msgstr "Nafn"
+
+msgid "pm"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "zero"
+msgstr "núll"
+
+msgid "one"
+msgstr "einn"
+
+msgid "two"
+msgstr "tveir"
+
+msgid "three"
+msgstr "þrír"
+
+msgid "four"
+msgstr "fjórir"
+
+msgid "five"
+msgstr "fimm"
+
+msgid "six"
+msgstr "sex"
+
+msgid "seven"
+msgstr "sjö"
+
+msgid "eight"
+msgstr "átta"
+
+msgid "nine"
+msgstr "níu"
+
+msgid "ten"
+msgstr "tíu"
+
+msgid "eleven"
+msgstr "ellefu"
+
+msgid "twelve"
+msgstr "tólf"
+
+msgid "thirteen"
+msgstr "þrettán"
+
+msgid "fourteen"
+msgstr "fjórtán"
+
+msgid "fifteen"
+msgstr "fimmtán"
+
+msgid "sixteen"
+msgstr "sextán"
+
+#, fuzzy
+msgid "seventeen"
+msgstr "sjö"
+
+#, fuzzy
+msgid "eigthteen"
+msgstr "átta"
+
+#, fuzzy
+msgid "nineteen"
+msgstr "níu"
+
+#, fuzzy
+msgid "twenty"
+msgstr "Ný færsla"
+
+#, fuzzy
+msgid "zeroth"
+msgstr "núll"
+
+#, fuzzy
+msgid "second"
+msgstr "Sekúnda"
+
+#, fuzzy
+msgid "third"
+msgstr "þrettán"
+
+#, fuzzy
+msgid "forth"
+msgstr "fjórir"
+
+#, fuzzy
+msgid "fifth"
+msgstr "fimmtán"
+
+#, fuzzy
+msgid "sixth"
+msgstr "sex"
+
+#, fuzzy
+msgid "seventh"
+msgstr "sjö"
+
+#, fuzzy
+msgid "eighth"
+msgstr "átta"
+
+#, fuzzy
+msgid "ninth"
+msgstr "níu"
+
+#, fuzzy
+msgid "tenth"
+msgstr "tíu"
+
+#, fuzzy
+msgid "eleventh"
+msgstr "ellefu"
+
+#, fuzzy
+msgid "twelfth"
+msgstr "tólf"
+
+#, fuzzy
+msgid "thirteenth"
+msgstr "þrettán"
+
+#, fuzzy
+msgid "fourteenth"
+msgstr "fjórtán"
+
+#, fuzzy
+msgid "fifteenth"
+msgstr "fimmtán"
+
+#, fuzzy
+msgid "sixteenth"
+msgstr "sextán"
+
+#, fuzzy
+msgid "seventeenth"
+msgstr "sjö"
+
+#, fuzzy
+msgid "eighteenth"
+msgstr "átta"
+
+#, fuzzy
+msgid "nineteenth"
+msgstr "níu"
+
+#, fuzzy
+msgid "twentieth"
+msgstr "tíu"
+
+#, php-format
+msgid ""
+"The current version of PHP on the server is %s, which is an older version "
+"than PivotX requires (%s). PivotX will most likely not work correctly, until "
+"the server is updated to a newer version."
+msgstr ""
+
+msgid ""
+"This webserver has safe_mode enabled. This doesn't actually make things any "
+"'safer', just more annoying. Please ask your hosting provider to turn it "
+"off. See the documentation for more info: <a href='http://docs.pivotx.net/"
+"doku.php?id=dealing_with_safe_mode'>Dealing with safe_mode</a>."
+msgstr ""
+
+msgid ""
+"The PivotX installer script \"pivotx-setup.php\" is still present in the "
+"parent folder. You should be aware that this is a potential security risk. "
+"We advise you to remove it, or to set an empty password inside it, so that "
+"it can't be executed by people with bad intentions."
+msgstr ""
+
+msgid ""
+"The old Pivot installer script \"pivot-setup.php\" is still present in the "
+"parent folder. Please remove it immediately since it's not used for PivotX "
+"and it is a potential security risk."
+msgstr ""
+
+msgid ""
+"This webserver has register_globals enabled. This is a serious potential "
+"security issue. Please ask your hosting provider to turn it off. See the PHP "
+"documentation for more info: <a href='http://php.net/"
+"register_globals'>Register Globals</a>."
+msgstr ""
+
+msgid ""
+"Your password is not fully encrypted yet. Please go to %myinfo%, and set "
+"your password again."
+msgstr ""
+
+#, fuzzy
+msgid "folder "
+msgstr "Jaðar"
+
+#, php-format
+msgid ""
+"There's an executable file in one of the 'open' folders. You should remove "
+"this file immediately: <tt>%s</tt>."
+msgstr ""
+
+msgid ""
+"If you do not know where this file came from, please report this incident on "
+"our Forum. Please keep a back-up copy of the file for our inspection."
+msgstr ""
+
+#, php-format
+msgid ""
+"One or more files inside the <tt>'%s'</tt> folder are not readable or "
+"writable by PivotX."
+msgstr ""
+
+msgid ""
+"Please log in using your FTP or Shell client, and change the filerights "
+"(chmod) so that PivotX has both read and write access to these files."
+msgstr ""
+
+#, fuzzy, php-format
+msgid ".. and %s more files."
+msgstr "Hlaða inn skrám"
+
+#, fuzzy
+msgid "Click for image"
+msgstr "Sýna síðasta"
+
+msgid "Moblog entry posted"
+msgstr ""
+
+msgid "Moblog entry not posted"
+msgstr ""
+
+msgid "Page not found (404 error)"
+msgstr ""
+
+msgid "The page isn't published or doesn't exist."
+msgstr ""
+
+msgid "Please visit the frontpage by clicking the main title/logo."
+msgstr ""
+
+msgid "Weblog not found (404 error)"
+msgstr ""
+
+msgid "Category not found (404 error)"
+msgstr ""
+
+msgid "Not found (404 error)"
+msgstr ""
+
+msgid "We didn't find what you were looking for."
+msgstr ""
+
+msgid "Entry not found (404 error)"
+msgstr ""
+
+#, fuzzy
+msgid "The entry isn't published or doesn't exist."
+msgstr "Athugasemd hefur verið eytt."
+
+msgid "Tag cloud for"
+msgstr ""
+
+msgid ""
+"This page shows the global Tag Cloud for this website. Tags that are used "
+"more often are shown in a larger font, so this Cloud gives you a quick "
+"overview of what's happening on the site. Click on one of the Tags to go to "
+"an overview page that shows all entries and pages that are related to the "
+"Tag, as well as other relevant information."
+msgstr ""
+
+#, php-format
+msgid "Feed error - selected %s doesn't exists!"
+msgstr ""
+
+#, php-format
+msgid "The %s \"%s\" given by the \"%s\" parameter in the URL, doesn't exist"
+msgstr ""
+
+#, fuzzy
+msgid "weblog"
+msgstr "Blogg"
+
+#, fuzzy
+msgid "category"
+msgstr "Kafli"
+
+#, fuzzy
+msgid "entry"
+msgstr "Ný færsla"
+
+#, fuzzy
+msgid "for comments"
+msgstr "Engar athugasemdir"
+
+#, php-format
+msgid "%1.2f sec: Processed %d entries..."
+msgstr ""
+
+#, php-format
+msgid "Processed %d pages..."
+msgstr ""
+
+msgid "Search Results"
+msgstr "Niðurstöður leitar"
+
+#, fuzzy
+msgid "Page matches for \"%name%\":"
+msgstr "Eftirfarndi fannst fyrir leitarorðið '%name%':"
+
+#, fuzzy
+msgid "Entry matches for \"%name%\":"
+msgstr "Eftirfarndi fannst fyrir leitarorðið '%name%':"
+
+#, fuzzy
+msgid "No matches found for \"%name%\". Try something else."
+msgstr "Ekkert fannst fyrir leitarorðið '%name%'. Reyndu eitthvað annað."
+
+msgid "Search for words used in entries on this website"
+msgstr ""
+
+msgid "Enter the word[s] to search for here:"
+msgstr ""
+
+msgid "Enter searchterms"
+msgstr ""
+
+msgid "Search!"
+msgstr "Leita!"
+
+#, fuzzy
+msgid "XML: Atom Feed"
+msgstr "XML: RSS Feed"
+
+msgid "ok"
+msgstr ""
+
+#, fuzzy
+msgid "One comment"
+msgstr "%num% athugasemd"
+
+msgid "One or more comments are waiting for approval by an editor."
+msgstr ""
+
+msgid "Emoticons"
+msgstr "Broskallar"
+
+msgid "You need to specify an URL to a feed"
+msgstr ""
+
+msgid "Oops! I'm afraid I couldn't read the feed."
+msgstr ""
+
+msgid "CSS file (stylesheet)"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX weblog theme"
+msgstr "Piv »  Nýr (með hlekk)"
+
+#, fuzzy
+msgid "XML Feed template"
+msgstr "Búa til sniðmát"
+
+#, fuzzy
+msgid "Text file"
+msgstr "Textile"
+
+msgid "PHP script"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX cache file"
+msgstr "Piv »  Nýr (með hlekk)"
+
+msgid "Javascript file"
+msgstr ""
+
+#, fuzzy
+msgid "MagpieRSS cache file"
+msgstr "Hlaða upp nýja skrá:"
+
+#, fuzzy
+msgid "PivotX Tag file"
+msgstr "Piv »  Nýr (með hlekk)"
+
+#, fuzzy
+msgid "PivotX Tag relations"
+msgstr "Laga thumbnail"
+
+#, fuzzy
+msgid "Minify cache file"
+msgstr "Hlaða upp nýja skrá:"
+
+#, fuzzy
+msgid "HTML template"
+msgstr "Hönnun"
+
+#, fuzzy
+msgid "Include template"
+msgstr "Búa til sniðmát"
+
+#, fuzzy
+msgid "Frontpage template"
+msgstr "Hönnun forsíðu"
+
+#, fuzzy
+msgid "Archive template"
+msgstr "Hönnun eldri færslna"
+
+#, fuzzy
+msgid "Entry template"
+msgstr "Hönnun aðgangssíðu"
+
+#, fuzzy
+msgid "Page template"
+msgstr "Búa til sniðmát"
+
+#, fuzzy
+msgid "Searchpage template"
+msgstr "Hönnun eldri færslna"
+
+#, fuzzy
+msgid "Apache configuration"
+msgstr "Stillingar"
+
+msgid "PivotX 'not found' template"
+msgstr ""
+
+#, fuzzy
+msgid "PivotX error page"
+msgstr "Piv »  Nýr (með hlekk)"
+
+#, fuzzy
+msgid "(more)"
+msgstr "einn"
+
+msgid "Powered by"
+msgstr "Styrktaraðili"
+
+msgid "XML: RSS Feed"
+msgstr "XML: RSS Feed"
+
+#, fuzzy
+msgid "Used tags"
+msgstr "Setja inn mynd"
+
+#, fuzzy
+msgid "One trackback"
+msgstr "Hnappur fyrir'ein athugasemd'"
+
+msgid "Please enable javascript to generate a trackback url"
+msgstr ""
+
+msgid "Note: The url is valid for only 15 minutes after you opened this page!"
+msgstr ""
+
+#, fuzzy
+msgid "Click to view the trackback url"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+msgid "Tagged external link"
+msgstr ""
+
+msgid "No entries found"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Eyða athugasemd"
+
+msgid "register/login"
+msgstr ""
+
+#, fuzzy
+msgid "words"
+msgstr ""
+"Keywords=Lykilorð (Alls ekki það sama og Password sem þýðir aðgangsorð)"
+
+#, fuzzy
+msgid "image"
+msgstr "Heiti myndar"
+
+#, fuzzy
+msgid "images"
+msgstr "Heiti myndar"
+
+#, fuzzy
+msgid "file"
+msgstr "fimm"
+
+#, fuzzy
+msgid "files"
+msgstr "Skrár"
+
+msgid "Self-registration"
+msgstr ""
+
+#, fuzzy
+msgid "Vote \"%val%\" on this entry"
+msgstr "Kjóstu '%val%' í þessari könnun"
+
+msgid ""
+"Comment moderation is enabled on this site. This means that your comment "
+"will not be visible on this site until it has been approved by an editor."
+msgstr ""
+
+msgid "Tags used in this posting"
+msgstr ""
+
+msgid "Other entries about"
+msgstr ""
+
+msgid "Please enable Javascript (and reload this page) to add any comments."
+msgstr ""
+
+msgid ""
+"This is the local Tag Cosmos for this weblog. The larger the tag, the more "
+"entries on this blog are related to it. The tags are ordered alphabetically. "
+"Click on any tag to find out more.<br/><br/>"
+msgstr ""
+
+msgid "Tag overview for: "
+msgstr ""
+
+msgid "Entries on this site with "
+msgstr ""
+
+msgid "Related tags"
+msgstr ""
+
+msgid "External feeds for"
+msgstr ""
+
+msgid "Click icon for a list of links on"
+msgstr ""
+
+msgid "Flickr images for"
+msgstr ""
+
+#, fuzzy
+msgid "No related tags"
+msgstr "Sýna síðasta"
+
+#, php-format
+msgid "\"%s\" posted the following trackback"
+msgstr ""
+
+#, fuzzy, php-format
+msgid "This is a trackback on entry \"%s\""
+msgstr "Form athugasemda á færslusíðum."
+
+#, fuzzy, php-format
+msgid "New trackback on entry \"%s\""
+msgstr "Form athugasemda á færslusíðum."
+
+msgid "Log in as a registered visitor"
+msgstr ""
+
+msgid "Forgotten your password?"
+msgstr ""
+
+msgid "Register a new username."
+msgstr ""
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Log out."
+msgstr ""
+
+#, fuzzy
+msgid "Delete account."
+msgstr "Eyða athugasemd"
+
+msgid "Edit your preferences"
+msgstr ""
+
+msgid "User disabled"
+msgstr ""
+
+#, fuzzy
+msgid "Incorrect password or username"
+msgstr "Rangt notendanafn eða lykilorð"
+
+#, fuzzy
+msgid "Logged in"
+msgstr "Innskráning"
+
+msgid "Register"
+msgstr ""
+
+msgid ""
+"Please fill out the following information. <strong>Be sure to give a valid "
+"email address</strong>, because we will send a verification email to that "
+"address."
+msgstr ""
+
+#, fuzzy
+msgid "Options"
+msgstr "villur í hugbúnaði"
+
+msgid "Back to login"
+msgstr ""
+
+msgid "Show my email address with comments"
+msgstr ""
+
+msgid "Notify me via email of new entries"
+msgstr ""
+
+msgid "Default notification of replies"
+msgstr ""
+
+msgid "Here you can change your information."
+msgstr ""
+
+msgid "Change preferences"
+msgstr ""
+
+msgid "The new password is <q>%pass%</q>."
+msgstr ""
+
+msgid "Oops"
+msgstr ""
+
+msgid "Password reset request failed."
+msgstr ""
+
+#, fuzzy
+msgid "Reset password"
+msgstr "Önnur koma"
+
+msgid ""
+"If you've forgotten your password, enter your username and PivotX will send "
+"you an e-mail with a link to reset your password."
+msgstr ""
+
+msgid "User already exists... Please pick another name."
+msgstr ""
+
+msgid "E-mail address is already taken... Please pick another name."
+msgstr ""
+
+msgid "Password must be at least 4 letters long."
+msgstr ""
+
+msgid ""
+"You must give your email address, since without it'll be impossible to "
+"verify your account. You can always choose not to show your address to other "
+"visitors."
+msgstr ""
+
+#, fuzzy
+msgid "The changes have been stored"
+msgstr "The IP-addresses hefur verið vistað."
+
+msgid "Your account is verified. Please log in.."
+msgstr ""
+
+msgid "That code seems to be incorrect. I'm sorry, but I can't verify."
+msgstr ""
+
+msgid "A link to reset your password was sent to your mailbox."
+msgstr ""
+
+msgid "Account deleted."
+msgstr ""
+
+msgid "Logged out"
+msgstr ""
+
+#, fuzzy
+msgid "Back to"
+msgstr "Öryggisafrit"
+
+#, fuzzy
+msgid "User stored!"
+msgstr "Nota texta"
+
+msgid "Could not store new user!!"
+msgstr ""
+
+#, php-format
+msgid ""
+"You have registered as a user on PivotX \"%s\" \n"
+"\n"
+msgstr ""
+
+#, php-format
+msgid ""
+"To verify your account, click the following link:\n"
+"%s\n"
+"\n"
+msgstr ""
+
+#, fuzzy
+msgid "Registration confirmation"
+msgstr "Stillingar"
+
+msgid "Verify your account"
+msgstr ""
+
+#, php-format
+msgid ""
+"Mail verification sent to %s. Please check your email in a minute to confirm "
+"your account."
+msgstr ""
+
+msgid ""
+"Please enable Javascript (and reload this page) to view the e-mail address."
+msgstr ""
+
+#, php-format
+msgid "Blocked login attempt from '%s'."
+msgstr ""
+
+msgid ""
+"Too many failed login attempts from this IP address. Please contact your "
+"site administrator to unblock your account."
+msgstr ""
+
+msgid "Incorrect username/password"
+msgstr "Rangt notendanafn eða lykilorð"
+
+msgid "Successfully logged in"
+msgstr ""
+
+#, php-format
+msgid "Failed login attempt from '%s'."
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+#, fuzzy
+msgid "Previous page"
+msgstr "Fyrri eldri færslur"
+
+msgid "Displaying entries %num_from%-%num_to% of %num_tot%"
+msgstr ""
+
+#, php-format
+msgid "%s started editing entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s started editing page '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved entry '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s saved page '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s logged in."
+msgstr "Innskráning"
+
+#, php-format
+msgid "%s logged out."
+msgstr ""
+
+#, php-format
+msgid "Failed login attempt for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited the setting for '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added weblog '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s edited a weblog setting for '%s'."
+msgstr "Laga blogg stillingar fyrir"
+
+#, fuzzy, php-format
+msgid "%s deleted weblog '%s'."
+msgstr "Eyða þessu bloggi"
+
+#, php-format
+msgid "%s saved the file '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s added user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s deleted user '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited category '%s'."
+msgstr ""
+
+#, fuzzy, php-format
+msgid "%s deleted category '%s'."
+msgstr "Eyða kafla"
+
+#, php-format
+msgid "%s added chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s edited chapter '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'(4)."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s' on '%s'."
+msgstr ""
+
+#, php-format
+msgid "%s did '%s'."
+msgstr ""
+
+msgid "Your new password is %pass%."
+msgstr ""
+
+msgid "About PivotX"
+msgstr ""
+
+msgid "Setup user"
+msgstr ""
+
+#, fuzzy
+msgid "Setup a new user"
+msgstr "Nýr notandi"
+
+msgid "The user has been added! You can login with your new account now."
+msgstr ""
+
+#, fuzzy
+msgid "The entries were published."
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "The entries could not be published."
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "The entries were put on hold."
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "The entries could not be put on hold."
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "The entries were deleted."
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "The entries could not be deleted."
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "You are not allowed to delete this entry."
+msgstr "Ekki leyft að gera þetta með innslætti %title%!"
+
+#, fuzzy
+msgid "The entry has been deleted"
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "Your Extension settings have been stored."
+msgstr "Bloggið hefur verið uppfært."
+
+#, fuzzy
+msgid "Manage installed Widget extensions"
+msgstr "Forgangs framlenging"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "Laga færslu"
+
+#, fuzzy
+msgid "You are not allowed to edit this entry."
+msgstr "Ekki leyft að gera þetta með innslætti %title%!"
+
+#, php-format
+msgid "Your entry \"%s\" was successfully saved."
+msgstr ""
+
+#, php-format
+msgid "Your entry \"%s\" was NOT successfully saved."
+msgstr ""
+
+#, php-format
+msgid "A trackback ping has been sent to \"%s\"."
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+#, fuzzy
+msgid "You are now logged out of PivotX"
+msgstr "Ekki leyfilegt að eyða innslætti %title%!"
+
+msgid "My Settings"
+msgstr "Mínar stillingar"
+
+#, fuzzy
+msgid "Add a Bookmarklet"
+msgstr "Bæta við bókamerki."
+
+msgid "Some fields were not correct. Please try again."
+msgstr ""
+
+#, fuzzy
+msgid "Your settings have been updated."
+msgstr "Bloggið hefur verið uppfært."
+
+msgid ""
+"Add a personal 'Quick post' Bookmarklet to your browser, with the following "
+"link. Drag the link to your browser's Bookmark Toolbar, or right-click the "
+"link, and choose 'Add Bookmark'."
+msgstr ""
+
+msgid "Post to PivotX"
+msgstr ""
+
+msgid "Edit my personal Settings"
+msgstr "Laga persónulegar stillingar"
+
+msgid "You must add the Bookmarklet to your browser before you can use it."
+msgstr ""
+
+#, fuzzy
+msgid "You are not allowed to edit this page."
+msgstr "Ekki leyfilegt að eyða innslætti %title%!"
+
+#, fuzzy
+msgid "You are not allowed to delete this chapter."
+msgstr "Ekki leyfilegt að eyða innslætti %title%!"
+
+#, fuzzy
+msgid "The Chapter has been deleted."
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "You are not allowed to delete this page."
+msgstr "Ekki leyfilegt að eyða innslætti %title%!"
+
+#, fuzzy
+msgid "The Page has been deleted."
+msgstr "Blogginu hefur verið eytt."
+
+#, fuzzy
+msgid "You are not allowed to add/edit this page."
+msgstr "Ekki leyfilegt að eyða innslætti %title%!"
+
+#, fuzzy, php-format
+msgid "The settings for chapter '%s' have been updated."
+msgstr "Bloggið hefur verið uppfært."
+
+msgid "Edit or Delete Trackback for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The trackback was deleted."
+msgstr "Athugasemd hefur verið eytt."
+
+msgid "Edit or Delete Trackbacks in the Last Trackbacks"
+msgstr ""
+
+msgid "Comments"
+msgstr "Athugasemdir"
+
+msgid "Edit or Delete Comments for Entry %number% - %editlink%"
+msgstr ""
+
+#, fuzzy
+msgid "The comment was deleted."
+msgstr "Athugasemd hefur verið eytt."
+
+msgid "Edit or Delete Comments in the Moderation Queue and Last Comments"
+msgstr ""
+
+msgid "Edit or Delete Comments"
+msgstr "Laga eða eyða athugasemdum"
+
+#, fuzzy
+msgid "The Comment was saved!"
+msgstr "Athugasemd hefur verið vistuð."
+
+msgid "You have to select an entry in order to view its comments."
+msgstr ""
+
+#, fuzzy
+msgid "Edit or Delete Trackbacks"
+msgstr "Hnappur fyrir'X athugasemdir'"
+
+#, fuzzy
+msgid "The Trackback was saved!"
+msgstr "Athugasemd hefur verið vistuð."
+
+msgid "You have to select an entry in order to view its trackback."
+msgstr ""
+
+msgid "Upload Files"
+msgstr "Hlaða inn skrám"
+
+#, fuzzy
+msgid "The visitor account has been deleted."
+msgstr "Athugasemd hefur verið eytt."
+
+msgid "Failed to deleted the visitor account."
+msgstr ""
+
+#, fuzzy
+msgid "The category was deleted."
+msgstr "Athugasemd hefur verið eytt."
+
+msgid "The weblog has been deleted."
+msgstr "Blogginu hefur verið eytt."
+
+#, fuzzy
+msgid "The weblog was exported as a Theme file."
+msgstr "Blogginu hefur verið eytt."
+
+msgid "Create New Weblog"
+msgstr "Búa til nýtt blogg"
+
+#, fuzzy
+msgid "Common settings"
+msgstr "Stillingar athugasemda"
+
+#, fuzzy
+msgid "Database"
+msgstr "Dagsetning"
+
+#, fuzzy
+msgid "Debug"
+msgstr "sýna villumeldingar"
+
+#, fuzzy
+msgid "File Uploads"
+msgstr "Slóð upphleðslu skráa"
+
+#, fuzzy
+msgid "Date / Time"
+msgstr "Dagur/tími"
+
+#, fuzzy
+msgid "Moblogging"
+msgstr "Moblogger"
+
+msgid ""
+"Now building Index. This may take a short while, so please do not interrupt."
+msgstr "Bý til yfirlit. Getur tekið smástund svo ekki trufla á meðan"
+
+msgid "Rebuild the Search Index"
+msgstr "Endurbyggja leitar yfirlit"
+
+msgid "Rebuild the Searchindex, to allow searching in entries"
+msgstr "Endurgera leitarefnisyfirlit til að leyfa að leit í skráningum"
+
+msgid ""
+"Now building Search Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "Bý til leitaryfirlit. Getur tekið smástund svo ekki trufla á meðan"
+
+#, fuzzy
+msgid "Rebuild the Tag Index"
+msgstr "Endurbyggja efnisyfirlit"
+
+#, fuzzy
+msgid ""
+"Now building Tag Index. This may take a short while, so please do not "
+"interrupt."
+msgstr "Bý til yfirlit. Getur tekið smástund svo ekki trufla á meðan"
+
+msgid ""
+"NB! Backup the (entries) database using your ISP control panel or the "
+"command line."
+msgstr ""
+
+#, fuzzy
+msgid "Backup of Database"
+msgstr "Dagsetning"
+
+#, fuzzy
+msgid ""
+"This will let you download a zip file containing your database (with all "
+"your entries)"
+msgstr ""
+"Hér getur þú hlaðið niður zip skrá sem inniheldur tilhögunarskrár þínar"
+
+#, fuzzy
+msgid "Explore files"
+msgstr "Hlaða inn skrám"
+
+#, fuzzy
+msgid "Spam configuration saved."
+msgstr "Stillingar"
+
+#, fuzzy
+msgid "Blocked Phrases"
+msgstr "Block IP range %s"
+
+#, fuzzy
+msgid "View and Edit the Blocked Phrases to combat spam."
+msgstr "Skoða og laga blokkeruð IP addresses."
+
+msgid "Update the Global Phrases List"
+msgstr ""
+
+msgid "Update the global phrases list from pivotx.net"
+msgstr ""
+
+msgid "Spam Washer"
+msgstr ""
+
+msgid "Search for spam, and delete all of it from your entries and trackbacks."
+msgstr ""
+
+msgid "IP blocks"
+msgstr "IP blocks"
+
+msgid "View and Edit the blocked IP addresses."
+msgstr "Skoða og laga blokkeruð IP addresses."
+
+msgid "Spam log reset."
+msgstr ""
+
+#, fuzzy
+msgid "Perform routine maintenance on PivotX's files"
+msgstr "Framkvæma venjulegt viðhald á Pivot skrám"
+
+#, php-format
+msgid "The user '<tt>%s</tt>' does not exist."
+msgstr ""
+
+#, fuzzy
+msgid "The user was deleted"
+msgstr "Athugasemd hefur verið eytt."
+
+#, fuzzy
+msgid "E-mail already in use"
+msgstr "Notandanafn frátekið"
+
+#, fuzzy
+msgid "Nickname already in use"
+msgstr "Notandanafn frátekið"
+
+#, fuzzy, php-format
+msgid "The settings for user %s have been updated."
+msgstr "Bloggið hefur verið uppfært."
+
+msgid ""
+"You are not allowed to create users with userlevel administrator or higher"
+msgstr ""
+
+msgid "Username already in use"
+msgstr "Notandanafn frátekið"
+
+#, fuzzy, php-format
+msgid "The user %s has been created."
+msgstr "Nýtt blogg hefur verið búið til."
+
+msgid "No account found for visitor."
+msgstr ""
+
+#, fuzzy
+msgid "Visitor account updated."
+msgstr "Athugasemd hefur verið eytt."
+
+msgid "A category by this name already exists"
+msgstr "Kafli með þessu heiti er til"
+
+#, fuzzy, php-format
+msgid "The settings for category '%s' have been updated."
+msgstr "Bloggið hefur verið uppfært."
+
+msgid "Edit Weblog"
+msgstr "Laga blogg"
+
+#, fuzzy
+#~ msgid "this "
+#~ msgstr "þrettán"
+
+#, fuzzy
+#~ msgid "Insert PivotX Popup', image:'ed"
+#~ msgstr "Setja inn mynd"
+
+#~ msgid "# Comm"
+#~ msgstr "# Comm"
+
+#, fuzzy
+#~ msgid "[Comment]"
+#~ msgstr "Athugasemd"
+
+#, fuzzy
+#~ msgid "search"
+#~ msgstr "Leita!"
+
+#, fuzzy
+#~ msgid "go back"
+#~ msgstr "Rollback"
+
+#, fuzzy
+#~ msgid "user"
+#~ msgstr "Notendur"
+
+#, fuzzy
+#~ msgid "date"
+#~ msgstr "Dagsetning"
+
+#, fuzzy
+#~ msgid "chapter"
+#~ msgstr "Kafli"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the link that visitors can use to reply "
+#~ "on a specific comment."
+#~ msgstr "Form dagsetningar. Oftast notað efst á síðu"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines the formatting of the text that is displayed when the "
+#~ "comment is a reply on another comment."
+#~ msgstr "Form dagsetningar. Oftast notað efst á síðu"
+
+#, fuzzy
+#~ msgid "Trackback Settings"
+#~ msgstr "Trackback ping"
+
+#, fuzzy
+#~ msgid "Format of Trackbacks"
+#~ msgstr "Hnappur fyrir'X athugasemdir'"
+
+#, fuzzy
+#~ msgid "Format of Trackback Link"
+#~ msgstr "Trackback ping"
+
+#~ msgid "File Mappings"
+#~ msgstr "Skráar möppur"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show and overview of which files in your site are created and by the "
+#~ "weblogs in this PivotX"
+#~ msgstr ""
+#~ "Sýna hverjar af skránum á síðunni hafa verið búnar til í bloggi í þessari "
+#~ "útgáfu af Pivot"
+
+#, fuzzy
+#~ msgid "SimplePie cache file"
+#~ msgstr "Hlaða upp nýja skrá:"
+
+#~ msgid ""
+#~ "Below you can see an overview of each weblog in this Pivot installation, "
+#~ "together with which files are created by Pivot and what templates it uses "
+#~ "to create these files. This can also be very useful when pinpointing "
+#~ "trouble with the creation of files."
+#~ msgstr ""
+#~ "Hér fyrir neðan getur þú séð yfirlit yfir hverja netskráningu í þessari "
+#~ "uppsetningu á Pivot, ásamt skrám sem stofnaðar eru af Pivot og hvaða "
+#~ "hönnun er notuð við gerð þeirra. Þetta getur verið gagnlegt ef að "
+#~ "erfiðleikar eru við stofnun skráa."
+
+#~ msgid "Change"
+#~ msgstr "Breyta"
+
+#~ msgid "Confirm Delete"
+#~ msgstr "Staðfesta eyðingu"
+
+#~ msgid "The IP-addresses have been stored."
+#~ msgstr "The IP-addresses hefur verið vistað."
+
+#~ msgid "Store these IP-addresses"
+#~ msgstr "Geyma þessi IP-addresses"
+
+#, fuzzy
+#~ msgid "The Blocked Phrases have been stored."
+#~ msgstr "The IP-addresses hefur verið vistað."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been stored."
+#~ msgstr "The IP-addresses hefur verið vistað."
+
+#, fuzzy
+#~ msgid "The Global Phrases have been deleted."
+#~ msgstr "Blogginu hefur verið eytt."
+
+#, fuzzy
+#~ msgid "Store these Blocked Phrases"
+#~ msgstr "Geyma þessi IP-addresses"
+
+#~ msgid "Name needs to be 3 letters or longer"
+#~ msgstr "Nafn verður að vera þrír stafir eða lengra"
+
+#, fuzzy
+#~ msgid "Block this IP"
+#~ msgstr "Block IP %s"
+
+#, fuzzy
+#~ msgid "[Trackback] Re:"
+#~ msgstr "Hnappur fyrir'X athugasemdir'"
+
+#, fuzzy
+#~ msgid ""
+#~ "Your trackback has not been stored, because it seems to be a duplicate of "
+#~ "a previous entry"
+#~ msgstr ""
+#~ "Athugasemd þín hefur ekki verið vistuð af því að hún virðist vera alveg "
+#~ "eins og síðasta athugasemd"
+
+#, fuzzy
+#~ msgid "Main"
+#~ msgstr "Mínúta"
+
+#~ msgid "Insert an Image Popup"
+#~ msgstr "Setja inn mynda Popup"
+
+#, fuzzy
+#~ msgid "No Comments"
+#~ msgstr "Engar athugasemdir"
+
+#, fuzzy
+#~ msgid "1 Comment"
+#~ msgstr "Athugasemd"
+
+#, fuzzy
+#~ msgid "% Comments"
+#~ msgstr "Athugasemdir"
+
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "Skoða athugasemd"
+
+#, fuzzy
+#~ msgid "Pingback"
+#~ msgstr "Rollback"
+
+#, fuzzy
+#~ msgid "Edit This"
+#~ msgstr "Broskallar"
+
+#, fuzzy
+#~ msgid "No comments yet."
+#~ msgstr "Engar athugasemdir"
+
+#, fuzzy
+#~ msgid "The latest comments to all posts in RSS"
+#~ msgstr "Nýjar færslur"
+
+#, fuzzy
+#~ msgid "Powered by WordPress"
+#~ msgstr "Styrktaraðili"
+
+#, fuzzy
+#~ msgid "Comments (0)"
+#~ msgstr "Athugasemdir"
+
+#, fuzzy
+#~ msgid "Comments (1)"
+#~ msgstr "Athugasemdir"
+
+#, fuzzy
+#~ msgid "Comments (%)"
+#~ msgstr "Athugasemdir"
+
+#, fuzzy
+#~ msgid "&laquo; Previous Page"
+#~ msgstr "Fyrri eldri færslur"
+
+#~ msgid "Ping update trackers"
+#~ msgstr "Uppfæra hljóðmerkja trakkara"
+
+#, fuzzy
+#~ msgid ""
+#~ "This determines whether update trackers like weblogs.com will be "
+#~ "automatically notified by PivotX if you post a new entry. Services like "
+#~ "blogrolling.com depend on these pings"
+#~ msgstr ""
+#~ "Ákveður hvort upfærðir trakkarar eins og weblogs.com verða látnir vita "
+#~ "sjálfkrafa af Pivot þegar þú póstar nýja færslu. Þjónustur eins og "
+#~ "blogrolling.com reiða sig á þessi hljóðmerki"
+
+#~ msgid "URLs to ping"
+#~ msgstr "Slóðir til senda hljóðmerki"
+
+#~ msgid ""
+#~ "You can provide several urls to send pings to. Do not include the http:// "
+#~ "part, otherwise it won't work. Just place each server on a new line, or "
+#~ "seperated by a pipe character. Some common servers to ping are:<br /"
+#~ "><b>rpc.pingomatic.com</b> (the one most widely used)<br /><b>rpc.weblogs."
+#~ "com/RPC2</b>(also widely used)<br />"
+#~ msgstr ""
+#~ "Þú getur sent hljóðmerki á mörg URL. Slepptu http:// annars virkar það "
+#~ "ekki. Settu hvern þjón fyrir sig á nýja línu eða aðgreindu þær með með "
+#~ "bandstriki . Nokkrir algengir þjónar eru :<br /><b>rpc.weblogs.com/RPC2</"
+#~ "b> (weblogs.com pinger, Sá allra algengasti)<br /><b>pivotlog.net/pinger</"
+#~ "b> (pivotlog pinger, ekki enn starfhæfur)<br /><b>rcs.datashed.net/RPC2</"
+#~ "b> (euro.weblogs.com pinger)<br /><b>ping.blo.gs</b> (blo.gs pinger)<br />"
+
+#~ msgid "Ping Setup"
+#~ msgstr "Uppsetning hljóðmerkja (ping)"
+
+#~ msgid "upload"
+#~ msgstr "innhlaða"
+
+#~ msgid "Your file was not uploaded, and the following errors occured:"
+#~ msgstr "Skráin var ekki innsett og eftirfarandi villur áttu sér stað:"
+
+#~ msgid "or select"
+#~ msgstr "eða velja"
+
+#, fuzzy
+#~ msgid "Select File"
+#~ msgstr "Velja"
+
+#, fuzzy
+#~ msgid "Image Dimensions"
+#~ msgstr "Heiti myndar"
+
+#~ msgid "Use Wysiwyg editor"
+#~ msgstr "Nota Wysiwyg ritvinnsluforrit"
+
+#, fuzzy
+#~ msgid ""
+#~ "Determines whether the Wysiwyg editor is on by default. Individual users "
+#~ "can change this in their \"My Info\" settings."
+#~ msgstr ""
+#~ "Ákveður hvort alltaf er kveikt á Wysuwyg editor eða ekki. Notendur geta "
+#~ "breytt því í 'Mínar upplýsingar"
+
+#~ msgid "Settings for Last Comments"
+#~ msgstr "Stillingar fyrir nýjustu athugasemdir"
+
+#~ msgid "Show how many"
+#~ msgstr "Sýna fjölda"
+
+#~ msgid "Cut at length"
+#~ msgstr "Mesta lengd"
+
+#~ msgid "Format"
+#~ msgstr "Form"
+
+#, fuzzy
+#~ msgid ""
+#~ "These settings determine the appearance of the \"last comments\" on the "
+#~ "weblog's frontpage."
+#~ msgstr "Stillingar fyrir útlit 'last comments' á forsíðu."
+
+#~ msgid "Next Archive"
+#~ msgstr "Næstu eldri færslur"
+
+#~ msgid "Previous Archive"
+#~ msgstr "Fyrri eldri færslur"
+
+#~ msgid "Archive type"
+#~ msgstr "Tegund eldri færslna"
+
+#~ msgid "No Archives"
+#~ msgstr "Engar eldri færslur"
+
+#~ msgid "Weekly Archives"
+#~ msgstr "Vikulegar eldri færslur"
+
+#~ msgid "Monthly Archives"
+#~ msgstr "Mánaðarlegar eldri færslur"
+
+#~ msgid "Archive Link"
+#~ msgstr "Hlekkur á eldri færslur"
+
+#~ msgid "Archive List format"
+#~ msgstr "Form á eldri færslum"
+
+#~ msgid "Archive Order"
+#~ msgstr "Röð eldri færslna"
+
+#~ msgid "Ascending (oldest first)"
+#~ msgstr "Uppröðun (elsta fyrst)"
+
+#~ msgid "Descending (newest first)"
+#~ msgstr "Uppröðun (nýjasta fyrst)"
+
+#~ msgid "Keep logfiles of various activities"
+#~ msgstr "Geyma skráða atburði um ýmsar aðgerðir"
+
+#, fuzzy
+#~ msgid "Label for \"no comments\""
+#~ msgstr "Hnappur fyrir'engar athugasemdir'"
+
+#, fuzzy
+#~ msgid "Label for \"one comment\""
+#~ msgstr "Hnappur fyrir'ein athugasemd'"
+
+#, fuzzy
+#~ msgid "Label for \"X comments\""
+#~ msgstr "Hnappur fyrir'X athugasemdir'"
+
+#~ msgid ""
+#~ "The text that is used to indicate how many comments there are. If you "
+#~ "leave this blank, Pivot will use the default as defined by the language "
+#~ "settings"
+#~ msgstr ""
+#~ "Texti sem segir til um fjölda athugasemda. Ef þetta er skilið eftir autt "
+#~ "þá ákveður Pivot þetta eftir tungumála stillingu"
+
+#, fuzzy
+#~ msgid "Label for \"no trackbacks\""
+#~ msgstr "Hnappur fyrir'engar athugasemdir'"
+
+#, fuzzy
+#~ msgid "Label for \"one trackback\""
+#~ msgstr "Hnappur fyrir'ein athugasemd'"
+
+#, fuzzy
+#~ msgid "Label for \"X trackbacks\""
+#~ msgstr "Hnappur fyrir'X athugasemdir'"
+
+#, fuzzy
+#~ msgid "One comment."
+#~ msgstr "%num% athugasemd"
+
+#, fuzzy
+#~ msgid "%num% comments."
+#~ msgstr "%num% athugasemdir"
+
+#, fuzzy
+#~ msgid "No trackbacks."
+#~ msgstr "Hnappur fyrir'X athugasemdir'"
+
+#~ msgid "You don't have the permission to access this area of Pivot"
+#~ msgstr "Þú hefur ekki aðgang að þessu svæði Pivot"
+
+#~ msgid "Further Options"
+#~ msgstr "Fleiri möguleikar"
+
+#~ msgid "Basic View"
+#~ msgstr "Grunn útlit"
+
+#~ msgid "View only the most common fields"
+#~ msgstr "Sýna aðeins algengustu svæði"
+
+#~ msgid "Extended View"
+#~ msgstr "Heildar útlit"
+
+#~ msgid "View all the editable fields"
+#~ msgstr "Sýna öll breytanleg svæði"
+
+#~ msgid "Done!"
+#~ msgstr "Búið!"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Flýtileiðir"
+
+#~ msgid "Week"
+#~ msgstr "Vika"
+
+#~ msgid "Remember"
+#~ msgstr "Muna"
+
+#~ msgid "Array"
+#~ msgstr "Array"
+
+#~ msgid ""
+#~ "If you are certain you're using the correct username and password, but "
+#~ "you are <br />having problems logging in, you might try deleting the "
+#~ "cookies for this domain:"
+#~ msgstr ""
+#~ "Ef þú ert viss að þú noti rétt notendanafn og lykilorð en <br />ert í "
+#~ "vandræðum við að skrá þig inn, þá gætir þú reynt að eyða smákökum cookies "
+#~ "frá þessu léni:"
+
+#~ msgid "Delete cookies"
+#~ msgstr "Eiða smákökum \"(cookies)\""
+
+#~ msgid ""
+#~ "You have failed to gain access in 10 attempts. As a result, this IP has "
+#~ "been banned from attempting to login for 12 hours."
+#~ msgstr ""
+#~ "Þér hefur mistekist að skrá þig inn í 10 tilraunum. Þess vegna hefur "
+#~ "aðgangi að síðunni verið lokað í 12 klukkustundir"
+
+#~ msgid "Overview"
+#~ msgstr "Yfirlit"
+
+#~ msgid "Modify Entries"
+#~ msgstr "Laga færslu"
+
+#~ msgid "Bookmarklets"
+#~ msgstr "Tenglar"
+
+#~ msgid "Statistics"
+#~ msgstr "Staða"
+
+#~ msgid "Global Overview of Pivot"
+#~ msgstr "Aðal yfirlit Pivot"
+
+#~ msgid "View my personal Info"
+#~ msgstr "Sýna persónuupplýsingar"
+
+#~ msgid "Create Bookmarklets"
+#~ msgstr "Búa til tengil"
+
+#~ msgid "File has been uploaded"
+#~ msgstr "Skrám hefur verið hlaðið inn"
+
+#~ msgid "View Logs and Statistics."
+#~ msgstr "Sýna innskráningar og stöðu"
+
+#~ msgid "Recent Comments"
+#~ msgstr "Nýjar athugasemdir"
+
+#~ msgid "Rebuild All Files"
+#~ msgstr "Endurbyggja öll skjöl"
+
+#~ msgid "Verify the Database"
+#~ msgstr "Prófa gagnagrunn"
+
+#~ msgid "Rebuild the Frontpage(s)"
+#~ msgstr "Endurbyggja forsíðu"
+
+#~ msgid "User Information Fields"
+#~ msgstr "Upplýsingar fyrir notendur"
+
+#~ msgid "Create, edit and delete User Information Fields"
+#~ msgstr "Stofna, laga og eyða upplýsingum fyrir notendur"
+
+#~ msgid "Rebuild the Files and Archives that Pivot generates"
+#~ msgstr "Endurbyggja skrár og eldri skrár sem Pivot býr til"
+
+#~ msgid "Verify the integrity of your Database"
+#~ msgstr "Prófa innihald fyrir eigin gagnagrunn"
+
+#~ msgid ""
+#~ "Rebuild the frontpage, last archives and RSS files for each of the "
+#~ "weblogs."
+#~ msgstr ""
+#~ "Endurbyggja forsíðu, síðustu eldri færslur og RSS skrár fyrir hvert blogg "
+#~ "fyrir sig."
+
+#~ msgid "Create a Backup of your Entries"
+#~ msgstr "Búa til öryggisafrit fyrir eigin skrár"
+
+#~ msgid "Send Pings to Update Trackers."
+#~ msgstr "Senda hljóðmerki til að uppfæra Trackers."
+
+#~ msgid "Create a Pivot template from scratch"
+#~ msgstr "Búa til Pivot sniðmát úr risspappír"
+
+#~ msgid "Comment*"
+#~ msgstr "Athugasemdir*"
+
+#~ msgid ""
+#~ "(*Note: Comments can only be saved at <b>first</b> save of changes or "
+#~ "creation)"
+#~ msgstr ""
+#~ "(*Ath!: Einungis er hægt að vista athugasemdir á <b>first</b> stigi "
+#~ "breytinga eða stofnunar)"
+
+#~ msgid "Editing"
+#~ msgstr "Laga"
+
+#~ msgid "Save changes!"
+#~ msgstr "Vista breytingar!"
+
+#~ msgid "Generate Archive"
+#~ msgstr "Búa til eldri skrár"
+
+#~ msgid "Regenerate all of your archives"
+#~ msgstr "Endurgera eldri skrár"
+
+#~ msgid "Verify XML Files"
+#~ msgstr "Prófa XML skrár"
+
+#~ msgid "Verify (and repair if needed) the intergrity of the XML files"
+#~ msgstr "Prófa (og laga ef þarf) innihald XML skráa"
+
+#~ msgid "Create a backup of all pivot's essential files"
+#~ msgstr "Vista allar Pivot skrár"
+
+#~ msgid "20 referrers"
+#~ msgstr "20 tilvísanir"
+
+#~ msgid "50 referrers"
+#~ msgstr "50 tilvísanir"
+
+#~ msgid "all referrers"
+#~ msgstr "allar tilvísanir"
+
+#~ msgid "Update the referer to title mappings"
+#~ msgstr "Uppfæra tilvísanir á titil möppu"
+
+#~ msgid "Host-address (ip-address)"
+#~ msgstr "Host-address (ip-address)"
+
+#~ msgid "Which page"
+#~ msgstr "Hvaða blaðsíða"
+
+#~ msgid "Getting new titles"
+#~ msgstr "Sækja nýja titla"
+
+#~ msgid "This could take a while, please don't interrupt."
+#~ msgstr "Getur tekið smástund, ekki trufla."
+
+#~ msgid "First pass"
+#~ msgstr "Fyrsta koma"
+
+#~ msgid "Your referer-title mappings are now up to date."
+#~ msgstr "Tilvísanir í titil möppu hafa verið uppfærðar."
+
+#~ msgid "Finished"
+#~ msgstr "Búin"
+
+#~ msgid "Edit User Fields"
+#~ msgstr "Laga notenda svæði"
+
+#~ msgid "Edit the fields that users can use to describe themselves"
+#~ msgstr "Laga svæði sem notendur nota til að lýsa sjálfum sér"
+
+#~ msgid "Edit User Info"
+#~ msgstr "Laga upplýsingar um notanda"
+
+#~ msgid ""
+#~ "Create a new login account for Pivot, allowing them to post to a weblog."
+#~ msgstr "Stofna nýjan aðgang að Pivot sem leyfir vefskráningu."
+
+#~ msgid "Create"
+#~ msgstr "Stofna"
+
+#~ msgid "Confirm creating an administator"
+#~ msgstr "Staðfesta stofnun stjórnanda"
+
+#~ msgid ""
+#~ "An Administrator has full access to pivot, can edit all news items, all "
+#~ "comments and change anysetting. Are you sure you'd like to make %s an "
+#~ "Administrator?"
+#~ msgstr ""
+#~ "An Administrator hefur fullan aðgang að Pivot, getur breytt öllum nýjum "
+#~ "atriðum, athugasemdum og stillingum. Ertu viss um að þú viljir %s an "
+#~ "Administrator?"
+
+#~ msgid "Use encoding"
+#~ msgstr "Nota dulkóðun"
+
+#~ msgid ""
+#~ "This defines the encoding that is used (like utf-8 or iso-8859-1). You "
+#~ "should leave this blank, unless you know what you're doing. If you leave "
+#~ "this blank it will use the appropriate settings from the language files."
+#~ msgstr ""
+#~ "Þetta fínstillir þá dulkóðun sem notuð er (t.d. utf-8 eða iso-8859-1). Þú "
+#~ "ættir að láta þetta svæði vera autt nema að þú viljir sýna hvað þú ert að "
+#~ "gera. Ef að þú lætur það vera autt þá notar það réttar stillingar úr "
+#~ "tungumálaskránni."
+
+#~ msgid "File Info"
+#~ msgstr "Heiti skráar"
+
+#~ msgid "Local Path"
+#~ msgstr "Local Path"
+
+#~ msgid "File Upload settings"
+#~ msgstr "Stillingar á skrá upphleðslu"
+
+#~ msgid "Clean Filename"
+#~ msgstr "Hreinsa skráarnafn"
+
+#~ msgid "Default Text Processing"
+#~ msgstr "Forgangs tenging texta"
+
+#~ msgid "Text Processing"
+#~ msgstr "Tenging texta"
+
+#~ msgid "None"
+#~ msgstr "Ekkert"
+
+#~ msgid "Open links in new window"
+#~ msgstr "Opna hlekki í nýjum glugga"
+
+#~ msgid "Encode Email Address?"
+#~ msgstr "Dulkóða netfang?"
+
+#~ msgid ""
+#~ "Determines if all links used in entries will open links in a new browser "
+#~ "window."
+#~ msgstr "Ákveður hvort allir hlekkir séu opnaðir í nýjum glugga."
+
+#~ msgid "Autoupdate Search Index"
+#~ msgstr "Leitarefnisyfirlit uppært sjálfkrafa"
+
+#~ msgid ""
+#~ "This will determine if the Search Index files will be updated every time "
+#~ "you submit a new entry, or you change an existing one."
+#~ msgstr ""
+#~ "Þetta ákveður hvort leitarefnisyfirlitaskrár uppfærast alltaf þegar þú "
+#~ "framkvæmir nýja færslu eða breytir einhverri sem fyrir er."
+
+#~ msgid "Default Introduction/Body"
+#~ msgstr "Forgangs kynningar"
+
+#~ msgid ""
+#~ "This will determine the default values for Introduction and Body when an "
+#~ "author writes a new entry. Normally this will be an empty paragraph, "
+#~ "which makes the most sense semantically."
+#~ msgstr ""
+#~ "Þetta ákveður forgangs gildi fyrir kynningu þegar höfundur skrifar nýja "
+#~ "færslu. Eðlilegast væri að hafa þetta auðan kafla."
+
+#~ msgid "Remote cropping script"
+#~ msgstr "Remote cropping script"
+
+#~ msgid ""
+#~ "If your server does not have the necessary libraries installed to perform "
+#~ "image cropping, you can use a remote cropping script."
+#~ msgstr ""
+#~ "Ef að þjónninn þinn hefur ekki nauðsynleg orðasöfn til að framkvæma "
+#~ "images cropping, þá getur þú notað fjarstýrt cropping script."
+
+#~ msgid "Edit Weblogs"
+#~ msgstr "Laga fleiri en eitt blogg"
+
+#~ msgid "Add a new Weblog"
+#~ msgstr "Bæta við nýju bloggi"
+
+#~ msgid "Delete Weblog"
+#~ msgstr "Eyða bloggi"
+
+#~ msgid ""
+#~ "For each of the subweblogs that were found in the templates, you can "
+#~ "configure what template they use, as well as what categories are "
+#~ "published in them"
+#~ msgstr ""
+#~ "Fyrir hvert undirblogg sem finnast í templates getur þú fundið út hvernig "
+#~ "þau eru hönnuð og hvaða kaflar eru notaðir í þeim"
+
+#~ msgid "Finish"
+#~ msgstr "Hætta"
+
+#~ msgid "Create / Edit Weblog, step 1 of 3"
+#~ msgstr "Búa til/Laga veffærslu, skref 1 af 3"
+
+#~ msgid "Create / Edit Weblog, step 2 of 3"
+#~ msgstr "Búa til/Laga veffærslu, skref 2 af 3"
+
+#~ msgid "Create / Edit Weblog, step 3 of 3"
+#~ msgstr "Búa til/Laga veffærslu, skref 3 af 3"
+
+#~ msgid "Front page (Index)"
+#~ msgstr "Forsíða (Efnisyfirlit)"
+
+#~ msgid ""
+#~ "The filename of the index-file. Normally this is something like 'index."
+#~ "html' or 'index.php'."
+#~ msgstr ""
+#~ "Nafn efnisyfirlits. Venjulega eitthvað þessu líkt 'index.html' or 'index."
+#~ "php'."
+
+#~ msgid ""
+#~ "If your weblog uses SSI (which is not recommended), you can use this to "
+#~ "prefix Pivot's filenames with the filename used for the SSI. eg. 'index."
+#~ "shtml?p='. You should just leave this blank, unless you know what you're "
+#~ "doing."
+#~ msgstr ""
+#~ "Ef að bloggið þitt notar SSI (sem er ekki mælt með), þá getur þú aðlagað "
+#~ "skrárnöfn Pivot skráarnöfnum SSI. t.d. 'index.shtml?p='. Þú skalt hafa "
+#~ "þetta autt, nema að þú vitir hvað þú ert að gera."
+
+#~ msgid "Frontpage Path"
+#~ msgstr "Slóð á forsíðu"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the frontpage to this blog."
+#~ msgstr "Öll slóðin þar sem Pivot mun búa til forsíðuna á blogginu."
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the single entry pages (if you choose not to use 'live entries')"
+#~ msgstr ""
+#~ "Öll slóðin þar sem Pvot býr til síður einstakra færslna (Ef þú notar'live "
+#~ "entries')"
+
+#~ msgid "Live entries"
+#~ msgstr "Live færslur"
+
+#~ msgid ""
+#~ "If you use 'Live entries', Pivot will not need to generate files for "
+#~ "every single entry. This is the preferred setting."
+#~ msgstr ""
+#~ "Ef þú notar 'Live entries', býr Pivot ekki til skrár fyrir hverja færslu "
+#~ "fyrir sig. Þetta er venjuleg stilling."
+
+#~ msgid "Index File"
+#~ msgstr "Efnisyfirlit eldri færslna"
+
+#~ msgid "Archive Path"
+#~ msgstr "Slóð eldri færslna"
+
+#~ msgid "Archive Amount"
+#~ msgstr "Stærð eldri færslna"
+
+#~ msgid "Archive Format"
+#~ msgstr "Form eldri færslna "
+
+#~ msgid "Shortentry Template"
+#~ msgstr "Hönnun á stuttum færslum"
+
+#~ msgid ""
+#~ "The Template which determines the layout of single entries, as they are "
+#~ "shown within the weblog or archives."
+#~ msgstr ""
+#~ "Hönnun útlits á einstökum færslum þegar þær eru sýndar á blogginu og "
+#~ "eldri færslum."
+
+#~ msgid "Allow Comments?"
+#~ msgstr "Leyfa athugasemdir?"
+
+#~ msgid ""
+#~ "Determines whether users will be able to leave comments on the entries in "
+#~ "this subweblog."
+#~ msgstr "Ákveður hvort notendum er leyft að gera athugasemdir."
+
+#~ msgid "RSS Filename"
+#~ msgstr "RSS skráarnafn"
+
+#~ msgid "Atom Filename"
+#~ msgstr "Atom skráarnafn"
+
+#~ msgid "Feed Path"
+#~ msgstr "Aðfanga slóð"
+
+#~ msgid ""
+#~ "The relative or absolute path to the directory where Pivot will create "
+#~ "the Feed files."
+#~ msgstr "Slóðin á safnið þar sem Pivot nær í aðföngin."
+
+#~ msgid "Settings for Last Referers"
+#~ msgstr "Stillingar fyrir nýjustu tilvísanir"
+
+#~ msgid ""
+#~ "These settings determine the appearance of the 'last referers' on the "
+#~ "weblog's frontpage."
+#~ msgstr "Þessi stilling ákveður útlit 'last referers' á forsíður bloggsins."
+
+#~ msgid "Use graphics"
+#~ msgstr "Nota grafík (graphics)"
+
+#~ msgid ""
+#~ "This determines if the last referers use small icons for the most common "
+#~ "search engines through which visitors may arrive."
+#~ msgstr ""
+#~ "Hér ákveðst hvort síðustu tilvísendur nota lítlil íkon fyrir algengustu "
+#~ "leitarvélar sem gestir gætu komið frá."
+
+#~ msgid "Redirect Referers"
+#~ msgstr "Endurstýring tilvísana"
+
+#~ msgid ""
+#~ "To combat refererspam you might choose to redirect outgoing links to "
+#~ "referers, as this will not help the spammer get a better pagerank in "
+#~ "Google."
+#~ msgstr ""
+#~ "Til að berjast á móti rusltilvísunum þá gætir þú valið að endurstýra "
+#~ "hlekkjum í athugasemdum þar sem að það hjálpar ekki ruslakarlinum "
+#~ "(Spammer) að ná sér í betra síðupláss í Google."
+
+#~ msgid "Use Emoticons"
+#~ msgstr "Notkun broskalla"
+
+#~ msgid ""
+#~ "Determines whether emoticons like :-) will be transformed to their "
+#~ "graphical equivalents."
+#~ msgstr ""
+#~ "Ákveður hvenær broskallar eins og  :-) breytast í grafíska mynd sína."
+
+#~ msgid "Encode Email Addresses"
+#~ msgstr "Dulkóðun netfangs"
+
+#~ msgid ""
+#~ "Determines whether email-addresses will be encoded in javascript, as "
+#~ "protection from spam harvesters."
+#~ msgstr ""
+#~ "Ákveður hvort netfang er dulkóðað í javascript til verndunar fyrir "
+#~ "ruslpósti."
+
+#~ msgid "Target Blank"
+#~ msgstr "Target Blank"
+
+#~ msgid "XHTML Workaround"
+#~ msgstr "XHTML Workaround"
+
+#~ msgid ""
+#~ "If set to 'Yes', all links entered in your entries will be opened in a "
+#~ "new browser window. If set to 'XHTML workaround', all links will have a "
+#~ "rel=\"external\" attribute, which will not break wellformed XHTML"
+#~ msgstr ""
+#~ "Ef  'yes', opnast allir hlekkir í nýjum glugga. Ef  'XHTML workaround', "
+#~ "hafa allir hlekkir rel=\"external\" útlit sem að skemmir ekki velhannað "
+#~ "XHTML"
+
+#~ msgid "Date display settings"
+#~ msgstr "Dagsetning"
+
+#~ msgid "Blogroll settings"
+#~ msgstr "Blogroll stillingar"
+
+#~ msgid "Blogrolling ID #"
+#~ msgstr "Blogrolling ID #"
+
+#~ msgid ""
+#~ "You can optionally include a <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll in your weblog. "
+#~ "Blogrolling is an excellent service to maintain a list of links, which "
+#~ "shows how recently they were updated. If you do not want this, just skip "
+#~ "these input fields. Otherwise: When you're logged in to blogrolling.com, "
+#~ "go to 'get code', there you will find links containing your blogroll's ID "
+#~ "#. It should look somthing like this: 2ef8b42161020d87223d42ae18191f6d"
+#~ msgstr ""
+#~ "Þú getur haft valmöguleikann <a href=\"http://www.blogrolling.com\" "
+#~ "target=\"_blank\">blogrolling.com</a> blogroll innifalinn í blogginu "
+#~ "þínu. Blogrolling er frábær þjónusta sem tekur saman lisat yfir hlekki "
+#~ "sem sýnir hverslu nýlega þeir hafa verið uppfærðir. Ef að þú vilt ekki "
+#~ "nota það þá sleppirðu þessu svæði. Annars: Þegar þú loggar þig inná "
+#~ "blogrolling.com, farðu þá í  'get code'. Þar finnur þú hlekki sem "
+#~ "innihalda þitt blogroll's ID #. Það ætti að líta einhvernveginn svona út: "
+#~ "2ef8b42161020d87223d42ae18191f6d"
+
+#~ msgid "Background Color"
+#~ msgstr "Litur bakgrunns"
+
+#~ msgid "Line Color 1"
+#~ msgstr "Línu litur 1"
+
+#~ msgid "Line Color 2"
+#~ msgstr "Línu litur 2"
+
+#~ msgid "Color 1"
+#~ msgstr "Litur 1"
+
+#~ msgid "Color 2"
+#~ msgstr "Litur 2"
+
+#~ msgid "Color 3"
+#~ msgstr "Litur 3"
+
+#~ msgid "Color 4"
+#~ msgstr "Litur 4"
+
+#~ msgid ""
+#~ "These colors determine what your blogroll will look like. Color 1 to "
+#~ "color 4 give a visual indication as to how recently updated a link is."
+#~ msgstr ""
+#~ "Þessir litir ákveða hvernig blogrollið þitt lítur út. Litur 1 til litur 4 "
+#~ "gefa sjónrænt til kynna hversu nýlega hlekkur hefur verið uppfærður."
+
+#~ msgid "Complete List Preview"
+#~ msgstr "Heildar uppkasts listi"
+
+#~ msgid "Thumbnail Preview"
+#~ msgstr "Thumbnail uppkast"
+
+#~ msgid "Width x Height"
+#~ msgstr "Breidd x Hæð"
+
+#~ msgid "Delete Image"
+#~ msgstr "Eyða mynd"
+
+#~ msgid "Are you sure you want to delete the file %s?"
+#~ msgstr "Ertu viss um að þú viljir eyða skrá %s?"
+
+#~ msgid "Delete this picture?"
+#~ msgstr "Eyða þessari mynd?"
+
+#~ msgid "create"
+#~ msgstr "Búa til"
+
+#~ msgid ""
+#~ "Insert a link, by typing an url in the field below. Visitors to your site "
+#~ "will see the title when they hover their mouse over the link."
+#~ msgstr ""
+#~ "Settu inn hlekk með því að skrifa slóðina á svæðið fyrir neðan. Gestir "
+#~ "síðunnar sjá heiti síðunnar þegar þeir færa músina á hlekkinn."
+
+#~ msgid "Text"
+#~ msgstr "Texti"
+
+#~ msgid "Edit who can post to the category '%s'"
+#~ msgstr "Laga hverjir geta póstað í kaflann '%s'"
+
+#~ msgid "Allowed"
+#~ msgstr "Samþykkt/ur"
+
+#~ msgid "Allow"
+#~ msgstr "Leyfa"
+
+#~ msgid "Denied"
+#~ msgstr "Hafnað"
+
+#~ msgid "Deny"
+#~ msgstr "Neita"
+
+#~ msgid ""
+#~ "In this build of Pivot, only the category name will be deleted. In later "
+#~ "builds, you will be able to choose what to do with entries using this "
+#~ "category."
+#~ msgstr ""
+#~ "Í þessari útgáfu af Pivot eyðir þú einungis nafni kaflans. Í seinni "
+#~ "útgáfum getur þú valið hvað þú gerir við færslur tilheyrandi þessum kafla."
+
+#~ msgid "(Ctrl-click to select multiple categories)"
+#~ msgstr "(Ctrl-click til að velja mismunandi kafla)"
+
+#~ msgid "Delete Entry"
+#~ msgstr "Eyða færslu"
+
+#~ msgid "Delete this Entry and the corresponding Comments "
+#~ msgstr "Eyða færslu og viðkomandi athugasemdum"
+
+#~ msgid "Are you sure you want to delete these entries?"
+#~ msgstr "Ertu viss um að þú viljir eyða þessum færslum?"
+
+#~ msgid "Convert Linebreaks"
+#~ msgstr "Breyta línubili"
+
+#~ msgid "(This is always off, when in Wysiwyg mode)"
+#~ msgstr "(Það er alltaf slökkt á þessu þegar þú notar Wysiwyg)"
+
+#~ msgid "(Be careful with this!)"
+#~ msgstr "(Varlega!)"
+
+#~ msgid "Edit Comments"
+#~ msgstr "Laga athugasemdir"
+
+#~ msgid "Edit the comments that have been posted to this entry"
+#~ msgstr "Laga athugasemdir sem tilheyra þessari færslu"
+
+#~ msgid "Edit Comment"
+#~ msgstr "Laga athugasemd"
+
+#~ msgid "Unblock IP %s"
+#~ msgstr "Unblock IP %s"
+
+#~ msgid "Unblock IP range %s"
+#~ msgstr "Unblock IP range %s"
+
+#~ msgid ""
+#~ "Send Trackback Pings to the following url(s). To send to multiple urls, "
+#~ "place each one on a seperate line."
+#~ msgstr ""
+#~ "Senda Trackback hljóðmerki á eftirtalin URL. Til að senda á mörg URL "
+#~ "settu eitt í hverja línu."
+
+#~ msgid ""
+#~ "Use this to set some keywords that can be used to find this entry, or to "
+#~ "set the non-crufty url for this entry."
+#~ msgstr ""
+#~ "Notaðu þetta til að setja inn nokkur lykilorð sem notast til að finna "
+#~ "þessa færslu eða til að setja non-crufty url á þessa færslu."
+
+#~ msgid "Use this to set a link to the source of this entry."
+#~ msgstr "Notaðu þetta til að setja hlekk á uppruna þessarar færslu."
+
+#~ msgid "Publish and generate"
+#~ msgstr "Birta og búa til"
+
+#~ msgid "With the checked files, do:"
+#~ msgstr "Hvað á að gera við valdar skrár:"
+
+#~ msgid "With the checked templates, do:"
+#~ msgstr "Hvað á að gera við valda hönnun:"
+
+#~ msgid "cannot open dir, check your rights."
+#~ msgstr "Get ekki opnað slóð, athugaðu réttindi þín."
+
+#~ msgid "cannot read dir, check your rights."
+#~ msgstr "Get ekki lesið slóð, athugaðu réttindi þín."
+
+#~ msgid "cannot write dir, check your rights."
+#~ msgstr "Get ekki skrifað slóð, athugaðu réttindi þín."
+
+#~ msgid "cannot open file, check your rights."
+#~ msgstr "Get ekki opnað skrá, athugaðu réttindi þín."
+
+#~ msgid "cannot read file, check your rights."
+#~ msgstr "Get ekki lesið skrá, athugaðu réttindi þín."
+
+#~ msgid "cannot write file, check your rights."
+#~ msgstr "Get ekki skrifað skrá, athugaðu réttindi þín."
+
+#~ msgid "Good"
+#~ msgstr "Gott"
+
+#~ msgid "Bad"
+#~ msgstr "Slæmt"
+
+#~ msgid "You already voted for this entry or poll"
+#~ msgstr "Þú hefur þegar kosið í þessari könnun"
+
+#~ msgid "Your vote for '%val%' has been registered"
+#~ msgstr "Atkvæði þitt í '%val%' hefur verið móttekið"
+
+#~ msgid "Last Referrers"
+#~ msgstr "Síðustu tilvísanir"
+
+#~ msgid "Calendar"
+#~ msgstr "Dagatal"
+
+#~ msgid "Open Emoticons Reference"
+#~ msgstr "Opna tilvísun í broskalla"
+
+#~ msgid "Open Textile Reference"
+#~ msgstr "Opna tilvísun í  Textile"
+
+#~ msgid "Edit Userfields"
+#~ msgstr "Laga notendareiti"
+
+#~ msgid ""
+#~ "The Internal Name is the name of this item as it will appear when you "
+#~ "tell pivot to display it in a template."
+#~ msgstr ""
+#~ "Innra nafn er nafn sem að birtist þegar þú segir Pivot að birta það í "
+#~ "hönnuninni."
+
+#~ msgid "Size"
+#~ msgstr "Stærð"
+
+#~ msgid "Rows"
+#~ msgstr "Raðir"
+
+#~ msgid "Columns"
+#~ msgstr "Dálkar"
+
+#~ msgid "Maximum Length"
+#~ msgstr "Mesta lengd"
+
+#~ msgid "Filter by"
+#~ msgstr "Filter með"
+
+#~ msgid ""
+#~ "By filtering this item, you limit the type of input that can be used in it"
+#~ msgstr ""
+#~ "Með því að filtera þetta þá takmarkar þú hvað hægt er að nota í þessu "
+#~ "tilfelli"
+
+#~ msgid ""
+#~ "Deleting this Userfield (<b>%s</b>) will also destroy all the data that "
+#~ "users have stored withen it, and make any instances of it in a template "
+#~ "appear empty."
+#~ msgstr ""
+#~ "Með því að eyða þessum notendasvæði (<b>%s</b>) þá eyðir þú líka öllu sem "
+#~ "notendur hafa geymt í því."
+
+#~ msgid "This name is already in use"
+#~ msgstr "Þetta heiti er nú þegar í notkun"
+
+#~ msgid "Internal Name must be longer than 3 characters"
+#~ msgstr "Innra nafn verður að vera meira en 3 stafir"
+
+#~ msgid "Display Name must be longer than 3 characters"
+#~ msgstr "Birtingar nafn verður að vera meira en 3 stafir"
+
+#~ msgid ""
+#~ "This Bookmarklet opens a window with a New Entry, which contains a link "
+#~ "to the page it was opened from."
+#~ msgstr ""
+#~ "Þetta bókamerki opnar glugga með nýrri færslu sem inniheldur hlekk á þá "
+#~ "síðu sem hún var opnuð frá.."
+
+#~ msgid "This Bookmarklet opens a window with a blank New Entry."
+#~ msgstr "Þetta bókamerki opnar glugga með auðri nýrri færslu."
+
+#~ msgid ""
+#~ "You can use Bookmarklets to quickly write New Entries with Pivot. To add "
+#~ "a Bookmarklet to your browser, use one of the following options: (exact "
+#~ "text varies, depending on which browser you are using)"
+#~ msgstr ""
+#~ "Þú getur notað bókamerki í Pivot til að skrifa snöggar færslur. Til að "
+#~ "bæta við bókamerki í vafrann þinn notaðu einn af eftirfarandi möguleikum: "
+#~ "(orðalag fer eftir því hvaða vafra þú notar)"
+
+#~ msgid ""
+#~ "Click and drag the bookmarklet to your 'Links'-toolbar or your browsers "
+#~ "'Bookmarks'-button."
+#~ msgstr ""
+#~ "Smelltu og dragðu bókamerkið í 'Links'-stikuna eða 'Bookmarks'-hnappinn."
+
+#~ msgid "Right-click on the bookmarklet and select 'Add to Bookmarks'."
+#~ msgstr "Hæri smelltu á bókamerkið og veldu 'Add to Bookmarks'."
