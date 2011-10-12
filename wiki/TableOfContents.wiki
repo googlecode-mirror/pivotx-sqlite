@@ -1,5 +1,5 @@
 * [Introduction Project introduction]
 * [Documentation Documentation]
-  * [pivotx_2.0-svn2185 security]
-  * [pivotx_2.2.5 DOM manipulation]
-  * [pivotx_2.3.0 CSS and style]
+  * [pivotx_2.0-svn2185 pivotx_2.0-svn2185]
+  * [pivotx_2.2.5 pivotx_2.2.5]
+  * [pivotx_2.3.0 pivotx_2.3.0]
