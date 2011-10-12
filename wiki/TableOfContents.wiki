@@ -1,6 +1,6 @@
-  * [Introduction Project introduction]
+[Introduction Project introduction]
 
-  * Documentation
-    * [pivotx_2.0-svn2185 pivotx_2.0-svn2185]
-    * [pivotx_2.2.5 pivotx_2.2.5]
-    * [pivotx_2.3.0 pivotx_2.3.0]
+Documentation
+  * [pivotx_2.0-svn2185 pivotx_2.0-svn2185]
+  * [pivotx_2.2.5 pivotx_2.2.5]
+  * [pivotx_2.3.0 pivotx_2.3.0]
