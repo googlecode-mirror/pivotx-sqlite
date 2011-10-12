@@ -1,0 +1,125 @@
+#summary Pivotx-sqlite on codebase version 2.0-svn2185
+
+= pivotx_2.0-svn2185-sqlite =
+
+== Definitions ==
+  * *pivotx:* Original Pivotx project
+  * *pivotx-sqlite:* This project
+  * *pivotx_vanilla_xxx:* Latest plain (original) version of pivotx ported to pivotx-sqlite
+  * *pivotx_vanilla_yyy:* Pivotx version under current phase of porting
+  * *pivotx_sqlite_xxx:* Latest version of pivotx-sqlite
+  * *pivotx_sqlite_yyy:* Work-in-progress version o pivotx-sqlite
+
+== Implementing sqlite support ==
+=== Files deprecated from pivotx_vanilla_xxx ===
+These files (and their content) has been replaced by other files and are not yet needed. So they're been deleted and do not exists on pivotx-sqlite.
+
+==== modules\module_sql.php ====
+Replaced by abstract class _abstractSql.php_ (for generic parts), and by _module_mysql.php_ and _module_sqlite.php_ (for parts related to a specific SQL technology). A little portion of code, related to the original connection method has been ported to _module_sqlFactory.php_.
+
+=== New files implemented into pivotx_sqlite_xxx ===
+==== modules\abstractSql.php ====
+Abstract class that implements generic functions removed by _module_sql.php_ and describes (but does not implements) some of methods extracted from _data.php_.
+
+==== modules\module_mysql.php ====
+Concrete MySQL implementation of _abstractSql.php_. Almost all functions where migrated from _module_sql.php_ and _data.php_.
+
+==== modules\module_sqlite.php ====
+Concrete Sqlite implementation of _abstractSql.php_. This class was written from scratch looking at the existing code of _module_mysql.php_ (Taken from _module_sql.php_ and _data.php_).
+
+==== modules\module_sqlFactory.php ====
+Factory sql. It's responsability is to give an instance of the right implementation of _abstractSql.php_. Written from scratch looking at the existing code of the method connection of _module_sql.php_
+
+=== Files changed ===
+Files changed between pivotx_vanilla_xxx and pivotx_sqlite_xxx.
+==== modules\entries_sql.php ====
+Changed from:
+<code language="php">
+require_once(dirname(__FILE__)."/module_sql.php");
+</code>
+to:
+<code language="php">
+require_once(dirname(__FILE__)."/module_sqlFactory.php");
+</code>
+
+Replaced all occurrences of:
+<code language="php">
+// Set up DB connection
+        $this->sql = new sql('mysql',
+            $PIVOTX['config']->get('db_databasename'),
+            $PIVOTX['config']->get('db_hostname'),
+            $PIVOTX['config']->get('db_username'),
+            $PIVOTX['config']->get('db_password')
+        );
+</code>
+with:
+<code language="php">
+// Set up DB factory
+        $this->sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+                                           $PIVOTX['config']->get('db_databasename'),
+                                           $PIVOTX['config']->get('db_hostname'),
+                                           $PIVOTX['config']->get('db_username'),
+                                           $PIVOTX['config']->get('db_password')
+        );
+// Set up DB connection
+        $this->sql = $this->sqlFactory->getSqlInstance();
+</code>
+
+Replaced hard coded sql query:
+<code language="php">
+$this->sql->query("SHOW TABLES LIKE '" . $PIVOTX['config']->get('db_prefix') . "%'");
+$tables = $this->sql->fetch_all_rows('no_names');
+</code>
+with:
+<code language="php">
+$tables = $this->sql->getTableList($PIVOTX['config']->get('db_prefix'));
+</code>
+
+Replaced:
+<code language="php">
+makeEntriesTable($this->sql);
+...
+makeCommentsTable($this->sql);
+...
+makeTrackbacksTable($this->sql);
+...
+makeTagsTable($this->sql);
+...
+makeCategoriesTable($this->sql);
+...
+makePagesTable($this->sql);
+...
+makeChaptersTable($this->sql);
+...
+makeExtrafieldsTable($this->sql);
+</code>
+with:
+<code language="php">
+$this->sql->makeEntriesTable();
+...
+$this->sql->makeCommentsTable();
+...
+$this->sql->makeTrackbacksTable();
+...
+$this->sql->makeTagsTable();
+...
+$this->sql->makeCategoriesTable();
+...
+$this->sql->makePagesTable();
+...
+$this->sql->makeChaptersTable();
+...
+$this->sql->makeExtrafieldsTable();
+</code>
+
+
+== Summary of changes ==
+*modules\module_sql.php* replaced by _modules\module_mysql.php_ + _modules\module_sqlite.php_ + _modules\module_sqlFactory.php_
+
+*modules\abstractSql.php* replaces some parts of _modules\module_sql.php_ and describes some others extracted from _data.php_.
+
+*modules\module_mysql.php* is the concrete MySQL implementation of _abstractSql.php_.
+
+*modules\module_sqlite.php* is the concrete Sqlite implementation of _abstractSql.php_.
+
+*modules\module_sqlFactory.php* new file. It's a factory sql.
