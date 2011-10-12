@@ -1,0 +1,28 @@
+#summary Project introduction.
+#labels Featured
+
+= Introduction =
+
+I love pivotx... it's pretty fast, simple and modular. It's template system is easy to understand and it has a smooth learning curve. 
+And over all this, it's GPLed and it's free both as in free speech/beer :P
+
+Pivotx also as a great support for MySQL and a good support for small 'flat-files' based blog, but unluckily it lack SQLite support. 
+
+In this fork I'm exploring a way to *add SQLite to Pivotx*, trying to keep the amount of changes as small as possible. I'm also trying to not destroy compatibility versus MySQL, even if some parts of original code are really eavily tied... so *don't expect this fork to work flawlessy with MySQL*.
+
+----
+
+=== Important disclaimers ===
+*Important disclaimer number 1:
+
+I like Pivotx project, and I don't want steal them any user. 
+If you're happy with your Pivotx setup, if you don't need SQLite support, please, PLEASE use the [http://www.pivotx.net/ original Pivotx codebase].
+Belive me... It rocks. 
+But, if you need SQLite support and you're brave enought, you could try downloading and installing Pivotx-sqlite.*
+
+*Important disclaimer number 2:
+
+Please don't ask to official Pivotx forums about problems related to this fork. Ask here first, opening an [http://code.google.com/p/pivotx-sqlite/issues/list issue] and if it's a original codebase bug I'll repost it to Pivotx forums.
+----
+
+<g:plusone size="medium"></g:plusone>
