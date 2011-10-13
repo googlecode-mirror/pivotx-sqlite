@@ -144,12 +144,6 @@ $this->sql->makeChaptersTable();
 $this->sql->makeExtrafieldsTable();
 }}}
 
-~~Deleted this where on a query on trackback table, because the column 'moderate' doesn't exists~~
-Since now the column moderate exists on trackback table the following code must be left unchanged from pivotx_vanilla_yyy
-{{{
-        $qry['where'][] = "tb.moderate = 0";
-}}}
-
 Changed word mysql to sql in some comments, from
 {{{
 * Saves the current entry - mysql implementation.
