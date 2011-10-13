@@ -484,7 +484,8 @@ function renderErrorpage($error, $additionalinfo) {
  * @param string $sql_query
  * @param integer $error_no
  */
-function setError($type='general', $error_msg, $sql_query="") {
+function setError($type='general', $error_msg, $sql_query="", $error_no="") {	
+
     global $PIVOTX;
 
     $error_text = '';
@@ -493,31 +494,36 @@ function setError($type='general', $error_msg, $sql_query="") {
 
         case "sql":
 
-            $error_no = mysql_errno();
-            $error_text = mysql_error();
-
-            // If the given error is the same as the error we get from mySQL,
-            // we don't need to print 'em both:
-            if ($error_msg == $error_text) {
-                $error_msg = "";
-            } else {
-                $error_msg = "<p><strong>$error_msg</strong></p>";
-            }
-
-            $error = sprintf(__("<p>There was a problem with the Database: </p>
-            %s
-            <p><tt>error code %s: %s</tt></p>
-            </p>
-            <ul><li>If you're in the process of setting up PivotX, you should review your
-            <a href='%s'>Database connection settings</a>.</li>
-            <li>If it worked before, you should check if the Mysql database engine is
-            still running on the server (or ask your systems administrator to check for you).</li>
-            </ol>"),
-                $error_msg,
+            $error = sprintf(__("<p>There was a problem with the Database.</p>
+					  <p><tt>error code %s: %s</tt></p>
+					  <p><tt>query: %s</tt></p>
+					  </p>
+					  <ul><li>If you're in the process of setting up PivotX, you should review your
+					  <a href='%s'>Database connection settings</a>.</li>
+					  <li>If it worked before, you should check if the Mysql database engine is
+					  still running on the server (or ask your systems administrator to check for you).</li>
+					  </ol>"),
                 $error_no,
-                $error_text,
+                $error_msg,
+                $sql_query,
                 "index.php?page=configuration#section-2"
             );
+
+            $error = sprintf(__("<p>There was a problem with the Database.</p>
+					  <p><tt>error code %s: %s</tt></p>
+					  <p><tt>query: %s</tt></p>
+					  </p>
+					  <ul><li>If you're in the process of setting up PivotX, you should review your
+					  <a href='%s'>Database connection settings</a>.</li>
+					  <li>If it worked before, you should check if the Mysql database engine is
+					  still running on the server (or ask your systems administrator to check for you).</li>
+					  </ol>"),
+                $error_no,
+                $error_msg,
+                $sql_query,
+                "index.php?page=configuration#section-2"
+            );
+
 
             $PIVOTX['template']->assign('error', $PIVOTX['template']->_tpl_vars['error'] . $error);
 
