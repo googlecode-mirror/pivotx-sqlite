@@ -19,14 +19,12 @@
 
 *modules\module_sqlite.php* New file. It's the concrete Sqlite implementation of _abstractSql.php_.
 
-*modules\module_sqlFactory.php* New file. It's a factory sql.
+*modules\module_sqlFactory.php* New file. It's a factory sql. Issue 2:
 *I really should rewrite sqlFactory in order to make a new sql instance on every getSqlInsance call. By the moment I must instance a new factory for every sql object I need... not really a great factory* :(
 
 *modules\entries_sql.php* Changed the _setup db connection code_, removed hard coded SQL query, refactored all _make<`*`>Table_ calls to _$this->sql->make<`*`>Table_, changed a snippet of function getArchiveArray `[`and probably introduced a bug`]`, removed many MySQL dependencies (and eventually introduced some MySQL bugs)
 
 *modules\module_comments.php* Slightly modified a SQL query
-
-~~*modules\module_messages.php* Changed the _setup db connection code_~~ Unchanged because in pivotx_vanilla_yyy checkDBVersion has been moved to _data.php_.
 
 *modules\module_search.php* Changed the _setup db connection code_
 
