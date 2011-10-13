@@ -34,16 +34,16 @@ Factory sql. It's responsability is to give an instance of the right implementat
 Files changed between pivotx_vanilla_xxx and pivotx_sqlite_xxx.
 ==== modules\entries_sql.php ====
 Changed from:
-<code language="php">
+{{{
 require_once(dirname(__FILE__)."/module_sql.php");
-</code>
+}}}
 to:
-<code language="php">
+{{{
 require_once(dirname(__FILE__)."/module_sqlFactory.php");
-</code>
+}}}
 
 Replaced all occurrences of:
-<code language="php">
+{{{
 // Set up DB connection
         $this->sql = new sql('mysql',
             $PIVOTX['config']->get('db_databasename'),
@@ -51,9 +51,9 @@ Replaced all occurrences of:
             $PIVOTX['config']->get('db_username'),
             $PIVOTX['config']->get('db_password')
         );
-</code>
+}}}
 with:
-<code language="php">
+{{{
 // Set up DB factory
         $this->sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
                                            $PIVOTX['config']->get('db_databasename'),
@@ -63,20 +63,20 @@ with:
         );
 // Set up DB connection
         $this->sql = $this->sqlFactory->getSqlInstance();
-</code>
+}}}
 
 Replaced hard coded sql query:
-<code language="php">
+{{{
 $this->sql->query("SHOW TABLES LIKE '" . $PIVOTX['config']->get('db_prefix') . "%'");
 $tables = $this->sql->fetch_all_rows('no_names');
-</code>
+}}}
 with:
-<code language="php">
+{{{
 $tables = $this->sql->getTableList($PIVOTX['config']->get('db_prefix'));
-</code>
+}}}
 
 Replaced:
-<code language="php">
+{{{
 makeEntriesTable($this->sql);
 ...
 makeCommentsTable($this->sql);
@@ -92,9 +92,9 @@ makePagesTable($this->sql);
 makeChaptersTable($this->sql);
 ...
 makeExtrafieldsTable($this->sql);
-</code>
+}}}
 with:
-<code language="php">
+{{{
 $this->sql->makeEntriesTable();
 ...
 $this->sql->makeCommentsTable();
@@ -110,7 +110,7 @@ $this->sql->makePagesTable();
 $this->sql->makeChaptersTable();
 ...
 $this->sql->makeExtrafieldsTable();
-</code>
+}}}
 
 
 == Summary of changes ==
