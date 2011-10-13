@@ -10,7 +10,40 @@
   * *pivotx_sqlite_xxx:* Latest version of pivotx-sqlite
   * *pivotx_sqlite_yyy:* Work-in-progress version o pivotx-sqlite
 
-== Implementing sqlite support ==
+== Summary of changes ==
+*modules\module_sql.php* replaced by _modules\module_mysql.php_ + _modules\module_sqlite.php_ + _modules\module_sqlFactory.php_
+
+*modules\abstractSql.php* New file. Replaces some parts of _modules\module_sql.php_ and describes some others extracted from _data.php_.
+
+*modules\module_mysql.php* New file. It's the concrete MySQL implementation of _abstractSql.php_.
+
+*modules\module_sqlite.php* New file. It's the concrete Sqlite implementation of _abstractSql.php_.
+
+*modules\module_sqlFactory.php* New file. It's a factory sql.
+
+*modules\entries_sql.php* Changed the _setup db connection code_, removed hard coded SQL query, refactored all _make<`*`>Table_ calls to _$this->sql->make<`*`>Table_, changed a snippet of function getArchiveArray `[`and probably introduced a bug`]`, some code cleanup
+
+*modules\module_comments.php* Slightly modified a SQL query
+
+*modules\module_messages.php* Changed the _setup db connection code_
+
+*modules\module_search.php* Changed the _setup db connection code_
+
+*modules\module_tags.php* Changed the _setup db connection code_
+
+*modules\pages_sql.php* Changed the _setup db connection code_
+
+*convertentries2sql.phps* Changed the _setup db connection code_
+
+*data.php* Moved all _make<`*`>Table_ functions to _modules\module_mysql_ and implemented them in _modules\module_sqlite.php_
+
+*forms.php* Added sqlite to configuration options, modified some comments
+
+*lib.php* Code cleanup, changed the signature of function setError to make it DB technology indipendent
+
+*objects.php* Changed the _setup db connection code_
+
+== Detail of changes ==
 === Files deprecated from pivotx_vanilla_xxx ===
 These files (and their content) has been replaced by other files and are not yet needed. So they're been deleted and do not exists on pivotx-sqlite.
 
@@ -33,16 +66,16 @@ Factory sql. It's responsability is to give an instance of the right implementat
 === Files changed ===
 Files changed between pivotx_vanilla_xxx and pivotx_sqlite_xxx.
 ==== modules\entries_sql.php ====
-Changed from:
+Changed from
 {{{
 require_once(dirname(__FILE__)."/module_sql.php");
 }}}
-to:
+to
 {{{
 require_once(dirname(__FILE__)."/module_sqlFactory.php");
 }}}
 
-Replaced all occurrences of:
+Replaced all occurrences of
 {{{
 // Set up DB connection
         $this->sql = new sql('mysql',
@@ -52,7 +85,7 @@ Replaced all occurrences of:
             $PIVOTX['config']->get('db_password')
         );
 }}}
-with:
+with
 {{{
 // Set up DB factory
         $this->sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
@@ -65,17 +98,17 @@ with:
         $this->sql = $this->sqlFactory->getSqlInstance();
 }}}
 
-Replaced hard coded sql query:
+Replaced hard coded sql query
 {{{
 $this->sql->query("SHOW TABLES LIKE '" . $PIVOTX['config']->get('db_prefix') . "%'");
 $tables = $this->sql->fetch_all_rows('no_names');
 }}}
-with:
+with
 {{{
 $tables = $this->sql->getTableList($PIVOTX['config']->get('db_prefix'));
 }}}
 
-Replaced:
+Replaced
 {{{
 makeEntriesTable($this->sql);
 ...
@@ -93,7 +126,7 @@ makeChaptersTable($this->sql);
 ...
 makeExtrafieldsTable($this->sql);
 }}}
-with:
+with
 {{{
 $this->sql->makeEntriesTable();
 ...
@@ -112,14 +145,469 @@ $this->sql->makeChaptersTable();
 $this->sql->makeExtrafieldsTable();
 }}}
 
+Deleted this where on a query on trackback table, because the column 'moderate' doesn't exists
+{{{
+//        $qry['where'][] = "tb.moderate = 0";
+}}}
 
-== Summary of changes ==
-*modules\module_sql.php* replaced by _modules\module_mysql.php_ + _modules\module_sqlite.php_ + _modules\module_sqlFactory.php_
+Changed word mysql to sql in some comments, from
+{{{
+* Saves the current entry - mysql implementation.
+}}}
+to
+{{{
+* Saves the current entry - sql implementation.
+}}}
 
-*modules\abstractSql.php* replaces some parts of _modules\module_sql.php_ and describes some others extracted from _data.php_.
+Changed a snippet of function getArchiveArray, *I know they don't make the same thing, but by the moment I would accept this bug*
+{{{
+if ($unit=="month" || $unit=="year") {
+                $datelength = 7;
+            } else {
+                $datelength = 10;
+            }
+            
+            // Select all dates of entries in this weblog..
+            $this->sql->query("SELECT DISTINCT(LEFT(date, $datelength)) AS date
+}}}
+to
+{{{
+$this->sql->query("SELECT DISTINCT(date) AS date
+}}}
 
-*modules\module_mysql.php* is the concrete MySQL implementation of _abstractSql.php_.
+==== modules\module_comments.php ====
+In getModerationQueue()
+{{{
+ORDER BY date DESC;"
+}}}
+replaced by
+{{{
+ORDER BY co.date DESC;
+}}}
 
-*modules\module_sqlite.php* is the concrete Sqlite implementation of _abstractSql.php_.
+==== modules\module_messages.php ====
+From
+{{{
+$db1 = new sql('mysql', $PIVOTX['config']->get('db_databasename'), $PIVOTX['config']->get('db_hostname'),
+                $PIVOTX['config']->get('db_username'), $PIVOTX['config']->get('db_password') );
+$db2 = new sql('mysql', $PIVOTX['config']->get('db_databasename'), $PIVOTX['config']->get('db_hostname'),
+                $PIVOTX['config']->get('db_username'), $PIVOTX['config']->get('db_password') );
+}}}
+to
+{{{
+// Set up first DB factory
+$sqlFactory1 = new sqlFactory($PIVOTX['config']->get('db_model'),
+			      $PIVOTX['config']->get('db_databasename'),
+            		      $PIVOTX['config']->get('db_hostname'),
+            		      $PIVOTX['config']->get('db_username'),
+            		      $PIVOTX['config']->get('db_password')
+        		     );
+// Set up first DB connection
+$db1 = $sqlFactory1->getSqlInstance();
 
-*modules\module_sqlFactory.php* new file. It's a factory sql.
+// Set up second DB factory
+$sqlFactory2 = new sqlFactory($PIVOTX['config']->get('db_model'),
+          	              $PIVOTX['config']->get('db_databasename'),
+            		      $PIVOTX['config']->get('db_hostname'),
+            		      $PIVOTX['config']->get('db_username'),
+            		      $PIVOTX['config']->get('db_password')
+        		     );
+// Set up second DB connection
+$db2 = $sqlFactory2->getSqlInstance();
+}}}
+*I really should rewrite sqlFactory in order to make a new sql instance on every getSqlInsance call. By the moment I must instance a new factory for every sql object I need... not really a great factory* :(
+
+==== modules\module_search.php ====
+Changed
+{{{
+// Set up DB connection
+$database = new sql('mysql',
+    $PIVOTX['config']->get('db_databasename'),
+    $PIVOTX['config']->get('db_hostname'),
+    $PIVOTX['config']->get('db_username'),
+    $PIVOTX['config']->get('db_password')
+);
+}}}
+to
+{{{
+// Set up DB factory
+$sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+			     $PIVOTX['config']->get('db_databasename'),
+        		     $PIVOTX['config']->get('db_hostname'),
+        		     $PIVOTX['config']->get('db_username'),
+        		     $PIVOTX['config']->get('db_password')
+                            );
+// Set up DB connection
+$database = $sqlFactory->getSqlInstance();
+}}}
+
+==== modules\module_tags.php ====
+Changed all occurrences of `new sql('mysql',...`
+
+First
+{{{
+// Get a DB connection..
+$database = new sql('mysql',
+        $PIVOTX['config']->get('db_databasename'),
+        $PIVOTX['config']->get('db_hostname'),
+        $PIVOTX['config']->get('db_username'),
+        $PIVOTX['config']->get('db_password')
+    );
+}}}
+to
+{{{
+// Set up DB factory
+$sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+                             $PIVOTX['config']->get('db_databasename'),
+        		     $PIVOTX['config']->get('db_hostname'),
+        		     $PIVOTX['config']->get('db_username'),
+        		     $PIVOTX['config']->get('db_password')
+    			    );
+// Set up DB connection
+$database = $sqlFactory->getSqlInstance();
+}}}
+
+Second
+{{{
+// Get a DB connection..
+$sql = new sql('mysql',
+        $PIVOTX['config']->get('db_databasename'),
+        $PIVOTX['config']->get('db_hostname'),
+        $PIVOTX['config']->get('db_username'),
+        $PIVOTX['config']->get('db_password')
+    );
+}}}
+to
+{{{
+// Set up DB factory
+$sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+                             $PIVOTX['config']->get('db_databasename'),
+                             $PIVOTX['config']->get('db_hostname'),
+                             $PIVOTX['config']->get('db_username'),
+                             $PIVOTX['config']->get('db_password')
+			    );
+// Set up DB connection
+$sql = $sqlFactory->getSqlInstance();
+}}}
+
+Third
+{{{
+// Get a DB connection..
+$sql = new sql('mysql',
+        $PIVOTX['config']->get('db_databasename'),
+        $PIVOTX['config']->get('db_hostname'),
+        $PIVOTX['config']->get('db_username'),
+        $PIVOTX['config']->get('db_password')
+    );        
+}}}
+to
+{{{
+// Set up DB factory
+$sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+                             $PIVOTX['config']->get('db_databasename'),
+                             $PIVOTX['config']->get('db_hostname'),
+                             $PIVOTX['config']->get('db_username'),
+                             $PIVOTX['config']->get('db_password')
+			    );
+// Set up DB connection
+$sql = $sqlFactory->getSqlInstance();    
+}}}
+
+==== modules\pages_sql.php ====
+Replaced
+{{{
+require_once(dirname(__FILE__)."/module_sql.php");
+}}}
+with
+{{{
+require_once(dirname(__FILE__)."/module_sqlFactory.php");
+}}}
+
+From
+{{{
+// Set up DB connection
+$this->sql = new sql(
+        'mysql',
+        $PIVOTX['config']->get('db_databasename'),
+        $PIVOTX['config']->get('db_hostname'),
+        $PIVOTX['config']->get('db_username'),
+        $PIVOTX['config']->get('db_password')
+    );
+}}}
+to
+{{{
+// Set up DB factory
+$this->sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+                                   $PIVOTX['config']->get('db_databasename'),
+                                   $PIVOTX['config']->get('db_hostname'),
+                                   $PIVOTX['config']->get('db_username'),
+                                   $PIVOTX['config']->get('db_password')
+			          );
+// Set up DB connection
+$this->sql = $this->sqlFactory->getSqlInstance();
+}}}
+
+==== convertentries2sql.phps ====
+{{{
+$sql = new sql('mysql',
+          $PIVOTX['config']->get('db_databasename'),
+          $PIVOTX['config']->get('db_hostname'),
+          $PIVOTX['config']->get('db_username'),
+          $PIVOTX['config']->get('db_password')
+      );
+}}}
+to
+{{{
+// Set up DB factory
+$sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+                             $PIVOTX['config']->get('db_databasename'),
+                             $PIVOTX['config']->get('db_hostname'),
+                             $PIVOTX['config']->get('db_username'),
+                             $PIVOTX['config']->get('db_password')
+                            );
+// Set up DB connection
+$sql = $sqlFactory->getSqlInstance();
+}}}
+
+==== data.php ====
+Moved these functions:
+  * makePagesTable
+  * makeChaptersTable
+  * makeEntriesTable
+  * makeExtrafieldsTable
+  * makeCommentsTable
+  * makeTrackbacksTable
+  * makeTagsTable
+  * makeCategoriesTable
+to _modules\module_mysql_ and implemented them in _modules\module_sqlite.php_
+
+==== forms.php ====
+Added sqlite to configuration options, changing
+{{{
+// If we know the server supports MySQL, we allow the user to select it as DB model
+if (function_exists('mysql_get_client_info')) {
+    $mysqlversion = mysql_get_client_info();
+    if ($mysqlversion > $minrequiredmysql) {
+
+        $form->add(array(
+            'type' => 'hr'
+        ));
+
+        $form->add(array(
+            'type' => 'info',
+            'text' => wordwrap(__("PivotX detected that your webserver supports MySQL databases.") ." " .
+                __("If you have a MySQL user and database, specify them below.") . " " .
+                __("If you do not have these, either ask your hosting provider or select the 'Flat Files' model."),
+                80, "<br />\n")
+        ));
+
+        $form->add( array(
+            'type' => 'select',
+            'name' => 'db_model',
+            'label' => __('Database Model'),
+            'value' => 'mysql',
+            'error' => __('Error'),
+            'firstoption' => __('Select'),
+            'options' => array(
+               'flat' => __("Flat Files"),
+               'mysql' => "MySQL",
+               //'sqlite' => "SQLite",
+               //'postgresql' => "PostgreSQL"
+               ),
+            'isrequired' => 1,
+            'validation' => 'any',
+            'text' => makeJtip(__('Database Model'), __('Select which type of Database to use. Flat Files will work on almost every platform. If your server is capable of using databases, the performance of PivotX will be best if you use MySQL or SQLite.'))
+        ));
+
+...
+...
+...
+
+        $('#db_prefix').attr('readonly', '').removeClass('dim');
+                        } else {
+
+...
+...
+...
+}}}
+into
+{{{
+$options = array('flat' => __("Flat Files"));
+
+$supportedDB = array();
+// If we know the server supports MySQL, we allow the user to select it as DB model
+if (function_exists('mysql_get_client_info')) {
+    $mysqlversion = mysql_get_client_info();
+    if ($mysqlversion > $minrequiredmysql) {
+			    $supportedDB['mysql'] = true;
+			    $options['mysql'] = "MySQL";
+		}
+}
+
+if (function_exists('sqlite_libversion')) {
+    $sqlitelibversion = sqlite_libversion();
+    $supportedDB['sqlite'] = true;
+    $options['sqlite'] = "SQLite";
+}
+
+//'postgresql' => "PostgreSQL"
+
+// If we know the server supports MySQL, we allow the user to select it as DB model
+if (sizeof($supportedDB)) {
+
+      $form->add(array(
+          'type' => 'hr'
+      ));
+
+      $form->add(array(
+          'type' => 'info',
+          'text' => wordwrap(__("PivotX detected a supported database.") ." " .
+              __("You have to specify database connection properties to fileds below.") . " " .
+              __("If you do not have these, either ask your hosting provider or select the 'Flat Files' model."),
+              80, "<br />\n")
+      ));
+
+      $form->add( array(
+          'type' => 'select',
+          'name' => 'db_model',
+          'label' => __('Database Model'),
+          'value' => 'mysql',
+          'error' => __('Error'),
+          'firstoption' => __('Select'),
+          'options' => $options,
+          'isrequired' => 1,
+          'validation' => 'any',
+          'text' => makeJtip(__('Database Model'), __('Select which type of Database to use. Flat Files will work on almost every platform. If your server is capable of using databases, the performance of PivotX will be best if you use MySQL or SQLite.'))
+      ));
+
+...
+...
+...
+
+      $('#db_prefix').attr('readonly', '').removeClass('dim');
+                      } else 
+                      if ( $('#db_model').val() == 'sqlite') {
+                          $('#db_username').attr('readonly', 'readonly').addClass('dim');
+                          $('#db_password').attr('readonly', 'readonly').addClass('dim');
+                          $('#db_databasename').attr('readonly', '').removeClass('dim');
+                          $('#db_hostname').attr('readonly', 'readonly').addClass('dim');
+                          $('#db_prefix').attr('readonly', '').removeClass('dim');
+                      } else 
+                      {
+
+...
+...
+...
+}
+}}}
+
+In getConfigForm2
+{{{
+       //'sqlite' => "SQLite",
+}}}
+to
+{{{
+       'sqlite' => "SQLite",
+}}}
+
+
+Modified some comments
+{{{
+// Add a bit of javascript to disable the form-fields for MySQL stuff,
+// When the user selects flat files.
+}}}
+to
+{{{
+// Add a bit of javascript to disable the form-fields for DB stuff,
+// when the user selects flat files.
+}}}
+
+==== lib.php ====
+Commented (I don't remember why I removed it... :()
+{{{
+//$minrequiredmysql = "4.1";
+}}}
+
+Commented 
+{{{
+//require_once($pivotx_path.'modules/module_sql.php');
+}}}
+
+Modified the signature of function setError to make it DB technology indipendent
+{{{
+function setError($type='general', $error_msg, $sql_query="") {
+}}}
+{{{
+function setError($type='general', $error_msg, $sql_query="", $error_no="") {
+}}}
+and changed the body accordingly
+{{{
+...
+$error_no = mysql_errno();
+$error_text = mysql_error();
+
+// If the given error is the same as the error we get from mySQL,
+// we don't need to print 'em both:
+if ($error_msg == $error_text) {
+    $error_msg = "";
+} else {
+    $error_msg = "<p><strong>$error_msg</strong></p>";
+}
+
+$error = sprintf(__("<p>There was a problem with the Database: </p>
+%s
+<p><tt>error code %s: %s</tt></p>
+</p>
+<ul><li>If you're in the process of setting up PivotX, you should review your
+<a href='%s'>Database connection settings</a>.</li>
+<li>If it worked before, you should check if the Mysql database engine is
+still running on the server (or ask your systems administrator to check for you).</li>
+</ol>"),
+    $error_msg,
+    $error_no,
+    $error_text,
+    "index.php?page=configuration#section-2"
+);
+...
+}}}
+
+{{{
+...
+$error = sprintf(__("<p>There was a problem with the Database.</p>
+<p><tt>error code %s: %s</tt></p>
+<p><tt>query: %s</tt></p>
+</p>
+<ul><li>If you're in the process of setting up PivotX, you should review your
+<a href='%s'>Database connection settings</a>.</li>
+<li>If it worked before, you should check if the Mysql database engine is
+still running on the server (or ask your systems administrator to check for you).</li>
+</ol>"),
+    $error_no,
+    $error_msg,
+    $sql_query,
+    "index.php?page=configuration#section-2"
+);
+...
+}}}
+
+==== objects.php ====
+From
+{{{
+// Get the amount from our SQL db..
+$sql = new Sql('mysql', $PIVOTX['config']->get('db_databasename'), $PIVOTX['config']->get('db_hostname'),
+$PIVOTX['config']->get('db_username'), $PIVOTX['config']->get('db_password'));
+}}}
+to
+{{{
+require_once(dirname(__FILE__)."/modules/module_sqlFactory.php");
+								
+// Set up DB factory
+$sqlFactory = new sqlFactory($PIVOTX['config']->get('db_model'),
+    			     $PIVOTX['config']->get('db_databasename'),
+    			     $PIVOTX['config']->get('db_hostname'),
+    			     $PIVOTX['config']->get('db_username'),
+    			     $PIVOTX['config']->get('db_password')
+                            );
+// Set up DB connection
+$sql = $sqlFactory->getSqlInstance();
+}}}
