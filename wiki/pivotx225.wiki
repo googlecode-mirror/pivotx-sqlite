@@ -38,9 +38,9 @@
 
 *data.php* Moved checkDBVersion and all _make<`*`>Table_ functions to _modules\module_mysql_ and implemented them in _modules\module_sqlite.php_
 
-*forms.php* Added sqlite to configuration options, modified some comments
+*forms.php* Added sqlite to configuration options, modified some comments.
 
-*lib.php* Code cleanup, ~~changed the signature of function setError to make it DB technology indipendent~~ Actually I forgot to make this :(
+*lib.php* Code cleanup, changed the signature of function setError to make it DB technology indipendent.
 
 *objects.php* Changed the _setup db connection code_, code cleanup
 
@@ -546,8 +546,63 @@ $sql = $sqlFactory->getSqlInstance();
 $sql->checkDBVersion();
 }}}
 
-*I forgot to apply this (it was present in 2.0-svn2185)* issue 1
-~~Modified the signature of function setError to make it DB technology indipendent~~
+~~I forgot to apply this (it was present in 2.0-svn2185)~~ issue 1
+Modified the signature of function setError to make it DB technology indipendent
+{{{
+function setError($type='general', $error_msg, $sql_query="") {
+}}}
+{{{
+function setError($type='general', $error_msg, $sql_query="", $error_no="") {
+}}}
+and changed the body accordingly
+{{{
+...
+$error_no = mysql_errno();
+$error_text = mysql_error();
+
+// If the given error is the same as the error we get from mySQL,
+// we don't need to print 'em both:
+if ($error_msg == $error_text) {
+    $error_msg = "";
+} else {
+    $error_msg = "<p><strong>$error_msg</strong></p>";
+}
+
+$error = sprintf(__("<p>There was a problem with the Database: </p>
+%s
+<p><tt>error code %s: %s</tt></p>
+</p>
+<ul><li>If you're in the process of setting up PivotX, you should review your
+<a href='%s'>Database connection settings</a>.</li>
+<li>If it worked before, you should check if the Mysql database engine is
+still running on the server (or ask your systems administrator to check for you).</li>
+</ol>"),
+    $error_msg,
+    $error_no,
+    $error_text,
+    "index.php?page=configuration#section-2"
+);
+...
+}}}
+
+{{{
+...
+$error = sprintf(__("<p>There was a problem with the Database.</p>
+<p><tt>error code %s: %s</tt></p>
+<p><tt>query: %s</tt></p>
+</p>
+<ul><li>If you're in the process of setting up PivotX, you should review your
+<a href='%s'>Database connection settings</a>.</li>
+<li>If it worked before, you should check if the Mysql database engine is
+still running on the server (or ask your systems administrator to check for you).</li>
+</ol>"),
+    $error_no,
+    $error_msg,
+    $sql_query,
+    "index.php?page=configuration#section-2"
+);
+...
+}}}
 
 ==== objects.php ====
 From
