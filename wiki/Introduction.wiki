@@ -4,11 +4,11 @@
 = Introduction =
 
 I love pivotx... it's pretty fast, simple and modular. It's template system is easy to understand and it has a smooth learning curve. 
-And over all this, it's GPLed and it's free both as in free speech/beer :P
+Over all this, it's GPLed and free both as in free speech as in free beer :P
 
-Pivotx also as a great support for MySQL and a good support for small 'flat-files' based blog, but unluckily it lack SQLite support. 
+Pivotx also as a great support for MySQL and a good support for small 'flat-files' based blogs, but unluckily it lack SQLite support. 
 
-In this fork I'm exploring a way to *add SQLite to Pivotx*, trying to keep the amount of changes as small as possible. I'm also trying to not destroy compatibility versus MySQL, even if some parts of original code are really eavily tied... so *don't expect this fork to work flawlessy with MySQL*.
+In this fork I'm exploring a way to *add SQLite to Pivotx*, trying to keep the amount of changes as small as possible. I'm also trying to not destroy compatibility versus MySQL, even if some parts of original code are really heavily tied... so *don't expect this fork to work flawlessy with MySQL*.
 
 ----
 
