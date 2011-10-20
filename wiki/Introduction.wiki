@@ -15,7 +15,7 @@ In this fork I'm exploring a way to *add SQLite to Pivotx*, trying to keep the a
 === Important disclaimers ===
 *Important disclaimer number 1:
 
-I like Pivotx project, and I don't want steal them any user. 
+I like Pivotx project, and I don't want steal it any user. 
 If you're happy with your Pivotx setup, if you don't need SQLite support, please, PLEASE use the [http://www.pivotx.net/ original Pivotx codebase].
 Belive me... It rocks. 
 But, if you need SQLite support and you're brave enought, you could try downloading and installing Pivotx-sqlite.*
