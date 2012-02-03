@@ -63,6 +63,39 @@ class sqlFactory {
 			return $this->slqInstance;
 		}
     
+    /**
+     * If an error has occured, we print a message. If 'halt_on_sql_error' is
+     * set, we die(), else we continue.
+     *
+     * @param string $error_msg
+     *
+     */
+    function error( $error_msg="")  {
+        global $cfg;
+
+        $error_date = date("F j, Y, g:i a");
+
+        $error_page = "<div style='border: 1px solid #AAA; padding: 4px; background-color: #EEE; font-family: Consolas, Courier, \"Courier New\", monospace; font-size: 80%;'><strong>SQLFactory Error</strong>".
+            "\n\nThere appears to be an error while trying to complete your request.\n\n".
+            "<strong>Query: </strong>      ".htmlentities($sql_query)."\n".
+            "<strong>SQL error:</strong> ".htmlentities($error_msg)."\n".
+            "<strong>Error code:</strong>  {$error_no}\n".
+            "<strong>Date:</strong>        {$error_date}\n</div>\n";
+
+        echo(nl2br($error_page));
+
+        if (function_exists('debug_printbacktrace')) {
+            // call debug_printbacktrace if it's available..
+            debug_printbacktrace();
+        }
+
+        if ($this->halt_on_sql_error == true ) {
+            die();
+        }
+
+    }
+
+
 }
 
 
