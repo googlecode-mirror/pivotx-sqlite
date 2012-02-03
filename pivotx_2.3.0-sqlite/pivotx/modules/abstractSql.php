@@ -116,7 +116,7 @@ abstract class abstractSql {
 
             $error_date = date("F j, Y, g:i a");
 
-            $error_page = "<div style='border: 1px solid #AAA; padding: 4px; background-color: #EEE; font-family: Consolas, Courier, \"Courier New\", monospace; font-size: 80%;'><strong>mySQL Error</strong>".
+            $error_page = "<div style='border: 1px solid #AAA; padding: 4px; background-color: #EEE; font-family: Consolas, Courier, \"Courier New\", monospace; font-size: 80%;'><strong>SQL Error</strong>".
             "\n\nThere appears to be an error while trying to complete your request.\n\n".
             "<strong>Query: </strong>      ".htmlentities($sql_query)."\n".
             "<strong>SQL error:</strong> ".htmlentities($error_msg)."\n".
