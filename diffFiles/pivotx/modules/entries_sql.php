@@ -1167,7 +1167,10 @@ class EntriesSql {
 //[JAN]
 // Avevo aggiunto anche questo... ma forse ora è superfluo per cui per ora lo lascio commentato
 // Se nella prossima versione sarà ancora commentato, rimuovilo...
-//						, 'extrafields' => $this->entry['extrafields']
+// L'ho scommentato perché in makeEntryTable (in data.php in pivotx.vanilla e in module_sqlite/module_mysql in pivotx-sqlite) che ancora il campo:
+// `extrafields` text collate utf8_unicode_ci NOT NULL,
+// dentro la create table... Essendo not null... un valore lo devo mettere...
+						, 'extrafields' => $this->entry['extrafields']
 //[/JAN]
         );
 
