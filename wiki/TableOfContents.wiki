@@ -2,7 +2,9 @@
 [http://code.google.com/p/pivotx-sqlite/ Project home]
 
   * Documentation
-    * [pivotx20svn2185 pivotx_2.0-svn2185] (Deprecated release)
-    * [pivotx225 pivotx_2.2.5]
-    * [pivotx230 pivotx_2.3.0] (Deprecated release)
     * [pivotx230 pivotx_2.3.1]
+    * [pivotx225 pivotx_2.2.5]
+
+  * Documentation of past (unmaintained) releases    
+    * [pivotx230 pivotx_2.3.0]
+    * [pivotx20svn2185 pivotx_2.0-svn2185]
