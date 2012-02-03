@@ -407,6 +407,14 @@ class PagesSql {
             'status' => $page['status'],
             'keywords' => $page['keywords'],
             'template' => $page['template']
+//[JAN]
+// Avevo aggiunto anche questo... ma ora Ã¨ certamente superfluo e andrebbe rimosso anche dalla creazione delle tabelle !!!!
+// Se nella prossima versione sarà ancora commentato, rimuovilo...
+// L'ho scommentato perché in makeEntryTable (in data.php in pivotx.vanilla e in module_sqlite/module_mysql in pivotx-sqlite) che ancora il campo:
+// `extrafields` text collate utf8_unicode_ci NOT NULL,
+// dentro la create table... Essendo not null... un valore lo devo mettere...
+						, 'extrafields' => ''
+//[/JAN]
         );
 
 
