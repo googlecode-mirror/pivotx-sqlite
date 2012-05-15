@@ -20,9 +20,9 @@
 
 DEFINE('INPIVOTX', TRUE);
 
-$version = "2.3.1";
+$version = "2.3.2";
 $codename = "";
-$svnrevision = '$Rev: 3895 $';
+$svnrevision = '$Rev: 4100 $';
 
 $minrequiredphp = "5.2.0";
 $minrequiredmysql = "4.1";
@@ -503,21 +503,6 @@ function setError($type='general', $error_msg, $sql_query="", $error_no="") {
 					  <li>If it worked before, you should check if the Mysql database engine is
 					  still running on the server (or ask your systems administrator to check for you).</li>
 					  </ol>"),
-                $error_no,
-                $error_msg,
-                $sql_query,
-                "index.php?page=configuration#section-2"
-            );
-
-            $error = sprintf(__("<p>There was a problem with the Database.</p>
-            <p><tt>error code %s: %s</tt></p>
-					  <p><tt>query: %s</tt></p>
-            </p>
-            <ul><li>If you're in the process of setting up PivotX, you should review your
-            <a href='%s'>Database connection settings</a>.</li>
-            <li>If it worked before, you should check if the Mysql database engine is
-            still running on the server (or ask your systems administrator to check for you).</li>
-            </ol>"),
                 $error_no,
                 $error_msg,
                 $sql_query,
