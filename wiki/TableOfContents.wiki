@@ -3,10 +3,10 @@
 
   * Documentation
     * [pivotx233 pivotx_2.3.3]
-    * [pivotx225 pivotx_2.2.5]
 
   * Documentation of past (unmaintained) releases    
     * [pivotx232 pivotx_2.3.2]
     * [pivotx231 pivotx_2.3.1]
     * [pivotx230 pivotx_2.3.0]
+    * [pivotx225 pivotx_2.2.5]
     * [pivotx20svn2185 pivotx_2.0-svn2185]
