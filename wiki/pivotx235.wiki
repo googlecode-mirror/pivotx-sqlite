@@ -1,6 +1,6 @@
-#summary Pivotx-sqlite on codebase version 2.3.4
+#summary Pivotx-sqlite on codebase version 2.3.5
 
-= pivotx_2.3.4-sqlite =
+= pivotx_2.3.5-sqlite =
 
 == Definitions ==
   * *pivotx:* Original Pivotx project
